@@ -1,0 +1,9 @@
+Original Sentence: 
+For most field workers it 's about time
+Additional Information: 
+('field', 'OF', 'corn')
+('field', 'green')
+('worker', 'WEARING', 'vest')
+('worker', 'construction')
+('time', 'ON', 'phone')
+('time', 'displayed')

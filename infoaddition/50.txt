@@ -1,0 +1,8 @@
+Original Sentence: 
+The secretary is the world 's biggest borrower of money
+Additional Information: 
+('book', 'ON', 'secretary')
+('secretary', 'wood')
+('world', 'ON', 'cover')
+('money', 'ON', 'table')
+('money', 'paper')

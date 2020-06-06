@@ -1,0 +1,4 @@
+Original Sentence: 
+Creation of a new realistic U.S. policy is long overdue
+Additional Information: 
+('creation', 'made', 'snow')

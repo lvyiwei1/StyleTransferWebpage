@@ -1,0 +1,8 @@
+Original Sentence: 
+Aldus Seattle makes computer software products
+Additional Information: 
+('computer', 'sitting on', 'desk')
+('computer', 'laptop')
+('software', 'blue')
+('product', 'IN', 'box')
+('product', 'bathroom')

@@ -1,0 +1,10 @@
+Original Sentence: 
+Some exchange wags call the building the oil rig
+Additional Information: 
+('two women', 'make', 'exchange')
+('building', 'of a', 'building')
+('building', 'white')
+('oil', 'written on side of', 'wall')
+('oil', 'hot')
+('rig', 'ON', 'ground')
+('rig', 'big')

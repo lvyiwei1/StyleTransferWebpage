@@ -1,0 +1,7 @@
+Original Sentence: 
+All other countries registered support below 50 %
+Additional Information: 
+('country', 'ON', 'skateboard')
+('country', 'foreign')
+('support', 'OF', 'bench')
+('support', 'metal')

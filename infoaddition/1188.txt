@@ -1,0 +1,4 @@
+Original Sentence: 
+The companion tax-exempt funds add 71 billion
+Additional Information: 
+('companion', 'walking', 'beach')

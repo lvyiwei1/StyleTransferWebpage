@@ -1,0 +1,7 @@
+Original Sentence: 
+His appointment expands the board to 13 members
+Additional Information: 
+('board', 'ON', 'sidewalk')
+('board', 'white')
+('member', 'watching', 'game')
+('member', 'several')

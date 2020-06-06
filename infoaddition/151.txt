@@ -1,0 +1,6 @@
+Original Sentence: 
+Treasury prices ended mixed in light trading
+Additional Information: 
+('price', 'OF', 'fruit')
+('price', 'written')
+('red t', 'IN', 'trading')

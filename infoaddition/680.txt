@@ -1,0 +1,9 @@
+Original Sentence: 
+What market makers provide is immediacy a very valuable service
+Additional Information: 
+('market', 'has', 'entrance')
+('market', 'outdoor')
+('maker', 'for', 'coffee')
+('maker', 'coffee')
+('service', 'ON', 'sign')
+('service', 'gone')

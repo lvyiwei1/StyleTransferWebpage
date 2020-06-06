@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Warren pronounces the Litchfield case your typical demonic infestation
+Additional Information: 
+('case', 'and', 'roller')
+('case', 'black')

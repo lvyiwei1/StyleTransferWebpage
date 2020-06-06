@@ -1,0 +1,8 @@
+Original Sentence: 
+The machine employs reduced instruction-set computing or RISC technology
+Additional Information: 
+('machine', 'against', 'wall')
+('machine', 'white')
+('sign', 'says', 'computing')
+('technology', 'has', 'dial')
+('technology', 'silver')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Perhaps in time the Supreme Court will correct them
+Additional Information: 
+('time', 'on a', 'clock')
+('time', 'displayed')

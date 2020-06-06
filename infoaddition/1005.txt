@@ -1,0 +1,7 @@
+Original Sentence: 
+The landscape architects were expelled from the garden in July
+Additional Information: 
+('landscape', 'filled with', 'brush')
+('landscape', 'grassy')
+('garden', 'with', 'mulch')
+('garden', 'green')

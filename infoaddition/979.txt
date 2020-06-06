@@ -1,0 +1,8 @@
+Original Sentence: 
+Two election commission members opposed the matching plans
+Additional Information: 
+('member', 'crossing', 'racket')
+('member', 'several')
+('matching', 'bedspreads on', 'beds')
+('plan', 'ON', 'tarmac')
+('plan', 'air')

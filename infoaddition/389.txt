@@ -1,0 +1,6 @@
+Original Sentence: 
+They said the problems are n't safety related
+Additional Information: 
+('plane', 'has', 'problem')
+('safety', 'cone', 'orange')
+('safety', 'orange')

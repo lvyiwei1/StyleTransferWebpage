@@ -1,0 +1,6 @@
+Original Sentence: 
+No such statement appears on the tapes
+Additional Information: 
+('statement', 'credit')
+('tape', 'covering', 'keys')
+('tape', 'yellow')

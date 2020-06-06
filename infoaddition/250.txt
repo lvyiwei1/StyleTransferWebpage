@@ -1,0 +1,4 @@
+Original Sentence: 
+The Winter Games outlook also is mixed
+Additional Information: 
+('outlook', 'ON', 'building')

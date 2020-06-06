@@ -1,0 +1,7 @@
+Original Sentence: 
+Is this the wrong time to open a store
+Additional Information: 
+('time', 'ON', 'scoreboard')
+('time', 'displayed')
+('store', 'OF', 'plushes')
+('store', 'red')

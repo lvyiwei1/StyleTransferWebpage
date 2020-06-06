@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Dozen succeeds Sadakane Doi who will become vice chairman
+Additional Information: 
+('handle', 'ON', 'vice')
+('vice', 'blue')

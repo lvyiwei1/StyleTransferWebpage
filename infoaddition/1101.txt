@@ -1,0 +1,5 @@
+Original Sentence: 
+This has n't been Kellogg Co. 's year
+Additional Information: 
+('year', 'written on', 'sign')
+('year', 'white')

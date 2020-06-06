@@ -1,0 +1,5 @@
+Original Sentence: 
+The rest he is confident can be raised
+Additional Information: 
+('rest', 'ON', 'sign')
+('rest', 'arm')

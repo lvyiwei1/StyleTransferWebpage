@@ -1,0 +1,5 @@
+Original Sentence: 
+And he added that manufactured goods exports are still rising
+Additional Information: 
+('good', 'sold in', 'shop')
+('good', 'baked')

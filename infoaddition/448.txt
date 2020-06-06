@@ -1,0 +1,9 @@
+Original Sentence: 
+No one wants stock on their books
+Additional Information: 
+('one', 'tall giraffes standing', 'up')
+('one', 'white')
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('book', 'ON', 'shelf')
+('book', 'white')

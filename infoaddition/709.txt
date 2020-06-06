@@ -1,0 +1,5 @@
+Original Sentence: 
+Closer to home the negotiators were more generous
+Additional Information: 
+('home', 'has a', 'window')
+('home', 'white')

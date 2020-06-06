@@ -1,0 +1,7 @@
+Original Sentence: 
+In post-earthquake parlance her building is a red
+Additional Information: 
+('building', 'beside', 'road')
+('building', 'white')
+('red', 'traffic', 'light')
+('red', 'red')

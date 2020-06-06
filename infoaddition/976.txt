@@ -1,0 +1,5 @@
+Original Sentence: 
+There are better ways to promote a cause
+Additional Information: 
+('way', 'scrapped on', 'bus')
+('way', 'walk')

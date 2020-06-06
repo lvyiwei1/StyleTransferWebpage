@@ -1,0 +1,7 @@
+Original Sentence: 
+This interest in words goes beyond puns and playfulness however
+Additional Information: 
+('people', 'showing', 'interest')
+('interest', 'great')
+('word', 'painted on', 'sign')
+('word', 'white')

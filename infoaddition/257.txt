@@ -1,0 +1,5 @@
+Original Sentence: 
+Turnover was 382.9 million shares compared with 449.3 million Wednesday
+Additional Information: 
+('turnover', 'ON', 'paper')
+('turnover', 'apple')

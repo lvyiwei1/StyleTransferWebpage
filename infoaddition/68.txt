@@ -1,0 +1,5 @@
+Original Sentence: 
+Periodically there are threats that the program will fold
+Additional Information: 
+('program', 'On screen', 'laptop computer')
+('program', 'wedding')

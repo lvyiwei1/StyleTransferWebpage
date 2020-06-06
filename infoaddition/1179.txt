@@ -1,0 +1,5 @@
+Original Sentence: 
+It 's not a zero-sum game
+Additional Information: 
+('game', 'ON', 'tv')
+('game', 'baseball')

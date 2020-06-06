@@ -1,0 +1,4 @@
+Original Sentence: 
+London had some problems too
+Additional Information: 
+('plane', 'has', 'problem')

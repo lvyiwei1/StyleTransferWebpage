@@ -1,0 +1,5 @@
+Original Sentence: 
+That 's antithetical to the art of selling
+Additional Information: 
+('art', 'ON', 'wall')
+('art', 'framed')

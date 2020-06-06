@@ -1,0 +1,4 @@
+Original Sentence: 
+Poachers would control the underground trade
+Additional Information: 
+('company name', 'says', 'trade')

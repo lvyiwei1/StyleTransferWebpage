@@ -1,0 +1,7 @@
+Original Sentence: 
+Heating oil prices also rose
+Additional Information: 
+('oil', 'inside of', 'bottle')
+('oil', 'hot')
+('price', 'for', 'peppers')
+('price', 'written')

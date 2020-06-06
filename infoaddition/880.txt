@@ -1,0 +1,5 @@
+Original Sentence: 
+It 's nothing dramatic just a routine sell-off
+Additional Information: 
+('nothing', 'IN', 'sky')
+('nothing', 'clear')

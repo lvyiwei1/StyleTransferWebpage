@@ -1,0 +1,5 @@
+Original Sentence: 
+LDI leases and sells data-processing telecommunications and other high-tech equipment
+Additional Information: 
+('equipment', 'ON', 'table')
+('equipment', 'electronic')

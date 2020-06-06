@@ -1,0 +1,8 @@
+Original Sentence: 
+Stock prices edged up in quiet trading Friday
+Additional Information: 
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('price', 'OF', 'grapes')
+('price', 'written')
+('red t', 'IN', 'trading')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Treasury bonds ended narrowly mixed in quiet trading
+Additional Information: 
+('bond', 'black ')
+('red t', 'IN', 'trading')

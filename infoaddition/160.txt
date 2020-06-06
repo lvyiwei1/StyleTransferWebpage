@@ -1,0 +1,7 @@
+Original Sentence: 
+There is too much complacency says money manager Barry Schrager
+Additional Information: 
+('money', 'hanging out of', 'briefcase')
+('money', 'paper')
+('manager', 'sitting in', 'dugout')
+('manager', 'overlooking action')

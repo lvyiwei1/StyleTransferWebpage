@@ -1,0 +1,7 @@
+Original Sentence: 
+Chicago 's new school chief is the hard-nosed Ted Kimbrough
+Additional Information: 
+('school', 'has', 'clock')
+('school', 'word')
+('spoon', 'next to', 'chief')
+('chief', 'handker')

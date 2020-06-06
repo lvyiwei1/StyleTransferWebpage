@@ -1,0 +1,6 @@
+Original Sentence: 
+This hurts the price of corporate bonds
+Additional Information: 
+('price', 'ON', 'advertisement')
+('price', 'written')
+('bond', 'black ')

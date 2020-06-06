@@ -1,0 +1,7 @@
+Original Sentence: 
+Her son healthy and symptom-free currently takes no medication
+Additional Information: 
+('son', 'written on', 'large truck')
+('son', 'young')
+('medication', 'ON', 'table')
+('medication', 'individual dose')

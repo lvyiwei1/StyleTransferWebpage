@@ -1,0 +1,5 @@
+Original Sentence: 
+Julie Amparano Lopez in Philadelphia also contributed to this article
+Additional Information: 
+('article', 'OF', 'clothing')
+('article', 'newspaper')

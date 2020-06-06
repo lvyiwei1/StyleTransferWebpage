@@ -1,0 +1,5 @@
+Original Sentence: 
+By and large these efforts have borne fruit
+Additional Information: 
+('fruit', 'inside', 'box')
+('fruit', 'orange')

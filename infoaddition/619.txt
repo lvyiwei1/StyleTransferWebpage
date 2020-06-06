@@ -1,0 +1,7 @@
+Original Sentence: 
+Other airline stocks were mixed
+Additional Information: 
+('airline', 'name on side', 'of the fuselage')
+('airline', 'emirates')
+('stock', 'belonging to', 'plant')
+('stock', 'green')

@@ -1,0 +1,7 @@
+Original Sentence: 
+National Environmental formerly Yankee Cos. is a sludge treatment company
+Additional Information: 
+('sludge', 'near', 'boat')
+('treatment', 'wooden')
+('company', 'has', 'name')
+('company', 'name')

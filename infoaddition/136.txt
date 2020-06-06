@@ -1,0 +1,6 @@
+Original Sentence: 
+For the week the index dropped 3.8 %
+Additional Information: 
+('day', 'OF', 'week')
+('index', 'ON', 'helmet')
+('index', 'is a finger')

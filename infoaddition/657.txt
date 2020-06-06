@@ -1,0 +1,6 @@
+Original Sentence: 
+The dollar finished at its intraday highs
+Additional Information: 
+('dollar', 'ON', 'table')
+('dollar', 'twenty')
+('high', 'heel', 'heel')

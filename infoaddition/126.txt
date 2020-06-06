@@ -1,0 +1,7 @@
+Original Sentence: 
+Ashland expects that sale to be complete next year
+Additional Information: 
+('sale', 'ON', 'window')
+('sale', 'red')
+('year', 'ON', 'sign')
+('year', 'white')

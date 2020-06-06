@@ -1,0 +1,7 @@
+Original Sentence: 
+Nothing has changed fundamentally in the Tokyo market
+Additional Information: 
+('nothing', 'IN', 'sky')
+('nothing', 'clear')
+('market', 'has', 'fruit')
+('market', 'outdoor')

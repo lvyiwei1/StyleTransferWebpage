@@ -1,0 +1,5 @@
+Original Sentence: 
+Investment-grade corporate municipal and mortgage-backed securities also fell
+Additional Information: 
+('security', 'over', 'doors')
+('security', 'standing')

@@ -1,0 +1,5 @@
+Original Sentence: 
+People had died
+Additional Information: 
+('people', 'ON', 'grass')
+('people', 'standing')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Shvartzer is a derogatory Yiddish word for a black person
+Additional Information: 
+('word', 'ON', 'bike')
+('word', 'white')
+('person', 'WEARING', 'jacket')
+('person', 'standing')

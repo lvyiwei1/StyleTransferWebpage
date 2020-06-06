@@ -1,0 +1,5 @@
+Original Sentence: 
+ABUSE to our bodies is overwhelming
+Additional Information: 
+('body', 'OF', 'kite')
+('body', 'white')

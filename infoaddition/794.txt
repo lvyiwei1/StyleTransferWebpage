@@ -1,0 +1,8 @@
+Original Sentence: 
+That 's good news for marketers of walking shoes
+Additional Information: 
+('news', 'ON', 'bus')
+('news', 'word')
+('walking', 'ON', 'snow')
+('shoe', 'ON', 'boarder')
+('shoe', 'black')

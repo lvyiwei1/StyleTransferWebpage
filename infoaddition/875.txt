@@ -1,0 +1,7 @@
+Original Sentence: 
+Some found it on the screen of a personal computer
+Additional Information: 
+('screen', 'OF', 'laptop')
+('screen', 'on')
+('computer', 'IN', 'desk')
+('computer', 'laptop')

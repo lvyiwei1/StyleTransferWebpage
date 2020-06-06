@@ -1,0 +1,5 @@
+Original Sentence: 
+The previous deadline to complete the sale was Nov. 30
+Additional Information: 
+('sale', 'ON', 'window')
+('sale', 'red')

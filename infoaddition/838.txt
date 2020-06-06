@@ -1,0 +1,7 @@
+Original Sentence: 
+A two-hour lunch break follows
+Additional Information: 
+('lunch', 'ON', 'plate')
+('lunch', 'healthy')
+('break', 'IN', 'branch')
+('break', 'light brown')

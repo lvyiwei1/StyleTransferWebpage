@@ -1,0 +1,7 @@
+Original Sentence: 
+The liquor industry went metric 10 years ago
+Additional Information: 
+('liquor', 'behind', 'bar')
+('liquor', 'of liqour')
+('year', 'ON', 'photograph')
+('year', 'white')

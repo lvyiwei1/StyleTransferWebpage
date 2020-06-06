@@ -1,0 +1,8 @@
+Original Sentence: 
+The system is the problem not an individual member
+Additional Information: 
+('system', 'under', 'train')
+('system', 'black')
+('plane', 'has', 'problem')
+('member', 'WEARING', 'shirt')
+('member', 'several')

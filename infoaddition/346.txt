@@ -1,0 +1,4 @@
+Original Sentence: 
+Longer term the impact is unclear
+Additional Information: 
+('term', 'house of david')

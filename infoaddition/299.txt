@@ -1,0 +1,6 @@
+Original Sentence: 
+He visits the same department every two or three weeks
+Additional Information: 
+('horse', 'used', 'department')
+('department', 'British police ')
+('day', 'OF', 'week')

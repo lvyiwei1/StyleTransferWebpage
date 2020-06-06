@@ -1,0 +1,5 @@
+Original Sentence: 
+Merrill Lynch ca n't survive without the little guy
+Additional Information: 
+('guy', 'WEARING', 'sneaker')
+('guy', 'standing')

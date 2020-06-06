@@ -1,0 +1,5 @@
+Original Sentence: 
+They 're looking for something that 's very safe
+Additional Information: 
+('something', 'inside', 'container')
+('something', 'red')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Taken together the worries prompted a broad sell-off of stocks
+Additional Information: 
+('stock', 'of', 'stock')
+('stock', 'green')

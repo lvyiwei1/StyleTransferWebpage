@@ -1,0 +1,5 @@
+Original Sentence: 
+I do n't think anyone left the place whistling Dixie
+Additional Information: 
+('place', 'full of', 'snow')
+('place', 'full')

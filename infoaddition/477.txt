@@ -1,0 +1,5 @@
+Original Sentence: 
+December silver was up 2.3 cents an ounce at 5.163
+Additional Information: 
+('silver', 'over', 'building')
+('silver', 'silver')

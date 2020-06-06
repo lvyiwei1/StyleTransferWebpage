@@ -1,0 +1,5 @@
+Original Sentence: 
+Tomorrow the Treasury will sell 10 billion of two-year notes
+Additional Information: 
+('note', 'ON', 'table')
+('note', 'yellow')

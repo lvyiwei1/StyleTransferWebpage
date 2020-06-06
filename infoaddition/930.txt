@@ -1,0 +1,7 @@
+Original Sentence: 
+The chair is a way to package massage
+Additional Information: 
+('chair', 'outside', 'coffee shop')
+('chair', 'wooden')
+('way', 'to', 'house')
+('way', 'walk')

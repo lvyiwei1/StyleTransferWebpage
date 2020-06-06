@@ -1,0 +1,5 @@
+Original Sentence: 
+The current transaction cost the bank approximately 140 million
+Additional Information: 
+('bank', 'has', 'window')
+('bank', 'grassy')

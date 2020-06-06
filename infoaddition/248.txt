@@ -1,0 +1,5 @@
+Original Sentence: 
+I 'm on my own land Mr. Pyszkiewicz says
+Additional Information: 
+('land', 'with', 'dirt')
+('land', 'flat')

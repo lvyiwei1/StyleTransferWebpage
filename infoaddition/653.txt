@@ -1,0 +1,7 @@
+Original Sentence: 
+Sorting out the wreckage is expected to take several days
+Additional Information: 
+('trunks', 'wedge into train', 'wreckage')
+('wreckage', "plane's")
+('day', 'time', 'picture')
+('day', 'sunny')

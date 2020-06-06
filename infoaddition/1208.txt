@@ -1,0 +1,5 @@
+Original Sentence: 
+We were out of the box
+Additional Information: 
+('box', 'OF', 'donuts')
+('box', 'white')

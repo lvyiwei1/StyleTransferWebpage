@@ -1,0 +1,5 @@
+Original Sentence: 
+Monday 's losers included railway electric-utility and high-technology issues
+Additional Information: 
+('railway', 'has an', 'edge')
+('railway', 'red')

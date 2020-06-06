@@ -1,0 +1,5 @@
+Original Sentence: 
+Once he was held for three months without being charged
+Additional Information: 
+('month', 'around', 'face')
+('month', 'ninth')

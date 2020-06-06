@@ -1,0 +1,6 @@
+Original Sentence: 
+In 1987 he became deputy chief of the civil division
+Additional Information: 
+('spoon', 'next to', 'chief')
+('chief', 'handker')
+('division', 'between', 'train cars')

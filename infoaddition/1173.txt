@@ -1,0 +1,5 @@
+Original Sentence: 
+The latest quarter included a 6.6 million write-down of investments
+Additional Information: 
+('quarter', 'ON', 'counter top')
+('quarter', 'silver')

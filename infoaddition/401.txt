@@ -1,0 +1,5 @@
+Original Sentence: 
+He says he wants to influence but not manage companies
+Additional Information: 
+('company', 'at', 'bottom')
+('company', 'name')

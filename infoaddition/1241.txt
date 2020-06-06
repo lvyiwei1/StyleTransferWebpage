@@ -1,0 +1,5 @@
+Original Sentence: 
+First its position in the government is anomalous
+Additional Information: 
+('man', 'IN', 'position')
+('position', 'upright')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Coopers uses the Coopers & Lybrand name world-wide
+Additional Information: 
+('name', 'ON', 'airplane')
+('name', 'white')

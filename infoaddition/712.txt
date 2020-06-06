@@ -1,0 +1,5 @@
+Original Sentence: 
+So she thinks the damage will be short-lived and contained
+Additional Information: 
+('damage', 'ON', 'metal pole')
+('damage', 'moisture')

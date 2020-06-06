@@ -1,0 +1,4 @@
+Original Sentence: 
+Some foodstuff shipments will probably resume Thursday he said
+Additional Information: 
+('shipment', 'ON', 'truck')

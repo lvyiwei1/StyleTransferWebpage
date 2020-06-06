@@ -1,0 +1,5 @@
+Original Sentence: 
+You 're making a pure bet on the market
+Additional Information: 
+('market', 'ON', 'sidewalk')
+('market', 'outdoor')

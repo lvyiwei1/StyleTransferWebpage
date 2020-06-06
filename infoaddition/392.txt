@@ -1,0 +1,7 @@
+Original Sentence: 
+But some analysts say Salomon has turned the corner
+Additional Information: 
+('salomon', 'written on', 'skateboard')
+('salomon', 'word')
+('corner', 'ON', 'tray')
+('corner', 'street')

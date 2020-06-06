@@ -1,0 +1,5 @@
+Original Sentence: 
+We 'll raise it through bank loans
+Additional Information: 
+('bank', 'with', 'shadow')
+('bank', 'grassy')

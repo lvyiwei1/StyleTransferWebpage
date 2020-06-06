@@ -1,0 +1,5 @@
+Original Sentence: 
+This time We do n't have that at all
+Additional Information: 
+('time', 'on', 'stove')
+('time', 'displayed')

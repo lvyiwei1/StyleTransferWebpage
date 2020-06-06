@@ -1,0 +1,5 @@
+Original Sentence: 
+The play is filled with intrigue dishonesty and injustice
+Additional Information: 
+('basketball', 'IN', 'play')
+('play', 'white')

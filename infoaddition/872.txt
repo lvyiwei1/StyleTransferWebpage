@@ -1,0 +1,7 @@
+Original Sentence: 
+Other forms of red tape are more pervasive
+Additional Information: 
+('form', 'ON', 'table top')
+('form', 'white')
+('tape', 'ON', 'counter')
+('tape', 'yellow')

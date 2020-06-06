@@ -1,0 +1,5 @@
+Original Sentence: 
+The thrift announced the plan Aug. 21
+Additional Information: 
+('plan', 'ON', 'ground')
+('plan', 'air')

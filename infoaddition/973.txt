@@ -1,0 +1,7 @@
+Original Sentence: 
+It seeks unspecified money damages
+Additional Information: 
+('money', 'laying on', 'carpet')
+('money', 'paper')
+('damage', 'on a', 'wall')
+('damage', 'moisture')

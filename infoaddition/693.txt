@@ -1,0 +1,4 @@
+Original Sentence: 
+The decision was announced after trading ended
+Additional Information: 
+('red t', 'IN', 'trading')

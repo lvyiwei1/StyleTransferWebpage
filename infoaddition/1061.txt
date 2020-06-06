@@ -1,0 +1,5 @@
+Original Sentence: 
+In July unfilled orders grew 1 %
+Additional Information: 
+('order', 'containing', 'fries')
+('order', 'ready')

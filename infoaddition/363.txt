@@ -1,0 +1,7 @@
+Original Sentence: 
+When it comes to money Once bitten 2,000 times shy
+Additional Information: 
+('money', 'ON', 'machine')
+('money', 'paper')
+('time', 'ON', 'panel')
+('time', 'displayed')

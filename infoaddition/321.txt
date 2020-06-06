@@ -1,0 +1,6 @@
+Original Sentence: 
+Each one has a different agenda
+Additional Information: 
+('one', 'staring at', 'camera')
+('one', 'white')
+('agenda', 'OF', 'conference')

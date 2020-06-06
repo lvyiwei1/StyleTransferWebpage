@@ -1,0 +1,6 @@
+Original Sentence: 
+That facility should reopen today
+Additional Information: 
+('facility', 'for', 'giraffe')
+('facility', 'skateboarding')
+('sign', 'reads', 'today')

@@ -1,0 +1,9 @@
+Original Sentence: 
+Other temperature data show similar unexplained swings
+Additional Information: 
+('temperature', 'at bottom of', 'dial')
+('temperature', 'current')
+('data', 'ON', 'screen')
+('data', 'green')
+('swing', 'IN', 'playground')
+('swing', 'wooden')

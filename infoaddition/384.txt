@@ -1,0 +1,5 @@
+Original Sentence: 
+A main motive is hard cash
+Additional Information: 
+('cash', 'inside', 'purse')
+('cash', 'Two round pieces  ')

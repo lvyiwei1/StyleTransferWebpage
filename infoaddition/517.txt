@@ -1,0 +1,5 @@
+Original Sentence: 
+All of a sudden it was back to square one
+Additional Information: 
+('square', 'on back of', 'sign')
+('square', 'white')

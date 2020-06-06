@@ -1,0 +1,6 @@
+Original Sentence: 
+The dollar gained against most foreign currencies
+Additional Information: 
+('dollar', 'IN', 'hand')
+('dollar', 'twenty')
+('currency', 'by', 'luggage')

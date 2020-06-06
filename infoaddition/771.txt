@@ -1,0 +1,5 @@
+Original Sentence: 
+There is evidence to support that view
+Additional Information: 
+('view', 'IN', 'background')
+('view', 'beautiful')

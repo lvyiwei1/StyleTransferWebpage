@@ -1,0 +1,11 @@
+Original Sentence: 
+In peak periods that load may include 4,000 pieces
+Additional Information: 
+('peak', 'OF', 'mountian')
+('peak', 'mountain')
+('period', 'ON', 'sign')
+('period', 'red')
+('load', 'carried on', 'truck')
+('load', 'large')
+('piece', 'under', 'container')
+('piece', 'small')

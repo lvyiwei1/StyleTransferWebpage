@@ -1,0 +1,5 @@
+Original Sentence: 
+Sales were nearly identical to the year-earlier 1.36 billion
+Additional Information: 
+('sale', 'at', 'company')
+('sale', 'red')

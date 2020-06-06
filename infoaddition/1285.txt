@@ -1,0 +1,4 @@
+Original Sentence: 
+It does n't take much to provoke an intense debate
+Additional Information: 
+('panel', 'for', 'debate')

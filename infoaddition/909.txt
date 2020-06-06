@@ -1,0 +1,5 @@
+Original Sentence: 
+His entry-price condos are labeled Society Hill
+Additional Information: 
+('condo', 'facing', 'street')
+('condo', 'white')

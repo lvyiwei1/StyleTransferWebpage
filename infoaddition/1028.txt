@@ -1,0 +1,5 @@
+Original Sentence: 
+The letter was dated Oct. 6
+Additional Information: 
+('letter', 'ON', 'taxi')
+('letter', 'white')

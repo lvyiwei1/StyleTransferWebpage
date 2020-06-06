@@ -1,0 +1,5 @@
+Original Sentence: 
+She manages it with the title of general-director
+Additional Information: 
+('title', 'OF', 'book')
+('title', 'movie')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Indeed abortion-rights activists still face their greatest tests
+Additional Information: 
+('test', 'sitting in', 'aircraft')
+('test', 'filled out')

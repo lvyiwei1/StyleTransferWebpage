@@ -1,0 +1,5 @@
+Original Sentence: 
+This time there are 30 % more shares outstanding
+Additional Information: 
+('time', 'ON', 'screen')
+('time', 'displayed')

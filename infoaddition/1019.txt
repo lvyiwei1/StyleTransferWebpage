@@ -1,0 +1,7 @@
+Original Sentence: 
+That is the state of Japan 's computer industry
+Additional Information: 
+('state', 'ON', 'hood')
+('state', 'Penn ')
+('computer', 'has', 'chair')
+('computer', 'laptop')

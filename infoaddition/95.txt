@@ -1,0 +1,5 @@
+Original Sentence: 
+Others were more cautious
+Additional Information: 
+('others', 'facing away from', 'zebra')
+('others', 'three')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The offer is based on several conditions including obtaining financing
+Additional Information: 
+('sky', 'weather', 'condition')

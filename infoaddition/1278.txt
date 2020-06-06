@@ -1,0 +1,5 @@
+Original Sentence: 
+You do n't make any real money
+Additional Information: 
+('money', 'ON', 'table')
+('money', 'paper')

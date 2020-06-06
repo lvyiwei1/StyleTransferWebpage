@@ -1,0 +1,6 @@
+Original Sentence: 
+I have plenty more at home
+Additional Information: 
+('plenty', 'fly on', 'carabao')
+('home', 'near', 'lake')
+('home', 'white')

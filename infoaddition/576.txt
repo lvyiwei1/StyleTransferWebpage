@@ -1,0 +1,5 @@
+Original Sentence: 
+Uncertainty dogs every aspect of their lives
+Additional Information: 
+('life', 'written on', 'life guard bench')
+('life', 'printed')

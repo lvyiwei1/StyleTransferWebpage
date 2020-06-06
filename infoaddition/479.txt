@@ -1,0 +1,5 @@
+Original Sentence: 
+Moreover he says Irish companies are small but spunky
+Additional Information: 
+('company', 'has', 'label')
+('company', 'name')

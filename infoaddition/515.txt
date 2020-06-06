@@ -1,0 +1,6 @@
+Original Sentence: 
+Bond prices crept higher
+Additional Information: 
+('bond', 'black ')
+('price', 'listed on', 'banner')
+('price', 'written')

@@ -1,0 +1,5 @@
+Original Sentence: 
+This time though he says I think we got it
+Additional Information: 
+('time', 'ON', 'clock')
+('time', 'displayed')

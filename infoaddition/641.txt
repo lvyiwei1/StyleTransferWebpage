@@ -1,0 +1,5 @@
+Original Sentence: 
+This gap eventually closes but slowly
+Additional Information: 
+('gap', 'IN', 'wood')
+('gap', 'small')

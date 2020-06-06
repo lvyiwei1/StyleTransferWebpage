@@ -1,0 +1,5 @@
+Original Sentence: 
+Noriega was an expert at bribing and blackmailing people
+Additional Information: 
+('people', 'with', 'dark hair')
+('people', 'standing')

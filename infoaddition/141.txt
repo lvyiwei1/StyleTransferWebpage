@@ -1,0 +1,5 @@
+Original Sentence: 
+But the company declines to comment
+Additional Information: 
+('company', 'that owns', 'bus')
+('company', 'name')

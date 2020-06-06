@@ -1,0 +1,7 @@
+Original Sentence: 
+When the pilots refused the company retracted it
+Additional Information: 
+('pilot', 'IN', 'air plane')
+('pilot', 'walking')
+('company', 'made', 'fire hydrant')
+('company', 'name')

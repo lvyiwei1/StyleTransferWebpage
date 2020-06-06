@@ -1,0 +1,10 @@
+Original Sentence: 
+Harsco produces products for defense industrial commercial and construction markets
+Additional Information: 
+('product', 'IN', 'box')
+('product', 'bathroom')
+('basketball player', 'playing', 'defense')
+('construction', 'ON', 'building')
+('construction', 'gate')
+('market', 'IN', 'container')
+('market', 'outdoor')

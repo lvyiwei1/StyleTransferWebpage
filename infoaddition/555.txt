@@ -1,0 +1,5 @@
+Original Sentence: 
+He 's a genuine Wheaties-box athlete gushes Mr. Jones
+Additional Information: 
+('athlete', 'IN', 'uniform')
+('athlete', 'male')

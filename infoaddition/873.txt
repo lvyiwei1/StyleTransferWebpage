@@ -1,0 +1,5 @@
+Original Sentence: 
+We put some orders together
+Additional Information: 
+('order', 'OF', 'french fries')
+('order', 'ready')

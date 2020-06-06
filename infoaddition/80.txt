@@ -1,0 +1,6 @@
+Original Sentence: 
+Her parents lost everything in the 1906 earthquake
+Additional Information: 
+('parent', 'walking by', 'playground')
+('parent', 'chaperoning')
+('sky', 'above', 'everything')

@@ -1,0 +1,6 @@
+Original Sentence: 
+After all in all five recessions since 1960 stocks declined
+Additional Information: 
+('recession', 'wall')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

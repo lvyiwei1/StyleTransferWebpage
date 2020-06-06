@@ -1,0 +1,5 @@
+Original Sentence: 
+The two sides now are accusing each other of lying
+Additional Information: 
+('side', 'OF', 'truck')
+('side', 'white')

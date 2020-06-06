@@ -1,0 +1,5 @@
+Original Sentence: 
+New York Stock Exchange volume was 164,830,000
+Additional Information: 
+('volume', 'ON', 'headphones')
+('volume', '3')

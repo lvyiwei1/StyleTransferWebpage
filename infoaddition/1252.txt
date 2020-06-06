@@ -1,0 +1,4 @@
+Original Sentence: 
+The pay 's the same and the duty 's lighter
+Additional Information: 
+('pay', 'says on', 'truck')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Casino revenues and hotel occupancy rates are high
+Additional Information: 
+('casino', 'IN', 'las vegas')
+('casino', 'bright')
+('hotel', 'has', 'courtyard')
+('hotel', 'large')

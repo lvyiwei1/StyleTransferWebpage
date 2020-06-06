@@ -1,0 +1,7 @@
+Original Sentence: 
+Congress previously cut six airports this year
+Additional Information: 
+('airport', 'has', 'lights')
+('airport', 'busy')
+('year', 'ON', 'bench')
+('year', 'white')

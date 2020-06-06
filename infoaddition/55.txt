@@ -1,0 +1,5 @@
+Original Sentence: 
+John E. Yang contributed to this article
+Additional Information: 
+('article', 'ON', 'chair')
+('article', 'newspaper')

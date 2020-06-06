@@ -1,0 +1,5 @@
+Original Sentence: 
+The 120-day exclusivity period was to expire yesterday
+Additional Information: 
+('period', 'ON', 'sign')
+('period', 'red')

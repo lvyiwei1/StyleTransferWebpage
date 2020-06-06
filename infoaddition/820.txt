@@ -1,0 +1,6 @@
+Original Sentence: 
+Even least-cost environmental solutions will require billions of dollars
+Additional Information: 
+('solution', 'for', 'windows')
+('dollar', 'IN', 'hand')
+('dollar', 'twenty')

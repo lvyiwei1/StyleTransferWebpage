@@ -1,0 +1,4 @@
+Original Sentence: 
+Assets soared 4.5 billion in the previous week
+Additional Information: 
+('day', 'OF', 'week')

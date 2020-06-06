@@ -1,0 +1,5 @@
+Original Sentence: 
+Still caution is advisable
+Additional Information: 
+('caution', 'traffic', 'sign')
+('caution', 'written')

@@ -1,0 +1,4 @@
+Original Sentence: 
+We 'd get our asses kicked
+Additional Information: 
+('ass', 'OF', 'zebra')

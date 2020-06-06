@@ -1,0 +1,5 @@
+Original Sentence: 
+Not all of those parcels have yet been sold
+Additional Information: 
+('parcel', 'IN', 'bike')
+('parcel', 'white')

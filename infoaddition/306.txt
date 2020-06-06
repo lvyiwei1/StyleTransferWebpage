@@ -1,0 +1,5 @@
+Original Sentence: 
+Both posts had been vacant
+Additional Information: 
+('post', 'for', 'fence')
+('post', 'wooden')

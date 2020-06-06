@@ -1,0 +1,5 @@
+Original Sentence: 
+But they did n't lose touch with the U.S. issuers
+Additional Information: 
+('touch', 'OF', 'laptop')
+('touch', 'gray')

@@ -1,0 +1,5 @@
+Original Sentence: 
+And plays
+Additional Information: 
+('button', 'means', 'play')
+('play', 'white')

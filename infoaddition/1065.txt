@@ -1,0 +1,5 @@
+Original Sentence: 
+Freight rates are bottoming out and starting to rebound
+Additional Information: 
+('freight', 'behind', 'engine')
+('freight', 'red')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Las Vegas has seen nothing quite like it before
+Additional Information: 
+('nothing', 'IN', 'sky')
+('nothing', 'clear')

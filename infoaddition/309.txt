@@ -1,0 +1,5 @@
+Original Sentence: 
+The state will vigorously defend against any counterclaim
+Additional Information: 
+('state', 'ON', 'shirt')
+('state', 'Penn ')

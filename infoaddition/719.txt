@@ -1,0 +1,7 @@
+Original Sentence: 
+Overall more Big Board stocks lost money than gained
+Additional Information: 
+('stock', 'ON', 'engine')
+('stock', 'green')
+('money', 'sticking out of', 'briefcase')
+('money', 'paper')

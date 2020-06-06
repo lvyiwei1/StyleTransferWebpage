@@ -1,0 +1,5 @@
+Original Sentence: 
+Many groups are n't waiting that long
+Additional Information: 
+('group', 'OF', 'soldiers')
+('group', 'large')

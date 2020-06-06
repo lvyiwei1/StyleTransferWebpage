@@ -1,0 +1,5 @@
+Original Sentence: 
+Joann S. Lublin in London contributed to this article
+Additional Information: 
+('article', 'ON', 'hill')
+('article', 'newspaper')

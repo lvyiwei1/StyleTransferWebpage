@@ -1,0 +1,5 @@
+Original Sentence: 
+But there 's a catch
+Additional Information: 
+('catch', 'throwing', 'ball')
+('catch', 'FRISBEE')

@@ -1,0 +1,4 @@
+Original Sentence: 
+It Tuesday 's quake has n't solved our problem
+Additional Information: 
+('plane', 'has', 'problem')

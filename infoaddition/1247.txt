@@ -1,0 +1,4 @@
+Original Sentence: 
+It 's contrary to common sense she added
+Additional Information: 
+('phrase', 'makes no', 'sense')

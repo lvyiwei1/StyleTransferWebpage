@@ -1,0 +1,6 @@
+Original Sentence: 
+There may be forces that would delay this scenario
+Additional Information: 
+('force', 'ON', 'plane')
+('force', 'black')
+('people', 'IN', 'scenario')

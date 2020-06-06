@@ -1,0 +1,7 @@
+Original Sentence: 
+Bond prices were little changed in sluggish activity
+Additional Information: 
+('bond', 'black ')
+('price', 'for', 'apple')
+('price', 'written')
+('activity', 'IN', 'bathroom')

@@ -1,0 +1,6 @@
+Original Sentence: 
+Prior to 1932 the pattern was nearly the opposite
+Additional Information: 
+('pattern', 'ON', 'rug')
+('pattern', 'white')
+('sheep herd', 'are facing', 'opposite')

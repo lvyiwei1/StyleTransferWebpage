@@ -1,0 +1,5 @@
+Original Sentence: 
+Corporations need liquidity in the form of borrowed funds
+Additional Information: 
+('form', 'ON', 'table top')
+('form', 'white')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Lloyd 's has lost control of the situation he says
+Additional Information: 
+('control', 'in', 'in her hand')
+('control', 'remote')

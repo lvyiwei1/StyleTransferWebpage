@@ -1,0 +1,5 @@
+Original Sentence: 
+The doomsayers had a receptive audience
+Additional Information: 
+('audience', 'IN', 'background')
+('audience', 'watching')

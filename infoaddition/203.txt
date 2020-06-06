@@ -1,0 +1,8 @@
+Original Sentence: 
+The Soviets have a world-leading space program the guests noted
+Additional Information: 
+('space', 'showing', 'frying pan')
+('space', 'green')
+('program', 'On screen', 'laptop computer')
+('program', 'wedding')
+('guest', 'behind', 'fence')

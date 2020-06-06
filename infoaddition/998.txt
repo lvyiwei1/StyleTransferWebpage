@@ -1,0 +1,4 @@
+Original Sentence: 
+Then he answers his own question
+Additional Information: 
+('question', 'black')

@@ -1,0 +1,6 @@
+Original Sentence: 
+Outokumpu is a mining trading and construction concern
+Additional Information: 
+('red t', 'IN', 'trading')
+('construction', 'IN', 'background')
+('construction', 'gate')

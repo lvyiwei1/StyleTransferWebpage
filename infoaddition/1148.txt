@@ -1,0 +1,5 @@
+Original Sentence: 
+Per-share net rose to 14.95 yen from 14.44 yen
+Additional Information: 
+('net', 'ON', 'plane')
+('net', 'black')

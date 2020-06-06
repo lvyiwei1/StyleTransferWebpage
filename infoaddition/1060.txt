@@ -1,0 +1,5 @@
+Original Sentence: 
+Nothing seems hard here
+Additional Information: 
+('nothing', 'to', 'write')
+('nothing', 'clear')

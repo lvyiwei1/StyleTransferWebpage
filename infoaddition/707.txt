@@ -1,0 +1,5 @@
+Original Sentence: 
+Analysts do n't see it that way
+Additional Information: 
+('way', 'scrapped on', 'bus')
+('way', 'walk')

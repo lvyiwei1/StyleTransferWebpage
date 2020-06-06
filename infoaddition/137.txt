@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Decker 's resignation surprised many industry officials
+Additional Information: 
+('official', 'sitting in', 'chair')
+('official', 'tennis')

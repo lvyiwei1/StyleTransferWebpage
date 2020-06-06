@@ -1,0 +1,7 @@
+Original Sentence: 
+That is gilding the lily
+Additional Information: 
+('gilding', 'around', 'clock')
+('gilding', 'gold')
+('lily', 'IN', 'vase')
+('lily', 'white')

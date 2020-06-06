@@ -1,0 +1,5 @@
+Original Sentence: 
+The government will penalize offenders but wo n't confiscate property
+Additional Information: 
+('property', 'standing', 'chainlink fence')
+('property', 'waterfront')

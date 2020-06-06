@@ -1,0 +1,5 @@
+Original Sentence: 
+Moscow and Kabul must have found that information useful
+Additional Information: 
+('information', 'ON', 'corner')
+('information', 'yellow')

@@ -1,0 +1,5 @@
+Original Sentence: 
+But critics consider the changes regressive
+Additional Information: 
+('change', 'ON', 'red')
+('change', 'loose')

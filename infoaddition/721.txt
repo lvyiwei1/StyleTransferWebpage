@@ -1,0 +1,6 @@
+Original Sentence: 
+Trading volume was only modestly higher than normal
+Additional Information: 
+('red t', 'IN', 'trading')
+('volume', 'ON', 'headphones')
+('volume', '3')

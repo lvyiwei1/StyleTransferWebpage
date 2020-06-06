@@ -1,0 +1,5 @@
+Original Sentence: 
+The dollar dropped
+Additional Information: 
+('dollar', 'ON', 'bed')
+('dollar', 'twenty')

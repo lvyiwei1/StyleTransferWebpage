@@ -1,0 +1,7 @@
+Original Sentence: 
+He is negotiating a rich book contract to boot
+Additional Information: 
+('book', 'IN', 'hand')
+('book', 'white')
+('boot', 'ON', 'snowboard')
+('boot', 'black')

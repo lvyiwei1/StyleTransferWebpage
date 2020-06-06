@@ -1,0 +1,4 @@
+Original Sentence: 
+The move by IBM was n't exactly a surprise
+Additional Information: 
+('mechanism', 'makes it', 'move')

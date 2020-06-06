@@ -1,0 +1,7 @@
+Original Sentence: 
+Traders said a variety of factors triggered the rally
+Additional Information: 
+('variety', 'OF', 'doughnuts')
+('variety', 'erased')
+('people', 'at a', 'rally')
+('rally', 'black')

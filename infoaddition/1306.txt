@@ -1,0 +1,7 @@
+Original Sentence: 
+The supply of experienced civil engineers though is tighter
+Additional Information: 
+('supply', 'ON', 'table')
+('supply', 'all')
+('engineer', 'OF', 'train')
+('engineer', 'train')

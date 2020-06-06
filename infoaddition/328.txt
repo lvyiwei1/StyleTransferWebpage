@@ -1,0 +1,5 @@
+Original Sentence: 
+Reflecting that logic insurance-company stocks posted strong gains
+Additional Information: 
+('stock', 'OF', 'broccoli')
+('stock', 'green')

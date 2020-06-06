@@ -1,0 +1,6 @@
+Original Sentence: 
+The action will establish a two-tier exchange rate
+Additional Information: 
+('action', 'IN', 'action')
+('action', 'MLB')
+('two women', 'make', 'exchange')

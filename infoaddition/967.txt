@@ -1,0 +1,5 @@
+Original Sentence: 
+But the firm has never had a day like yesterday
+Additional Information: 
+('day', 'above', 'city')
+('day', 'sunny')

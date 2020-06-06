@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Lurie is currently co-chief executive
+Additional Information: 
+('executive', 'ON', 'signs')
+('executive', 'in white')

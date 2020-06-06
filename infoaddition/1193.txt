@@ -1,0 +1,7 @@
+Original Sentence: 
+The trial begins today in federal court in Philadelphia
+Additional Information: 
+('snow', 'has', 'trial')
+('sign', 'reads', 'today')
+('court', 'by', 'fence')
+('court', 'green')

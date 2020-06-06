@@ -1,0 +1,8 @@
+Original Sentence: 
+Only the bravest spirits survive such roller coasters
+Additional Information: 
+('spirit', 'of st lou', 'decal')
+('roller', 'OF', 'skateboard')
+('roller', 'black')
+('coaster', 'under a', 'glass')
+('coaster', 'white')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Here are auction details
+Additional Information: 
+('detail', 'ON', 'stone column')
+('detail', 'red')

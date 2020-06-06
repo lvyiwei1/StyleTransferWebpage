@@ -1,0 +1,6 @@
+Original Sentence: 
+d Percentage change is greater than 999 %
+Additional Information: 
+('coupon', 'has', 'percentage')
+('change', 'ON', 'red')
+('change', 'loose')

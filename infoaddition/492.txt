@@ -1,0 +1,5 @@
+Original Sentence: 
+Later he marketed glue
+Additional Information: 
+('glue', 'ON', 'wooden table')
+('glue', 'bottles')

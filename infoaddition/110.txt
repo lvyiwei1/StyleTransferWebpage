@@ -1,0 +1,7 @@
+Original Sentence: 
+The lawyers are now in charge of our national security
+Additional Information: 
+('lawyer', 'showing a', 'paper')
+('charge', 'can', 'charge')
+('security', 'walking in', 'orange vests')
+('security', 'standing')

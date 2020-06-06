@@ -1,0 +1,15 @@
+Original Sentence: 
+It includes apartments shopping centers office buildings and undeveloped land
+Additional Information: 
+('apartment', 'IN', 'building')
+('apartment', 'tall')
+('shopping', 'written on', 'sign')
+('shopping', 'area')
+('center', 'OF', 'nose')
+('center', 'yellow')
+('office', 'has', 'window')
+('office', 'small')
+('building', 'IN', 'distance')
+('building', 'white')
+('land', 'IN', 'distance')
+('land', 'flat')

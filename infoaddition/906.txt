@@ -1,0 +1,5 @@
+Original Sentence: 
+The dollar was mixed
+Additional Information: 
+('dollar', 'IN', 'hand')
+('dollar', 'twenty')

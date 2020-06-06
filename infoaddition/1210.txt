@@ -1,0 +1,5 @@
+Original Sentence: 
+American Home Products Corp. proposes to acquire the company
+Additional Information: 
+('company', 'ON', 'corner')
+('company', 'name')

@@ -1,0 +1,6 @@
+Original Sentence: 
+Lawrence Insurance underwrites mostly primary insurance a company spokesman said
+Additional Information: 
+('advertisement', 'for', 'insurance')
+('company', 'that owns', 'bus')
+('company', 'name')

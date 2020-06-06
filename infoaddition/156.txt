@@ -1,0 +1,5 @@
+Original Sentence: 
+AMR has not been and is not for sale
+Additional Information: 
+('sale', 'at', 'company')
+('sale', 'red')

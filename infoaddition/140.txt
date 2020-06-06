@@ -1,0 +1,5 @@
+Original Sentence: 
+By 1982 he was selling thousands of tires
+Additional Information: 
+('tire', 'on a', 'motorcycle')
+('tire', 'black')

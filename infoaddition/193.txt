@@ -1,0 +1,5 @@
+Original Sentence: 
+Analysts predict the sales impact will linger
+Additional Information: 
+('sale', 'ON', 'window')
+('sale', 'red')

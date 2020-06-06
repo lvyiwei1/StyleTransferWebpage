@@ -1,0 +1,5 @@
+Original Sentence: 
+Here 's a look at some of the alternatives
+Additional Information: 
+('look', 'painted on', 'street')
+('look', 'concentration')

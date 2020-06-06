@@ -1,0 +1,5 @@
+Original Sentence: 
+It is a quick fix for a complex problem
+Additional Information: 
+('fix', 'ON', 'wall')
+('plane', 'has', 'problem')

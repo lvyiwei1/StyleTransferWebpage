@@ -1,0 +1,5 @@
+Original Sentence: 
+The dollar retreated
+Additional Information: 
+('dollar', 'ON', 'table')
+('dollar', 'twenty')

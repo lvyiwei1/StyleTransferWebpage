@@ -1,0 +1,7 @@
+Original Sentence: 
+Fuel cost adjustments could change the effective rate increases however
+Additional Information: 
+('fuel', 'from', 'truck')
+('fuel', 'jet ')
+('cost', 'displayed in front of', 'banana')
+('adjustment', 'row')

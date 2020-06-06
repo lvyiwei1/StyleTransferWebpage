@@ -1,0 +1,6 @@
+Original Sentence: 
+Measures of manufacturing activity fell more than the overall measures
+Additional Information: 
+('measure', 'black')
+('activity', 'around', 'planes')
+('measure', 'black')

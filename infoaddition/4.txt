@@ -1,0 +1,7 @@
+Original Sentence: 
+He sits down at the piano and plays
+Additional Information: 
+('piano', 'against', 'wall')
+('piano', 'black')
+('basketball', 'IN', 'play')
+('play', 'white')

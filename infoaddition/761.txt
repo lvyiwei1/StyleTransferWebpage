@@ -1,0 +1,5 @@
+Original Sentence: 
+Seventeen percent reported their customers being robbed
+Additional Information: 
+('customer', 'WEARING', 'black')
+('customer', 'waiting')

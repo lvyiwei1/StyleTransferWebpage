@@ -1,0 +1,7 @@
+Original Sentence: 
+Its Houston work force now totals 230
+Additional Information: 
+('work', 'beside', 'paw')
+('work', 'iron')
+('force', 'ON', 'plane')
+('force', 'black')

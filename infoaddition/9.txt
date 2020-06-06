@@ -1,0 +1,4 @@
+Original Sentence: 
+Puts or sell options would not be added until 1977
+Additional Information: 
+('option', 'ON', 'phone')

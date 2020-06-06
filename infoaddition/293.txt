@@ -1,0 +1,6 @@
+Original Sentence: 
+Trading also was heavy in the over-the-counter market
+Additional Information: 
+('red t', 'IN', 'trading')
+('market', 'OF', 'fruit')
+('market', 'outdoor')

@@ -1,0 +1,4 @@
+Original Sentence: 
+No charges were brought against her
+Additional Information: 
+('charge', 'can', 'charge')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Three gambling casinos have opened in Poland
+Additional Information: 
+('casino', 'in a', 'casino')
+('casino', 'bright')

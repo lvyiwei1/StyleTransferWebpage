@@ -1,0 +1,6 @@
+Original Sentence: 
+It does n't mean anything it 's public-relations money
+Additional Information: 
+('part', 'of a speaker not connected to', 'anything')
+('money', 'IN', 'right hand')
+('money', 'paper')

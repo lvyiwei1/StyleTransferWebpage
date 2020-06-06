@@ -1,0 +1,4 @@
+Original Sentence: 
+You have to count everything
+Additional Information: 
+('sky', 'above', 'everything')

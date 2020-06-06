@@ -1,0 +1,4 @@
+Original Sentence: 
+The recession that is
+Additional Information: 
+('recession', 'wall')

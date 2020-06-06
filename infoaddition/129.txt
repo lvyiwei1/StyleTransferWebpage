@@ -1,0 +1,5 @@
+Original Sentence: 
+However for many managing speed does not come naturally
+Additional Information: 
+('speed', 'boat', 'wake')
+('speed', 'black')

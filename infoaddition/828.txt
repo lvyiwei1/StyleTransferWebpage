@@ -1,0 +1,9 @@
+Original Sentence: 
+Some casino owners have resisted the temptation to add rooms
+Additional Information: 
+('casino', 'in a', 'casino')
+('casino', 'bright')
+('owner', 'OF', 'cat')
+('owner', 'proud')
+('room', 'has', 'sink')
+('room', 'dark')

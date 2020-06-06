@@ -1,0 +1,5 @@
+Original Sentence: 
+If the show ai n't a killer they 're gone
+Additional Information: 
+('show', 'playing on', 'television')
+('show', 'kite')

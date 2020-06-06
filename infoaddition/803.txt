@@ -1,0 +1,4 @@
+Original Sentence: 
+First Interstate made the move under pressure from regulators
+Additional Information: 
+('mechanism', 'makes it', 'move')

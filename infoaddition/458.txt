@@ -1,0 +1,7 @@
+Original Sentence: 
+The disk-drive maker disclosed a major fraud two months ago
+Additional Information: 
+('maker', 'makes', 'ice cream')
+('maker', 'coffee')
+('month', 'around', 'face')
+('month', 'ninth')

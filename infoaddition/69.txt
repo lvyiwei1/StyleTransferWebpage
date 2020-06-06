@@ -1,0 +1,5 @@
+Original Sentence: 
+That would be the lowest level since the early 1970s
+Additional Information: 
+('level', 'has', 'light')
+('level', 'upper')

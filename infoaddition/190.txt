@@ -1,0 +1,5 @@
+Original Sentence: 
+Quest for Fire was the first time
+Additional Information: 
+('time', 'under', 'sign')
+('time', 'displayed')

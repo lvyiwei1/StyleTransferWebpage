@@ -1,0 +1,4 @@
+Original Sentence: 
+JAILED AFRICAN-AMERICAN activist wins a battle against the
+Additional Information: 
+('battle', 'close')

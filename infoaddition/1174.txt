@@ -1,0 +1,5 @@
+Original Sentence: 
+There are still bulls out there
+Additional Information: 
+('bull', 'has', 'bushy tail')
+('bull', 'brown')

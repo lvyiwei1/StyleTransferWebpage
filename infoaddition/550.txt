@@ -1,0 +1,7 @@
+Original Sentence: 
+DWG is a holding company controlled by Mr. Posner
+Additional Information: 
+('holding', 'white', 'control')
+('holding', 'wooden')
+('company', 'ON', 'wing')
+('company', 'name')

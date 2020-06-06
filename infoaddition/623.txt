@@ -1,0 +1,5 @@
+Original Sentence: 
+Letting officials express their own nuances can be educational
+Additional Information: 
+('official', 'IN', 'ring')
+('official', 'tennis')

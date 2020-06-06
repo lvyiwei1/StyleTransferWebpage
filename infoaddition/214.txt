@@ -1,0 +1,5 @@
+Original Sentence: 
+A settlement was reached but was n't made public
+Additional Information: 
+('settlement', 'OF', 'buildings')
+('settlement', 'SUBURBAN')

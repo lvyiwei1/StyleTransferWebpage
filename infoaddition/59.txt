@@ -1,0 +1,6 @@
+Original Sentence: 
+The entire division employs about 850 workers
+Additional Information: 
+('division', 'between', 'train cars')
+('worker', 'WEARING', 'vest')
+('worker', 'construction')

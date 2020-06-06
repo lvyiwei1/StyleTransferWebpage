@@ -1,0 +1,5 @@
+Original Sentence: 
+The group has forecast 1989 revenue of 56.9 billion francs
+Additional Information: 
+('group', 'sitting on', 'boat')
+('group', 'large')

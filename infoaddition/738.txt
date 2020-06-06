@@ -1,0 +1,6 @@
+Original Sentence: 
+We are almost left out of campus social activities
+Additional Information: 
+('campus', 'benches with', 'flowers')
+('campus', 'college')
+('activity', 'IN', 'bathroom')

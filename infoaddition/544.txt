@@ -1,0 +1,6 @@
+Original Sentence: 
+Now for example she owns 48 hats
+Additional Information: 
+('example', 'lowercase')
+('hat', 'worn by', 'man')
+('hat', 'black')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Tolstoy 's characters eat Pushkin 's Gogol 's
+Additional Information: 
+('character', 'ON', 'keyboard')
+('character', 'foreign')

@@ -1,0 +1,5 @@
+Original Sentence: 
+I 'm encouraged by the action
+Additional Information: 
+('action', 'at', 'baseball field')
+('action', 'MLB')

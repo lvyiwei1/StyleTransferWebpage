@@ -1,0 +1,5 @@
+Original Sentence: 
+November gasoline slipped slightly
+Additional Information: 
+('tube', 'for', 'gasoline')
+('gasoline', 'offered')

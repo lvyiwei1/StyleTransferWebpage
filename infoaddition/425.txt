@@ -1,0 +1,4 @@
+Original Sentence: 
+Those enterprises however are not going to be privatized
+Additional Information: 
+('sign', 'for', 'enterprise')

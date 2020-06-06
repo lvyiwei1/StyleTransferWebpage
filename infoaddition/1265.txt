@@ -1,0 +1,7 @@
+Original Sentence: 
+LUTHER BURBANK CROSS-BRED PLANTS to produce the billion-dollar Idaho potato
+Additional Information: 
+('plant', 'growing in', 'pot')
+('plant', 'green')
+('potato', 'ON', 'plate')
+('potato', 'fried')

@@ -1,0 +1,5 @@
+Original Sentence: 
+The company rejected those past proposals
+Additional Information: 
+('company', 'took', 'photo')
+('company', 'name')

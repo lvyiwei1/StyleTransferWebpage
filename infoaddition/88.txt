@@ -1,0 +1,4 @@
+Original Sentence: 
+This misguided policy could not prevent a British trade deficit
+Additional Information: 
+('company name', 'says', 'trade')

@@ -1,0 +1,5 @@
+Original Sentence: 
+That has outraged some fans
+Additional Information: 
+('fan', 'IN', 'corner')
+('fan', 'white')

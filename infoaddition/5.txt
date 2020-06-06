@@ -1,0 +1,5 @@
+Original Sentence: 
+The difference is magnified by time too
+Additional Information: 
+('time', 'ON', 'clock')
+('time', 'displayed')

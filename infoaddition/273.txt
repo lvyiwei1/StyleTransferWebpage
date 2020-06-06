@@ -1,0 +1,4 @@
+Original Sentence: 
+Investors pulled back from bond funds in September too
+Additional Information: 
+('bond', 'black ')

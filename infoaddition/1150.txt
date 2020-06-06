@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Milgrim succeeds David Berman who resigned last month
+Additional Information: 
+('month', 'around', 'face')
+('month', 'ninth')

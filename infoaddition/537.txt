@@ -1,0 +1,4 @@
+Original Sentence: 
+I trusted in his lordship 's wisdom
+Additional Information: 
+('bookmark', 'says', 'wisdom')

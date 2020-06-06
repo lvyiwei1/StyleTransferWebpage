@@ -1,0 +1,7 @@
+Original Sentence: 
+Long-term CDs declined just a fraction
+Additional Information: 
+('cd', 'IN', 'cd stand')
+('cd', 'silver')
+('fraction', 'ON', 'border')
+('fraction', 'here')

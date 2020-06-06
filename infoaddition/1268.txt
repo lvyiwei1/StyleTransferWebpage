@@ -1,0 +1,7 @@
+Original Sentence: 
+The next level down did doors
+Additional Information: 
+('level', 'has', 'light')
+('level', 'upper')
+('door', 'OF', 'toilet')
+('door', 'white')

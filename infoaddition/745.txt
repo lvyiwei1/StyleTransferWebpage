@@ -1,0 +1,5 @@
+Original Sentence: 
+It has more drug users than Boston has people
+Additional Information: 
+('people', 'sitting on a', 'couch')
+('people', 'standing')

@@ -1,0 +1,9 @@
+Original Sentence: 
+Simpson is an auto parts maker
+Additional Information: 
+('auto', 'on', 'road')
+('auto', 'SMALL')
+('part', 'ON', 'motorcycle')
+('part', 'small')
+('maker', 'ON', 'counter')
+('maker', 'coffee')

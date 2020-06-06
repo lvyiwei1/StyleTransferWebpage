@@ -1,0 +1,5 @@
+Original Sentence: 
+The other meals do n't matter
+Additional Information: 
+('meal', 'IN', 'picture')
+('meal', 'healthy')

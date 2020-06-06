@@ -1,0 +1,11 @@
+Original Sentence: 
+Every major maker offers computers with color displays
+Additional Information: 
+('maker', 'makes', 'ice cream')
+('maker', 'coffee')
+('computer', 'ON', 'desk')
+('computer', 'laptop')
+('color', 'ON', 'wall')
+('color', 'red')
+('display', 'IN', 'meter')
+('display', 'digital')

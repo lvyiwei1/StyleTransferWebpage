@@ -1,0 +1,5 @@
+Original Sentence: 
+It was all over the place
+Additional Information: 
+('place', 'at', 'table')
+('place', 'full')

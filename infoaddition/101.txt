@@ -1,0 +1,5 @@
+Original Sentence: 
+Now sterilized intervention may have some effect
+Additional Information: 
+('effect', 'ON', 'clock tower')
+('effect', 'yellow')

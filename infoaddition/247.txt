@@ -1,0 +1,7 @@
+Original Sentence: 
+Many Law School Grads Find Classes Never End
+Additional Information: 
+('drivers', 'are obeying', 'law')
+('school', 'ON', 'grass')
+('school', 'word')
+('class', 'OF', 'kids')

@@ -1,0 +1,6 @@
+Original Sentence: 
+A Rake 's Progress Means Branching Out
+Additional Information: 
+('rake', 'near', 'tree')
+('rake', 'red')
+('a', 'baseball game in', 'progress')

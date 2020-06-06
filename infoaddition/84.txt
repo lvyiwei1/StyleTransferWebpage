@@ -1,0 +1,5 @@
+Original Sentence: 
+The Democratic appointee has n't been determined the official said
+Additional Information: 
+('official', 'WEARING', 'shirt')
+('official', 'tennis')

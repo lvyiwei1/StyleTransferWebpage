@@ -1,0 +1,5 @@
+Original Sentence: 
+Already it 's hard to get people
+Additional Information: 
+('people', 'seated at', 'picnic table')
+('people', 'standing')

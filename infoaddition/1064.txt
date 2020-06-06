@@ -1,0 +1,6 @@
+Original Sentence: 
+Bond prices were barely higher
+Additional Information: 
+('bond', 'black ')
+('price', 'good for', 'doughnut')
+('price', 'written')

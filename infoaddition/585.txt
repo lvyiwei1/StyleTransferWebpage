@@ -1,0 +1,7 @@
+Original Sentence: 
+Traders are already buckling their seat belts
+Additional Information: 
+('seat', 'ON', 'bike')
+('seat', 'black')
+('belt', 'around', 'waist')
+('belt', 'black')

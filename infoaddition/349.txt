@@ -1,0 +1,4 @@
+Original Sentence: 
+Global offshore-rig use shows a similar upward trend
+Additional Information: 
+('use', 'hiding in', 'corner')

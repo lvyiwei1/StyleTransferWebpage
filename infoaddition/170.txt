@@ -1,0 +1,7 @@
+Original Sentence: 
+The flat report followed a four-month string of declines
+Additional Information: 
+('report', 'ON', 'green paper')
+('string', 'ON', 'suitcase')
+('string', 'white')
+('decline', ' of grass')

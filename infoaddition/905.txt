@@ -1,0 +1,5 @@
+Original Sentence: 
+Officials there declined to comment as did Helmsley management
+Additional Information: 
+('official', 'sitting in', 'chair')
+('official', 'tennis')

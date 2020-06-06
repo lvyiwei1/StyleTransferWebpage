@@ -1,0 +1,7 @@
+Original Sentence: 
+And the local expression for brother is brah not bruddah
+Additional Information: 
+('expression', 'ON', 'face')
+('expression', 'serious')
+('brother', 'ON', 'bench')
+('brother', 'playing')

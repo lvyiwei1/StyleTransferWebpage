@@ -1,0 +1,5 @@
+Original Sentence: 
+Kyle manufactures electronic components
+Additional Information: 
+('component', 'in a', 'bowl')
+('component', 'blue')

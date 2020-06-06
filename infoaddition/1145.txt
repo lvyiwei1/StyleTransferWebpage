@@ -1,0 +1,5 @@
+Original Sentence: 
+He still has 1,143 shares according to SEC files
+Additional Information: 
+('file', 'ON', 'wall')
+('file', 'large')

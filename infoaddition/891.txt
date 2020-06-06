@@ -1,0 +1,5 @@
+Original Sentence: 
+But it 's just one of those things that happened
+Additional Information: 
+('thing', 'next to', 'sofa')
+('thing', 'black')

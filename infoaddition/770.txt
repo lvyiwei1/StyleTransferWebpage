@@ -1,0 +1,5 @@
+Original Sentence: 
+That system has worked
+Additional Information: 
+('system', 'IN', 'cabinet')
+('system', 'black')

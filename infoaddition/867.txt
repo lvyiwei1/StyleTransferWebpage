@@ -1,0 +1,5 @@
+Original Sentence: 
+The owners meet again tomorrow
+Additional Information: 
+('owner', 'running after', 'dog')
+('owner', 'proud')

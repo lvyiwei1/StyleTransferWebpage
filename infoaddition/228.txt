@@ -1,0 +1,7 @@
+Original Sentence: 
+Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
+Additional Information: 
+('story', 'ON', 'church')
+('story', 'second')
+('printed', 'happy', 'holiday')
+('holiday', 'colorful')

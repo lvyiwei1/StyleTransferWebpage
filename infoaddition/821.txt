@@ -1,0 +1,5 @@
+Original Sentence: 
+YOU WENT to college and thought you got an education
+Additional Information: 
+('college', 'written on', 'bus')
+('college', 'Tennis')

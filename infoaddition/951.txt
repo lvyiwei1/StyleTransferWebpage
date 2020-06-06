@@ -1,0 +1,4 @@
+Original Sentence: 
+New trade accords were signed
+Additional Information: 
+('company name', 'says', 'trade')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Cincinnati Microwave Inc. said it introduced two radar detectors
+Additional Information: 
+('radar', 'ON', 'ship')
+('radar', 'here')
+('detector', 'ON', 'ceiling')
+('detector', 'white')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Accepted bids were all at 7.962 %
+Additional Information: 
+('bid', 'ON', 'shoulder')
+('bid', 'metal')

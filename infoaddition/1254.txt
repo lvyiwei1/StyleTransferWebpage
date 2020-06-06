@@ -1,0 +1,5 @@
+Original Sentence: 
+The dollar also declined
+Additional Information: 
+('dollar', 'IN', 'hand')
+('dollar', 'twenty')

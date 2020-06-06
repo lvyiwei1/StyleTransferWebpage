@@ -1,0 +1,6 @@
+Original Sentence: 
+The eyes of the world were watching us
+Additional Information: 
+('eye', 'OF', 'zebra')
+('eye', 'black')
+('world', 'map on', 'wall')

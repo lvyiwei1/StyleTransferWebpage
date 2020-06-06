@@ -1,0 +1,9 @@
+Original Sentence: 
+Grain milk and meat come next
+Additional Information: 
+('grain', 'of a', 'table')
+('grain', 'wood')
+('milk', 'IN', 'bowl')
+('milk', 'white')
+('meat', 'ON', 'plate')
+('meat', 'brown')

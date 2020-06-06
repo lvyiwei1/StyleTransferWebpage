@@ -1,0 +1,5 @@
+Original Sentence: 
+For them it makes all kinds of sense
+Additional Information: 
+('kind', 'ON', 'sidewalk')
+('phrase', 'makes no', 'sense')

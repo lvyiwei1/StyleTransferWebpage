@@ -1,0 +1,5 @@
+Original Sentence: 
+Until 1963 it was good soil
+Additional Information: 
+('soil', 'next to', 'rocks')
+('soil', 'brown')

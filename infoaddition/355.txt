@@ -1,0 +1,5 @@
+Original Sentence: 
+Your story was tasteless and insensitive
+Additional Information: 
+('story', 'missing', 'wall')
+('story', 'second')

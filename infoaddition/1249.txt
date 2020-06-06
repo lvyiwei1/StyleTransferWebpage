@@ -1,0 +1,7 @@
+Original Sentence: 
+Anatol Pawlowski 's leg begins jiggling beneath his desk
+Additional Information: 
+('leg', 'of', 'dog')
+('leg', 'white')
+('desk', 'has a', 'water bottle')
+('desk', 'wooden')

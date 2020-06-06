@@ -1,0 +1,4 @@
+Original Sentence: 
+You ca n't buy anything nowadays
+Additional Information: 
+('part', 'of a speaker not connected to', 'anything')

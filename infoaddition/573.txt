@@ -1,0 +1,5 @@
+Original Sentence: 
+Sales of Prozac an anti-depressant led drug-sales increases
+Additional Information: 
+('sale', 'at', 'company')
+('sale', 'red')

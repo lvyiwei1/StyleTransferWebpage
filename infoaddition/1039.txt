@@ -1,0 +1,4 @@
+Original Sentence: 
+The wait was miserable
+Additional Information: 
+('wait', 'ON', 'signal')

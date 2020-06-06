@@ -1,0 +1,5 @@
+Original Sentence: 
+Instead this official said This is vintage George Bush
+Additional Information: 
+('official', 'for', 'tennis')
+('official', 'tennis')

@@ -1,0 +1,5 @@
+Original Sentence: 
+In general they say avoid takeover stocks
+Additional Information: 
+('stock', 'OF', 'broccoli')
+('stock', 'green')

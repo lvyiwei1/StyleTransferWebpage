@@ -1,0 +1,7 @@
+Original Sentence: 
+Analysts have mixed views about the two-year note auction
+Additional Information: 
+('view', 'of moutains covered in', 'snow')
+('view', 'beautiful')
+('note', 'ON', "guy's head")
+('note', 'yellow')

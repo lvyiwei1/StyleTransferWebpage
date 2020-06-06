@@ -1,0 +1,5 @@
+Original Sentence: 
+They want to turn everything upside down in a week
+Additional Information: 
+('leafy bushes', 'below', 'everything')
+('day', 'OF', 'week')

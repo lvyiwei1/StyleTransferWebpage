@@ -1,0 +1,7 @@
+Original Sentence: 
+Is somebody telling us something
+Additional Information: 
+('somebody', 'using', 'computer')
+('somebody', 'here')
+('something', 'that holds', 'lights')
+('something', 'red')

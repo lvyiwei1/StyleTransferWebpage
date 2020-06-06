@@ -1,0 +1,5 @@
+Original Sentence: 
+I think it was a little premature on their part
+Additional Information: 
+('part', 'of a', 'part')
+('part', 'small')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Laurie McGinley contributed to this article
+Additional Information: 
+('article', 'ON', 'screen')
+('article', 'newspaper')

@@ -1,0 +1,5 @@
+Original Sentence: 
+The index fell 151.20 Friday
+Additional Information: 
+('index', 'finger', 'cutting donut')
+('index', 'is a finger')

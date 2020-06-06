@@ -1,0 +1,7 @@
+Original Sentence: 
+There are a lot of them and they have property
+Additional Information: 
+('lot', 'made of', 'grey brick pavers')
+('lot', 'parking')
+('property', 'has', 'ditch')
+('property', 'waterfront')

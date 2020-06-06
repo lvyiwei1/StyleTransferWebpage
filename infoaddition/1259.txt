@@ -1,0 +1,7 @@
+Original Sentence: 
+As that system grows larger computers may be needed
+Additional Information: 
+('system', 'ON', 'table')
+('system', 'black')
+('computer', 'ON', 'students')
+('computer', 'laptop')

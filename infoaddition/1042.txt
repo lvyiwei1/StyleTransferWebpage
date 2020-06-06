@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Bush returned to Washington Saturday night
+Additional Information: 
+('night', 'at', 'marina')
+('night', 'black')

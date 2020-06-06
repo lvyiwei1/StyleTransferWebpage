@@ -1,0 +1,7 @@
+Original Sentence: 
+The state of New Hampshire has favored that plan
+Additional Information: 
+('state', 'park', 'sign')
+('state', 'Penn ')
+('plan', 'behind', 'guy')
+('plan', 'air')

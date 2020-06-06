@@ -1,0 +1,5 @@
+Original Sentence: 
+Hotel-casino operators play down the possibility of a labor shortage
+Additional Information: 
+('operator', 'sitting', 'shed')
+('operator', 'Lift ')

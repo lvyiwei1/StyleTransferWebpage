@@ -1,0 +1,4 @@
+Original Sentence: 
+GAF Part III is scheduled to begin today
+Additional Information: 
+('cow', 'are laying down', 'today')

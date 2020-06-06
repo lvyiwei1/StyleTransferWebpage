@@ -1,0 +1,5 @@
+Original Sentence: 
+Some 4,300 institutions are part of the pension fund
+Additional Information: 
+('part', 'OF', 'sky')
+('part', 'small')

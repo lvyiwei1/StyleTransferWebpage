@@ -1,0 +1,4 @@
+Original Sentence: 
+The move had been widely expected
+Additional Information: 
+('mechanism', 'makes it', 'move')

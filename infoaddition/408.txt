@@ -1,0 +1,7 @@
+Original Sentence: 
+These are the raw materials used in making plastics
+Additional Information: 
+('material', 'ON', 'wall')
+('material', 'white')
+('plastic', 'with', 'lime')
+('plastic', 'clear')

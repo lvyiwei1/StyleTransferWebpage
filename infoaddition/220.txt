@@ -1,0 +1,4 @@
+Original Sentence: 
+Until last week Mr. Dinkins was considered a shoo-in
+Additional Information: 
+('day', 'OF', 'week')

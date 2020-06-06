@@ -1,0 +1,5 @@
+Original Sentence: 
+Executives at Sharon declined to comment on the proposal
+Additional Information: 
+('executive', 'ON', 'signs')
+('executive', 'in white')

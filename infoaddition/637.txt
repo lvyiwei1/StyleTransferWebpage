@@ -1,0 +1,5 @@
+Original Sentence: 
+Industry executives are wishing Mr. Achenbaum well
+Additional Information: 
+('executive', 'ON', 'signs')
+('executive', 'in white')

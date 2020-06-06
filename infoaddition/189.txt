@@ -1,0 +1,5 @@
+Original Sentence: 
+Also most of the telecommunications equipment was out
+Additional Information: 
+('equipment', 'IN', 'field')
+('equipment', 'electronic')

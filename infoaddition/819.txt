@@ -1,0 +1,5 @@
+Original Sentence: 
+The Pentagon foiled the plan
+Additional Information: 
+('plan', 'ON', 'tarmac')
+('plan', 'air')

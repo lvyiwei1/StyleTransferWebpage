@@ -1,0 +1,7 @@
+Original Sentence: 
+That would be a normal bear market he says
+Additional Information: 
+('bear', 'WEARING', 'hat')
+('bear', 'brown')
+('market', 'IN', 'container')
+('market', 'outdoor')

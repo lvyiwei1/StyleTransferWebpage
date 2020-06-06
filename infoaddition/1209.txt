@@ -1,0 +1,7 @@
+Original Sentence: 
+Mr. Phelan expressed relief that the market rebounded yesterday
+Additional Information: 
+('relief', 'OF', 'mermaid')
+('relief', 'woman')
+('market', 'OF', 'fruit')
+('market', 'outdoor')

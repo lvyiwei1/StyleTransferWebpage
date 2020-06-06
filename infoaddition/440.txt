@@ -1,0 +1,6 @@
+Original Sentence: 
+We have a couple or three tough weeks coming
+Additional Information: 
+('couple', 'around', 'station')
+('couple', 'walking')
+('day', 'OF', 'week')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Hand-holding is becoming an investment-banking job requirement
+Additional Information: 
+('job', 'ON', 'bus')
+('job', 'decorative')

@@ -1,0 +1,7 @@
+Original Sentence: 
+People in Glass houses tend to look stoned
+Additional Information: 
+('people', 'underneath', 'tent')
+('people', 'standing')
+('house', 'along', 'shoreline')
+('house', 'white')

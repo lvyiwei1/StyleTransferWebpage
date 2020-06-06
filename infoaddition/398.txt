@@ -1,0 +1,4 @@
+Original Sentence: 
+They are coming to publishers looking for ideas
+Additional Information: 
+('publisher', 'ON', 'book')

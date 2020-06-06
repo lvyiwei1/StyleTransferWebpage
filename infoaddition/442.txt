@@ -1,0 +1,4 @@
+Original Sentence: 
+Trading was active
+Additional Information: 
+('red t', 'IN', 'trading')

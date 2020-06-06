@@ -1,0 +1,5 @@
+Original Sentence: 
+It is a bureaucratic country
+Additional Information: 
+('country', 'ON', 'boxes')
+('country', 'foreign')

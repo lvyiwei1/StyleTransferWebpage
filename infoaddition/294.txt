@@ -1,0 +1,4 @@
+Original Sentence: 
+I 'm pretty confident I 'm catching everything he says
+Additional Information: 
+('sky', 'above', 'everything')

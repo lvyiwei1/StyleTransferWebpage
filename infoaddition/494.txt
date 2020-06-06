@@ -1,0 +1,5 @@
+Original Sentence: 
+The comptroller 's office says it is monitoring the situation
+Additional Information: 
+('office', 'building', 'light up')
+('office', 'small')

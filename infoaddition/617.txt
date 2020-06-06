@@ -1,0 +1,5 @@
+Original Sentence: 
+Serial certificates yield to 7.10 % in 2004
+Additional Information: 
+('certificate', 'IN', 'framed picture')
+('certificate', 'framed')

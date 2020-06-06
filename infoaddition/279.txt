@@ -1,0 +1,6 @@
+Original Sentence: 
+Geeks by at least one definition are chicken-mutilating circus freaks
+Additional Information: 
+('geek', 'red')
+('circus', 'using', 'posts')
+('circus', 'illuminated')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Read my lips said Mr. Smith
+Additional Information: 
+('lip', 'ON', 'photo')
+('lip', 'pink')

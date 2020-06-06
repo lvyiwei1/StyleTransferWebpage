@@ -1,0 +1,5 @@
+Original Sentence: 
+Everyone around me lives well
+Additional Information: 
+('everyone', 'ON', 'sidewalk')
+('everyone', 'smiling')

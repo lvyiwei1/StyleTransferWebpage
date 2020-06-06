@@ -1,0 +1,10 @@
+Original Sentence: 
+By the end of the day bond prices were mixed
+Additional Information: 
+('end', 'OF', 'airplane')
+('end', 'black')
+('day', 'with', 'tower')
+('day', 'sunny')
+('bond', 'black ')
+('price', 'ON', 'bike')
+('price', 'written')

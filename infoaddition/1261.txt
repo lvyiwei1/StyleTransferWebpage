@@ -1,0 +1,4 @@
+Original Sentence: 
+The notion that tracking is somehow undemocratic is absurd
+Additional Information: 
+('tracking', 'for', 'door')

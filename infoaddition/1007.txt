@@ -1,0 +1,5 @@
+Original Sentence: 
+The daily volume for Treasury Securities is about 110 billion
+Additional Information: 
+('volume', 'ON', 'headphones')
+('volume', '3')

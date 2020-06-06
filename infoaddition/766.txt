@@ -1,0 +1,5 @@
+Original Sentence: 
+Millions of refugees would rush home
+Additional Information: 
+('home', 'with', 'terrace')
+('home', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+There were rumors of 148-a-share trades
+Additional Information: 
+('company name', 'says', 'trade')

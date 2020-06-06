@@ -1,0 +1,6 @@
+Original Sentence: 
+Trading in Taipei was suspended for a national holiday
+Additional Information: 
+('red t', 'IN', 'trading')
+('decoration', 'for', 'holiday')
+('holiday', 'colorful')

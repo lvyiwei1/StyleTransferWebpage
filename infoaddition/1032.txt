@@ -1,0 +1,5 @@
+Original Sentence: 
+We have a major problem and that problem is volatility
+Additional Information: 
+('plane', 'has', 'problem')
+('plane', 'has', 'problem')

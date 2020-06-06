@@ -1,0 +1,5 @@
+Original Sentence: 
+He has mastered the art of survival
+Additional Information: 
+('art', 'ON', 'wall')
+('art', 'framed')

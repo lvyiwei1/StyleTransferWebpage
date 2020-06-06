@@ -1,0 +1,7 @@
+Original Sentence: 
+The press has been doing an excellent job
+Additional Information: 
+('press', 'ON', 'table')
+('press', 'automated')
+('job', 'ON', 'bus')
+('job', 'decorative')

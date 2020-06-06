@@ -1,0 +1,5 @@
+Original Sentence: 
+They wo n't fight the listed companies
+Additional Information: 
+('company', 'that owns', 'bus')
+('company', 'name')

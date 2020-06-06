@@ -1,0 +1,5 @@
+Original Sentence: 
+Another agency issue came to market yesterday
+Additional Information: 
+('market', 'on', 'sign')
+('market', 'outdoor')

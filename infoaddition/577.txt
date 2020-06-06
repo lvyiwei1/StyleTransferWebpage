@@ -1,0 +1,5 @@
+Original Sentence: 
+MeraBank 's rating for short-term deposits remains Not Prime
+Additional Information: 
+('deposit', 'ON', 'game')
+('deposit', 'metal')

@@ -1,0 +1,5 @@
+Original Sentence: 
+The action renews concern about buyouts in high-tech industries
+Additional Information: 
+('action', 'at', 'baseball field')
+('action', 'MLB')

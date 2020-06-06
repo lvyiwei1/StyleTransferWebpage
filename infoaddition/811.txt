@@ -1,0 +1,9 @@
+Original Sentence: 
+The interviews took place two years ago
+Additional Information: 
+('interview', 'IN', 'background')
+('interview', 'media')
+('place', 'at', 'table')
+('place', 'full')
+('year', 'IN', 'corner')
+('year', 'white')

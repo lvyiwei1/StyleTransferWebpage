@@ -1,0 +1,4 @@
+Original Sentence: 
+A Fed spokesman denied Mr. LaFalce 's statement
+Additional Information: 
+('statement', 'credit')

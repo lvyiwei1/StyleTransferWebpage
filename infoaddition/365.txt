@@ -1,0 +1,5 @@
+Original Sentence: 
+Yet abortion-rights forces remain bitterly critical
+Additional Information: 
+('force', 'ON', 'plane')
+('force', 'black')

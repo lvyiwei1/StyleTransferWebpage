@@ -1,0 +1,7 @@
+Original Sentence: 
+Wives May Not Benefit When Men Do Chores
+Additional Information: 
+('wife', 'WEARING', 'eyeglasses')
+('wife', 'superhero')
+('men', 'are sitting at', 'table')
+('men', 'standing')

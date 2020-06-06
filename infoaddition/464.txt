@@ -1,0 +1,6 @@
+Original Sentence: 
+Evaluating asset-backed securities poses another problem
+Additional Information: 
+('security', 'system sticker', 'on the window')
+('security', 'standing')
+('plane', 'has', 'problem')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The Senate did n't vote on six lesser charges
+Additional Information: 
+('charge', 'can', 'charge')

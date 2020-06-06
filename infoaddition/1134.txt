@@ -1,0 +1,7 @@
+Original Sentence: 
+Wheat futures prices rose slightly
+Additional Information: 
+('wheat', 'behind', 'zebras')
+('wheat', 'growing')
+('price', 'ON', 'sign')
+('price', 'written')

@@ -1,0 +1,5 @@
+Original Sentence: 
+That amounts to more than 350 billion a year
+Additional Information: 
+('year', 'ON', 'picture')
+('year', 'white')

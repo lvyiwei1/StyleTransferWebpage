@@ -1,0 +1,7 @@
+Original Sentence: 
+On his off-hours he wears cardigan sweaters
+Additional Information: 
+('cardigan', 'has', 'logo')
+('cardigan', 'white')
+('sweater', 'ON', 'man')
+('sweater', 'black')

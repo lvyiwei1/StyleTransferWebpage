@@ -1,0 +1,5 @@
+Original Sentence: 
+The stars do that themselves
+Additional Information: 
+('star', 'ON', 'american flag')
+('star', 'white')

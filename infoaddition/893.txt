@@ -1,0 +1,9 @@
+Original Sentence: 
+I heard parts of the building above my head cracking
+Additional Information: 
+('part', 'OF', 'train')
+('part', 'small')
+('building', 'has', 'shade')
+('building', 'white')
+('head', 'ON', 'person')
+('head', 'white')

@@ -1,0 +1,7 @@
+Original Sentence: 
+The anticipated drop follows a 3.9 % rise in August
+Additional Information: 
+('drop', 'ON', 'window')
+('drop', 'water')
+('rise', 'IN', 'ground')
+('rise', 'GRASSY')

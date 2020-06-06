@@ -1,0 +1,5 @@
+Original Sentence: 
+StatesWest serves 10 cities in California Arizona and Nevada
+Additional Information: 
+('city', 'ON', 'shore')
+('city', 'large')

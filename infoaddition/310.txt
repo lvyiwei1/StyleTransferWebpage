@@ -1,0 +1,5 @@
+Original Sentence: 
+No one was named to succeed Mr. Hartwell
+Additional Information: 
+('one', 'foot', 'one')
+('one', 'white')

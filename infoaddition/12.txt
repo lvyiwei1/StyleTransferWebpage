@@ -1,0 +1,6 @@
+Original Sentence: 
+We could still have a recession at some point
+Additional Information: 
+('recession', 'wall')
+('point', 'ON', 'fence')
+('point', 'sharp')

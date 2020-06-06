@@ -1,0 +1,9 @@
+Original Sentence: 
+They effectively lead team efforts to reduce cycle time
+Additional Information: 
+('team', 'has', 'dugout')
+('team', 'posing')
+('cycle', 'ON', 'road')
+('cycle', 'black')
+('time', 'ON', 'clock')
+('time', 'displayed')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Then take the expected return and subtract one standard deviation
+Additional Information: 
+('return', 'ON', 'street')
+('return', 'black')

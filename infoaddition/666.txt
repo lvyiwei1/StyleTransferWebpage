@@ -1,0 +1,5 @@
+Original Sentence: 
+Rigid ideological restrictions on property ownership should be abandoned
+Additional Information: 
+('property', 'has', 'ditch')
+('property', 'waterfront')

@@ -1,0 +1,7 @@
+Original Sentence: 
+But the apple industry is ripe for change
+Additional Information: 
+('apple', 'IN', 'hand')
+('apple', 'red')
+('change', 'ON', 'machine')
+('change', 'loose')

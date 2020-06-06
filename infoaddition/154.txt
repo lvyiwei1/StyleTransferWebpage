@@ -1,0 +1,7 @@
+Original Sentence: 
+Interest payments on the bonds will be payable semiannually
+Additional Information: 
+('people', 'showing', 'interest')
+('interest', 'great')
+('payment', 'for', 'produce')
+('bond', 'black ')

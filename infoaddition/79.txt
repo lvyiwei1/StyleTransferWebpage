@@ -1,0 +1,5 @@
+Original Sentence: 
+But no one else does
+Additional Information: 
+('one', 'tire', 'visible')
+('one', 'white')

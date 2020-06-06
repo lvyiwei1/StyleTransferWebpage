@@ -1,0 +1,7 @@
+Original Sentence: 
+The machine is essentially a mainframe computer he said
+Additional Information: 
+('machine', 'IN', 'track')
+('machine', 'white')
+('computer', 'ON', 'cabinet')
+('computer', 'laptop')

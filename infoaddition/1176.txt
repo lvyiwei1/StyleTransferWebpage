@@ -1,0 +1,7 @@
+Original Sentence: 
+Interest during first year paid semiannually at 7.51 %
+Additional Information: 
+('people', 'showing', 'interest')
+('interest', 'great')
+('year', 'IN', 'corner')
+('year', 'white')

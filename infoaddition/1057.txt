@@ -1,0 +1,7 @@
+Original Sentence: 
+We do n't just hand the customer the package
+Additional Information: 
+('customer', 'IN', 'coffee shop')
+('customer', 'waiting')
+('package', 'IN', 'hand')
+('package', 'white')

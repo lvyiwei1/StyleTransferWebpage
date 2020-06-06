@@ -1,0 +1,5 @@
+Original Sentence: 
+Who will take over these places
+Additional Information: 
+('place', 'full', 'snow')
+('place', 'full')

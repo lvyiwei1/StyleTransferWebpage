@@ -1,0 +1,8 @@
+Original Sentence: 
+Kellogg 's main problem is life style
+Additional Information: 
+('plane', 'has', 'problem')
+('life', 'written on', 'life guard bench')
+('life', 'printed')
+('style', 'ON', 'ceiling')
+('style', 'old')

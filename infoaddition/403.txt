@@ -1,0 +1,7 @@
+Original Sentence: 
+Pricing details were n't available
+Additional Information: 
+('sign', 'has', 'pricing')
+('pricing', 'hand written')
+('detail', 'on front of', 'wheel')
+('detail', 'red')

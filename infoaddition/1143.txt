@@ -1,0 +1,5 @@
+Original Sentence: 
+Peter Pae in Pittsburgh contributed to this article
+Additional Information: 
+('article', 'ON', 'chair')
+('article', 'newspaper')

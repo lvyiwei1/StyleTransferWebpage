@@ -1,0 +1,5 @@
+Original Sentence: 
+Yet some funds have pulled in their horns
+Additional Information: 
+('horn', 'ON', 'giraffe head')
+('horn', 'black')

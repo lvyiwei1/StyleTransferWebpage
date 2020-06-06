@@ -1,0 +1,5 @@
+Original Sentence: 
+Or call it the wave of the future
+Additional Information: 
+('wave', 'propelling', 'man')
+('wave', 'white')

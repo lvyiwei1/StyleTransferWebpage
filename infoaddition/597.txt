@@ -1,0 +1,4 @@
+Original Sentence: 
+Output of goods-producing industries increased 0.1 %
+Additional Information: 
+('output', 'electrical')

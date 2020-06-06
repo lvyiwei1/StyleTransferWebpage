@@ -1,0 +1,5 @@
+Original Sentence: 
+Now that 's advice the writers should take to heart
+Additional Information: 
+('heart', 'ON', 'bear')
+('heart', 'red')

@@ -1,0 +1,8 @@
+Original Sentence: 
+Junk bond prices moved higher however
+Additional Information: 
+('junk', 'IN', 'junkyard')
+('junk', 'lots')
+('bond', 'black ')
+('price', 'ON', 'bike')
+('price', 'written')

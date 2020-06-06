@@ -1,0 +1,5 @@
+Original Sentence: 
+That 's baseball
+Additional Information: 
+('baseball', 'ON', 'tee')
+('baseball', 'white')

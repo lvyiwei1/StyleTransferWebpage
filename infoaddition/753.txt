@@ -1,0 +1,7 @@
+Original Sentence: 
+Lloyd 's officials decline to comment on the matter
+Additional Information: 
+('official', 'WEARING', 'shirt')
+('official', 'tennis')
+('matter', 'ON', 'rim')
+('matter', 'green')

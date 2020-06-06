@@ -1,0 +1,5 @@
+Original Sentence: 
+No doubt he believes the place can be salvaged
+Additional Information: 
+('place', 'TO PUT FOOT ON', 'snowboard')
+('place', 'full')

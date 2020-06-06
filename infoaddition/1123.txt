@@ -1,0 +1,7 @@
+Original Sentence: 
+The Vatican was in the red last year
+Additional Information: 
+('red', 'safety', 'helmet')
+('red', 'red')
+('year', 'IN', 'corner')
+('year', 'white')

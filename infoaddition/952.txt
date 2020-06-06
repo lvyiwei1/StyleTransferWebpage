@@ -1,0 +1,7 @@
+Original Sentence: 
+In 1987 such selling contributed to a snowball effect
+Additional Information: 
+('snowball', 'IN', 'hand')
+('snowball', 'rolling down')
+('effect', 'ON', 'clock tower')
+('effect', 'yellow')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Analysts and competitors however doubt the numbers were that high
+Additional Information: 
+('competitor', 'holding', 'pole')
+('competitor', 'here')
+('number', 'are in a', 'box')
+('number', 'black')

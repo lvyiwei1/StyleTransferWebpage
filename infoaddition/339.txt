@@ -1,0 +1,5 @@
+Original Sentence: 
+It 's traders squaring positions
+Additional Information: 
+('man', 'IN', 'position')
+('position', 'upright')

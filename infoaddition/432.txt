@@ -1,0 +1,4 @@
+Original Sentence: 
+The actual disciplinary hearings will be public
+Additional Information: 
+('right', 'giraffe ear for', 'hearing')

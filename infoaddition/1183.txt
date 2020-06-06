@@ -1,0 +1,5 @@
+Original Sentence: 
+Policy statement P-5-39 sets out terms
+Additional Information: 
+('statement', 'credit')
+('term', 'house of david')

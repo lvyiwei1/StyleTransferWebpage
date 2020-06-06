@@ -1,0 +1,4 @@
+Original Sentence: 
+Accounting problems raise more knotty issues
+Additional Information: 
+('plane', 'has', 'problem')

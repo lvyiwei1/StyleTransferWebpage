@@ -1,0 +1,6 @@
+Original Sentence: 
+Now the push is on for more-distinctive shows
+Additional Information: 
+('push', 'ON', 'sign')
+('show', 'ON', 'television')
+('show', 'kite')

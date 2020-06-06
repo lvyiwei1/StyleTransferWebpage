@@ -1,0 +1,5 @@
+Original Sentence: 
+The judge wrote again
+Additional Information: 
+('judge', 'next to', 'fence')
+('judge', 'tennis line')

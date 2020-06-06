@@ -1,0 +1,7 @@
+Original Sentence: 
+Oil has long been Mr. Corry 's pet
+Additional Information: 
+('oil', 'ON', 'counter')
+('oil', 'hot')
+('pet', 'IN', 'yard')
+('pet', 'white')

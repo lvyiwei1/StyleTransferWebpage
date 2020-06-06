@@ -1,0 +1,5 @@
+Original Sentence: 
+It showed the DJIA up 30 points
+Additional Information: 
+('point', 'of', 'post')
+('point', 'sharp')

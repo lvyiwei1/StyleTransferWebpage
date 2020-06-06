@@ -1,0 +1,5 @@
+Original Sentence: 
+As people get even older many become widowed
+Additional Information: 
+('people', 'standing on', 'elevated area')
+('people', 'standing')

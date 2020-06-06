@@ -1,0 +1,5 @@
+Original Sentence: 
+But such thin-slab technology is only the beginning
+Additional Information: 
+('technology', 'has', 'dial')
+('technology', 'silver')

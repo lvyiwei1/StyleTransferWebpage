@@ -1,0 +1,5 @@
+Original Sentence: 
+The offering used at-market pricing
+Additional Information: 
+('sign', 'has', 'pricing')
+('pricing', 'hand written')

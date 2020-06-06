@@ -1,0 +1,7 @@
+Original Sentence: 
+One step is to beef up its fleet
+Additional Information: 
+('step', 'on a', 'pavement')
+('step', 'concrete')
+('fleet', 'OF', 'bus')
+('fleet', 'buses')

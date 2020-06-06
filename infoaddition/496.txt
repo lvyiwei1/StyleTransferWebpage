@@ -1,0 +1,5 @@
+Original Sentence: 
+Yet these purchases can be misleading
+Additional Information: 
+('woman', 'wants to', 'purchase')
+('purchase', 'Levy Restaurant')

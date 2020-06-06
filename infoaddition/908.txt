@@ -1,0 +1,5 @@
+Original Sentence: 
+Sales increased 10 % to 2.65 billion from 2.41 billion
+Additional Information: 
+('sale', 'at', 'company')
+('sale', 'red')

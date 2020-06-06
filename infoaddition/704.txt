@@ -1,0 +1,6 @@
+Original Sentence: 
+As the West German currency rose so did Merkur prices
+Additional Information: 
+('currency', 'by', 'luggage')
+('price', 'tag', 'roll')
+('price', 'written')

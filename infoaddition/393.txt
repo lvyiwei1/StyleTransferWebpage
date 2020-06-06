@@ -1,0 +1,6 @@
+Original Sentence: 
+Anti-abortion forces regard him as at best an uncertain ally
+Additional Information: 
+('force', 'ON', 'plane')
+('force', 'black')
+('people', 'in an', 'ally')

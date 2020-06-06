@@ -1,0 +1,5 @@
+Original Sentence: 
+He again urged passage of a constitutional amendment outlawing abortion
+Additional Information: 
+('passage', 'ON', 'left')
+('passage', 'gray')

@@ -1,0 +1,5 @@
+Original Sentence: 
+But others said pico should proceed
+Additional Information: 
+('others', 'at', 'beach')
+('others', 'three')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Health-insurance costs soared
+Additional Information: 
+('cost', 'displayed in front of', 'banana')

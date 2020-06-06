@@ -1,0 +1,6 @@
+Original Sentence: 
+That 's the dilemma for today 's parent
+Additional Information: 
+('sign', 'reads', 'today')
+('parent', 'holding', 'poles')
+('parent', 'chaperoning')

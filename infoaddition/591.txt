@@ -1,0 +1,7 @@
+Original Sentence: 
+Broader market averages were little changed in the latest session
+Additional Information: 
+('market', 'has', 'oranges')
+('market', 'outdoor')
+('screen', 'showing', 'session')
+('session', 'skype  ')

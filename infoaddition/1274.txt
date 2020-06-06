@@ -1,0 +1,9 @@
+Original Sentence: 
+So he 's using river in many project names
+Additional Information: 
+('river', 'by', 'tower')
+('river', 'calm')
+('he', 'discussing', 'project')
+('project', 'sewing')
+('name', 'ON', 'bike')
+('name', 'white')

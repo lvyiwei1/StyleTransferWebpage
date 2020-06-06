@@ -1,0 +1,7 @@
+Original Sentence: 
+Each share point is worth about 60 million in sales
+Additional Information: 
+('point', 'OF', 'tower')
+('point', 'sharp')
+('sale', 'at', 'company')
+('sale', 'red')

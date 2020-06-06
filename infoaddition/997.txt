@@ -1,0 +1,5 @@
+Original Sentence: 
+Is such a view justified
+Additional Information: 
+('view', 'OF', 'zebra')
+('view', 'beautiful')

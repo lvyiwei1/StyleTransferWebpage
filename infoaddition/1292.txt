@@ -1,0 +1,7 @@
+Original Sentence: 
+The farmer barges into the naczelnik 's office
+Additional Information: 
+('farmer', 'with', 'blue shirt')
+('farmer', 'holding')
+('office', 'seen', 'here')
+('office', 'small')

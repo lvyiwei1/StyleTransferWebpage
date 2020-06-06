@@ -1,0 +1,5 @@
+Original Sentence: 
+What was my angle
+Additional Information: 
+('angle', 'on side of', 'wall')
+('angle', 'white')

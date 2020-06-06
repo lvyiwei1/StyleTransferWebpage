@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Gonzalez is not quite a closet supply-side revolutionary however
+Additional Information: 
+('closet', 'has', 'door')
+('closet', 'wooden')

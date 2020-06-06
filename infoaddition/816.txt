@@ -1,0 +1,5 @@
+Original Sentence: 
+The price was n't disclosed
+Additional Information: 
+('price', 'for', 'avocados')
+('price', 'written')

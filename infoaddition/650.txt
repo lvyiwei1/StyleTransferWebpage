@@ -1,0 +1,7 @@
+Original Sentence: 
+Prof. Arbel urges investors to discard stocks in small companies
+Additional Information: 
+('stock', 'of', 'stock')
+('stock', 'green')
+('company', 'that owns', 'bus')
+('company', 'name')

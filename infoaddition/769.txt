@@ -1,0 +1,4 @@
+Original Sentence: 
+But Sony is a problem
+Additional Information: 
+('plane', 'has', 'problem')

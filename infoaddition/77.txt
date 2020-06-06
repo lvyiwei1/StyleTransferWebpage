@@ -1,0 +1,8 @@
+Original Sentence: 
+On some days the Nucor plant does n't produce anything
+Additional Information: 
+('day', 'time', 'picture')
+('day', 'sunny')
+('plant', 'behind', 'guard rail')
+('plant', 'green')
+('part', 'of a speaker not connected to', 'anything')

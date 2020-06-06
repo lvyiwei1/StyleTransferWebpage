@@ -1,0 +1,6 @@
+Original Sentence: 
+The rest as they say is history
+Additional Information: 
+('rest', 'made out of', 'wood')
+('rest', 'arm')
+('the', 'word', 'history')

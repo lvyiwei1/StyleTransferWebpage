@@ -1,0 +1,7 @@
+Original Sentence: 
+Step 1 cleans up our books
+Additional Information: 
+('step', 'by', 'structure')
+('step', 'concrete')
+('book', 'on top of', 'bookshelf')
+('book', 'white')

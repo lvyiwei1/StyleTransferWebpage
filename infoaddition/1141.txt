@@ -1,0 +1,7 @@
+Original Sentence: 
+The bank employs 8,000 people in Spain and 2,000 abroad
+Additional Information: 
+('bank', 'with', 'shadow')
+('bank', 'grassy')
+('people', 'crossing', 'street')
+('people', 'standing')

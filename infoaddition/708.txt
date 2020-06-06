@@ -1,0 +1,5 @@
+Original Sentence: 
+Aldus officials could n't be reached for comment
+Additional Information: 
+('official', 'ON', 'baseball')
+('official', 'tennis')

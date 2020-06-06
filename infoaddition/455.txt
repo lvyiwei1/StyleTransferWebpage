@@ -1,0 +1,7 @@
+Original Sentence: 
+Nevertheless the device has been successful in other ways
+Additional Information: 
+('device', 'IN', 'hand')
+('device', 'electronic')
+('way', 'IN', 'wall')
+('way', 'walk')

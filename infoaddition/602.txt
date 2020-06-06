@@ -1,0 +1,6 @@
+Original Sentence: 
+The year was misstated in Friday 's editions
+Additional Information: 
+('year', 'ON', 'bench')
+('year', 'white')
+('edition', 'word')

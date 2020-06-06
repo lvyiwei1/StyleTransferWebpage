@@ -1,0 +1,4 @@
+Original Sentence: 
+In addition global petroleum demand has been climbing
+Additional Information: 
+('addition', 'to', 'sign')

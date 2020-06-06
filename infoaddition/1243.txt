@@ -1,0 +1,5 @@
+Original Sentence: 
+Police did n't intervene
+Additional Information: 
+('police', 'station', 'building')
+('police', 'riding')

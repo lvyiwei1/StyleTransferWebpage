@@ -1,0 +1,7 @@
+Original Sentence: 
+NORTHERN CALIFORNIA BRACED for earthquake-related traffic jams
+Additional Information: 
+('traffic', 'driving on', 'road')
+('traffic', 'heavy')
+('jam', 'in a', 'cup')
+('jam', 'red')

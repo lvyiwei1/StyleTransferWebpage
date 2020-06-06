@@ -1,0 +1,6 @@
+Original Sentence: 
+Advertisers already are balking at higher prices
+Additional Information: 
+('advertiser', 'ON', 'train')
+('price', 'ON', 'tag')
+('price', 'written')

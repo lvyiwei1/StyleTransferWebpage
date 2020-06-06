@@ -1,0 +1,5 @@
+Original Sentence: 
+People are placing small bets
+Additional Information: 
+('people', 'ON', 'bikes')
+('people', 'standing')

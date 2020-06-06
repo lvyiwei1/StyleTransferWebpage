@@ -1,0 +1,5 @@
+Original Sentence: 
+But he added interest-rate-sensitive stocks in general are stalled
+Additional Information: 
+('stock', 'OF', 'broccoli')
+('stock', 'green')

@@ -1,0 +1,5 @@
+Original Sentence: 
+For Cathay Pacific Airways the smooth ride may be ending
+Additional Information: 
+('ride', 'IN', 'background')
+('ride', 'tall')

@@ -1,0 +1,5 @@
+Original Sentence: 
+We would even save on freight
+Additional Information: 
+('freight', 'on side of', 'train')
+('freight', 'red')

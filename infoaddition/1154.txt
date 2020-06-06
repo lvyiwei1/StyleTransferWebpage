@@ -1,0 +1,5 @@
+Original Sentence: 
+And export business is still good
+Additional Information: 
+('business', 'has', 'entrance')
+('business', 'here')

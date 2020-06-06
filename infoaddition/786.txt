@@ -1,0 +1,5 @@
+Original Sentence: 
+Still Vista officials realize they 're relatively fortunate
+Additional Information: 
+('official', 'has', 'shirt')
+('official', 'tennis')

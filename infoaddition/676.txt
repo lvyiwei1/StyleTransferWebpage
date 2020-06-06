@@ -1,0 +1,5 @@
+Original Sentence: 
+Analysts however were surprised because the tender offer appeared unsolicited
+Additional Information: 
+('letters', 'ON', 'tender')
+('tender', 'elephant')

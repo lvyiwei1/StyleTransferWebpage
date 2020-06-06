@@ -1,0 +1,7 @@
+Original Sentence: 
+Niche-itis fragments our advertising dollars said Mr. Lauder
+Additional Information: 
+('advertising', 'ON', 'advertising')
+('advertising', 'white')
+('dollar', 'IN', 'hand')
+('dollar', 'twenty')

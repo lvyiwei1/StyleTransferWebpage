@@ -1,0 +1,6 @@
+Original Sentence: 
+But the lack of lines became painfully apparent
+Additional Information: 
+('lack', 'in front', 'hills')
+('line', 'by', 'fire truck')
+('line', 'white')

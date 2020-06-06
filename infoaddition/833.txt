@@ -1,0 +1,5 @@
+Original Sentence: 
+Should the rest of the Series be played at all
+Additional Information: 
+('rest', 'ON', 'bench')
+('rest', 'arm')

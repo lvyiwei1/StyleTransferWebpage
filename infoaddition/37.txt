@@ -1,0 +1,5 @@
+Original Sentence: 
+The Northeast and West regions were unchanged
+Additional Information: 
+('region', 'around', 'stop sign')
+('region', 'mountainous')

@@ -1,0 +1,5 @@
+Original Sentence: 
+It Helps to Be Male
+Additional Information: 
+('male', 'ON', 'pike edge')
+('male', 'white')

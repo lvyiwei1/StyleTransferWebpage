@@ -1,0 +1,5 @@
+Original Sentence: 
+The pharmaceuticals maker had traded over-the-counter
+Additional Information: 
+('maker', 'ON', 'cart')
+('maker', 'coffee')

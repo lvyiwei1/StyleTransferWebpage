@@ -1,0 +1,4 @@
+Original Sentence: 
+The two are also signing a trade agreement
+Additional Information: 
+('company name', 'says', 'trade')

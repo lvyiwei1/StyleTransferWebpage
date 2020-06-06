@@ -1,0 +1,5 @@
+Original Sentence: 
+But a few funds have taken other defensive steps
+Additional Information: 
+('step', 'under', 'door')
+('step', 'concrete')

@@ -1,0 +1,5 @@
+Original Sentence: 
+The magazine called in Mr. Hyman as a consultant
+Additional Information: 
+('magazine', 'IN', 'lap')
+('magazine', 'open')

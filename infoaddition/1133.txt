@@ -1,0 +1,5 @@
+Original Sentence: 
+And her husband sometimes calls her Ducky
+Additional Information: 
+('husband', 'and', 'wife')
+('husband', 'walking')

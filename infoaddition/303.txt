@@ -1,0 +1,5 @@
+Original Sentence: 
+It takes one person 's account and gives it authenticity
+Additional Information: 
+('person', 'walking down', 'stairs')
+('person', 'standing')

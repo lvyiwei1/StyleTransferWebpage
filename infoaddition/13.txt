@@ -1,0 +1,7 @@
+Original Sentence: 
+Initial interest rate set at 0.375 point over three-month Libor
+Additional Information: 
+('people', 'showing', 'interest')
+('interest', 'great')
+('point', 'ON', 'tower')
+('point', 'sharp')

@@ -1,0 +1,6 @@
+Original Sentence: 
+We recognized the problem and took care of it
+Additional Information: 
+('plane', 'has', 'problem')
+('fence', 'encloses', 'care')
+('care', 'red')

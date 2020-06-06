@@ -1,0 +1,7 @@
+Original Sentence: 
+Either one likes it or one does n't
+Additional Information: 
+('one', 'tall giraffes standing', 'up')
+('one', 'white')
+('one', 'person', 'skating')
+('one', 'white')

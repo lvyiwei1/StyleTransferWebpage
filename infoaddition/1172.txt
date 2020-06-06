@@ -1,0 +1,4 @@
+Original Sentence: 
+Ortega cited renewed attacks by the U.S.backed rebels
+Additional Information: 
+('attack', 'are', 'attack')

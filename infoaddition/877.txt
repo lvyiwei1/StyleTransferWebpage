@@ -1,0 +1,6 @@
+Original Sentence: 
+The percentage change is since year-end
+Additional Information: 
+('coupon', 'has', 'percentage')
+('change', 'ON', 'machine')
+('change', 'loose')

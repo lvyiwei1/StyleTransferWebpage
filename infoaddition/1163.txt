@@ -1,0 +1,6 @@
+Original Sentence: 
+Everyone in the world is watching us very closely
+Additional Information: 
+('everyone', 'ON', 'sidewalk')
+('everyone', 'smiling')
+('world', 'map on', 'wall')

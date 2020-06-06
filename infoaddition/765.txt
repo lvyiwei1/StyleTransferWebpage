@@ -1,0 +1,5 @@
+Original Sentence: 
+The paper reflected the truth
+Additional Information: 
+('paper', 'in front of', 'boy')
+('paper', 'white')

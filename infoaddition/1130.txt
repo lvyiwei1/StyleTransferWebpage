@@ -1,0 +1,8 @@
+Original Sentence: 
+American Express card charge volume rose 12 %
+Additional Information: 
+('card', 'thats pink', 'on the shelf')
+('card', 'white')
+('charge', 'can', 'charge')
+('volume', 'ON', 'headphones')
+('volume', '3')

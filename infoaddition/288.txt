@@ -1,0 +1,4 @@
+Original Sentence: 
+It is what lawyers call fact intensive
+Additional Information: 
+('lawyer', 'showing a', 'paper')

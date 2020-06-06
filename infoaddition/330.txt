@@ -1,0 +1,5 @@
+Original Sentence: 
+But the production is the equal of any local program
+Additional Information: 
+('program', 'beside', 'table')
+('program', 'wedding')

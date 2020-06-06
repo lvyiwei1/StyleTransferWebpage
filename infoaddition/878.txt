@@ -1,0 +1,5 @@
+Original Sentence: 
+The cafeteria remains closed
+Additional Information: 
+('cafeteria', 'has', 'shelf')
+('cafeteria', 'in school')

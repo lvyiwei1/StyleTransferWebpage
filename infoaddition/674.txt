@@ -1,0 +1,6 @@
+Original Sentence: 
+Results for the earlier quarter included a 100,000 restructuring charge
+Additional Information: 
+('quarter', 'OF', 'train')
+('quarter', 'silver')
+('charge', 'can', 'charge')

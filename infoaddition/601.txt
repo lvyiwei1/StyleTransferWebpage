@@ -1,0 +1,4 @@
+Original Sentence: 
+The fares are code-named Hugo Compassion and Virgin Islands Aid
+Additional Information: 
+('sign', 'saying', 'fare')

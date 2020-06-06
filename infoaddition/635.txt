@@ -1,0 +1,9 @@
+Original Sentence: 
+Officials expect difficulty routing traffic through downtown San Francisco
+Additional Information: 
+('official', 'sitting in', 'chair')
+('official', 'tennis')
+('traffic', 'IN', 'street')
+('traffic', 'heavy')
+('downtown', 'city', 'street')
+('downtown', 'fancy')

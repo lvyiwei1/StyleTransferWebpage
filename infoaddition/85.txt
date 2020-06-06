@@ -1,0 +1,5 @@
+Original Sentence: 
+Bloomingdale 's does an estimated 1.2 billion in annual sales
+Additional Information: 
+('sale', 'at', 'company')
+('sale', 'red')

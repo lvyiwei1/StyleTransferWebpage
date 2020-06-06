@@ -1,0 +1,7 @@
+Original Sentence: 
+Few telephone lines snapped
+Additional Information: 
+('telephone', 'near', 'laptop')
+('telephone', 'black')
+('line', 'IN', 'highway')
+('line', 'white')

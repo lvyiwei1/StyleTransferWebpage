@@ -1,0 +1,4 @@
+Original Sentence: 
+In the meantime the arbs are bleeding
+Additional Information: 
+('sign', 'says', 'arb')

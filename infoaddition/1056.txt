@@ -1,0 +1,7 @@
+Original Sentence: 
+The solution to this problem is a time-limited poison pill
+Additional Information: 
+('solution', 'for', 'windows')
+('plane', 'has', 'problem')
+('pill', 'ON', 'table')
+('pill', 'pink')

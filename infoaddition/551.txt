@@ -1,0 +1,8 @@
+Original Sentence: 
+Slowing economies in some areas limit student choice
+Additional Information: 
+('economy', 'ON', 'train')
+('area', 'near', 'street')
+('area', 'grassy')
+('student', 'at', 'desk')
+('student', 'ethnic')

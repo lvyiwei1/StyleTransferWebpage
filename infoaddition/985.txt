@@ -1,0 +1,5 @@
+Original Sentence: 
+Was 300 ft. out on a pier in San Rafael
+Additional Information: 
+('pier', 'IN', 'calm water')
+('pier', 'wooden')

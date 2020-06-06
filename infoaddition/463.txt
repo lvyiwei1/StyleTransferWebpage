@@ -1,0 +1,7 @@
+Original Sentence: 
+South African gold stocks closed moderately lower
+Additional Information: 
+('gold', 'and', 'silver')
+('gold', 'brown')
+('stock', 'of', 'stock')
+('stock', 'green')

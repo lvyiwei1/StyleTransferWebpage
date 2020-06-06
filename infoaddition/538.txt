@@ -1,0 +1,11 @@
+Original Sentence: 
+CHRISTMAS SHOPPERS find a helping hand from some catalog companies
+Additional Information: 
+('shopper', 'IN', 'dress')
+('shopper', 'shopping')
+('hand', 'IN', 'fork')
+('hand', 'black')
+('catalog', 'ON', 'coffee table')
+('catalog', 'cards')
+('company', 'that owns', 'bus')
+('company', 'name')

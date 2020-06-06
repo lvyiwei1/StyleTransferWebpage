@@ -1,0 +1,5 @@
+Original Sentence: 
+Japan 's markets are more stable he said
+Additional Information: 
+('market', 'has', 'oranges')
+('market', 'outdoor')

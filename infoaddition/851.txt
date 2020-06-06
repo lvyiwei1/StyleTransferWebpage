@@ -1,0 +1,7 @@
+Original Sentence: 
+He got three trucks and a backhoe cheap
+Additional Information: 
+('truck', 'parked near', 'house')
+('truck', 'white')
+('backhoe', 'IN', 'background')
+('backhoe', 'yellow')

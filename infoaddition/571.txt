@@ -1,0 +1,6 @@
+Original Sentence: 
+Looking ahead to other commodity markets this week
+Additional Information: 
+('market', 'filled with', 'green peppers')
+('market', 'outdoor')
+('day', 'OF', 'week')

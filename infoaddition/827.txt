@@ -1,0 +1,8 @@
+Original Sentence: 
+He 's the kind of guy who rescues trampled flags
+Additional Information: 
+('kind', 'ON', 'sidewalk')
+('guy', 'ON', 'ground')
+('guy', 'standing')
+('flag', 'IN', 'hand')
+('flag', 'red')

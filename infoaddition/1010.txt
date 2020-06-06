@@ -1,0 +1,4 @@
+Original Sentence: 
+El Paso owns and operates a petroleum refinery
+Additional Information: 
+('refinery', 'behind', 'hill')

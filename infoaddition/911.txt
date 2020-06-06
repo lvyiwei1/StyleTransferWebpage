@@ -1,0 +1,5 @@
+Original Sentence: 
+It invests primarily in tax-exempt municipal securities
+Additional Information: 
+('security', 'over', 'doors')
+('security', 'standing')

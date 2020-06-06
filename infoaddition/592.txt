@@ -1,0 +1,5 @@
+Original Sentence: 
+Advancing issues beat declining ones 1,271 to 811
+Additional Information: 
+('one', 'blade of dried brown', 'grass')
+('one', 'white')

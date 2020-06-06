@@ -1,0 +1,6 @@
+Original Sentence: 
+The bonds ended about 1\/2 point higher yesterday
+Additional Information: 
+('bond', 'black ')
+('point', 'has', 'trees')
+('point', 'sharp')

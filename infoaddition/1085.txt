@@ -1,0 +1,5 @@
+Original Sentence: 
+There 'll be fewer and fewer deals
+Additional Information: 
+('deal', 'OF', 'bananas')
+('deal', 'great')

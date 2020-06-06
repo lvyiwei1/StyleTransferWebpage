@@ -1,0 +1,7 @@
+Original Sentence: 
+Not that oil suddenly is a sure thing again
+Additional Information: 
+('oil', 'ON', 'street')
+('oil', 'hot')
+('thing', 'ON', 'table')
+('thing', 'black')

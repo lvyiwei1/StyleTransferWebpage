@@ -1,0 +1,5 @@
+Original Sentence: 
+Baker had lots of them
+Additional Information: 
+('lot', 'made of', 'grey brick pavers')
+('lot', 'parking')

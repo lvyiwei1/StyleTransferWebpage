@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Roberts was assistant Treasury secretary under President Reagan
+Additional Information: 
+('book', 'ON', 'secretary')
+('secretary', 'wood')

@@ -1,0 +1,4 @@
+Original Sentence: 
+By 10 a.m. it was down 49
+Additional Information: 
+('a.m.', 'says', 'a.m.')

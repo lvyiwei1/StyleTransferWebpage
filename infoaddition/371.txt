@@ -1,0 +1,5 @@
+Original Sentence: 
+Borrowed shares on the Amex rose to another record
+Additional Information: 
+('record', 'ON', 'record player')
+('record', 'black')

@@ -1,0 +1,7 @@
+Original Sentence: 
+And some fund groups said investors actually became net buyers
+Additional Information: 
+('group', 'OF', 'trees')
+('group', 'large')
+('buyer', 'looking at', 'goods')
+('buyer', 'prospective')

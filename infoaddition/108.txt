@@ -1,0 +1,5 @@
+Original Sentence: 
+Then there 'll be fair competition
+Additional Information: 
+('skiers', 'in a', 'competition')
+('competition', 'horse')

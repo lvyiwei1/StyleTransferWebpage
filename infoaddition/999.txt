@@ -1,0 +1,9 @@
+Original Sentence: 
+Pulp processed and miscellaneous paper sales also surged
+Additional Information: 
+('pulp', 'OF', 'orange')
+('pulp', 'orange')
+('paper', 'under', 'bun')
+('paper', 'white')
+('sale', 'at', 'company')
+('sale', 'red')

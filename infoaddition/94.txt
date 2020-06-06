@@ -1,0 +1,5 @@
+Original Sentence: 
+Ford has signaled it might acquire a majority interest later
+Additional Information: 
+('people', 'showing', 'interest')
+('interest', 'great')

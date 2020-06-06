@@ -1,0 +1,5 @@
+Original Sentence: 
+Our commitment to manage these businesses profitably will continue
+Additional Information: 
+('business', 'has', 'entrance')
+('business', 'here')

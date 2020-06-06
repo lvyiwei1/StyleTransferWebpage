@@ -1,0 +1,5 @@
+Original Sentence: 
+Real heroes exist
+Additional Information: 
+('hero', 'ON', 'bike seat')
+('hero', 'written')

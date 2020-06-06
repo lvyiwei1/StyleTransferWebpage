@@ -1,0 +1,4 @@
+Original Sentence: 
+Deciding what constitutes terrorism can be a legalistic exercise
+Additional Information: 
+('man', 'getting', 'exercise')

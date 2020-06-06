@@ -1,0 +1,5 @@
+Original Sentence: 
+It expects any impact on its business to be slight
+Additional Information: 
+('business', 'near', 'street')
+('business', 'here')

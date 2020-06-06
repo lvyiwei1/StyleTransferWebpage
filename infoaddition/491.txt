@@ -1,0 +1,5 @@
+Original Sentence: 
+More recently property rates have increased
+Additional Information: 
+('property', 'IN', 'background')
+('property', 'waterfront')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Thursday 's edition misstated the narrowing
+Additional Information: 
+('edition', 'word')

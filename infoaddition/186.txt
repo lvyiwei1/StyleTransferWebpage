@@ -1,0 +1,5 @@
+Original Sentence: 
+People are n't panicking
+Additional Information: 
+('people', 'ON', 'bikes')
+('people', 'standing')

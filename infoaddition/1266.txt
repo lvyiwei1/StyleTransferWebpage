@@ -1,0 +1,7 @@
+Original Sentence: 
+Proceeds will be used for capital expenditures and working capital
+Additional Information: 
+('capital', 'building in washington', 'dc')
+('capital', 'a')
+('capital', 'building in washington', 'dc')
+('capital', 'a')

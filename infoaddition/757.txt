@@ -1,0 +1,6 @@
+Original Sentence: 
+The plan lacked a withdrawal timetable
+Additional Information: 
+('plan', 'behind', 'guy')
+('plan', 'air')
+('timetable', 'listed')

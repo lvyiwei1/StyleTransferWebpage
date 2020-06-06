@@ -1,0 +1,5 @@
+Original Sentence: 
+It had been due to expire Friday evening
+Additional Information: 
+('evening', 'ON', 'ocean')
+('evening', 'dark')

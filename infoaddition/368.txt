@@ -1,0 +1,7 @@
+Original Sentence: 
+They ca n't buy feed from the state
+Additional Information: 
+('feed', 'under', 'nose')
+('feed', 'black')
+('state', 'ON', 'sign')
+('state', 'Penn ')

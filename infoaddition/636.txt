@@ -1,0 +1,7 @@
+Original Sentence: 
+Foreign traders say the company is strapped for cash
+Additional Information: 
+('company', 'has', 'logo')
+('company', 'name')
+('cash', 'inside', 'purse')
+('cash', 'Two round pieces  ')

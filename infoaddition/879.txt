@@ -1,0 +1,5 @@
+Original Sentence: 
+If you do n't you ca n't do your job
+Additional Information: 
+('job', 'ON', 'bus')
+('job', 'decorative')

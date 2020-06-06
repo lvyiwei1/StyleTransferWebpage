@@ -1,0 +1,5 @@
+Original Sentence: 
+Nor does it cover the entire portfolio
+Additional Information: 
+('portfolio', 'IN', 'hand')
+('portfolio', 'black')

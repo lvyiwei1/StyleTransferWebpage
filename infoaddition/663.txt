@@ -1,0 +1,7 @@
+Original Sentence: 
+They are starting to buy growth stocks
+Additional Information: 
+('growth', 'on terrain', 'green')
+('growth', 'green')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

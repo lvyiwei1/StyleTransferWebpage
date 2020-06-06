@@ -1,0 +1,6 @@
+Original Sentence: 
+Figures do n't include taxes or transaction costs
+Additional Information: 
+('figure', 'ON', 'building')
+('figure', 'green')
+('cost', 'displayed in front of', 'banana')

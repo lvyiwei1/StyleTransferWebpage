@@ -1,0 +1,5 @@
+Original Sentence: 
+Nothing less it seemed could console them for their traumas
+Additional Information: 
+('nothing', 'IN', 'sky')
+('nothing', 'clear')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Time officials declined to comment
+Additional Information: 
+('official', 'with', 'hand')
+('official', 'tennis')

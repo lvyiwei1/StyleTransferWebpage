@@ -1,0 +1,5 @@
+Original Sentence: 
+So he advises make goals achievable
+Additional Information: 
+('goal', 'behind', 'elephant')
+('goal', 'white')

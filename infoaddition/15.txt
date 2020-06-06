@@ -1,0 +1,5 @@
+Original Sentence: 
+But gay rights advocates are angry too
+Additional Information: 
+('right', 'hanging', 'lights')
+('right', 'far')

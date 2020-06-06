@@ -1,0 +1,7 @@
+Original Sentence: 
+Bush administration officials say inflation is under control
+Additional Information: 
+('official', 'IN', 'chair')
+('official', 'tennis')
+('control', 'has', 'button')
+('control', 'remote')

@@ -1,0 +1,7 @@
+Original Sentence: 
+The envelope arrives in the mail
+Additional Information: 
+('envelope', 'for', 'paper')
+('envelope', 'white')
+('mail', 'ON', 'desk')
+('mail', 'white')

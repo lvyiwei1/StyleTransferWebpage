@@ -1,0 +1,5 @@
+Original Sentence: 
+The executive branch bears the first responsibility for timidity
+Additional Information: 
+('branch', 'ON', 'tree')
+('branch', 'brown')

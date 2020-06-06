@@ -1,0 +1,5 @@
+Original Sentence: 
+The windows will open
+Additional Information: 
+('window', 'on side of', 'bus')
+('window', 'glass')

@@ -1,0 +1,5 @@
+Original Sentence: 
+It also saves money
+Additional Information: 
+('money', 'hanging out of', 'briefcase')
+('money', 'paper')

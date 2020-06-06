@@ -1,0 +1,5 @@
+Original Sentence: 
+Ultimately they paid more than 1 million for the rights
+Additional Information: 
+('right', 'foot with ten', 'sneaker')
+('right', 'far')

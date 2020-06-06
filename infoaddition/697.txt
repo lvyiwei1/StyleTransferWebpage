@@ -1,0 +1,6 @@
+Original Sentence: 
+If nobody buys I bring my prices down
+Additional Information: 
+('nobody', 'on top of', 'skateboard')
+('price', 'tag', 'roll')
+('price', 'written')

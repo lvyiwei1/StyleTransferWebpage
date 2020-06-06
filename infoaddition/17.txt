@@ -1,0 +1,7 @@
+Original Sentence: 
+There 's lots of supply the New York trader said
+Additional Information: 
+('lot', 'with', 'vehicles')
+('lot', 'parking')
+('supply', 'ON', 'table')
+('supply', 'all')

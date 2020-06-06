@@ -1,0 +1,5 @@
+Original Sentence: 
+Rep. Bates said he would write the letters as ordered
+Additional Information: 
+('letter', 'says', 'happy new year')
+('letter', 'white')

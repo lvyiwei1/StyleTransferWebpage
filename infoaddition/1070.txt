@@ -1,0 +1,7 @@
+Original Sentence: 
+The Fed also has the power to set margin requirements
+Additional Information: 
+('power', 'cord', 'over pole')
+('power', 'on')
+('margin', 'separating', 'photo')
+('margin', 'thick')

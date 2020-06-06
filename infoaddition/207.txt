@@ -1,0 +1,4 @@
+Original Sentence: 
+Strategy however is about possibilities not hopes and dreams
+Additional Information: 
+('dream', 'capital letters')

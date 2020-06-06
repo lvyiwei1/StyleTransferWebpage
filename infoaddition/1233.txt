@@ -1,0 +1,5 @@
+Original Sentence: 
+Uneasiness about Wall Street was cited in several markets
+Additional Information: 
+('market', 'full of', 'people')
+('market', 'outdoor')

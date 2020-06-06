@@ -1,0 +1,5 @@
+Original Sentence: 
+The company paid five cents a share in April
+Additional Information: 
+('company', 'has', 'name')
+('company', 'name')

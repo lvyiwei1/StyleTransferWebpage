@@ -1,0 +1,7 @@
+Original Sentence: 
+The suit seeks unspecified damages
+Additional Information: 
+('suit', 'has', 'tie')
+('suit', 'black')
+('damage', 'IN', 'building')
+('damage', 'moisture')

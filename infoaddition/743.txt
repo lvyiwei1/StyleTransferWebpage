@@ -1,0 +1,5 @@
+Original Sentence: 
+The shuttle is slated to return Monday to California
+Additional Information: 
+('shuttle', 'has a', 'logo')
+('shuttle', 'white')

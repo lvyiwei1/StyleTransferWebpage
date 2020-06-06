@@ -1,0 +1,5 @@
+Original Sentence: 
+And pregnant women are fat
+Additional Information: 
+('woman', 'IN', 'dress jacket')
+('woman', 'standing')

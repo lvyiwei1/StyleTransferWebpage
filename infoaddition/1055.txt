@@ -1,0 +1,6 @@
+Original Sentence: 
+December delivery gold eased 40 cents an ounce to 380.80
+Additional Information: 
+('van', 'for', 'delivery')
+('gold', 'brown', 'watch')
+('gold', 'brown')

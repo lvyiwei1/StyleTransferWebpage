@@ -1,0 +1,4 @@
+Original Sentence: 
+What happened Friday was the worst of all worlds
+Additional Information: 
+('world', 'ON', 'cover')

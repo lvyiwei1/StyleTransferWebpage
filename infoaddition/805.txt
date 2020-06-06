@@ -1,0 +1,5 @@
+Original Sentence: 
+It will develop produce and market high-performance electronic parts
+Additional Information: 
+('part', 'of a', 'grass')
+('part', 'small')

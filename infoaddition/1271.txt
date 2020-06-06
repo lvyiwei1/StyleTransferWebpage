@@ -1,0 +1,5 @@
+Original Sentence: 
+Growth is slower
+Additional Information: 
+('growth', 'on', 'shore')
+('growth', 'green')

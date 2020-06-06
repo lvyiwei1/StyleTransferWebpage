@@ -1,0 +1,5 @@
+Original Sentence: 
+So what 's a parent to do
+Additional Information: 
+('parent', 'has', 'stroller')
+('parent', 'chaperoning')

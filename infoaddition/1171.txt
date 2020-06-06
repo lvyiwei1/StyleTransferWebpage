@@ -1,0 +1,5 @@
+Original Sentence: 
+Pitcher = lanzador
+Additional Information: 
+('pitcher', 'ON', 'table')
+('pitcher', 'white')

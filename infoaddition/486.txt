@@ -1,0 +1,7 @@
+Original Sentence: 
+There 's nothing on the other side
+Additional Information: 
+('nothing', 'IN', 'sky')
+('nothing', 'clear')
+('side', 'of a', 'eyeglasses')
+('side', 'white')

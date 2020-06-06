@@ -1,0 +1,5 @@
+Original Sentence: 
+Not even all the brokerage firms see clear sailing ahead
+Additional Information: 
+('sailing', 'IN', 'ocean')
+('sailing', 'wind')

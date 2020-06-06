@@ -1,0 +1,5 @@
+Original Sentence: 
+We are the producers of that movie
+Additional Information: 
+('movie', 'under', 'stand')
+('movie', 'vhs')

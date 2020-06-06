@@ -1,0 +1,9 @@
+Original Sentence: 
+Piping in a waste-treatment plant needed immediate repairs
+Additional Information: 
+('piping', 'ON', 'cover')
+('piping', 'silver')
+('plant', 'growing on', 'ground')
+('plant', 'green')
+('repair', 'ON', 'wall')
+('repair', 'reconstruction')

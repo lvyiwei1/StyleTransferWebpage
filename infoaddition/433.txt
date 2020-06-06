@@ -1,0 +1,8 @@
+Original Sentence: 
+The laws take effect next month
+Additional Information: 
+('drivers', 'are obeying', 'law')
+('effect', 'ON', 'clock tower')
+('effect', 'yellow')
+('month', 'around', 'face')
+('month', 'ninth')

@@ -1,0 +1,5 @@
+Original Sentence: 
+She wants things to be exciting
+Additional Information: 
+('thing', 'in back of', 'train')
+('thing', 'black')

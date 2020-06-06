@@ -1,0 +1,4 @@
+Original Sentence: 
+Your Sept. 25 criticism of credit-card foreign-exchange charges is unwarranted
+Additional Information: 
+('charge', 'can', 'charge')

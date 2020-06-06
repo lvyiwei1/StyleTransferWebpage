@@ -1,0 +1,5 @@
+Original Sentence: 
+Maybe it was their peculiar sense of history
+Additional Information: 
+('phrase', 'makes no', 'sense')
+('the', 'word', 'history')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Municipals ended mixed while mortgage-backed and investment-grade corporate bonds rose
+Additional Information: 
+('bond', 'black ')

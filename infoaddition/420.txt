@@ -1,0 +1,5 @@
+Original Sentence: 
+The construction industry is sure to feel increased demand
+Additional Information: 
+('construction', 'ON', 'sheets')
+('construction', 'gate')

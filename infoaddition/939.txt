@@ -1,0 +1,7 @@
+Original Sentence: 
+For starters some people call Ed and Lorraine Warren
+Additional Information: 
+('starter', 'ON', 'table')
+('starter', 'motorcycle kick')
+('people', 'at', 'table')
+('people', 'standing')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Those companies are paying the price for taking the risk
+Additional Information: 
+('company', 'OF', 'company')
+('company', 'name')
+('price', 'ON', 'sign')
+('price', 'written')

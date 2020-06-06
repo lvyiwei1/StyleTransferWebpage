@@ -1,0 +1,5 @@
+Original Sentence: 
+Friday you could n't sell dollars he says
+Additional Information: 
+('dollar', 'ON', 'table')
+('dollar', 'twenty')

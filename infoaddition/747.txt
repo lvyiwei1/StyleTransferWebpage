@@ -1,0 +1,10 @@
+Original Sentence: 
+Trouble is junk bond prices have been weak for months
+Additional Information: 
+('junk', 'by', 'building')
+('junk', 'lots')
+('bond', 'black ')
+('price', 'ON', 'sign')
+('price', 'written')
+('month', 'OF', 'picture')
+('month', 'ninth')

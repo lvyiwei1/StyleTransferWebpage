@@ -1,0 +1,5 @@
+Original Sentence: 
+The hotel is scheduled to open in 1992
+Additional Information: 
+('hotel', 'has', 'window')
+('hotel', 'large')

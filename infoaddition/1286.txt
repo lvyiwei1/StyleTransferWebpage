@@ -1,0 +1,6 @@
+Original Sentence: 
+That means huge travel bills
+Additional Information: 
+('travel', 'guide', 'book')
+('bill', 'OF', "man's hat")
+('bill', 'orange')

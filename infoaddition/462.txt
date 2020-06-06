@@ -1,0 +1,4 @@
+Original Sentence: 
+Issues of insurance brokers were especially strong
+Additional Information: 
+('advertisement', 'for', 'insurance')

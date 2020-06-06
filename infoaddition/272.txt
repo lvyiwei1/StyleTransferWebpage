@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Shioya has turned the tables
+Additional Information: 
+('table', 'with', 'chairs')
+('table', 'wooden')

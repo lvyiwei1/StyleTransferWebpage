@@ -1,0 +1,5 @@
+Original Sentence: 
+Known as Easy Eggs the product has disappointed investors
+Additional Information: 
+('product', 'IN', 'box')
+('product', 'bathroom')

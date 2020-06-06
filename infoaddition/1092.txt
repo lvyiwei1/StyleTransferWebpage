@@ -1,0 +1,5 @@
+Original Sentence: 
+It was like driving down the highway watching a wreck
+Additional Information: 
+('highway', 'near', 'truck')
+('highway', 'busy')

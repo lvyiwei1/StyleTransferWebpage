@@ -1,0 +1,5 @@
+Original Sentence: 
+The bank acquiesced
+Additional Information: 
+('bank', 'by', 'water')
+('bank', 'grassy')

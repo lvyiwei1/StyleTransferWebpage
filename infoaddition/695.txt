@@ -1,0 +1,4 @@
+Original Sentence: 
+Then they identified snags in the process
+Additional Information: 
+('snag', 'in bed', 'spread')

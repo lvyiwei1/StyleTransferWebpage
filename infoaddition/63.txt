@@ -1,0 +1,7 @@
+Original Sentence: 
+The walls shook the building rocked
+Additional Information: 
+('wall', 'behind', 'bed')
+('wall', 'white')
+('building', 'beside', 'tower')
+('building', 'white')

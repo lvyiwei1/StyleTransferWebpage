@@ -1,0 +1,6 @@
+Original Sentence: 
+Other funds hold a smattering of junk bonds too
+Additional Information: 
+('junk', 'IN', 'trunk')
+('junk', 'lots')
+('bond', 'black ')

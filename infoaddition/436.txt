@@ -1,0 +1,6 @@
+Original Sentence: 
+We just do n't have that kind of income stream
+Additional Information: 
+('kind', 'ON', 'sidewalk')
+('stream', 'over', 'landscape')
+('stream', 'small')

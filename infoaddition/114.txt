@@ -1,0 +1,7 @@
+Original Sentence: 
+Investors in B.A.T have been on a roller coaster
+Additional Information: 
+('roller', 'ON', 'suitcase')
+('roller', 'black')
+('coaster', 'under', 'glass')
+('coaster', 'white')

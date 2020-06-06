@@ -1,0 +1,5 @@
+Original Sentence: 
+Three years ago the ratio was reversed
+Additional Information: 
+('year', 'IN', 'corner')
+('year', 'white')

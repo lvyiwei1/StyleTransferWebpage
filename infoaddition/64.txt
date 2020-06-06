@@ -1,0 +1,5 @@
+Original Sentence: 
+Both moves are effective today
+Additional Information: 
+('mechanism', 'makes it', 'move')
+('sign', 'reads', 'today')

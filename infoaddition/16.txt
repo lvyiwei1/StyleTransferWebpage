@@ -1,0 +1,4 @@
+Original Sentence: 
+This creates several problems
+Additional Information: 
+('plane', 'has', 'problem')

@@ -1,0 +1,7 @@
+Original Sentence: 
+The case for owning stocks over the long-term is compelling
+Additional Information: 
+('case', 'ON', 'floor')
+('case', 'black')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

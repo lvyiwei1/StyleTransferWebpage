@@ -1,0 +1,7 @@
+Original Sentence: 
+We still have our die-hard baseball fans a spokesman said
+Additional Information: 
+('baseball', 'IN', 'air')
+('baseball', 'white')
+('fan', 'IN', 'center')
+('fan', 'white')

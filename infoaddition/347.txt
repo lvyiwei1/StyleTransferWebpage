@@ -1,0 +1,5 @@
+Original Sentence: 
+The minimum coupon is 13 3\/4 %
+Additional Information: 
+('coupon', 'has', 'percentage')
+('coupon', 'white')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Thomson took a called strike Mr. Engelken recounts
+Additional Information: 
+('strike', 'ON', 'door')
+('strike', 'black')

@@ -1,0 +1,5 @@
+Original Sentence: 
+The first signs were economic
+Additional Information: 
+('sign', 'ON', 'wall')
+('sign', 'white')

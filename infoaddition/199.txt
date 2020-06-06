@@ -1,0 +1,5 @@
+Original Sentence: 
+Accepted bids ranged from 8.38 % to 8.395 %
+Additional Information: 
+('bid', 'ON', 'sheet')
+('bid', 'metal')

@@ -1,0 +1,5 @@
+Original Sentence: 
+The DAX index closed at 1472.76 up from 1466.29
+Additional Information: 
+('index', 'a fingerhas', 'baby')
+('index', 'is a finger')

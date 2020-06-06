@@ -1,0 +1,5 @@
+Original Sentence: 
+Prices were lower in Frankfurt Zurich Paris and Amsterdam
+Additional Information: 
+('price', 'for', 'peppers')
+('price', 'written')

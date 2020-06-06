@@ -1,0 +1,5 @@
+Original Sentence: 
+First there was a death watch
+Additional Information: 
+('watch', 'around', 'hand')
+('watch', 'black')

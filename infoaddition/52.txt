@@ -1,0 +1,6 @@
+Original Sentence: 
+These securities are attractive to Japanese investors for three reasons
+Additional Information: 
+('security', 'ON', 'airport')
+('security', 'standing')
+('not', 'in mood right nowhold leg in air for no', 'reason')

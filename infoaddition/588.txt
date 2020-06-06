@@ -1,0 +1,6 @@
+Original Sentence: 
+The government had fallen 300 million behind in interest payments
+Additional Information: 
+('people', 'showing', 'interest')
+('interest', 'great')
+('payment', 'for', 'produce')

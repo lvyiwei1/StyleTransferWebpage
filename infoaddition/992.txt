@@ -1,0 +1,5 @@
+Original Sentence: 
+David B. Hilder in New York contributed to this article
+Additional Information: 
+('article', 'ON', 'chair')
+('article', 'newspaper')

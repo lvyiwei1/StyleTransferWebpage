@@ -1,0 +1,5 @@
+Original Sentence: 
+Parts are a tragedy
+Additional Information: 
+('part', 'of a body of', 'water')
+('part', 'small')

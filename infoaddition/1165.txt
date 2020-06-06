@@ -1,0 +1,5 @@
+Original Sentence: 
+He will continue as a director
+Additional Information: 
+('vest', 'ON', 'director')
+('director', 'caucasian')

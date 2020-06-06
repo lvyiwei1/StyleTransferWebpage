@@ -1,0 +1,7 @@
+Original Sentence: 
+This is how American women won the right to vote
+Additional Information: 
+('woman', 'standing by', 'chair')
+('woman', 'standing')
+('right', 'foot with ten', 'sneaker')
+('right', 'far')

@@ -1,0 +1,5 @@
+Original Sentence: 
+This time the firms were ready
+Additional Information: 
+('time', 'was', '13:11')
+('time', 'displayed')

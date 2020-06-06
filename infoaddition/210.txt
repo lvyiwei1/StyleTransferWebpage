@@ -1,0 +1,6 @@
+Original Sentence: 
+Its securities have been dubbed bailout bonds by traders
+Additional Information: 
+('security', 'ON', 'court')
+('security', 'standing')
+('bond', 'black ')

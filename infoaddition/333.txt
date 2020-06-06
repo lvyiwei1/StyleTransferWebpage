@@ -1,0 +1,7 @@
+Original Sentence: 
+But observers expect broad support
+Additional Information: 
+('observer', 'has', 'right leg')
+('observer', 'standing')
+('support', 'near', 'car')
+('support', 'metal')

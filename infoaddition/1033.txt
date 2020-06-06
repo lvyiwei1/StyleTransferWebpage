@@ -1,0 +1,6 @@
+Original Sentence: 
+But most lawyers accept that the marketplace has spoken
+Additional Information: 
+('lawyer', 'showing a', 'paper')
+('marketplace', 'on side of', 'buildings')
+('marketplace', 'outdoor')

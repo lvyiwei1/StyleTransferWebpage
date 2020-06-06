@@ -1,0 +1,5 @@
+Original Sentence: 
+But I loved turbans
+Additional Information: 
+('turban', 'ON', 'man')
+('turban', 'white')

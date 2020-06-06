@@ -1,0 +1,7 @@
+Original Sentence: 
+If you are born to give parties you give parties
+Additional Information: 
+('party', 'at a', 'house')
+('party', 'birthday')
+('party', 'with', 'tea')
+('party', 'birthday')

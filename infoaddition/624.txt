@@ -1,0 +1,5 @@
+Original Sentence: 
+Chemical earnings fell 10 % reflecting softening of demand
+Additional Information: 
+('bottle', 'containing', 'chemical')
+('chemical', 'red')

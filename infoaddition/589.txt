@@ -1,0 +1,9 @@
+Original Sentence: 
+Among the leading products is a flu shot for horses
+Additional Information: 
+('product', 'behind', 'toilet')
+('product', 'bathroom')
+('shot', 'of', 'ground')
+('shot', 'old')
+('horse', 'has', 'ears')
+('horse', 'brown')

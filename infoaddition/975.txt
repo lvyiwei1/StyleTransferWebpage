@@ -1,0 +1,5 @@
+Original Sentence: 
+Volume on the New York Stock Exchange totaled 170,330,000 shares
+Additional Information: 
+('volume', 'ON', 'keyboard')
+('volume', '3')

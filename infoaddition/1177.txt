@@ -1,0 +1,9 @@
+Original Sentence: 
+In major market activity Treasury bond prices fell
+Additional Information: 
+('market', 'with', 'food')
+('market', 'outdoor')
+('activity', 'IN', 'bathroom')
+('bond', 'black ')
+('price', 'ON', 'sign')
+('price', 'written')

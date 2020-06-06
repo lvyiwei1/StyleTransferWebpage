@@ -1,0 +1,5 @@
+Original Sentence: 
+He says it accounts for 25 % of total sales
+Additional Information: 
+('sale', 'at', 'company')
+('sale', 'red')

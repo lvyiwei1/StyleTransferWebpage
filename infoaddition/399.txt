@@ -1,0 +1,7 @@
+Original Sentence: 
+Nuclear power plants are acceptable
+Additional Information: 
+('power', 'lines over railroad', 'tracks')
+('power', 'on')
+('plant', 'laying on', 'sidewalk')
+('plant', 'green')

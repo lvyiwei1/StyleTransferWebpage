@@ -1,0 +1,9 @@
+Original Sentence: 
+Another poked a hole in the heel of his shoe
+Additional Information: 
+('hole', 'ON', 'headrest')
+('hole', 'small')
+('heel', 'OF', 'woman')
+('heel', 'black')
+('shoe', 'sitting on', 'shelf')
+('shoe', 'black')

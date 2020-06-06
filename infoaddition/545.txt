@@ -1,0 +1,5 @@
+Original Sentence: 
+The best odds are with your core franchise
+Additional Information: 
+('core', 'inside of', 'orange')
+('core', 'white')

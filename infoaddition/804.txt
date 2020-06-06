@@ -1,0 +1,9 @@
+Original Sentence: 
+PAY FOR PERFORMANCE hangs mostly on boss 's subjective view
+Additional Information: 
+('pay', 'says on', 'truck')
+('teenagers', 'watching', 'performance')
+('stand', 'with', 'bos')
+('bos', 'green')
+('view', 'OF', 'sky')
+('view', 'beautiful')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Artists and draftsmen need harder leads
+Additional Information: 
+('artist', 'for', 'artist')
+('artist', 'painting')
+('lead', 'ON', 'calf')
+('lead', 'green')

@@ -1,0 +1,5 @@
+Original Sentence: 
+I 'm not sure cross-ownership would necessarily make things smoother
+Additional Information: 
+('thing', 'ON', 'floor')
+('thing', 'black')

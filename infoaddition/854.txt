@@ -1,0 +1,4 @@
+Original Sentence: 
+Recession fears are springing up again among investors
+Additional Information: 
+('recession', 'wall')

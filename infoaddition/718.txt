@@ -1,0 +1,5 @@
+Original Sentence: 
+No non-competitive tenders will be accepted
+Additional Information: 
+('letters', 'ON', 'tender')
+('tender', 'elephant')

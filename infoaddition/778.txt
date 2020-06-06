@@ -1,0 +1,5 @@
+Original Sentence: 
+But fund managers say they 're ready
+Additional Information: 
+('manager', 'sitting in', 'dugout')
+('manager', 'overlooking action')

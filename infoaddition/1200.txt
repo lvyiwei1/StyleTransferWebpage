@@ -1,0 +1,6 @@
+Original Sentence: 
+That hurts investors ' confidence in the economy and stocks
+Additional Information: 
+('economy', 'ON', 'train')
+('stock', 'of', 'stock')
+('stock', 'green')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Pershare net fell to 4.97 yen from 5.40 yen
+Additional Information: 
+('net', 'made of', 'squares')
+('net', 'black')

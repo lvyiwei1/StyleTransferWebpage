@@ -1,0 +1,5 @@
+Original Sentence: 
+Cadillac may be on to something
+Additional Information: 
+('something', 'lying on top of', 'table')
+('something', 'red')

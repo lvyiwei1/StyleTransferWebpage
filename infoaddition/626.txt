@@ -1,0 +1,7 @@
+Original Sentence: 
+You talk about free time .what free time
+Additional Information: 
+('time', 'on', 'iphone')
+('time', 'displayed')
+('time', 'ON', 'phone')
+('time', 'displayed')

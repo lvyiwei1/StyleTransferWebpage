@@ -1,0 +1,7 @@
+Original Sentence: 
+Both men are 44 years old
+Additional Information: 
+('men', 'behind', 'horse')
+('men', 'standing')
+('year', 'OF', 'picture')
+('year', 'white')

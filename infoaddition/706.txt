@@ -1,0 +1,5 @@
+Original Sentence: 
+Contract details however have n't been made public
+Additional Information: 
+('detail', 'IN', 'building')
+('detail', 'red')

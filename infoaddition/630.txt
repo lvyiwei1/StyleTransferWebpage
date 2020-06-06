@@ -1,0 +1,9 @@
+Original Sentence: 
+The attention span of the public is short he said
+Additional Information: 
+('people', 'paying', 'attention')
+('attention', 'close')
+('span', 'on back of', 'jersey')
+('span', 'curved')
+('public', 'standing in', 'side')
+('public', 'watching')

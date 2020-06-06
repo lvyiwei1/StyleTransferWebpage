@@ -1,0 +1,7 @@
+Original Sentence: 
+NEATNESS does count at least in the grocery store
+Additional Information: 
+('grocery', 'ON', 'sign')
+('grocery', 'red')
+('store', 'has', 'front')
+('store', 'red')

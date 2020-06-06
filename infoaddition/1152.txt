@@ -1,0 +1,7 @@
+Original Sentence: 
+Strong farmer selling over the weekend also weighed on prices
+Additional Information: 
+('farmer', 'pulling', 'blue plow')
+('farmer', 'holding')
+('price', 'ON', 'circle')
+('price', 'written')

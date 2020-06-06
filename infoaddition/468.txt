@@ -1,0 +1,5 @@
+Original Sentence: 
+Some laggard food issues attracted bargain-hunters traders said
+Additional Information: 
+('food', 'ON', 'plate')
+('food', 'green')

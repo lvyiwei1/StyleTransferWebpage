@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Bandow is a Cato Institute fellow
+Additional Information: 
+('fellow', 'WEARING', 'shirt')
+('fellow', 'dressed nicely')

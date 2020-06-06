@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Tomash will remain as a director emeritus
+Additional Information: 
+('vest', 'ON', 'director')
+('director', 'caucasian')

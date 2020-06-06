@@ -1,0 +1,7 @@
+Original Sentence: 
+Some nights he slept under his desk
+Additional Information: 
+('night', 'hangs over', 'city')
+('night', 'black')
+('desk', 'IN', 'photo')
+('desk', 'wooden')

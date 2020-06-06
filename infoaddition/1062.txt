@@ -1,0 +1,9 @@
+Original Sentence: 
+It also licenses optically based data storage and retrieval devices
+Additional Information: 
+('data', 'ON', 'screen')
+('data', 'green')
+('storage', 'behind', 'bar')
+('storage', 'overhead')
+('device', 'ON', 'counter')
+('device', 'electronic')

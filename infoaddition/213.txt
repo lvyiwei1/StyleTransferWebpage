@@ -1,0 +1,4 @@
+Original Sentence: 
+This limits his financial exposure he says
+Additional Information: 
+('exposure', 'translucent')

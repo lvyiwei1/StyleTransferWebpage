@@ -1,0 +1,5 @@
+Original Sentence: 
+The return of the Rothschilds is modest
+Additional Information: 
+('return', 'ON', 'street')
+('return', 'black')

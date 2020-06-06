@@ -1,0 +1,5 @@
+Original Sentence: 
+There 's contract revenue from limited research and development partnerships
+Additional Information: 
+('laptop', 'used for', 'research')
+('development', 'yellow')

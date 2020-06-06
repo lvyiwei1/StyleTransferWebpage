@@ -1,0 +1,5 @@
+Original Sentence: 
+Admittedly the principle in the cases is the same
+Additional Information: 
+('case', 'ON', 'cell phone')
+('case', 'black')

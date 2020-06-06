@@ -1,0 +1,5 @@
+Original Sentence: 
+Opponents do n't buy such arguments
+Additional Information: 
+('opponent', 'IN', 'white uniform')
+('opponent', 'standing')

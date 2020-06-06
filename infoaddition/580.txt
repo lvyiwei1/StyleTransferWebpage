@@ -1,0 +1,5 @@
+Original Sentence: 
+It screwed things up said one major specialist
+Additional Information: 
+('thing', 'on side of', 'clock')
+('thing', 'black')

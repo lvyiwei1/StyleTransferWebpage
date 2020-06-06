@@ -1,0 +1,5 @@
+Original Sentence: 
+Nissan created its quake ad in a weekend
+Additional Information: 
+('ad', 'ON', 'bus')
+('ad', 'white')

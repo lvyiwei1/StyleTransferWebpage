@@ -1,0 +1,8 @@
+Original Sentence: 
+Japanese department stores are also wary of attracting negative publicity
+Additional Information: 
+('horse', 'used', 'department')
+('department', 'British police ')
+('store', 'behind', 'man')
+('store', 'red')
+('bus', 'has', 'publicity')

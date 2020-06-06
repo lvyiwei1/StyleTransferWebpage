@@ -1,0 +1,7 @@
+Original Sentence: 
+The consequences of building empires with sand are showing up
+Additional Information: 
+('empire', 'holding', 'racket')
+('empire', 'gray')
+('sand', 'near', 'bush')
+('sand', 'brown')

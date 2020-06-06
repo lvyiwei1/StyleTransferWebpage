@@ -1,0 +1,6 @@
+Original Sentence: 
+The loyal servant has come full circle
+Additional Information: 
+('servant', 'ON', 'wall')
+('circle', 'ON', 'batteries')
+('circle', 'red')

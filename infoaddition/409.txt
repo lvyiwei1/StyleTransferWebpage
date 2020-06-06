@@ -1,0 +1,6 @@
+Original Sentence: 
+Industry observers expect a wide divergence in performance
+Additional Information: 
+('observer', 'has', 'right leg')
+('observer', 'standing')
+('crowd', 'watching', 'performance')

@@ -1,0 +1,5 @@
+Original Sentence: 
+In 1988 the company earned 1.38 a share
+Additional Information: 
+('company', 'ON', 'bus')
+('company', 'name')

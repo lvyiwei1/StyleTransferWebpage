@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Wanniski is president of Polyconomics Inc. of Morristown N.J
+Additional Information: 
+('president', 'ON', 'television')
+('president', ' United States')

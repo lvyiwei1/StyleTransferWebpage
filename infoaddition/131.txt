@@ -1,0 +1,7 @@
+Original Sentence: 
+The CFTC has 90 days to respond to such applications
+Additional Information: 
+('day', 'IN', 'park')
+('day', 'sunny')
+('application', 'on a', 'cellphone')
+('application', 'loaded')

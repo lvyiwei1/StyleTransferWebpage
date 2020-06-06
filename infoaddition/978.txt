@@ -1,0 +1,5 @@
+Original Sentence: 
+This feels more like a one-shot deal
+Additional Information: 
+('deal', 'OF', 'bananas')
+('deal', 'great')

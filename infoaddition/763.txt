@@ -1,0 +1,6 @@
+Original Sentence: 
+At first glance gold and utilities seem strange bedfellows
+Additional Information: 
+('gold', 'IN', 'building')
+('gold', 'brown')
+('utility', 'pole', 'lines')

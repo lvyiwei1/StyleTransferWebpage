@@ -1,0 +1,5 @@
+Original Sentence: 
+What is that point
+Additional Information: 
+('point', 'ON', 'tower')
+('point', 'sharp')

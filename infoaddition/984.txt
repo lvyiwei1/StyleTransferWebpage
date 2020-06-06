@@ -1,0 +1,5 @@
+Original Sentence: 
+The Lone Star is on the rise again
+Additional Information: 
+('rise', 'IN', 'ground')
+('rise', 'GRASSY')

@@ -1,0 +1,5 @@
+Original Sentence: 
+In January Mr. Salvatori sold the unit
+Additional Information: 
+('unit', 'ON', 'train')
+('unit', 'white')

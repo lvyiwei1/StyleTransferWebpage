@@ -1,0 +1,5 @@
+Original Sentence: 
+Non-interest expense grew only 4 % in the period
+Additional Information: 
+('period', 'ON', 'sign')
+('period', 'red')

@@ -1,0 +1,9 @@
+Original Sentence: 
+The security business is my favorite subject
+Additional Information: 
+('security', 'ON', 'airport')
+('security', 'standing')
+('business', 'behind', 'parking meter')
+('business', 'here')
+('background', 'around', 'subject')
+('subject', 'gold')

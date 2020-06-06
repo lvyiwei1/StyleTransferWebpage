@@ -1,0 +1,7 @@
+Original Sentence: 
+He also leads an opulent life style
+Additional Information: 
+('life', 'ON', 'sign')
+('life', 'printed')
+('style', 'ON', 'ceiling')
+('style', 'old')

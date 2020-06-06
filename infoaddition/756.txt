@@ -1,0 +1,5 @@
+Original Sentence: 
+Times have changed
+Additional Information: 
+('time', 'ON', 'scoreboard')
+('time', 'displayed')

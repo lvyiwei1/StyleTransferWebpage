@@ -1,0 +1,6 @@
+Original Sentence: 
+We got some exposure and pretty much good will
+Additional Information: 
+('exposure', 'translucent')
+('the', 'console', 'will')
+('will', 'white')

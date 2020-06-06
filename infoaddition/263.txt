@@ -1,0 +1,5 @@
+Original Sentence: 
+His melodious Confutatis was smoothly sung by bass Brian Matthews
+Additional Information: 
+('suitcase', 'says', 'bass')
+('bass', 'bass ')

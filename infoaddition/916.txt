@@ -1,0 +1,9 @@
+Original Sentence: 
+But the steam may never reach the engine room
+Additional Information: 
+('steam', 'coming out of top of', 'train')
+('steam', 'white')
+('engine', 'OF', 'plane')
+('engine', 'blue')
+('room', 'with', 'basket')
+('room', 'dark')

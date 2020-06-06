@@ -1,0 +1,5 @@
+Original Sentence: 
+Some things ca n't be repaired
+Additional Information: 
+('thing', 'ON', 'window')
+('thing', 'black')

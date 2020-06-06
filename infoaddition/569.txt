@@ -1,0 +1,9 @@
+Original Sentence: 
+Kidder officials stand by their aggressive use of program trading
+Additional Information: 
+('official', 'IN', 'ring')
+('official', 'tennis')
+('use', 'hiding in', 'corner')
+('program', 'ON', 'monitor')
+('program', 'wedding')
+('red t', 'IN', 'trading')

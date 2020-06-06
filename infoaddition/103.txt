@@ -1,0 +1,7 @@
+Original Sentence: 
+Some smaller clients do n't seem to notice his switch
+Additional Information: 
+('mirror', 'behind', 'client')
+('client', 'young')
+('switch', 'ON', 'appliance')
+('switch', 'white')

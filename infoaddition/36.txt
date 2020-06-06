@@ -1,0 +1,7 @@
+Original Sentence: 
+Details of credit enhancements vary widely from issue to issue
+Additional Information: 
+('detail', 'ON', 'tower')
+('detail', 'red')
+('credit', 'card', 'cardlogos')
+('credit', 'artist')

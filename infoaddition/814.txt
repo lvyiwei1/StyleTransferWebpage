@@ -1,0 +1,4 @@
+Original Sentence: 
+Away from the general obligation sector activity was modest
+Additional Information: 
+('activity', 'around', 'planes')

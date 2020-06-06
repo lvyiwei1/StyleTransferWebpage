@@ -1,0 +1,5 @@
+Original Sentence: 
+After cooling the coins are then rewrapped
+Additional Information: 
+('coin', 'ON', 'tray')
+('coin', 'gold')

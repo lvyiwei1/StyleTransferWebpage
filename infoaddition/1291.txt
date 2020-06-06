@@ -1,0 +1,9 @@
+Original Sentence: 
+It has a similar project for 200,000 cars a year
+Additional Information: 
+('he', 'discussing', 'project')
+('project', 'sewing')
+('car', 'driving on', 'road')
+('car', 'parked')
+('year', 'ON', 'sign')
+('year', 'white')

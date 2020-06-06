@@ -1,0 +1,5 @@
+Original Sentence: 
+It also inevitably leaves a residue of shareholder lawsuits
+Additional Information: 
+('residue', 'ON', 'knife head')
+('residue', 'red')

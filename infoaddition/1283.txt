@@ -1,0 +1,5 @@
+Original Sentence: 
+This is only a further step in a lengthy investigation
+Additional Information: 
+('step', 'on a', 'stairway')
+('step', 'concrete')

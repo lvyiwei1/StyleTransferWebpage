@@ -1,0 +1,7 @@
+Original Sentence: 
+A cultural center has been built shops
+Additional Information: 
+('center', 'hold of', 'donut')
+('center', 'yellow')
+('shop', 'has', 'shutter')
+('shop', 'street level')

@@ -1,0 +1,6 @@
+Original Sentence: 
+The work though sounds like Muzak for spaceships
+Additional Information: 
+('work', 'done on', 'river bank')
+('work', 'iron')
+('spaceship', 'paper')

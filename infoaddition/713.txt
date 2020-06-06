@@ -1,0 +1,5 @@
+Original Sentence: 
+To be sure the program has n't completely stalled
+Additional Information: 
+('program', 'ON', 'screen')
+('program', 'wedding')

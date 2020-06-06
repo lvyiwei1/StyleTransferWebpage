@@ -1,0 +1,7 @@
+Original Sentence: 
+Drug companies lost a major liability case
+Additional Information: 
+('company', 'ON', 'bus')
+('company', 'name')
+('case', 'within', 'room')
+('case', 'black')

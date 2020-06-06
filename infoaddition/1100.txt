@@ -1,0 +1,9 @@
+Original Sentence: 
+a Totals include only vehicle sales reported in the period
+Additional Information: 
+('vehicle', 'has', 'wheel')
+('vehicle', 'white')
+('sale', 'at', 'company')
+('sale', 'red')
+('period', 'against', 'background')
+('period', 'red')

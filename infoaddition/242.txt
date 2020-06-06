@@ -1,0 +1,4 @@
+Original Sentence: 
+The British shakeup was widely cited for the declines
+Additional Information: 
+('decline', ' of grass')

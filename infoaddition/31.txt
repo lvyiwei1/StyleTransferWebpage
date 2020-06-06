@@ -1,0 +1,6 @@
+Original Sentence: 
+Third-quarter earnings at both companies were below analysts ' forecasts
+Additional Information: 
+('company', 'has', 'label')
+('company', 'name')
+('forecast', 'here')

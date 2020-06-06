@@ -1,0 +1,5 @@
+Original Sentence: 
+The company is being acquired
+Additional Information: 
+('company', 'OF', 'company')
+('company', 'name')

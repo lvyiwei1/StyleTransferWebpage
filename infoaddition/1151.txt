@@ -1,0 +1,4 @@
+Original Sentence: 
+UAL Corp. is a good example
+Additional Information: 
+('example', 'lowercase')

@@ -1,0 +1,7 @@
+Original Sentence: 
+They both called it a welcome home gathering
+Additional Information: 
+('home', 'skirts', 'field')
+('home', 'white')
+('gathering', 'OF', 'people')
+('gathering', 'social')

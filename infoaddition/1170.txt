@@ -1,0 +1,7 @@
+Original Sentence: 
+It 's like fighting your way out of a fog
+Additional Information: 
+('way', 'scrapped on', 'bus')
+('way', 'walk')
+('fog', 'IN', 'background')
+('fog', 'thick')

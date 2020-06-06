@@ -1,0 +1,4 @@
+Original Sentence: 
+Some diaries simply are n't worth snooping in
+Additional Information: 
+('diary', 'ON', 'table')

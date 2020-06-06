@@ -1,0 +1,5 @@
+Original Sentence: 
+Sunbelt foreclosed on the ranch
+Additional Information: 
+('ranch', 'behind', 'cow')
+('ranch', 'large')

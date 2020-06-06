@@ -1,0 +1,9 @@
+Original Sentence: 
+It said it would purchase the stock at market price
+Additional Information: 
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('market', 'IN', 'container')
+('market', 'outdoor')
+('price', 'ON', 'sign')
+('price', 'written')

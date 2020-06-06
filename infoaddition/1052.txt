@@ -1,0 +1,4 @@
+Original Sentence: 
+This is panic buying
+Additional Information: 
+('panic', 'gold')

@@ -1,0 +1,8 @@
+Original Sentence: 
+I refer essentially to petroleum electric power banking and newsprint
+Additional Information: 
+('power', 'lines over railroad', 'tracks')
+('power', 'on')
+('mud', 'ON', 'banking')
+('banking', 'grassy')
+('newsprint', 'has', 'words')

@@ -1,0 +1,6 @@
+Original Sentence: 
+The dollar weakened against most other major currencies
+Additional Information: 
+('dollar', 'ON', 'table')
+('dollar', 'twenty')
+('currency', 'by', 'luggage')

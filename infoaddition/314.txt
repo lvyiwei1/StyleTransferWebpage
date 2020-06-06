@@ -1,0 +1,5 @@
+Original Sentence: 
+And it works best in high-powered personal computers
+Additional Information: 
+('computer', 'on top', 'table')
+('computer', 'laptop')

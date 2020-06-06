@@ -1,0 +1,4 @@
+Original Sentence: 
+Now the personal-computer revolution is finally reaching Japan
+Additional Information: 
+('word', 'says', 'revolution')

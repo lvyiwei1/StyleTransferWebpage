@@ -1,0 +1,11 @@
+Original Sentence: 
+Television news of course has always been part show-biz
+Additional Information: 
+('television', 'IN', 'corner')
+('television', 'black')
+('news', 'ON', 'bus')
+('news', 'word')
+('course', 'OF', 'skate park')
+('course', 'green')
+('part', 'of a', 'shelf')
+('part', 'small')

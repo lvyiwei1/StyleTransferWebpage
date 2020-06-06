@@ -1,0 +1,4 @@
+Original Sentence: 
+Southwestern Bell Corp. and Cincinnati Bell posted slight declines
+Additional Information: 
+('decline', ' of grass')

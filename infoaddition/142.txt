@@ -1,0 +1,7 @@
+Original Sentence: 
+Michael late yesterday announced a 3.8 million stock buy-back program
+Additional Information: 
+('stock', 'of', 'stock')
+('stock', 'green')
+('program', 'running', 'laptop')
+('program', 'wedding')

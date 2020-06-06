@@ -1,0 +1,7 @@
+Original Sentence: 
+The 30-share index settled 23.2 points higher at 1701.7
+Additional Information: 
+('index', 'ON', 'right')
+('index', 'is a finger')
+('point', 'ON', 'umbrella')
+('point', 'sharp')

@@ -1,0 +1,9 @@
+Original Sentence: 
+Keepers of the books dubbed figure filberts loathed the threat
+Additional Information: 
+('tennis', 'match score', 'keeper')
+('book', 'says', '"corduroy"')
+('book', 'white')
+('figure', 'IN', 'box')
+('figure', 'green')
+('sign', 'says', 'filbert')

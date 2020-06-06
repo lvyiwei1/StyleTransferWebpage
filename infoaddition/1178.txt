@@ -1,0 +1,5 @@
+Original Sentence: 
+He cut her hair
+Additional Information: 
+('hair', 'ON', 'man')
+('hair', 'brown')

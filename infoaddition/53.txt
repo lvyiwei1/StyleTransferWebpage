@@ -1,0 +1,5 @@
+Original Sentence: 
+It gave 1,124 businesses a questionnaire and analyzed 353 responses
+Additional Information: 
+('business', 'has', 'entrance')
+('business', 'here')

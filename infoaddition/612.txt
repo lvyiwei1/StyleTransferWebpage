@@ -1,0 +1,7 @@
+Original Sentence: 
+Mr. Meador had been executive vice president of Balcor
+Additional Information: 
+('handle', 'ON', 'vice')
+('vice', 'blue')
+('president', 'ON', 'television')
+('president', ' United States')

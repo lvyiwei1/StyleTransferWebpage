@@ -1,0 +1,5 @@
+Original Sentence: 
+We are prepared to support those changes said Mr. Mosbacher
+Additional Information: 
+('change', 'ON', 'red')
+('change', 'loose')

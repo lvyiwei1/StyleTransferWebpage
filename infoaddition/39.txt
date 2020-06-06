@@ -1,0 +1,5 @@
+Original Sentence: 
+PENALTY OVERHAUL is still likely congressional sources say
+Additional Information: 
+('source', 'OF', 'water')
+('source', 'blue')

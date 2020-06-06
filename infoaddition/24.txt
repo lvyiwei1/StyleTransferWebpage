@@ -1,0 +1,9 @@
+Original Sentence: 
+Everyone was hitting everyone else 's bid he said
+Additional Information: 
+('everyone', 'ON', 'sidewalk')
+('everyone', 'smiling')
+('everyone', 'WEARING', 'jackets')
+('everyone', 'smiling')
+('bid', 'ON', 'sheet')
+('bid', 'metal')

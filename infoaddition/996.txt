@@ -1,0 +1,4 @@
+Original Sentence: 
+We 're not rushing into anything
+Additional Information: 
+('part', 'of a speaker not connected to', 'anything')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Everything 's a Dollar operates 60 specialty-retail stores
+Additional Information: 
+('store', 'behind', 'horse')
+('store', 'red')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Other stocks were affected by corporate earnings
+Additional Information: 
+('stock', 'OF', 'broccoli')
+('stock', 'green')

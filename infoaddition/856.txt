@@ -1,0 +1,6 @@
+Original Sentence: 
+But while index options are convenient they have several disadvantages
+Additional Information: 
+('index', 'a fingerhas', 'baby')
+('index', 'is a finger')
+('option', 'ON', 'phone')

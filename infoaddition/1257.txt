@@ -1,0 +1,11 @@
+Original Sentence: 
+Size and weight considerations also have limited screen displays
+Additional Information: 
+('size', 'ON', 'shirt')
+('size', 'XL')
+('weight', 'ON', 'bat')
+('weight', 'limbs')
+('screen', 'OF', 'laptop')
+('screen', 'on')
+('display', 'ON', 'microwave')
+('display', 'digital')

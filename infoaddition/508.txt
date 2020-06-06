@@ -1,0 +1,9 @@
+Original Sentence: 
+Company with 1,750 workers in area is fully functional
+Additional Information: 
+('company', 'that owns', 'bus')
+('company', 'name')
+('worker', 'ON', 'tarmac')
+('worker', 'construction')
+('area', 'has', 'leaves')
+('area', 'grassy')

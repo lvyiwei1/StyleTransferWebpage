@@ -1,0 +1,7 @@
+Original Sentence: 
+And you want to make wicker baskets too
+Additional Information: 
+('wicker', 'OF', 'chair')
+('wicker', 'brown')
+('basket', 'behind', 'broccoli')
+('basket', 'brown')

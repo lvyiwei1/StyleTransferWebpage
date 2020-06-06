@@ -1,0 +1,5 @@
+Original Sentence: 
+Growth is good
+Additional Information: 
+('growth', 'ON', 'slope')
+('growth', 'green')

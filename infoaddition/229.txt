@@ -1,0 +1,7 @@
+Original Sentence: 
+The figures occasionally include incomplete transactions in restricted stock
+Additional Information: 
+('figure', 'ON', 'roof')
+('figure', 'green')
+('stock', 'of', 'stock')
+('stock', 'green')

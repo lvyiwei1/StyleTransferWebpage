@@ -1,0 +1,6 @@
+Original Sentence: 
+And that naturally exacerbates price movements
+Additional Information: 
+('price', 'for', 'peppers')
+('price', 'written')
+('movement', 'of pointed lines over', 'dots')

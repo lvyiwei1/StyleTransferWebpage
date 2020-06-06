@@ -1,0 +1,5 @@
+Original Sentence: 
+Americans stay longer with Japanese firms than American companies
+Additional Information: 
+('company', 'ON', 'building')
+('company', 'name')

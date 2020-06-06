@@ -1,0 +1,5 @@
+Original Sentence: 
+Sound stages echo
+Additional Information: 
+('stage', 'on', 'bike')
+('stage', 'black')

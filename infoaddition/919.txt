@@ -1,0 +1,5 @@
+Original Sentence: 
+Like many sports buffs Mr. Engelken has turned cynic
+Additional Information: 
+('sport', 'written on screen of', 'game')
+('sport', 'popular')

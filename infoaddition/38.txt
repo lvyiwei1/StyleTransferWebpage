@@ -1,0 +1,5 @@
+Original Sentence: 
+Irish and Soviet people are similar says Mr. Ovcharenko
+Additional Information: 
+('people', 'walking on', 'street')
+('people', 'standing')

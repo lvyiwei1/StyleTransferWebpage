@@ -1,0 +1,5 @@
+Original Sentence: 
+Minitruck production fell 13 % to 94,243 units
+Additional Information: 
+('unit', 'top', 'truck')
+('unit', 'white')

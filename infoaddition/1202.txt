@@ -1,0 +1,4 @@
+Original Sentence: 
+Phillips and Arco posted declines
+Additional Information: 
+('decline', ' of grass')

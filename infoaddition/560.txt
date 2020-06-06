@@ -1,0 +1,5 @@
+Original Sentence: 
+The company 's trustee F.E. Agnew was unavailable for comment
+Additional Information: 
+('company', 'has', 'name')
+('company', 'name')

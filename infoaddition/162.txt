@@ -1,0 +1,6 @@
+Original Sentence: 
+Today of all days she lamented
+Additional Information: 
+('cow', 'are laying down', 'today')
+('day', 'time', 'picture')
+('day', 'sunny')

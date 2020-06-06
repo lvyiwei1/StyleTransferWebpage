@@ -1,0 +1,4 @@
+Original Sentence: 
+But that partner is n't Fiat
+Additional Information: 
+('partner', 'playing on', 'tennis court')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Maynard claims this is a manageable problem
+Additional Information: 
+('plane', 'has', 'problem')

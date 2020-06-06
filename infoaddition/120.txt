@@ -1,0 +1,5 @@
+Original Sentence: 
+That 's also the day of the gubernatorial election
+Additional Information: 
+('day', 'with', 'tower')
+('day', 'sunny')

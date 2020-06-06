@@ -1,0 +1,5 @@
+Original Sentence: 
+New management can take several steps to reduce dishonesty
+Additional Information: 
+('step', 'ON', 'train')
+('step', 'concrete')

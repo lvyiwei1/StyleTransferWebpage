@@ -1,0 +1,5 @@
+Original Sentence: 
+But going against the grain has never bothered Mr. Andersson
+Additional Information: 
+('grain', 'IN', 'wood floor')
+('grain', 'wood')

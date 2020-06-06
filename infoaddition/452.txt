@@ -1,0 +1,11 @@
+Original Sentence: 
+Total return is price changes plus interest income
+Additional Information: 
+('return', 'ON', 'street')
+('return', 'black')
+('price', 'ON', 'bike')
+('price', 'written')
+('change', 'ON', 'machine')
+('change', 'loose')
+('people', 'showing', 'interest')
+('interest', 'great')

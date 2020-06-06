@@ -1,0 +1,5 @@
+Original Sentence: 
+A unified system of taxation should be introduced rapidly
+Additional Information: 
+('system', 'ON', 'stand')
+('system', 'black')

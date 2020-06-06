@@ -1,0 +1,7 @@
+Original Sentence: 
+A hundred billion dollars in stock was subject to it
+Additional Information: 
+('dollar', 'ON', 'table')
+('dollar', 'twenty')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

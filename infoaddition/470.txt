@@ -1,0 +1,7 @@
+Original Sentence: 
+Suddenly after about 45 minutes the U.S. markets rallied
+Additional Information: 
+('minute', 'hand at twenty on a clock', 'face')
+('minute', 'black')
+('market', 'ON', 'street')
+('market', 'outdoor')

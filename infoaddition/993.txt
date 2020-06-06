@@ -1,0 +1,9 @@
+Original Sentence: 
+The union represents about 28,000 engineers and technical workers
+Additional Information: 
+('union', 'on side of', 'train')
+('union', 'word')
+('engineer', 'ON', 'train')
+('engineer', 'train')
+('worker', 'WEARING', 'apron')
+('worker', 'construction')

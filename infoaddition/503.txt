@@ -1,0 +1,5 @@
+Original Sentence: 
+The future of the forest remains uncertain
+Additional Information: 
+('forest', 'lines', 'lake')
+('forest', 'green')

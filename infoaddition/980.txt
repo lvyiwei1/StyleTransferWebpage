@@ -1,0 +1,5 @@
+Original Sentence: 
+Even at this early stage drugs caused additional concerns
+Additional Information: 
+('stage', 'has white letters that says', '"just dancing"')
+('stage', 'black')

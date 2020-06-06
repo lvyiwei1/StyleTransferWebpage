@@ -1,0 +1,6 @@
+Original Sentence: 
+Now it has especially for people my age
+Additional Information: 
+('people', 'WEARING', 'white shirt')
+('people', 'standing')
+('wine', 'has', 'age')

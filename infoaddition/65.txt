@@ -1,0 +1,6 @@
+Original Sentence: 
+The restaurant was conceived as a sparkling crystalline geode
+Additional Information: 
+('restaurant', 'OF', 'building')
+('restaurant', 'busy')
+('geode', 'large')

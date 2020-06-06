@@ -1,0 +1,6 @@
+Original Sentence: 
+But we should n't leave out political reasons number one
+Additional Information: 
+('not', 'in mood right nowhold leg in air for no', 'reason')
+('number', 'ON', 'top')
+('number', 'black')

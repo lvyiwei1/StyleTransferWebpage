@@ -1,0 +1,5 @@
+Original Sentence: 
+IRA rules have been changed over the years
+Additional Information: 
+('year', 'ON', 'picture')
+('year', 'white')

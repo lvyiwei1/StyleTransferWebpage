@@ -1,0 +1,5 @@
+Original Sentence: 
+She was the child of relative privilege
+Additional Information: 
+('child', 'ON', 'beach')
+('child', 'small')

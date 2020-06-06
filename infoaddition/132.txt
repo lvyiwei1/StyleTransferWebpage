@@ -1,0 +1,5 @@
+Original Sentence: 
+Prices were mixed in Zurich and lower in Stockholm
+Additional Information: 
+('price', 'written on', 'paper')
+('price', 'written')

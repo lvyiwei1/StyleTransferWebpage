@@ -1,0 +1,5 @@
+Original Sentence: 
+Numerous injuries were reported
+Additional Information: 
+('injury', 'ON', "giraffe's neck")
+('injury', 'scabbed')

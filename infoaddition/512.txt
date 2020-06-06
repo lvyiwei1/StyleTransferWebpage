@@ -1,0 +1,5 @@
+Original Sentence: 
+I care very much for this post he says
+Additional Information: 
+('post', 'ON', 'post')
+('post', 'wooden')

@@ -1,0 +1,5 @@
+Original Sentence: 
+They were protecting his interests
+Additional Information: 
+('people', 'showing', 'interest')
+('interest', 'great')

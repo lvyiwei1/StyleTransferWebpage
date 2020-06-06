@@ -1,0 +1,9 @@
+Original Sentence: 
+Federal Paper Board sells paper and wood products
+Additional Information: 
+('paper', 'has', 'stickers')
+('paper', 'white')
+('wood', 'ON', 'table')
+('wood', 'brown')
+('product', 'on top of', 'counter')
+('product', 'bathroom')

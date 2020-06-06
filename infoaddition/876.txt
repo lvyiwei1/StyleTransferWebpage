@@ -1,0 +1,6 @@
+Original Sentence: 
+Why should I be part of that problem
+Additional Information: 
+('part', 'of a', 'plate')
+('part', 'small')
+('plane', 'has', 'problem')

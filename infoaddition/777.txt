@@ -1,0 +1,7 @@
+Original Sentence: 
+Many people now claim to have predicted the 1987 crash
+Additional Information: 
+('people', 'in front of', 'building')
+('people', 'standing')
+('crash', 'of an', 'airplane')
+('crash', 'white')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Sales rose 7.4 % to 580 million from 540 million
+Additional Information: 
+('sale', 'ON', 'window')
+('sale', 'red')

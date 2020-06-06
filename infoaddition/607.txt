@@ -1,0 +1,5 @@
+Original Sentence: 
+The Afrikaner must end his reliance on others
+Additional Information: 
+('others', 'at', 'beach')
+('others', 'three')

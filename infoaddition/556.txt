@@ -1,0 +1,7 @@
+Original Sentence: 
+They eat sinful and sensual things and explain their clips
+Additional Information: 
+('thing', 'protects', 'pizza')
+('thing', 'black')
+('clip', 'IN', 'hair')
+('clip', 'metal')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Clearly the existence of the former lures the latter
+Additional Information: 
+('man', 'holding', 'lure')

@@ -1,0 +1,6 @@
+Original Sentence: 
+Japanese stock salesmen selling American bonds
+Additional Information: 
+('stock', 'of', 'stock')
+('stock', 'green')
+('bond', 'black ')

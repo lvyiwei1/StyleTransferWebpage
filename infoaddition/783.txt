@@ -1,0 +1,5 @@
+Original Sentence: 
+It all adds up to a cold winter here
+Additional Information: 
+('winter', 'wearing a gray', 'coat')
+('winter', 'season')

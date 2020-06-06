@@ -1,0 +1,5 @@
+Original Sentence: 
+The final maturity is in five years
+Additional Information: 
+('year', 'OF', 'photo')
+('year', 'white')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Not a lot was needed to be done
+Additional Information: 
+('lot', 'with a', 'fence')
+('lot', 'parking')

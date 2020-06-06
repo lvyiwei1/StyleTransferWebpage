@@ -1,0 +1,5 @@
+Original Sentence: 
+Each has an equal vote at the monthly meetings
+Additional Information: 
+('vote', 'written on', 'sign')
+('meeting', 'has', 'folder')

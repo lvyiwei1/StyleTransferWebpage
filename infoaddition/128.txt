@@ -1,0 +1,5 @@
+Original Sentence: 
+Kia is reportedly also considering such a plan
+Additional Information: 
+('plan', 'ON', 'tarmac')
+('plan', 'air')

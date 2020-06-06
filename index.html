@@ -1,0 +1,31 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<script>
+var idnumber = prompt("Please enter your assigned number", "1");
+</script>
+
+<crowd-form>
+    <script>
+        var idint = parseInt(idnumber) * 100 + 1;
+        for(i=0;i<100;i++){
+        var idi = idint + i;
+        <!-- document.write("<div><object id=\"d"+i+"\" data=\"myfile.txt\"></object></div><script>document.getElementById(\"d"+i+"\").data = \"infoaddition/"+i+".txt\";</script><div>Your Answer:</div><crowd-text-area name="+idi+"></crowd-text-area>"); -->
+        document.write("<div>____________</div><div><object id=\"d"+i+"\" data=\"myfile.txt\"></object></div>");
+        document.getElementById("d"+i).data = "infoaddition/"+idi+".txt";
+        document.write("<div>Your Answer to the sentence above:</div><crowd-text-area name="+idi+"></crowd-text-area><div>____________</div>");
+        }
+    </script>
+
+        <short-instructions>
+            <p>Read the task carefully and inspect the image.</p>
+            <p>Choose the appropriate label that best suits the image.</p>
+        </short-instructions>
+
+ 
+        <full-instructions header="Classification Instructions">
+            <p>Read the task carefully and inspect the image.</p>
+            <p>Choose the appropriate label that best suits the image. 
+            Use the <b>None of the Above</b> option if none of the other labels suit the image.</p>
+        </full-instructions>
+  
+</crowd-form>

@@ -1,0 +1,5 @@
+Original Sentence: 
+Things are beginning to settle down
+Additional Information: 
+('thing', 'coming off', 'wing')
+('thing', 'black')

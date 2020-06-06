@@ -1,0 +1,5 @@
+Original Sentence: 
+There still are some details to be nailed down
+Additional Information: 
+('detail', 'ON', 'clock tower')
+('detail', 'red')

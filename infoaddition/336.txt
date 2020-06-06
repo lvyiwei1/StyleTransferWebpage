@@ -1,0 +1,7 @@
+Original Sentence: 
+The end of the marriage was at hand
+Additional Information: 
+('end', 'of a', 'hot dog')
+('end', 'black')
+('hand', 'ON', 'clock')
+('hand', 'black')

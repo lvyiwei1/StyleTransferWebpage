@@ -1,0 +1,5 @@
+Original Sentence: 
+For the Giuliani forces it 's a conundrum
+Additional Information: 
+('force', 'ON', 'plane')
+('force', 'black')

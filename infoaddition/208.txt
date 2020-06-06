@@ -1,0 +1,4 @@
+Original Sentence: 
+The predictions of doom are premature she says
+Additional Information: 
+('clock tower', 'has', 'doom')

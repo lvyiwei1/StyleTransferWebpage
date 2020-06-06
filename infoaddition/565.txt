@@ -1,0 +1,5 @@
+Original Sentence: 
+The narrower Financial Times 30-share index fell 29.6 to 1730.7
+Additional Information: 
+('index', 'ON', 'helmet')
+('index', 'is a finger')

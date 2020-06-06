@@ -1,0 +1,5 @@
+Original Sentence: 
+IBM won the case
+Additional Information: 
+('case', 'on', 'pillow')
+('case', 'black')

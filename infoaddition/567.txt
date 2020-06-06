@@ -1,0 +1,5 @@
+Original Sentence: 
+But how much will shoppers benefit
+Additional Information: 
+('shopper', 'walking in', 'mall')
+('shopper', 'shopping')

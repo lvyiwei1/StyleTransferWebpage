@@ -1,0 +1,5 @@
+Original Sentence: 
+The resulting stockpiling has depressed the market
+Additional Information: 
+('market', 'place for', 'christmas')
+('market', 'outdoor')

@@ -1,0 +1,5 @@
+Original Sentence: 
+John R. Wilke contributed to this article
+Additional Information: 
+('article', 'IN', 'magazine')
+('article', 'newspaper')

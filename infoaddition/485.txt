@@ -1,0 +1,5 @@
+Original Sentence: 
+Its interest expense surged to 21.5 million from 12.4 million
+Additional Information: 
+('people', 'showing', 'interest')
+('interest', 'great')

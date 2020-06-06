@@ -1,0 +1,5 @@
+Original Sentence: 
+We 're standing in gasoline so do n't smoke
+Additional Information: 
+('truck', 'OF', 'gasoline')
+('gasoline', 'offered')

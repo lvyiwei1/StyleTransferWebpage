@@ -1,0 +1,5 @@
+Original Sentence: 
+Revenue doubled from two years ago
+Additional Information: 
+('year', 'ON', 'sign')
+('year', 'white')

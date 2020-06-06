@@ -1,0 +1,7 @@
+Original Sentence: 
+Her sister Cynthia wishes Toni had a different job
+Additional Information: 
+('boy', 'looking at', 'sister')
+('sister', 'sitting')
+('job', 'ON', 'bus')
+('job', 'decorative')

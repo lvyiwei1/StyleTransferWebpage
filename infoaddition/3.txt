@@ -1,0 +1,5 @@
+Original Sentence: 
+The fiscal 1989 budget deficit figure came out Friday
+Additional Information: 
+('figure', 'standing under', 'bathtub')
+('figure', 'green')

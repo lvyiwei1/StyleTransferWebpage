@@ -1,0 +1,5 @@
+Original Sentence: 
+Malaysia 's High Court is expected to approve the plan
+Additional Information: 
+('plan', 'ON', 'ground')
+('plan', 'air')

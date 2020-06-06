@@ -1,0 +1,6 @@
+Original Sentence: 
+The Fed also appears reluctant to ease credit conditions further
+Additional Information: 
+('credit', 'ON', 'image')
+('credit', 'artist')
+('sky', 'weather', 'condition')

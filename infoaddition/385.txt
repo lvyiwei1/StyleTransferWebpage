@@ -1,0 +1,4 @@
+Original Sentence: 
+Edisto currently is the general partner of NRM
+Additional Information: 
+('partner', 'playing on', 'tennis court')

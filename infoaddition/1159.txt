@@ -1,0 +1,7 @@
+Original Sentence: 
+Executives universally believe workers should know their employer-sponsored benefits
+Additional Information: 
+('executive', 'ON', 'signs')
+('executive', 'in white')
+('worker', 'WEARING', 'shirt')
+('worker', 'construction')

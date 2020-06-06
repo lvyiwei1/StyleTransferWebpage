@@ -1,0 +1,5 @@
+Original Sentence: 
+John Wilpers resigned as editor in chief
+Additional Information: 
+('spoon', 'next to', 'chief')
+('chief', 'handker')

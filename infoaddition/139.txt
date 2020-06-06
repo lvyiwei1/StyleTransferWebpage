@@ -1,0 +1,5 @@
+Original Sentence: 
+The interest-only securities will be sold separately by BT Securities
+Additional Information: 
+('security', 'walking in', 'orange vests')
+('security', 'standing')

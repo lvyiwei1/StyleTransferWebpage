@@ -1,0 +1,5 @@
+Original Sentence: 
+But advertising revenue is inadequate
+Additional Information: 
+('advertising', 'on side of', 'bus')
+('advertising', 'white')

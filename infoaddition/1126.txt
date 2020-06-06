@@ -1,0 +1,9 @@
+Original Sentence: 
+In the long run the stock prices will go up
+Additional Information: 
+('run', 'written on', 'street sign')
+('run', 'snowy')
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('price', 'OF', 'hot dog')
+('price', 'written')

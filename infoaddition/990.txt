@@ -1,0 +1,6 @@
+Original Sentence: 
+Mr. Jones is attacking the problem on several fronts
+Additional Information: 
+('plane', 'has', 'problem')
+('front', 'OF', 'bus.')
+('front', 'yellow')

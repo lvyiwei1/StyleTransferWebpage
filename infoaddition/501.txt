@@ -1,0 +1,5 @@
+Original Sentence: 
+That is the key to the current national disease
+Additional Information: 
+('key', 'ON', 'keyboard')
+('key', 'black')

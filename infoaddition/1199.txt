@@ -1,0 +1,5 @@
+Original Sentence: 
+Maybe I 'll plant castor-oil seeds
+Additional Information: 
+('seed', 'IN', 'orange')
+('seed', 'black')

@@ -1,0 +1,4 @@
+Original Sentence: 
+It is E-Z listening for the now generation
+Additional Information: 
+('bear ears', 'perked up and', 'listening')

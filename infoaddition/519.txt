@@ -1,0 +1,5 @@
+Original Sentence: 
+One cell was teased out and its DNA extracted
+Additional Information: 
+('cell', 'on a', 'box')
+('cell', 'black')

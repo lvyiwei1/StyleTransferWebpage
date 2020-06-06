@@ -1,0 +1,5 @@
+Original Sentence: 
+Just Wait Until You 're a Bit Older
+Additional Information: 
+('bit', 'IN', 'mouth')
+('bit', 'gray')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Often developers stay on as property manager
+Additional Information: 
+('property', 'standing', 'chainlink fence')
+('property', 'waterfront')
+('manager', 'sitting in', 'dugout')
+('manager', 'overlooking action')

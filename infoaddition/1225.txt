@@ -1,0 +1,6 @@
+Original Sentence: 
+Stock prices rallied in active trading
+Additional Information: 
+('price', 'tag', 'roll')
+('price', 'written')
+('red t', 'IN', 'trading')

@@ -1,0 +1,6 @@
+Original Sentence: 
+Most investment-grade bonds fell 3\/8 to 1\/2 point
+Additional Information: 
+('bond', 'black ')
+('point', 'OF', 'scissors')
+('point', 'sharp')

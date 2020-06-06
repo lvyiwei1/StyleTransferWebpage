@@ -1,0 +1,7 @@
+Original Sentence: 
+Rising export sales also contributed to strong growth Nikon added
+Additional Information: 
+('sale', 'at', 'company')
+('sale', 'red')
+('growth', 'ON', 'bark')
+('growth', 'green')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Older people help profits by filling in downtime
+Additional Information: 
+('people', 'carrying', 'purse')
+('people', 'standing')

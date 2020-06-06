@@ -1,0 +1,5 @@
+Original Sentence: 
+The estimate includes the results of new stores
+Additional Information: 
+('store', 'next to', 'tracks')
+('store', 'red')

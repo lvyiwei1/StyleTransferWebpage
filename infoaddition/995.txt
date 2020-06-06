@@ -1,0 +1,5 @@
+Original Sentence: 
+Three big drug makers posted robust third-quarter earnings
+Additional Information: 
+('maker', 'on front of', 'fridge')
+('maker', 'coffee')

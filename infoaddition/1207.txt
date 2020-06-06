@@ -1,0 +1,6 @@
+Original Sentence: 
+In Europe the dollar ended lower in dull trading
+Additional Information: 
+('dollar', 'IN', 'hand')
+('dollar', 'twenty')
+('red t', 'IN', 'trading')

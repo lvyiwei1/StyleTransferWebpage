@@ -1,0 +1,6 @@
+Original Sentence: 
+The product overcame the bad publicity and kept evolving
+Additional Information: 
+('product', 'IN', 'box')
+('product', 'bathroom')
+('bus', 'has', 'publicity')

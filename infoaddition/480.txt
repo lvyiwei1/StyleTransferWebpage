@@ -1,0 +1,5 @@
+Original Sentence: 
+This case realizes that concern
+Additional Information: 
+('case', 'has', 'case')
+('case', 'black')

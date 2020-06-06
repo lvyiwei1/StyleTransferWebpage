@@ -1,0 +1,5 @@
+Original Sentence: 
+Things had just gone too far
+Additional Information: 
+('thing', 'on side of', 'clock')
+('thing', 'black')

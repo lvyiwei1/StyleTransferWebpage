@@ -1,0 +1,5 @@
+Original Sentence: 
+But these wide swings scare them to death
+Additional Information: 
+('swing', 'ON', 'rope')
+('swing', 'wooden')

@@ -1,0 +1,9 @@
+Original Sentence: 
+It 's tabloid news from A to Z
+Additional Information: 
+('news', 'ON', 'bus')
+('news', 'word')
+('a', 'water', 'tower')
+('a', 'black')
+('z', 'ON', 'sign')
+('z', 'letter')

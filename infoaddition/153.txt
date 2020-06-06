@@ -1,0 +1,4 @@
+Original Sentence: 
+Corporate bonds were unchanged
+Additional Information: 
+('bond', 'black ')

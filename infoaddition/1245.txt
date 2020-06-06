@@ -1,0 +1,8 @@
+Original Sentence: 
+Fuel costs were up 10 % in the third quarter
+Additional Information: 
+('fuel', 'ON', 'truck')
+('fuel', 'jet ')
+('cost', 'displayed in front of', 'banana')
+('quarter', 'lying on', 'shelf')
+('quarter', 'silver')

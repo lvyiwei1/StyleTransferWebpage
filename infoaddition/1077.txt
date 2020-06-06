@@ -1,0 +1,4 @@
+Original Sentence: 
+I think Mr. Phillips is going to need some help
+Additional Information: 
+('poster', 'says', 'help')

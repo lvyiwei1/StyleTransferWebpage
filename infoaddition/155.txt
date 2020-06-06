@@ -1,0 +1,7 @@
+Original Sentence: 
+Without machines good farms ca n't get bigger
+Additional Information: 
+('machine', 'ON', 'train platform')
+('machine', 'white')
+('farm', 'ON', 'ground')
+('farm', 'here')

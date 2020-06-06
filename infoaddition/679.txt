@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Zafris thinks rates are heading down helping small companies
+Additional Information: 
+('company', 'OF', 'company')
+('company', 'name')

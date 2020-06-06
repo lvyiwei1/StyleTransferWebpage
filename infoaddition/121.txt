@@ -1,0 +1,4 @@
+Original Sentence: 
+Ignore the present condition
+Additional Information: 
+('sky', 'weather', 'condition')

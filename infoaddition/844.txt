@@ -1,0 +1,5 @@
+Original Sentence: 
+The financial-services industry was battered by the 1987 crash
+Additional Information: 
+('crash', 'of an', 'airplane')
+('crash', 'white')

@@ -1,0 +1,10 @@
+Original Sentence: 
+Next year may see a drop of one percentage point
+Additional Information: 
+('year', 'ON', 'guard')
+('year', 'white')
+('drop', 'ON', 'plate')
+('drop', 'water')
+('coupon', 'has', 'percentage')
+('point', 'has', 'trees')
+('point', 'sharp')

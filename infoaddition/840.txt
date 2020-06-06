@@ -1,0 +1,5 @@
+Original Sentence: 
+They ca n't afford to stay out of HDTV
+Additional Information: 
+('hdtv', 'displaying', 'image')
+('hdtv', 'silver')

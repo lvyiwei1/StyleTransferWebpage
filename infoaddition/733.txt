@@ -1,0 +1,7 @@
+Original Sentence: 
+Timber stocks got a big boost
+Additional Information: 
+('timber', 'ON', 'ground')
+('timber', 'wooden')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

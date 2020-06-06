@@ -1,0 +1,6 @@
+Original Sentence: 
+Stock prices slipped lower in moderate trading
+Additional Information: 
+('price', 'ON', 'bike')
+('price', 'written')
+('red t', 'IN', 'trading')

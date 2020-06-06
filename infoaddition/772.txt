@@ -1,0 +1,5 @@
+Original Sentence: 
+It stopped selling a standard personal computer a while ago
+Additional Information: 
+('computer', 'sporting an', 'apple')
+('computer', 'laptop')

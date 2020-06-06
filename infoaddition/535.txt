@@ -1,0 +1,9 @@
+Original Sentence: 
+Some machines make charts for presentations
+Additional Information: 
+('machine', 'with', 'camera')
+('machine', 'white')
+('chart', 'ON', 'wall')
+('chart', 'white')
+('presentation', 'ON', 'screen')
+('presentation', 'power point ')

@@ -1,0 +1,4 @@
+Original Sentence: 
+His 1988 salary was 575,000 with a 575,000 bonus
+Additional Information: 
+('bonus', 'under', 'patty')

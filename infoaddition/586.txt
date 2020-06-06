@@ -1,0 +1,5 @@
+Original Sentence: 
+Still its edge is lost
+Additional Information: 
+('edge', 'OF', 'plate')
+('edge', 'white')

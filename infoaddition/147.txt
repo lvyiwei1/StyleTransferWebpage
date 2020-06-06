@@ -1,0 +1,6 @@
+Original Sentence: 
+The two banks appear to be a good fit
+Additional Information: 
+('bank', 'IN', 'hill')
+('bank', 'grassy')
+('fit', 'ON', 'shirt')

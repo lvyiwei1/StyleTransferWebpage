@@ -1,0 +1,7 @@
+Original Sentence: 
+At the core of all this stands a hotel
+Additional Information: 
+('core', 'ON', 'apple')
+('core', 'white')
+('hotel', 'has', 'balcony')
+('hotel', 'large')

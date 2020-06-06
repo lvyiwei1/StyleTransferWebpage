@@ -1,0 +1,5 @@
+Original Sentence: 
+The stores they work for may be sold
+Additional Information: 
+('store', 'has', 'window')
+('store', 'red')

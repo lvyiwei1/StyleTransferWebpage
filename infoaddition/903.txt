@@ -1,0 +1,7 @@
+Original Sentence: 
+Along the way there also are lots of romantic dalliances
+Additional Information: 
+('way', 'inside of', 'restaurant')
+('way', 'walk')
+('lot', 'for', 'truck')
+('lot', 'parking')

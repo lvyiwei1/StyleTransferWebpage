@@ -1,0 +1,4 @@
+Original Sentence: 
+Its maximum velocity is 72 mph
+Additional Information: 
+('mph', 'IN', 'letters')

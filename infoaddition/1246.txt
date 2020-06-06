@@ -1,0 +1,4 @@
+Original Sentence: 
+Brockville is about 100 miles east of Toronto
+Additional Information: 
+('mile', 'ON', 'avenue of americas')

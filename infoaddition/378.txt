@@ -1,0 +1,5 @@
+Original Sentence: 
+The Financial Times 30-share index ended 13.6 higher at 1772.1
+Additional Information: 
+('index', 'a fingerhas', 'baby')
+('index', 'is a finger')

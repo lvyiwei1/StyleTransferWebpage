@@ -1,0 +1,5 @@
+Original Sentence: 
+The jokes are n't just on the Japanese though
+Additional Information: 
+('joke', 'spray painted on', 'entertainment system')
+('joke', 'vulgar')

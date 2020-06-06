@@ -1,0 +1,4 @@
+Original Sentence: 
+Most British programming is more of an acquired taste
+Additional Information: 
+('taste', 'reads on', 'tractor trailer')

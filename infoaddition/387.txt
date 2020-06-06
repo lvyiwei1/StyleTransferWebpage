@@ -1,0 +1,5 @@
+Original Sentence: 
+He has good control
+Additional Information: 
+('control', 'ON', 'table')
+('control', 'remote')

@@ -1,0 +1,7 @@
+Original Sentence: 
+All the figures are adjusted to remove usual seasonal patterns
+Additional Information: 
+('figure', 'ON', 'table')
+('figure', 'green')
+('pattern', 'ON', 'cloth')
+('pattern', 'white')

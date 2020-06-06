@@ -1,0 +1,7 @@
+Original Sentence: 
+I 'm talking about landing in a canal
+Additional Information: 
+('landing', 'of an', 'aircraft')
+('landing', 'gear')
+('canal', 'between', 'buildings')
+('canal', 'calm')

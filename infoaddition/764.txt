@@ -1,0 +1,7 @@
+Original Sentence: 
+Passive Components makes capacitors and filters used to protect electronics
+Additional Information: 
+('filter', 'ON', 'car engine')
+('filter', 'white')
+('electronics', 'ON', 'shelf')
+('electronics', 'black')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Compaq is already taking aim at Zenith 's market share
+Additional Information: 
+('market', 'has', 'doors')
+('market', 'outdoor')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Remember those bulky thick-walled refrigerators of 30 years ago
+Additional Information: 
+('refrigerator', 'under', 'microwave')
+('refrigerator', 'white')
+('year', 'IN', 'left corner')
+('year', 'white')

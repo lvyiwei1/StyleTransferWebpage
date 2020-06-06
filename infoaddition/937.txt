@@ -1,0 +1,7 @@
+Original Sentence: 
+The board expanded to 17 seats
+Additional Information: 
+('board', 'has', 'part')
+('board', 'white')
+('seat', 'on a', 'motorcycle')
+('seat', 'black')

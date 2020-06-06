@@ -1,0 +1,5 @@
+Original Sentence: 
+The Nasdaq Composite Index eased 0.13 to 470.67
+Additional Information: 
+('index', 'a fingerhas', 'baby')
+('index', 'is a finger')

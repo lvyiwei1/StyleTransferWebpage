@@ -1,0 +1,6 @@
+Original Sentence: 
+The Japanese use 40 % of the world 's ivory
+Additional Information: 
+('world', 'ON', 'cover')
+('ivory', 'made of', 'ivory')
+('ivory', 'white')

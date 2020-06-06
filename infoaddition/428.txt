@@ -1,0 +1,5 @@
+Original Sentence: 
+It 's very revealing and soul baring said Ms. Volokh
+Additional Information: 
+('shoe', 'with', 'soul')
+('soul', 'black')

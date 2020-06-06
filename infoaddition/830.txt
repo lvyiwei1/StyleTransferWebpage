@@ -1,0 +1,5 @@
+Original Sentence: 
+Japan is a major target for the Soviets
+Additional Information: 
+('target', 'ON', 'plane')
+('target', 'red')

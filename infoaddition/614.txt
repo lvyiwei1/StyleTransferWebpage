@@ -1,0 +1,5 @@
+Original Sentence: 
+The system also provides course-correction advisories
+Additional Information: 
+('system', 'ON', 'stand')
+('system', 'black')

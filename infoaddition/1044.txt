@@ -1,0 +1,4 @@
+Original Sentence: 
+But it 's not mediocre it 's a real problem
+Additional Information: 
+('plane', 'has', 'problem')

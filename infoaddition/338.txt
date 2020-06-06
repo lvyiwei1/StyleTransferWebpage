@@ -1,0 +1,4 @@
+Original Sentence: 
+The firm was indicted in Tampa Fla. on money-laundering charges
+Additional Information: 
+('charge', 'can', 'charge')

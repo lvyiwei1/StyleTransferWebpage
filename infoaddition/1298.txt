@@ -1,0 +1,6 @@
+Original Sentence: 
+Clearly people like Mrs. Lombardi are giving marketers fits
+Additional Information: 
+('people', 'are riding', 'horse')
+('people', 'standing')
+('fit', 'ON', 'shirt')

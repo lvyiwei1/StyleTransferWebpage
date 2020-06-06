@@ -1,0 +1,7 @@
+Original Sentence: 
+FEDERAL JUDGE EXPANDS role of U.S. courts in extradition decisions
+Additional Information: 
+('judge', 'sitting in', 'chair')
+('judge', 'tennis line')
+('court', 'has', 'line')
+('court', 'green')

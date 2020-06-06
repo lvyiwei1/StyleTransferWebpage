@@ -1,0 +1,6 @@
+Original Sentence: 
+The average recession lasts about a year
+Additional Information: 
+('recession', 'wall')
+('year', 'IN', 'corner')
+('year', 'white')

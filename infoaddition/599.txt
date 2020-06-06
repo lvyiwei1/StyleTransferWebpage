@@ -1,0 +1,5 @@
+Original Sentence: 
+The reversal was even more evident among shorter-term Treasury securities
+Additional Information: 
+('security', 'ON', 'court')
+('security', 'standing')

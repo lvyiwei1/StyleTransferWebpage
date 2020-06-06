@@ -1,0 +1,8 @@
+Original Sentence: 
+Merchant banks were stronger across the board
+Additional Information: 
+('merchant', 'WEARING', 'apron')
+('bank', 'of', 'water')
+('bank', 'grassy')
+('board', 'ON', 'counter')
+('board', 'white')

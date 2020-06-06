@@ -1,0 +1,5 @@
+Original Sentence: 
+A Manville spokesman would n't elaborate on the proposed changes
+Additional Information: 
+('change', 'ON', 'machine')
+('change', 'loose')

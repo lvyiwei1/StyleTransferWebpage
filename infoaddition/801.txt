@@ -1,0 +1,5 @@
+Original Sentence: 
+Pilgrim had been closed for 32 months
+Additional Information: 
+('month', 'around', 'face')
+('month', 'ninth')

@@ -1,0 +1,5 @@
+Original Sentence: 
+On abortion their own day will come
+Additional Information: 
+('day', 'time', 'picture')
+('day', 'sunny')

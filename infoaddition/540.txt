@@ -1,0 +1,5 @@
+Original Sentence: 
+Lucy of course is pretty and smart though uneducated
+Additional Information: 
+('course', 'with', 'bunker')
+('course', 'green')

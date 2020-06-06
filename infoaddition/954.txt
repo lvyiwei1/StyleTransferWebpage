@@ -1,0 +1,7 @@
+Original Sentence: 
+No employee or vendor would be involved
+Additional Information: 
+('employee', 'WEARING', 'helmet')
+('employee', 'airport')
+('vendor', 'IN', 'boat')
+('vendor', 'street')

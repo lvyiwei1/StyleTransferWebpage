@@ -1,0 +1,4 @@
+Original Sentence: 
+Here is an example
+Additional Information: 
+('example', 'lowercase')

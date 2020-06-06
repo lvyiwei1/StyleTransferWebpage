@@ -1,0 +1,5 @@
+Original Sentence: 
+He gave no further details
+Additional Information: 
+('detail', 'over', 'door')
+('detail', 'red')

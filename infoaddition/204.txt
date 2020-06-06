@@ -1,0 +1,7 @@
+Original Sentence: 
+The accident was caused by faulty operation of a valve
+Additional Information: 
+('accident', 'ON', 'highway')
+('accident', 'in traffic')
+('valve', 'for', 'toilet')
+('valve', 'large')

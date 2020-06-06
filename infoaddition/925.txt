@@ -1,0 +1,7 @@
+Original Sentence: 
+In five minutes the Dow industrials climbed almost 30 points
+Additional Information: 
+('minute', 'attached on', 'clock')
+('minute', 'black')
+('point', 'on top of', 'umbrella')
+('point', 'sharp')

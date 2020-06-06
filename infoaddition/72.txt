@@ -1,0 +1,6 @@
+Original Sentence: 
+The pressure for change will rise with costs
+Additional Information: 
+('change', 'in a', 'change')
+('change', 'loose')
+('cost', 'displayed in front of', 'banana')

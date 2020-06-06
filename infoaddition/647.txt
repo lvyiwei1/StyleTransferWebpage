@@ -1,0 +1,5 @@
+Original Sentence: 
+Sales declined 10 % to 251.2 million from 278.7 million
+Additional Information: 
+('sale', 'ON', 'window')
+('sale', 'red')

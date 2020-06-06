@@ -1,0 +1,5 @@
+Original Sentence: 
+He throws something
+Additional Information: 
+('something', 'in hands of', 'man')
+('something', 'red')

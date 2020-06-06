@@ -1,0 +1,5 @@
+Original Sentence: 
+Batibot lacks the polish of Sesame Street
+Additional Information: 
+('polish', 'ON', 'nail')
+('polish', 'red')

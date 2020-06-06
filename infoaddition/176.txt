@@ -1,0 +1,6 @@
+Original Sentence: 
+The analysts say their gloomy forecasts have a flip side
+Additional Information: 
+('forecast', 'here')
+('side', 'OF', 'motorcycle')
+('side', 'white')

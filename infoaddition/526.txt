@@ -1,0 +1,8 @@
+Original Sentence: 
+The company is exposed to bulk chemicals however
+Additional Information: 
+('company', 'ON', 'train')
+('company', 'name')
+('bulk', 'under', 'mouth')
+('bottle', 'containing', 'chemical')
+('chemical', 'red')

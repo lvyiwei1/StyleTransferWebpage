@@ -1,0 +1,5 @@
+Original Sentence: 
+These figures are n't seasonally adjusted
+Additional Information: 
+('figure', 'ON', 'counter')
+('figure', 'green')

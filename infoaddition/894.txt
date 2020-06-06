@@ -1,0 +1,13 @@
+Original Sentence: 
+Sales of parts for cars and construction vehicles rose
+Additional Information: 
+('sale', 'at', 'company')
+('sale', 'red')
+('part', 'OF', 'lid')
+('part', 'small')
+('car', 'IN', 'parking spot')
+('car', 'parked')
+('construction', 'IN', 'background')
+('construction', 'gate')
+('vehicle', 'on top of', 'train')
+('vehicle', 'white')

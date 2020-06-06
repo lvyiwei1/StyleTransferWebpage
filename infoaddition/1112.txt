@@ -1,0 +1,5 @@
+Original Sentence: 
+He would not reveal which magazines he is considering
+Additional Information: 
+('magazine', 'has', 'writing')
+('magazine', 'open')

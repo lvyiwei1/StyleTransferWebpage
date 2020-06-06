@@ -1,0 +1,4 @@
+Original Sentence: 
+Asia Development and Schroders declined to comment on the move
+Additional Information: 
+('mechanism', 'makes it', 'move')

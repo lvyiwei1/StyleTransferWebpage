@@ -1,0 +1,5 @@
+Original Sentence: 
+The merger requires the approval of Norwegian authorities
+Additional Information: 
+('authority', 'ON', 'building')
+('authority', 'brass')

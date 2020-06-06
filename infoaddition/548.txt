@@ -1,0 +1,7 @@
+Original Sentence: 
+But junk bonds took more hits
+Additional Information: 
+('junk', 'by', 'building')
+('junk', 'lots')
+('bond', 'black ')
+('ball', 'being', 'hit')

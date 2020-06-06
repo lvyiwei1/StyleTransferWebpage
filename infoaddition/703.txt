@@ -1,0 +1,4 @@
+Original Sentence: 
+Law Firm Management Can Be Quite Rewarding
+Additional Information: 
+('drivers', 'are obeying', 'law')

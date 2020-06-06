@@ -1,0 +1,6 @@
+Original Sentence: 
+Would n't the Japanese like a piece of it
+Additional Information: 
+('baner', 'IN', 'japanese')
+('piece', 'OF', 'toast')
+('piece', 'small')

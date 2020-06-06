@@ -1,0 +1,5 @@
+Original Sentence: 
+A warm foster home has been found
+Additional Information: 
+('home', 'has', 'roof')
+('home', 'white')

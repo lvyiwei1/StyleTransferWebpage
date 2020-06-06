@@ -1,0 +1,9 @@
+Original Sentence: 
+The scars will be here years after the polls close
+Additional Information: 
+('scar', 'ON', 'apple')
+('scar', 'of old limbs')
+('year', 'ON', 'guard')
+('year', 'white')
+('poll', 'ON', 'cake')
+('poll', 'white')

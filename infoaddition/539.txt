@@ -1,0 +1,5 @@
+Original Sentence: 
+The Norfolk Va. company has 172.2 million shares outstanding
+Additional Information: 
+('company', 'has', 'name')
+('company', 'name')

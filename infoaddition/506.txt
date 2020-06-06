@@ -1,0 +1,9 @@
+Original Sentence: 
+There was little turnover and nothing to stimulate the market
+Additional Information: 
+('turnover', 'ON', 'paper')
+('turnover', 'apple')
+('nothing', 'IN', 'sky')
+('nothing', 'clear')
+('market', 'with', 'food')
+('market', 'outdoor')

@@ -1,0 +1,6 @@
+Original Sentence: 
+I 'm enjoying my life and who I am today
+Additional Information: 
+('life', 'written on', 'sign')
+('life', 'printed')
+('cow', 'are laying down', 'today')

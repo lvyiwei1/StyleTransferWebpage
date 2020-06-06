@@ -1,0 +1,5 @@
+Original Sentence: 
+Now it 's on the fence
+Additional Information: 
+('fence', 'behind', 'car')
+('fence', 'metal')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Newport Beach fits the scam artists ' specifications perfectly
+Additional Information: 
+('artist', 'signature', 'tag')
+('artist', 'painting')

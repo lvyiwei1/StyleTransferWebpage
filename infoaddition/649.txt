@@ -1,0 +1,9 @@
+Original Sentence: 
+Other money managers also opened their wallets
+Additional Information: 
+('money', 'IN', 'hand')
+('money', 'paper')
+('manager', 'speaking with', 'players')
+('manager', 'overlooking action')
+('wallet', 'ON', 'table')
+('wallet', 'black')

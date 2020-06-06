@@ -1,0 +1,5 @@
+Original Sentence: 
+The Newport Beach operators also tend to indulge themselves privately
+Additional Information: 
+('operator', 'sitting', 'shed')
+('operator', 'Lift ')

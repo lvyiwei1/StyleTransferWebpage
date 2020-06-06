@@ -1,0 +1,7 @@
+Original Sentence: 
+Which makes the chase car necessary
+Additional Information: 
+('chase', 'ON', 'building')
+('chase', 'word')
+('car', 'driving', 'road')
+('car', 'parked')

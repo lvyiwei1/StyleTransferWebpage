@@ -1,0 +1,5 @@
+Original Sentence: 
+But there 's another side to Mr. Krenz
+Additional Information: 
+('side', 'OF', 'fire hydrant')
+('side', 'white')

@@ -1,0 +1,8 @@
+Original Sentence: 
+The rest is of course history
+Additional Information: 
+('rest', 'ON', 'controller')
+('rest', 'arm')
+('course', 'has a', 'flag')
+('course', 'green')
+('the', 'word', 'history')

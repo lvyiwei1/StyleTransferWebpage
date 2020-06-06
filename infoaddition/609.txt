@@ -1,0 +1,5 @@
+Original Sentence: 
+He intends to add to the litigation staff
+Additional Information: 
+('staff', 'in front of', 'horse')
+('staff', 'kitchen')

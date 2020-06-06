@@ -1,0 +1,4 @@
+Original Sentence: 
+Complying with environmental and workplace regulations runs a close second
+Additional Information: 
+('regulation', 'size white', 'base')

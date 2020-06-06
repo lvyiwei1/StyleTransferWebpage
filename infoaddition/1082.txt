@@ -1,0 +1,5 @@
+Original Sentence: 
+And the naczelnik shuts his door
+Additional Information: 
+('door', 'with', 'window')
+('door', 'white')

@@ -1,0 +1,5 @@
+Original Sentence: 
+So far though Mr. Lesko has received only one entry
+Additional Information: 
+('entry', 'to', 'building')
+('entry', 'dark')

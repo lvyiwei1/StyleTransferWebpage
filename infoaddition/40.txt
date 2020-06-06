@@ -1,0 +1,5 @@
+Original Sentence: 
+Some economists found the mixture ominous
+Additional Information: 
+('mixture', 'OF', 'food')
+('mixture', 'pink')

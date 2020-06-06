@@ -1,0 +1,8 @@
+Original Sentence: 
+But unlike most patients her roommate was her husband
+Additional Information: 
+('patient', 'ON', 'table')
+('patient', 'nurse')
+('roommate', 'IN', 'room')
+('husband', 'IN', 'street')
+('husband', 'walking')

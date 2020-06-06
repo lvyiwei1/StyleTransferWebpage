@@ -1,0 +1,5 @@
+Original Sentence: 
+DPC said it could n't comment on the suit
+Additional Information: 
+('suit', 'has', 'button')
+('suit', 'black')

@@ -1,0 +1,5 @@
+Original Sentence: 
+That puts pressure on CD rates
+Additional Information: 
+('cd', 'ON', 'ground')
+('cd', 'silver')

@@ -1,0 +1,5 @@
+Original Sentence: 
+WCRS Plans Ad-Unit Sale
+Additional Information: 
+('sale', 'at', 'company')
+('sale', 'red')

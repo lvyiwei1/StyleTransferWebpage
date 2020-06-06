@@ -1,0 +1,6 @@
+Original Sentence: 
+The Treasury 's benchmark 30-year bond rose 1\/8 point
+Additional Information: 
+('bond', 'black ')
+('point', 'ON', 'tower')
+('point', 'sharp')

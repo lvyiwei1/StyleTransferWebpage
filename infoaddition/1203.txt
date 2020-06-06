@@ -1,0 +1,5 @@
+Original Sentence: 
+What really stirs his muse though is aerobic architecture
+Additional Information: 
+('architecture', 'around', 'clock')
+('architecture', 'decorative')

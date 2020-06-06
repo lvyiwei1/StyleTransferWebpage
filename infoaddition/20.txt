@@ -1,0 +1,9 @@
+Original Sentence: 
+Copper prices fell sharply Friday afternoon
+Additional Information: 
+('copper', 'on top of', 'cake topper')
+('copper', 'vase')
+('price', 'for', 'avocados')
+('price', 'written')
+('photo', 'IN', 'afternoon')
+('afternoon', 'sunny')

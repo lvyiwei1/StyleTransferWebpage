@@ -1,0 +1,5 @@
+Original Sentence: 
+They figure it 's not a very good advert
+Additional Information: 
+('advert', 'IN', 'clip')
+('advert', 'turquoise')

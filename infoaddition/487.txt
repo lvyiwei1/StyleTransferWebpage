@@ -1,0 +1,7 @@
+Original Sentence: 
+Football is the No. 1 thing here
+Additional Information: 
+('football', 'with', 'stripe')
+('football', 'brown')
+('thing', 'guiding', 'airplane')
+('thing', 'black')

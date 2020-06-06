@@ -1,0 +1,7 @@
+Original Sentence: 
+Seats currently are quoted at 353,500 bid 405,000 asked
+Additional Information: 
+('seat', 'has', 'frame')
+('seat', 'black')
+('bid', 'ON', 'shoulder')
+('bid', 'metal')

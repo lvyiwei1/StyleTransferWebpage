@@ -1,0 +1,6 @@
+Original Sentence: 
+We see it becoming a bargain-basement kind of business
+Additional Information: 
+('kind', 'ON', 'sidewalk')
+('business', 'sign on', 'building')
+('business', 'here')

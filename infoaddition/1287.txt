@@ -1,0 +1,5 @@
+Original Sentence: 
+Japan is not a political country
+Additional Information: 
+('country', 'ON', 'boxes')
+('country', 'foreign')

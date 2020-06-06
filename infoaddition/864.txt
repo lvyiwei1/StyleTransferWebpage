@@ -1,0 +1,5 @@
+Original Sentence: 
+You hate to do it because he 's your father
+Additional Information: 
+('father', 'watching', 'son')
+('father', 'smiling')

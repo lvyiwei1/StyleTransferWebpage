@@ -1,0 +1,7 @@
+Original Sentence: 
+Telerate provides information about financial markets through an electronic network
+Additional Information: 
+('information', 'ON', 'sign')
+('information', 'yellow')
+('market', 'filled with', 'green peppers')
+('market', 'outdoor')

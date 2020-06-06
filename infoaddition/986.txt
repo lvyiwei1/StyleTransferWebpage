@@ -1,0 +1,5 @@
+Original Sentence: 
+Not everyone is worried however
+Additional Information: 
+('everyone', 'ON', 'sidewalk')
+('everyone', 'smiling')

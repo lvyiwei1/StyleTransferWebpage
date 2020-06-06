@@ -1,0 +1,4 @@
+Original Sentence: 
+Yield on the issue was 7.88 %
+Additional Information: 
+('yield', 'on', 'sign')

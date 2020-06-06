@@ -1,0 +1,6 @@
+Original Sentence: 
+He altered the wording to win Mr. Greenspan 's endorsement
+Additional Information: 
+('wording', 'ON', 'bottle')
+('wording', 'white')
+('endorsement', 'by roger federer')

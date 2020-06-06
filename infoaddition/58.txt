@@ -1,0 +1,7 @@
+Original Sentence: 
+In the past two years the stock almost stalled out
+Additional Information: 
+('year', 'ON', 'building')
+('year', 'white')
+('stock', 'of', 'stock')
+('stock', 'green')

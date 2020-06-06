@@ -1,0 +1,5 @@
+Original Sentence: 
+But for all its success CNN has hit a plateau
+Additional Information: 
+('plateau', 'IN', 'distance')
+('plateau', 'background')

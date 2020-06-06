@@ -1,0 +1,5 @@
+Original Sentence: 
+Most sleep on the floor
+Additional Information: 
+('floor', 'with', 'white spots')
+('floor', 'brown')

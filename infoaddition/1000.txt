@@ -1,0 +1,6 @@
+Original Sentence: 
+As a critique of middle-class mores the story is heavy-handed
+Additional Information: 
+('more', 'OF', 'floor')
+('story', 'belonging to', 'building')
+('story', 'second')

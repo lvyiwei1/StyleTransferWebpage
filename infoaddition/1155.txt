@@ -1,0 +1,7 @@
+Original Sentence: 
+Union officials could n't be reached for comment
+Additional Information: 
+('union', 'on side of', 'train')
+('union', 'word')
+('official', 'IN', 'chair')
+('official', 'tennis')

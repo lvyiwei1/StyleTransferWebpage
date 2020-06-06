@@ -1,0 +1,5 @@
+Original Sentence: 
+The 1988 results were restated for accounting-rules changes
+Additional Information: 
+('change', 'ON', 'table')
+('change', 'loose')

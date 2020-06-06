@@ -1,0 +1,7 @@
+Original Sentence: 
+Individuals can always have their hands slapped
+Additional Information: 
+('individual', 'has', 'green shirt')
+('individual', 'smiling')
+('hand', 'ON', 'hand')
+('hand', 'black')

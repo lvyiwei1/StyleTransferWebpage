@@ -1,0 +1,5 @@
+Original Sentence: 
+And they 've bought one
+Additional Information: 
+('one', 'ON', 'clock')
+('one', 'white')

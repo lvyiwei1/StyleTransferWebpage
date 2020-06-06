@@ -1,0 +1,5 @@
+Original Sentence: 
+Accord prices start at 12,345
+Additional Information: 
+('price', 'ON', 'sign')
+('price', 'written')

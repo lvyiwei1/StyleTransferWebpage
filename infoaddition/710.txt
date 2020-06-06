@@ -1,0 +1,5 @@
+Original Sentence: 
+He probably has n't done it for the cash
+Additional Information: 
+('cash', 'inside', 'purse')
+('cash', 'Two round pieces  ')

@@ -1,0 +1,5 @@
+Original Sentence: 
+He bought at share prices ranging from 9.375 to 9.625
+Additional Information: 
+('price', 'ON', 'sign')
+('price', 'written')

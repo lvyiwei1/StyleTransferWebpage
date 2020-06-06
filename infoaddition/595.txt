@@ -1,0 +1,7 @@
+Original Sentence: 
+The U.S. has six trade promotion offices in Canada
+Additional Information: 
+('company name', 'says', 'trade')
+('promotion', 'from', "victoria's secret")
+('office', 'building', 'light up')
+('office', 'small')

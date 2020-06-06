@@ -1,0 +1,5 @@
+Original Sentence: 
+Americans may not be so lucky the next time
+Additional Information: 
+('time', 'reflected on', 'clock')
+('time', 'displayed')

@@ -1,0 +1,9 @@
+Original Sentence: 
+In major market activity Stock prices slumped in sluggish trading
+Additional Information: 
+('market', 'has', 'food')
+('market', 'outdoor')
+('activity', 'around', 'planes')
+('price', 'tag', 'roll')
+('price', 'written')
+('red t', 'IN', 'trading')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Shippers are saying the party 's over said Mr. LaLonde
+Additional Information: 
+('party', 'at a', 'house')
+('party', 'birthday')

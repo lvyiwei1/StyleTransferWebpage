@@ -1,0 +1,4 @@
+Original Sentence: 
+it defended appropriate constitutional safeguards and practical common sense
+Additional Information: 
+('phrase', 'makes no', 'sense')

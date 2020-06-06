@@ -1,0 +1,5 @@
+Original Sentence: 
+Adverse pressure on gross margins has subsided Mr. Sculley said
+Additional Information: 
+('margin', 'separating', 'photo')
+('margin', 'thick')

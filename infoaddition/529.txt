@@ -1,0 +1,7 @@
+Original Sentence: 
+Blue chips led the march up in heavy trading
+Additional Information: 
+('chip', 'IN', 'wall')
+('chip', 'chocolate')
+('march', 'ON', 'sign')
+('red t', 'IN', 'trading')

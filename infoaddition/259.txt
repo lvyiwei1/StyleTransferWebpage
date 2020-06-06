@@ -1,0 +1,5 @@
+Original Sentence: 
+I do n't think that is the case
+Additional Information: 
+('case', 'sitting on', 'desk')
+('case', 'black')

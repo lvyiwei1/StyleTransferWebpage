@@ -1,0 +1,6 @@
+Original Sentence: 
+The Chicago exchanges also are working on such a device
+Additional Information: 
+('two women', 'make', 'exchange')
+('device', 'to milk', 'cow')
+('device', 'electronic')

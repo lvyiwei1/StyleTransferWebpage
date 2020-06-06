@@ -1,0 +1,6 @@
+Original Sentence: 
+TIMES SQUARE development opponents are dealt setback
+Additional Information: 
+('development', 'yellow')
+('opponent', 'wears', 'green')
+('opponent', 'standing')

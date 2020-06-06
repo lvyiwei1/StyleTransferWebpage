@@ -1,0 +1,5 @@
+Original Sentence: 
+Clients include Miller Brewing Co. and General Motors
+Additional Information: 
+('mirror', 'behind', 'client')
+('client', 'young')

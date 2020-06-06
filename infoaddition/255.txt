@@ -1,0 +1,4 @@
+Original Sentence: 
+That 's Chandler 's setup
+Additional Information: 
+('setup', 'simple')

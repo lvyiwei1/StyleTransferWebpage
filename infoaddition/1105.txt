@@ -1,0 +1,9 @@
+Original Sentence: 
+People have a different reputation country by country
+Additional Information: 
+('people', 'crossing a', 'road')
+('people', 'standing')
+('country', 'ON', 'skateboard')
+('country', 'foreign')
+('country', 'ON', 'skateboard')
+('country', 'foreign')

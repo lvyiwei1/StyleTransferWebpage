@@ -1,0 +1,5 @@
+Original Sentence: 
+Analysts predict little or no near-term growth
+Additional Information: 
+('growth', 'near', 'grass')
+('growth', 'green')

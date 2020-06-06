@@ -1,0 +1,5 @@
+Original Sentence: 
+The pilots were meeting outside Chicago yesterday
+Additional Information: 
+('pilot', 'IN', 'cockpit')
+('pilot', 'walking')

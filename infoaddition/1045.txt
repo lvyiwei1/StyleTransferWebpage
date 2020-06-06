@@ -1,0 +1,5 @@
+Original Sentence: 
+Conservatives have an important decision to make this fall
+Additional Information: 
+('fall', 'at', 'park')
+('fall', 'water')

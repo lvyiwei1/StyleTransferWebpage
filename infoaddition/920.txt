@@ -1,0 +1,6 @@
+Original Sentence: 
+I 'm not going to address questions of safety
+Additional Information: 
+('question', 'black')
+('safety', 'cone', 'orange')
+('safety', 'orange')

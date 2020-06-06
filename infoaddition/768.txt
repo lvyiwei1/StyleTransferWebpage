@@ -1,0 +1,7 @@
+Original Sentence: 
+The session failed to enact any new curbs
+Additional Information: 
+('screen', 'showing', 'session')
+('session', 'skype  ')
+('curb', 'next to', 'road')
+('curb', 'yellow')

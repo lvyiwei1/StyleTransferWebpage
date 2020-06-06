@@ -1,0 +1,7 @@
+Original Sentence: 
+He remains chief executive officer
+Additional Information: 
+('executive', 'ON', 'signs')
+('executive', 'in white')
+('officer', 'WEARING', 'sunglasses')
+('officer', 'police')

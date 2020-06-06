@@ -1,0 +1,5 @@
+Original Sentence: 
+Indeed his caution has become legendary within the government
+Additional Information: 
+('caution', 'ON', 'box')
+('caution', 'written')

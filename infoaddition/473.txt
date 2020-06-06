@@ -1,0 +1,5 @@
+Original Sentence: 
+The core rate is not really out of line
+Additional Information: 
+('line', 'ON', 'mattress')
+('line', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The measure is expected to move through this Congress
+Additional Information: 
+('measure', 'black')

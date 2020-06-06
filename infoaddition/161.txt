@@ -1,0 +1,5 @@
+Original Sentence: 
+But the shortages also spawned rampant speculation and spiraling prices
+Additional Information: 
+('price', 'tag', 'roll')
+('price', 'written')

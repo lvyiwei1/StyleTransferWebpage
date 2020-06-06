@@ -1,0 +1,5 @@
+Original Sentence: 
+He dedicated all these new forces to the Persian Gulf
+Additional Information: 
+('force', 'ON', 'plane')
+('force', 'black')

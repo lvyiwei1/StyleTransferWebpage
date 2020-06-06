@@ -1,0 +1,10 @@
+Original Sentence: 
+Market conditions point to even lower prices next year
+Additional Information: 
+('market', 'has', 'doors')
+('market', 'outdoor')
+('sky', 'weather', 'condition')
+('price', 'ON', 'sign')
+('price', 'written')
+('year', 'ON', 'bench')
+('year', 'white')

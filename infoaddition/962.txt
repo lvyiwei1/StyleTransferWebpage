@@ -1,0 +1,6 @@
+Original Sentence: 
+Not everybody agrees that it 's time to trim
+Additional Information: 
+('everybody', 'wearing', 'sunglasses')
+('time', 'ON', 'screen')
+('time', 'displayed')

@@ -1,0 +1,5 @@
+Original Sentence: 
+To reinforce employees ' dedication Mr. Smith pays well
+Additional Information: 
+('employee', 'helps', 'people')
+('employee', 'airport')

@@ -1,0 +1,5 @@
+Original Sentence: 
+But the market is changing
+Additional Information: 
+('market', 'OF', 'fruit')
+('market', 'outdoor')

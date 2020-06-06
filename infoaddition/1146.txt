@@ -1,0 +1,8 @@
+Original Sentence: 
+Fund managers for their part defend their use of leverage
+Additional Information: 
+('manager', 'speaking with', 'players')
+('manager', 'overlooking action')
+('part', 'OF', 'pond')
+('part', 'small')
+('use', 'hiding in', 'corner')

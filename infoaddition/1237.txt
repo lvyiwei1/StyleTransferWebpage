@@ -1,0 +1,6 @@
+Original Sentence: 
+These are curious times in South African politics
+Additional Information: 
+('time', 'shown on', 'phone screen')
+('time', 'displayed')
+('letters', 'about', 'politics')

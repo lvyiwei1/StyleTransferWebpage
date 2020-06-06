@@ -1,0 +1,5 @@
+Original Sentence: 
+To be sure the threat has hit home down here
+Additional Information: 
+('home', 'behind', 'tracks')
+('home', 'white')

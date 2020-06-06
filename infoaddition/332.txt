@@ -1,0 +1,5 @@
+Original Sentence: 
+The lists total 654.5 million
+Additional Information: 
+('list', 'ON', 'refrigerator door')
+('list', 'champagne ')

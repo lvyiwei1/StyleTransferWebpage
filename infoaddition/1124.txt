@@ -1,0 +1,5 @@
+Original Sentence: 
+Okay now you can pick up that phone
+Additional Information: 
+('phone', 'coming on', 'nightstand')
+('phone', 'black')

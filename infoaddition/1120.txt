@@ -1,0 +1,5 @@
+Original Sentence: 
+Rainbow 's stock dropped 2 to 14 1\/4
+Additional Information: 
+('stock', 'OF', 'broccoli')
+('stock', 'green')

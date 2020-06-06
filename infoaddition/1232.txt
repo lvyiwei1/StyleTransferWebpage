@@ -1,0 +1,6 @@
+Original Sentence: 
+But for photofinishers developing costs for black-and-white film are higher
+Additional Information: 
+('cost', 'displayed in front of', 'banana')
+('film', 'ON', 'film')
+('film', 'black')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Viroqua serves about 3,000 access lines in western Wisconsin
+Additional Information: 
+('access', 'ON', 'sidewalk')
+('access', 'sloped')
+('line', 'on boarder of', 'sidewalk')
+('line', 'white')

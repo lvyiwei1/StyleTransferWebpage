@@ -1,0 +1,5 @@
+Original Sentence: 
+A bid against Paribas could n't be ruled out
+Additional Information: 
+('bid', 'ON', 'shoulder')
+('bid', 'metal')

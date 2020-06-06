@@ -1,0 +1,4 @@
+Original Sentence: 
+The exchange ratio was never established
+Additional Information: 
+('two women', 'make', 'exchange')

@@ -1,0 +1,7 @@
+Original Sentence: 
+SKILLED WORKERS aplenty are available to cope with earthquake damage
+Additional Information: 
+('worker', 'WEARING', 'vest')
+('worker', 'construction')
+('damage', 'ON', 'wall')
+('damage', 'moisture')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Farmers lay down before the bulldozers
+Additional Information: 
+('farmer', 'beside', 'body')
+('farmer', 'holding')
+('bulldozer', 'clearing out', 'debris')
+('bulldozer', 'yellow')

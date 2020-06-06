@@ -1,0 +1,5 @@
+Original Sentence: 
+He will remain on the Banc One board
+Additional Information: 
+('board', 'on top of', 'building')
+('board', 'white')

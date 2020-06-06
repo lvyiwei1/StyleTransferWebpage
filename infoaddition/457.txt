@@ -1,0 +1,7 @@
+Original Sentence: 
+The market closed prior to Mr. Lawson 's announcement
+Additional Information: 
+('market', 'IN', 'container')
+('market', 'outdoor')
+('announcement', 'ON', 'table')
+('announcement', 'green')

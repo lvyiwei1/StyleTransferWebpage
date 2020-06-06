@@ -1,0 +1,5 @@
+Original Sentence: 
+That could shove a weak economy into recession
+Additional Information: 
+('economy', 'ON', 'train')
+('recession', 'wall')

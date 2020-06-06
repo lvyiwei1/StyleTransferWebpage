@@ -1,0 +1,9 @@
+Original Sentence: 
+Excluding transportation items orders rose 1.8 %
+Additional Information: 
+('sign', 'directing people to another source of', 'transportation')
+('transportation', 'public')
+('item', 'ON', 'commode')
+('item', 'red')
+('order', 'containing', 'fries')
+('order', 'ready')

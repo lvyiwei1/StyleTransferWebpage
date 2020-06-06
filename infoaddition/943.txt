@@ -1,0 +1,9 @@
+Original Sentence: 
+Some industry groups consistently weather the storm better than others
+Additional Information: 
+('group', 'grazing on', 'field')
+('group', 'large')
+('storm', 'ON', 'pavement')
+('storm', 'coming')
+('others', 'at', 'beach')
+('others', 'three')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Tom Herman contributed to this article
+Additional Information: 
+('article', 'ON', 'chair')
+('article', 'newspaper')

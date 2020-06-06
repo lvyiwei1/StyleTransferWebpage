@@ -1,0 +1,7 @@
+Original Sentence: 
+The company says sales have soared
+Additional Information: 
+('company', 'ON', 'photo')
+('company', 'name')
+('sale', 'ON', 'window')
+('sale', 'red')

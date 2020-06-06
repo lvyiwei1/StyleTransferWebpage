@@ -1,0 +1,4 @@
+Original Sentence: 
+This is no longer true today
+Additional Information: 
+('cow', 'are laying down', 'today')

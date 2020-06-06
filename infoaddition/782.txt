@@ -1,0 +1,6 @@
+Original Sentence: 
+Most public-health measures were handled at the local level
+Additional Information: 
+('measure', 'black')
+('level', 'ON', 'bus')
+('level', 'upper')

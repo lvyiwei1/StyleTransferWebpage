@@ -1,0 +1,4 @@
+Original Sentence: 
+THE IRS DELAYS several deadlines for Hugo 's victims
+Additional Information: 
+('racket', 'OF', 'victim')

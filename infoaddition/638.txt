@@ -1,0 +1,7 @@
+Original Sentence: 
+He started building the files that helped him gain power
+Additional Information: 
+('file', 'ON', 'desk')
+('file', 'large')
+('power', 'lines over', 'street')
+('power', 'on')

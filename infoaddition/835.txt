@@ -1,0 +1,5 @@
+Original Sentence: 
+Creative accounting is a hallmark of federal credit
+Additional Information: 
+('credit', 'card', 'cardlogos')
+('credit', 'artist')

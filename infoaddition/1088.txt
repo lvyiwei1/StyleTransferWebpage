@@ -1,0 +1,9 @@
+Original Sentence: 
+We have some level of financial interest in the collection
+Additional Information: 
+('level', 'ON', 'bus')
+('level', 'upper')
+('people', 'showing', 'interest')
+('interest', 'great')
+('collection', 'OF', 'cds')
+('collection', 'small')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Turkey in any event is long past it
+Additional Information: 
+('event', 'IN', 'park')
+('event', 'here')

@@ -1,0 +1,10 @@
+Original Sentence: 
+The company also makes optical character recognition equipment
+Additional Information: 
+('company', 'ON', 'building')
+('company', 'name')
+('character', 'ON', 'vase')
+('character', 'foreign')
+('plaque', 'for', 'recognition')
+('equipment', 'from', 'dump truck')
+('equipment', 'electronic')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Remember the Dalkon Shield and the early birth-control pills
+Additional Information: 
+('pill', 'ON', 'table')
+('pill', 'pink')

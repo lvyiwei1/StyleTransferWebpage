@@ -1,0 +1,5 @@
+Original Sentence: 
+When selling is so frenzied prices fall steeply and fast
+Additional Information: 
+('price', 'tag', 'roll')
+('price', 'written')

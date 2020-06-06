@@ -1,0 +1,4 @@
+Original Sentence: 
+But Japanese bonds ended weaker
+Additional Information: 
+('bond', 'black ')

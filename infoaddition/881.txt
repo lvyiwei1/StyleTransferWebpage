@@ -1,0 +1,11 @@
+Original Sentence: 
+Confectionery products sales also had strong growth in the quarter
+Additional Information: 
+('product', 'ON', 'shelf')
+('product', 'bathroom')
+('sale', 'at', 'company')
+('sale', 'red')
+('growth', 'near', 'grass')
+('growth', 'green')
+('quarter', 'lying on', 'shelf')
+('quarter', 'silver')

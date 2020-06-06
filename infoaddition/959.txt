@@ -1,0 +1,6 @@
+Original Sentence: 
+Crested Butte population 1,200 is a bastion of the sport
+Additional Information: 
+('river', 'passing', 'population')
+('sport', 'played', 'intensely')
+('sport', 'popular')

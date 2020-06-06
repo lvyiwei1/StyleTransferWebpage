@@ -1,0 +1,5 @@
+Original Sentence: 
+Mr. Trump never obtained financing for his bid
+Additional Information: 
+('bid', 'ON', 'sheet')
+('bid', 'metal')

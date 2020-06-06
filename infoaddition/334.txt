@@ -1,0 +1,5 @@
+Original Sentence: 
+The appointments take effect Nov. 1
+Additional Information: 
+('effect', 'ON', 'clock tower')
+('effect', 'yellow')

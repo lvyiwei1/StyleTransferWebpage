@@ -1,0 +1,8 @@
+Original Sentence: 
+The rest were withdrawn for lack of acceptable bids
+Additional Information: 
+('rest', 'ON', 'bench')
+('rest', 'arm')
+('lack', 'in front', 'hills')
+('bid', 'ON', 'sheet')
+('bid', 'metal')

@@ -1,0 +1,4 @@
+Original Sentence: 
+His credentials are excellent for the task
+Additional Information: 
+('eye', 'concentrating on', 'task')

@@ -1,0 +1,7 @@
+Original Sentence: 
+Business was slow because many companies were closed yesterday
+Additional Information: 
+('business', 'lining', 'street')
+('business', 'here')
+('company', 'that owns', 'bus')
+('company', 'name')

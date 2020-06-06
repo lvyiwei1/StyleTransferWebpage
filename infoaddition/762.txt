@@ -1,0 +1,5 @@
+Original Sentence: 
+That may be the last thing she needs
+Additional Information: 
+('thing', 'ON', 'table')
+('thing', 'black')

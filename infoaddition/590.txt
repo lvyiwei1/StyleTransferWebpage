@@ -1,0 +1,7 @@
+Original Sentence: 
+At 13,000 feet the engines restarted
+Additional Information: 
+('foot', 'ON', 'rail')
+('foot', 'bare')
+('engine', 'ON', 'train')
+('engine', 'blue')

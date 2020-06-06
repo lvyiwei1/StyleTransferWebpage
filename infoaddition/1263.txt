@@ -1,0 +1,9 @@
+Original Sentence: 
+A lot of bad things can happen in 12 years
+Additional Information: 
+('lot', 'with', 'truck')
+('lot', 'parking')
+('thing', 'guiding', 'airplane')
+('thing', 'black')
+('year', 'ON', 'guard')
+('year', 'white')

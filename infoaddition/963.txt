@@ -1,0 +1,5 @@
+Original Sentence: 
+Under what weights will the Federal Deposit Insurance Corporation totter
+Additional Information: 
+('weight', 'ON', 'bat')
+('weight', 'limbs')

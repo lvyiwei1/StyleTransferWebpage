@@ -1,0 +1,5 @@
+Original Sentence: 
+Never in my life have I been so frightened
+Additional Information: 
+('life', 'written on', 'sign')
+('life', 'printed')

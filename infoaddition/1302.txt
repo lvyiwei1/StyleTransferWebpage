@@ -1,0 +1,5 @@
+Original Sentence: 
+Bard\/EMS had 1988 sales of about 14 million Birtcher said
+Additional Information: 
+('sale', 'ON', 'window')
+('sale', 'red')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Breeders are betting on the common folk
+Additional Information: 
+('breeder', 'with a', 'cow')
+('folk', 'gold')
