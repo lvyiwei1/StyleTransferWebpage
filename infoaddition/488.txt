@@ -1,7 +1,4 @@
 Original Sentence: 
-Cars ca n't move because of overflowing sewers
+A related editorial appears today
 Additional Information: 
-('car', 'driving on', 'street')
-('car', 'parked')
-('sewer', 'covered in', 'water')
-('sewer', 'round')
+('cow', 'are laying down', 'today')

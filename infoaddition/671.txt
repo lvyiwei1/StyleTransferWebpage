@@ -1,6 +1,7 @@
 Original Sentence: 
-The Treasury 's benchmark 30-year bond rose 1\/8 point
+Gene-splicing now is an integral part of the drug business
 Additional Information: 
-('bond', 'black ')
-('point', 'ON', 'tower')
-('point', 'sharp')
+('part', 'OF', 'food')
+('part', 'small')
+('business', 'ON', 'corner')
+('business', 'here')

@@ -1,5 +1,9 @@
 Original Sentence: 
-The figures are seasonally adjusted
+Officials expect difficulty routing traffic through downtown San Francisco
 Additional Information: 
-('figure', 'riding on', 'chariot')
-('figure', 'green')
+('official', 'for', 'tennis')
+('official', 'tennis')
+('traffic', 'signal light', 'is green')
+('traffic', 'heavy')
+('downtown', 'city', 'street')
+('downtown', 'fancy')

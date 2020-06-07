@@ -1,5 +1,4 @@
 Original Sentence: 
-Sound stages echo
+Some abortion advocates have been asking themselves this very question
 Additional Information: 
-('stage', 'on', 'bike')
-('stage', 'black')
+('question', 'black')

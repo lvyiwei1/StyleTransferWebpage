@@ -1,5 +1,7 @@
 Original Sentence: 
-So he advises make goals achievable
+Most other states have enacted similar bans
 Additional Information: 
-('goal', 'behind', 'elephant')
-('goal', 'white')
+('state', 'ON', 'shirt')
+('state', 'Penn ')
+('table', 'has', 'ban')
+('ban', 'baked')

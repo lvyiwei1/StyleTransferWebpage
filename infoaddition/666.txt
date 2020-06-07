@@ -1,5 +1,4 @@
 Original Sentence: 
-Rigid ideological restrictions on property ownership should be abandoned
+In over-the-counter trading Interspec fell 37.5 cents to 4.25
 Additional Information: 
-('property', 'has', 'ditch')
-('property', 'waterfront')
+('red t', 'IN', 'trading')

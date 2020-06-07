@@ -1,6 +1,7 @@
 Original Sentence: 
-Would n't the Japanese like a piece of it
+The operating chief 's post is new
 Additional Information: 
-('baner', 'IN', 'japanese')
-('piece', 'OF', 'toast')
-('piece', 'small')
+('spoon', 'next to', 'chief')
+('chief', 'handker')
+('post', 'OF', 'fence')
+('post', 'wooden')

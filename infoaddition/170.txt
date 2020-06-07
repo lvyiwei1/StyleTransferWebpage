@@ -1,7 +1,7 @@
 Original Sentence: 
-The flat report followed a four-month string of declines
+He is negotiating a rich book contract to boot
 Additional Information: 
-('report', 'ON', 'green paper')
-('string', 'ON', 'suitcase')
-('string', 'white')
-('decline', ' of grass')
+('book', 'has', 'cover')
+('book', 'white')
+('boot', 'ON', 'foot')
+('boot', 'black')

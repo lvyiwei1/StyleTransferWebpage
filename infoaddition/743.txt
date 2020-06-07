@@ -1,5 +1,5 @@
 Original Sentence: 
-The shuttle is slated to return Monday to California
+That is typically about a three-week window
 Additional Information: 
-('shuttle', 'has a', 'logo')
-('shuttle', 'white')
+('window', 'ON', 'plane')
+('window', 'glass')

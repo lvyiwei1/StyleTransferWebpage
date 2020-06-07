@@ -1,5 +1,4 @@
 Original Sentence: 
-She manages it with the title of general-director
+THE IRS DELAYS several deadlines for Hugo 's victims
 Additional Information: 
-('title', 'OF', 'book')
-('title', 'movie')
+('racket', 'OF', 'victim')

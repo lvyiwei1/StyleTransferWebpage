@@ -1,0 +1,3 @@
+Original Sentence: 
+It could do damage to us
+Emphasize: do

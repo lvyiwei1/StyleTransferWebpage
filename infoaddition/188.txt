@@ -1,6 +1,5 @@
 Original Sentence: 
-It could be a long wait say some industry observers
+And the successful son wishes his embarrassing siblings dead
 Additional Information: 
-('wait', 'ON', 'signal')
-('observer', 'ON', 'mountain slope')
-('observer', 'standing')
+('son', 'playing', 'game')
+('son', 'young')

@@ -1,0 +1,3 @@
+Original Sentence: 
+I said Somebody come get me
+Emphasize: come

@@ -1,5 +1,6 @@
 Original Sentence: 
-He will keep the ball down move it around
+Is he a victim of Gramm-Rudman cuts
 Additional Information: 
-('ball', 'IN', 'hand')
-('ball', 'yellow')
+('racket', 'OF', 'victim')
+('cut', 'IN', 'rock')
+('cut', 'small')

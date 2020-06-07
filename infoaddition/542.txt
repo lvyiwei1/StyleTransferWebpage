@@ -1,5 +1,5 @@
 Original Sentence: 
-Who will take over these places
+The most likely winner will be the Marxist-dominated SWAPO rebels
 Additional Information: 
-('place', 'full', 'snow')
-('place', 'full')
+('winner', 'seen', 'left leg')
+('winner', '2nd place')

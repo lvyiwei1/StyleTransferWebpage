@@ -1,5 +1,6 @@
 Original Sentence: 
-There are better ways to promote a cause
+But when stocks held steady Treasury bonds later retreated
 Additional Information: 
-('way', 'scrapped on', 'bus')
-('way', 'walk')
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('bond', 'black ')

@@ -1,9 +1,7 @@
 Original Sentence: 
-Copper prices fell sharply Friday afternoon
+In Chicago grain and soybean prices rose slightly
 Additional Information: 
-('copper', 'on top of', 'cake topper')
-('copper', 'vase')
-('price', 'for', 'avocados')
+('grain', 'ON', 'plate')
+('grain', 'wood')
+('price', 'for', 'nectarines')
 ('price', 'written')
-('photo', 'IN', 'afternoon')
-('afternoon', 'sunny')

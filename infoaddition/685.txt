@@ -1,5 +1,5 @@
 Original Sentence: 
-BankAmerica 's profit jumped 34 % in the third quarter
+It reduces the baseline by 169 billion
 Additional Information: 
-('quarter', 'lying on', 'shelf')
-('quarter', 'silver')
+('baseline', 'ON', 'grass')
+('baseline', 'white')

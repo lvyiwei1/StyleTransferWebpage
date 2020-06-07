@@ -1,5 +1,5 @@
 Original Sentence: 
-SHEDDING GLITTER
+The new company is capitalized at about 3.5 million
 Additional Information: 
-('glitter', 'ON', 'chandalier')
-('glitter', 'gold')
+('company', 'ON', 'box')
+('company', 'name')

@@ -1,5 +1,5 @@
 Original Sentence: 
-What was my angle
+But it 's just one of those things that happened
 Additional Information: 
-('angle', 'on side of', 'wall')
-('angle', 'white')
+('thing', 'stuck on', 'refrigerator')
+('thing', 'black')

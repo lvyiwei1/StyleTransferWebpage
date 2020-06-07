@@ -1,0 +1,3 @@
+Original Sentence: 
+This is not nearly good enough
+Emphasize: good

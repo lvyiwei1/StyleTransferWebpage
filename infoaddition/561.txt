@@ -1,4 +1,7 @@
 Original Sentence: 
-Its maximum velocity is 72 mph
+This pattern was particularly evident among more highly educated couples
 Additional Information: 
-('mph', 'IN', 'letters')
+('pattern', 'ON', 'tail')
+('pattern', 'white')
+('couple', 'wearing', 'hats')
+('couple', 'walking')

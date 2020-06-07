@@ -1,5 +1,7 @@
 Original Sentence: 
-In the coming months however this is likely to change
+Her story is becoming part of local folklore
 Additional Information: 
-('month', 'around', 'face')
-('month', 'ninth')
+('story', 'ON', 'church')
+('story', 'second')
+('part', 'OF', 'sandwich')
+('part', 'small')

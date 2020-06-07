@@ -1,4 +1,7 @@
 Original Sentence: 
-Terms were n't disclosed
+The university is considering a settlement proposal made by Connaught
 Additional Information: 
-('term', 'house of david')
+('university', 'ON', 'sign')
+('university', 'name ')
+('settlement', 'OF', 'buildings')
+('settlement', 'SUBURBAN')

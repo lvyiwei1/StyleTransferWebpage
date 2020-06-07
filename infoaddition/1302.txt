@@ -1,5 +1,5 @@
 Original Sentence: 
-Bard\/EMS had 1988 sales of about 14 million Birtcher said
+Generally regulators have n't announced enforcement actions in the past
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('action', 'IN', 'action')
+('action', 'MLB')

@@ -1,5 +1,4 @@
 Original Sentence: 
-This deal is like a Roach Motel he said
+He begins his seven-year term Nov. 9 succeeding Kenan Evren
 Additional Information: 
-('deal', 'OF', 'bananas')
-('deal', 'great')
+('term', 'house of david')

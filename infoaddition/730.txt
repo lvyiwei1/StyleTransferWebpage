@@ -1,5 +1,5 @@
 Original Sentence: 
-If excess capacity develops they say not everyone will suffer
+He describes a reporter as Miss First Amendment
 Additional Information: 
-('everyone', 'wearing a', 'wet suit')
-('everyone', 'smiling')
+('reporter', 'asking', 'man')
+('reporter', 'news reporter')

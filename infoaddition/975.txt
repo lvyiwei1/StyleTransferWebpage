@@ -1,5 +1,5 @@
 Original Sentence: 
-Volume on the New York Stock Exchange totaled 170,330,000 shares
+It 's very revealing and soul baring said Ms. Volokh
 Additional Information: 
-('volume', 'ON', 'keyboard')
-('volume', '3')
+('shoe', 'with', 'soul')
+('soul', 'black')

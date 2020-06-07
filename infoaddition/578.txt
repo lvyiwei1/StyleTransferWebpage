@@ -1,7 +1,4 @@
 Original Sentence: 
-Chicago 's new school chief is the hard-nosed Ted Kimbrough
+Mrs. Marcos 's trial is expected to begin in March
 Additional Information: 
-('school', 'has', 'clock')
-('school', 'word')
-('spoon', 'next to', 'chief')
-('chief', 'handker')
+('snow', 'has', 'trial')

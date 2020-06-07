@@ -1,7 +1,7 @@
 Original Sentence: 
-He is negotiating a rich book contract to boot
+He also leads an opulent life style
 Additional Information: 
-('book', 'IN', 'hand')
-('book', 'white')
-('boot', 'ON', 'snowboard')
-('boot', 'black')
+('life', 'written on', 'life guard bench')
+('life', 'printed')
+('style', 'ON', 'ceiling')
+('style', 'old')

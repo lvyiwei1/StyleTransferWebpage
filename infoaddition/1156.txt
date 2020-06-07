@@ -1,4 +1,7 @@
 Original Sentence: 
-There was no cost estimate for the second phase
+For starters some people call Ed and Lorraine Warren
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('starter', 'ON', 'table')
+('starter', 'motorcycle kick')
+('people', 'IN', 'market')
+('people', 'standing')

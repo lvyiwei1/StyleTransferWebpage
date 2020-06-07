@@ -1,5 +1,5 @@
 Original Sentence: 
-American Home Products Corp. proposes to acquire the company
+United Illuminating also amended its rate plan
 Additional Information: 
-('company', 'ON', 'corner')
-('company', 'name')
+('plan', 'ON', 'tarmac')
+('plan', 'air')

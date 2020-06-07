@@ -1,5 +1,5 @@
 Original Sentence: 
-West German government officials and Western analysts are doubtful
+A warm foster home has been found
 Additional Information: 
-('official', 'sitting in', 'chair')
-('official', 'tennis')
+('home', 'OF', 'giraffe')
+('home', 'white')

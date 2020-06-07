@@ -1,5 +1,6 @@
 Original Sentence: 
-This is only a further step in a lengthy investigation
+The analysts say their gloomy forecasts have a flip side
 Additional Information: 
-('step', 'on a', 'stairway')
-('step', 'concrete')
+('forecast', 'here')
+('side', 'OF A', 'wall')
+('side', 'white')

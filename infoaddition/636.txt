@@ -1,7 +1,4 @@
 Original Sentence: 
-Foreign traders say the company is strapped for cash
+Panic frequently results in irrational behavior
 Additional Information: 
-('company', 'has', 'logo')
-('company', 'name')
-('cash', 'inside', 'purse')
-('cash', 'Two round pieces  ')
+('panic', 'gold')

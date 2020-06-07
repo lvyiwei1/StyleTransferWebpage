@@ -1,5 +1,5 @@
 Original Sentence: 
-Pressed on the matter he is more specific
+But it has n't worked out that way
 Additional Information: 
-('matter', 'ON', 'rim')
-('matter', 'green')
+('way', 'scrapped on', 'bus')
+('way', 'walk')

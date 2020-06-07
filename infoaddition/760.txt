@@ -1,6 +1,7 @@
 Original Sentence: 
-The test may come today
+Debt-Burdened Doctors Seek Financial Security
 Additional Information: 
-('test', 'sitting in', 'aircraft')
-('test', 'filled out')
-('sign', 'reads', 'today')
+('doctor', 'touching', 'equipment')
+('doctor', 'watching')
+('security', 'ON', 'wall')
+('security', 'standing')

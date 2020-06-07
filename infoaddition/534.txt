@@ -1,5 +1,6 @@
 Original Sentence: 
-People are placing small bets
+To date scientists have fingered two of these cancer-suppressors
 Additional Information: 
-('people', 'ON', 'bikes')
-('people', 'standing')
+('date', 'ON', 'picture')
+('date', 'yellow')
+('scientist', 'experimenting with', 'three birds')

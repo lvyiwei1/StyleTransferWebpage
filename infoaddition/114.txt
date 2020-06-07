@@ -1,7 +1,6 @@
 Original Sentence: 
-Investors in B.A.T have been on a roller coaster
+But while index options are convenient they have several disadvantages
 Additional Information: 
-('roller', 'ON', 'suitcase')
-('roller', 'black')
-('coaster', 'under', 'glass')
-('coaster', 'white')
+('index', 'a fingerhas', 'baby')
+('index', 'is a finger')
+('option', 'ON', 'phone')

@@ -1,5 +1,7 @@
 Original Sentence: 
-The offering used at-market pricing
+His appointment expands the board to 13 members
 Additional Information: 
-('sign', 'has', 'pricing')
-('pricing', 'hand written')
+('board', 'with a', 'girl')
+('board', 'white')
+('member', 'watching', 'game')
+('member', 'several')

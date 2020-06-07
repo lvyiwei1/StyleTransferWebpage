@@ -1,9 +1,5 @@
 Original Sentence: 
-I heard parts of the building above my head cracking
+But the FHA program is hemorrhaging bad loans
 Additional Information: 
-('part', 'OF', 'train')
-('part', 'small')
-('building', 'has', 'shade')
-('building', 'white')
-('head', 'ON', 'person')
-('head', 'white')
+('program', 'ON', 'screen')
+('program', 'wedding')

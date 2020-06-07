@@ -1,5 +1,11 @@
 Original Sentence: 
-Brokers agreed with the two-tier price theory
+In peak periods that load may include 4,000 pieces
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
+('peak', 'at top of', 'mountain')
+('peak', 'mountain')
+('period', 'ON', 'sign')
+('period', 'red')
+('load', 'ON', 'truck')
+('load', 'large')
+('piece', 'OF', 'vegetable')
+('piece', 'small')

@@ -1,0 +1,3 @@
+Original Sentence: 
+The truth is Washington understands politics better than economics
+Emphasize: better

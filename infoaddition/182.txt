@@ -1,4 +1,4 @@
 Original Sentence: 
-Poachers would control the underground trade
+Roe v. Wade pre-empted political debate so the extremes blossomed
 Additional Information: 
-('company name', 'says', 'trade')
+('panel', 'for', 'debate')

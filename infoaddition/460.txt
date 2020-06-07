@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales declined slightly to 5.17 billion
+But the Americans are also to blame
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('american', 'flag', 'american')
+('american', 'Waving ')

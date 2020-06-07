@@ -1,7 +1,5 @@
 Original Sentence: 
-Other forms of red tape are more pervasive
+You think you can go out and turn things around
 Additional Information: 
-('form', 'ON', 'table top')
-('form', 'white')
-('tape', 'ON', 'counter')
-('tape', 'yellow')
+('thing', 'ON', 'table')
+('thing', 'black')

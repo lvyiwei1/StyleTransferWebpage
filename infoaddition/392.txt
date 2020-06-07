@@ -1,7 +1,5 @@
 Original Sentence: 
-But some analysts say Salomon has turned the corner
+The daily volume for Treasury Securities is about 110 billion
 Additional Information: 
-('salomon', 'written on', 'skateboard')
-('salomon', 'word')
-('corner', 'ON', 'tray')
-('corner', 'street')
+('volume', 'ON', 'keyboard')
+('volume', '3')

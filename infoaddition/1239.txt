@@ -1,6 +1,5 @@
 Original Sentence: 
-d Percentage change is greater than 999 %
+Sales rose 9 % to 7.54 billion from 6.95 billion
 Additional Information: 
-('coupon', 'has', 'percentage')
-('change', 'ON', 'red')
-('change', 'loose')
+('sale', 'ON', 'window')
+('sale', 'red')

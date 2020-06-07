@@ -1,5 +1,5 @@
 Original Sentence: 
-It 's nothing dramatic just a routine sell-off
+James A. White contributed to this article
 Additional Information: 
-('nothing', 'IN', 'sky')
-('nothing', 'clear')
+('article', 'OF', 'clothing')
+('article', 'newspaper')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The jokes are n't just on the Japanese though
+And he nearly always bought and sold for cash
 Additional Information: 
-('joke', 'spray painted on', 'entertainment system')
-('joke', 'vulgar')
+('cash', 'inside', 'purse')
+('cash', 'Two round pieces  ')

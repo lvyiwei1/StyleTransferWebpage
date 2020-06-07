@@ -1,4 +1,9 @@
 Original Sentence: 
-Terms were n't disclosed
+Wisconsin Toy has 71 retail stores primarily in discount settings
 Additional Information: 
-('term', 'house of david')
+('store', 'has', 'presents')
+('store', 'red')
+('discount', 'ON', 'window')
+('discount', 'written')
+('setting', 'OF', 'silverware')
+('setting', 'urban')

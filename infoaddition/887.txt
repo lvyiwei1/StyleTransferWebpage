@@ -1,5 +1,5 @@
 Original Sentence: 
-Thomson took a called strike Mr. Engelken recounts
+But he added interest-rate-sensitive stocks in general are stalled
 Additional Information: 
-('strike', 'ON', 'door')
-('strike', 'black')
+('stock', 'of', 'stock')
+('stock', 'green')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Indeed his caution has become legendary within the government
+Buy stocks on weakness for their long-term fundamentals he says
 Additional Information: 
-('caution', 'ON', 'box')
-('caution', 'written')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The final maturity is in five years
+Now we 're going to sell to men
 Additional Information: 
-('year', 'OF', 'photo')
-('year', 'white')
+('men', 'have', 'helmets')
+('men', 'standing')

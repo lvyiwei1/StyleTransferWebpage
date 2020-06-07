@@ -1,5 +1,7 @@
 Original Sentence: 
-Lloyd 's is moving forward on some fronts though
+Such armor crushes the soldier
 Additional Information: 
-('front', 'OF', 'board')
-('front', 'yellow')
+('armor', 'ON', 'person')
+('armor', 'red')
+('soldier', 'sits', 'outside')
+('soldier', 'lined up')

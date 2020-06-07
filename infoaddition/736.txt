@@ -1,5 +1,4 @@
 Original Sentence: 
-Moscow and Kabul must have found that information useful
+Working with lawyers she says I need it
 Additional Information: 
-('information', 'ON', 'corner')
-('information', 'yellow')
+('lawyer', 'showing a', 'paper')

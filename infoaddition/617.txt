@@ -1,5 +1,5 @@
 Original Sentence: 
-Serial certificates yield to 7.10 % in 2004
+Two years later he opened one in West Germany
 Additional Information: 
-('certificate', 'IN', 'framed picture')
-('certificate', 'framed')
+('year', 'OF', 'picture')
+('year', 'white')

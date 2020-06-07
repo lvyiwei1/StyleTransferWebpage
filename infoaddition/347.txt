@@ -1,5 +1,5 @@
 Original Sentence: 
-The minimum coupon is 13 3\/4 %
+The executive branch bears the first responsibility for timidity
 Additional Information: 
-('coupon', 'has', 'percentage')
-('coupon', 'white')
+('branch', 'sticking out of', 'truck')
+('branch', 'brown')

@@ -1,5 +1,5 @@
 Original Sentence: 
-And it works best in high-powered personal computers
+Mr. Roman appears custom-made for the American Express job
 Additional Information: 
-('computer', 'on top', 'table')
-('computer', 'laptop')
+('job', 'ON', 'bus')
+('job', 'decorative')

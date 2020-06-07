@@ -1,5 +1,5 @@
 Original Sentence: 
-Some laggard food issues attracted bargain-hunters traders said
+The union though has called the offer insulting
 Additional Information: 
-('food', 'ON', 'plate')
-('food', 'green')
+('union', 'station', 'engraved')
+('union', 'word')

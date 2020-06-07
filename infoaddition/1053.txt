@@ -1,5 +1,5 @@
 Original Sentence: 
-Many groups are n't waiting that long
+Asked about that the other day he replied Anti-Semitic
 Additional Information: 
-('group', 'OF', 'soldiers')
-('group', 'large')
+('day', 'within', 'lake')
+('day', 'sunny')

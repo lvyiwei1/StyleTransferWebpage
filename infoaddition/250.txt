@@ -1,4 +1,5 @@
 Original Sentence: 
-The Winter Games outlook also is mixed
+Businessmen took their cue from the engineers
 Additional Information: 
-('outlook', 'ON', 'building')
+('engineer', 'exiting', 'train')
+('engineer', 'train')

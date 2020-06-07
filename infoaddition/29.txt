@@ -1,9 +1,4 @@
 Original Sentence: 
-Solar-powered batteries will make the spire glow
+We 're not rushing into anything
 Additional Information: 
-('battery', 'under', 'truck')
-('battery', 'black')
-('spire', 'on top of', 'building')
-('spire', 'tall')
-('glow', 'in', 'area')
-('glow', 'orange')
+('part', 'of a speaker not connected to', 'anything')

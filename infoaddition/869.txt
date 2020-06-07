@@ -1,5 +1,8 @@
 Original Sentence: 
-He dedicated all these new forces to the Persian Gulf
+A large number of those leaving are managers and professionals
 Additional Information: 
-('force', 'ON', 'plane')
-('force', 'black')
+('number', 'ON', 'sign')
+('number', 'black')
+('manager', 'sitting in', 'dugout')
+('manager', 'overlooking action')
+('professional', 'riding on ir', 'motorbike')

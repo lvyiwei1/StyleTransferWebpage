@@ -1,4 +1,5 @@
 Original Sentence: 
-They are coming to publishers looking for ideas
+SELL WHISPER STOCKS
 Additional Information: 
-('publisher', 'ON', 'book')
+('stock', 'of', 'stock')
+('stock', 'green')

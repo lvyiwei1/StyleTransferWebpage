@@ -1,4 +1,9 @@
 Original Sentence: 
-Meanwhile overall evidence on the economy remains fairly clouded
+Others preach the gospel of buying only blue-chip growth stocks
 Additional Information: 
-('economy', 'ON', 'train')
+('others', 'at', 'beach')
+('others', 'three')
+('growth', 'ON', 'tree branches')
+('growth', 'green')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

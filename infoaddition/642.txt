@@ -1,5 +1,5 @@
 Original Sentence: 
-Nashua announced the Reiss request after the market closed
+But these are not the differences that make headlines
 Additional Information: 
-('market', 'filled with', 'green peppers')
-('market', 'outdoor')
+('headline', 'ON', 'paper')
+('headline', 'white')

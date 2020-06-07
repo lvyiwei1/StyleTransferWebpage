@@ -1,6 +1,5 @@
 Original Sentence: 
-Companies will continue to war over standards
+Glasnost has made celebrities of men like Mr. Korotich
 Additional Information: 
-('company', 'ON', 'lorry')
-('company', 'name')
-('standard', 'size white', 'toilet')
+('men', 'IN', 'dugout')
+('men', 'standing')

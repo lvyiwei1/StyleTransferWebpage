@@ -1,5 +1,7 @@
 Original Sentence: 
-Parts are a tragedy
+Seats currently are quoted at 400,000 bid 425,000 asked
 Additional Information: 
-('part', 'of a body of', 'water')
-('part', 'small')
+('seat', 'ON', 'bicycle')
+('seat', 'black')
+('bid', 'ON', 'shoulder')
+('bid', 'metal')

@@ -1,5 +1,5 @@
 Original Sentence: 
-No one was named to succeed Mr. Hartwell
+We have the money to buy
 Additional Information: 
-('one', 'foot', 'one')
-('one', 'white')
+('money', 'ON', 'table')
+('money', 'paper')

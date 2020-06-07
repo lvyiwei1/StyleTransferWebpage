@@ -1,5 +1,4 @@
 Original Sentence: 
-We have a major problem and that problem is volatility
+The citation was misstated in Friday 's edition
 Additional Information: 
-('plane', 'has', 'problem')
-('plane', 'has', 'problem')
+('edition', 'word')

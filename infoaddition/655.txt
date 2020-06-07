@@ -1,5 +1,5 @@
 Original Sentence: 
-BellSouth 's back-end protection was flawed previously
+Dentsu has U.S. subsidiaries but they keep low profiles
 Additional Information: 
-('protection', 'for', 'eyes')
-('protection', 'black')
+('profile', 'OF', 'elephant')
+('profile', 'side')

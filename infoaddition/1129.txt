@@ -1,7 +1,5 @@
 Original Sentence: 
-Congress previously cut six airports this year
+Sales declined slightly to 5.17 billion
 Additional Information: 
-('airport', 'has', 'lights')
-('airport', 'busy')
-('year', 'ON', 'bench')
-('year', 'white')
+('sale', 'at', 'company')
+('sale', 'red')

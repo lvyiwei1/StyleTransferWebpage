@@ -1,0 +1,3 @@
+Original Sentence: 
+In over-the-counter trading Interspec fell 37.5 cents to 4.25
+Emphasize: fell

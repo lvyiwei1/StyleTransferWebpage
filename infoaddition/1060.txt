@@ -1,5 +1,6 @@
 Original Sentence: 
-Nothing seems hard here
+The coin is their problem
 Additional Information: 
-('nothing', 'to', 'write')
-('nothing', 'clear')
+('coin', 'on a', 'table')
+('coin', 'gold')
+('plane', 'has', 'problem')

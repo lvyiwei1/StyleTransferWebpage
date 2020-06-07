@@ -1,5 +1,4 @@
 Original Sentence: 
-We want them to buy more of their wardrobe here
+Scientists felt differently
 Additional Information: 
-('wardrobe', 'next', 'bed')
-('wardrobe', 'wooden')
+('scientist', 'experimenting with', 'three birds')

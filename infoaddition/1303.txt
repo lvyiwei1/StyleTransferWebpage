@@ -1,7 +1,5 @@
 Original Sentence: 
-The state of New Hampshire has favored that plan
+On June 30 loss reserves stood at 108.3 million
 Additional Information: 
-('state', 'park', 'sign')
-('state', 'Penn ')
-('plan', 'behind', 'guy')
-('plan', 'air')
+('animals', 'in a', 'reserve')
+('reserve', 'game')

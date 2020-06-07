@@ -1,5 +1,5 @@
 Original Sentence: 
-But it 's just one of those things that happened
+But the ballplayers disagree
 Additional Information: 
-('thing', 'next to', 'sofa')
-('thing', 'black')
+('ballplayer', 'WEARING', 't-shirt')
+('ballplayer', 'waiting')

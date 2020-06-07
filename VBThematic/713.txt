@@ -1,0 +1,3 @@
+Original Sentence: 
+It did n't work
+Emphasize: work

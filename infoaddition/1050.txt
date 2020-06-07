@@ -1,4 +1,5 @@
 Original Sentence: 
-You have to count everything
+The practice is however legal in most cases
 Additional Information: 
-('sky', 'above', 'everything')
+('case', 'by a', 'bed')
+('case', 'black')

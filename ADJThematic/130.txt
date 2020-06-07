@@ -1,0 +1,3 @@
+Original Sentence: 
+There was no cost estimate for the second phase
+Emphasize: second

@@ -1,4 +1,7 @@
 Original Sentence: 
-The biggest foreign inroads though have been made by bourbon
+The 942,000 purchase raised his holdings to 74,000 shares
 Additional Information: 
-('bourbon', 'on a', 'sign')
+('woman', 'wants to', 'purchase')
+('purchase', 'Levy Restaurant')
+('holding', 'umbrella', 'handle')
+('holding', 'wooden')

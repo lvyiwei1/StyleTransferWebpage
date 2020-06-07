@@ -1,5 +1,4 @@
 Original Sentence: 
-Non-interest expense grew only 4 % in the period
+But advertisers would n't think of it she said
 Additional Information: 
-('period', 'ON', 'sign')
-('period', 'red')
+('advertiser', 'ON', 'train')

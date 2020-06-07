@@ -1,0 +1,3 @@
+Original Sentence: 
+A good Delicious can indeed be delicious
+Emphasize: delicious

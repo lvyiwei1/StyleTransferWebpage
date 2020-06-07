@@ -1,5 +1,5 @@
 Original Sentence: 
-The letter was dated Oct. 6
+The device was replaced
 Additional Information: 
-('letter', 'ON', 'taxi')
-('letter', 'white')
+('device', 'IN', 'black backpack')
+('device', 'electronic')

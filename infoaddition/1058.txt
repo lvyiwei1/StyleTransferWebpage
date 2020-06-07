@@ -1,7 +1,5 @@
 Original Sentence: 
-Rising export sales also contributed to strong growth Nikon added
+The failed bank had assets of about 129.6 million
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
-('growth', 'ON', 'bark')
-('growth', 'green')
+('bank', 'sponsoring', 'clock')
+('bank', 'grassy')

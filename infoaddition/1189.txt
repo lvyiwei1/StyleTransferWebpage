@@ -1,7 +1,5 @@
 Original Sentence: 
-The press has been doing an excellent job
+Conner already is shipping its new drives
 Additional Information: 
-('press', 'ON', 'table')
-('press', 'automated')
-('job', 'ON', 'bus')
-('job', 'decorative')
+('drive', 'IN', 'computer')
+('drive', 'white')

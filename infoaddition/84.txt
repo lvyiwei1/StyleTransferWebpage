@@ -1,5 +1,5 @@
 Original Sentence: 
-The Democratic appointee has n't been determined the official said
+We continue to develop products faster than anyone else can
 Additional Information: 
-('official', 'WEARING', 'shirt')
-('official', 'tennis')
+('product', 'selling on', 'show')
+('product', 'bathroom')

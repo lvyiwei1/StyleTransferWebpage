@@ -1,5 +1,8 @@
 Original Sentence: 
-The comptroller 's office says it is monitoring the situation
+The government is funding several projects to push PC use
 Additional Information: 
-('office', 'building', 'light up')
-('office', 'small')
+('sidewalk', 'among', 'project')
+('project', 'sewing')
+('pc', 'has', 'pc')
+('pc', 'black')
+('use', 'hiding in', 'corner')

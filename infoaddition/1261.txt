@@ -1,4 +1,6 @@
 Original Sentence: 
-The notion that tracking is somehow undemocratic is absurd
+We had a lot of problems Mr. Sinyard says
 Additional Information: 
-('tracking', 'for', 'door')
+('lot', 'behind', 'players')
+('lot', 'parking')
+('plane', 'has', 'problem')

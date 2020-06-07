@@ -1,5 +1,4 @@
 Original Sentence: 
-The Pentagon foiled the plan
+We are trying to create quality and involvement
 Additional Information: 
-('plan', 'ON', 'tarmac')
-('plan', 'air')
+('photo', 'has', 'quality')

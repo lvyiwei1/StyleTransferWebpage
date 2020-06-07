@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Shioya has turned the tables
+Then he would move his movement to Europe
 Additional Information: 
-('table', 'with', 'chairs')
-('table', 'wooden')
+('movement', 'of pointed lines over', 'dots')

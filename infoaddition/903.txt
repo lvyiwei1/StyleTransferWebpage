@@ -1,7 +1,5 @@
 Original Sentence: 
-Along the way there also are lots of romantic dalliances
+This deal is like a Roach Motel he said
 Additional Information: 
-('way', 'inside of', 'restaurant')
-('way', 'walk')
-('lot', 'for', 'truck')
-('lot', 'parking')
+('deal', 'OF', 'bananas')
+('deal', 'great')

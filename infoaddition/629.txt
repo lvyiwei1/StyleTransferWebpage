@@ -1,7 +1,5 @@
 Original Sentence: 
-When the pilots refused the company retracted it
+Clearly the central figure in this process is Egon Krenz
 Additional Information: 
-('pilot', 'IN', 'air plane')
-('pilot', 'walking')
-('company', 'made', 'fire hydrant')
-('company', 'name')
+('figure', 'ON', 'clock')
+('figure', 'green')

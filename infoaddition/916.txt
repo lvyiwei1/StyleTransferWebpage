@@ -1,9 +1,5 @@
 Original Sentence: 
-But the steam may never reach the engine room
+Sales dipped 3.6 % to 3.92 billion from 4.07 billion
 Additional Information: 
-('steam', 'coming out of top of', 'train')
-('steam', 'white')
-('engine', 'OF', 'plane')
-('engine', 'blue')
-('room', 'with', 'basket')
-('room', 'dark')
+('sale', 'at', 'company')
+('sale', 'red')

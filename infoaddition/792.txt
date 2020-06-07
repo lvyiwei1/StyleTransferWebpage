@@ -1,5 +1,5 @@
 Original Sentence: 
-Still caution is advisable
+We are seeing such exercises today in fact
 Additional Information: 
-('caution', 'traffic', 'sign')
-('caution', 'written')
+('guy', 'getting', 'exercise')
+('sign', 'reads', 'today')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Analysts do n't see it that way
+She retains her duties of human-resources director
 Additional Information: 
-('way', 'scrapped on', 'bus')
-('way', 'walk')
+('vest', 'ON', 'director')
+('director', 'caucasian')

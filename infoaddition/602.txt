@@ -1,6 +1,4 @@
 Original Sentence: 
-The year was misstated in Friday 's editions
+But the problem clearly is widespread and persistent
 Additional Information: 
-('year', 'ON', 'bench')
-('year', 'white')
-('edition', 'word')
+('plane', 'has', 'problem')

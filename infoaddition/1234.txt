@@ -1,5 +1,5 @@
 Original Sentence: 
-The 1988 results were restated for accounting-rules changes
+The price was n't disclosed
 Additional Information: 
-('change', 'ON', 'table')
-('change', 'loose')
+('price', 'OF', 'hot dog')
+('price', 'written')

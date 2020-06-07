@@ -1,0 +1,3 @@
+Original Sentence: 
+The announcement came after the market 's close
+Emphasize: came

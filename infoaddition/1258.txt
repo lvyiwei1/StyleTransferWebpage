@@ -1,7 +1,5 @@
 Original Sentence: 
-Capital flight is reported to be strong
+If you 're a technician you obey the signals
 Additional Information: 
-('capital', 'building in washington', 'dc')
-('capital', 'a')
-('flight', 'on a', 'pavement')
-('flight', 'of metal stairs')
+('signal', 'i', 'water')
+('signal', 'traffic')

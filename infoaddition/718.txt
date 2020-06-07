@@ -1,5 +1,7 @@
 Original Sentence: 
-No non-competitive tenders will be accepted
+The plant employs between 800 and 900 on three shifts
 Additional Information: 
-('letters', 'ON', 'tender')
-('tender', 'elephant')
+('plant', 'ON', 'floor')
+('plant', 'green')
+('shift', 'ON', 'keyboard')
+('shift', 'black')

@@ -1,6 +1,4 @@
 Original Sentence: 
-The dollar gained against most foreign currencies
+It is a knock-out battle perhaps to the death
 Additional Information: 
-('dollar', 'IN', 'hand')
-('dollar', 'twenty')
-('currency', 'by', 'luggage')
+('battle', 'close')

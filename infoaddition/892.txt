@@ -1,5 +1,5 @@
 Original Sentence: 
-GASB rules still apply for other government units
+Thus an acquisition may prove the necessary course
 Additional Information: 
-('unit', 'ON', 'train')
-('unit', 'white')
+('course', 'has a', 'flag')
+('course', 'green')

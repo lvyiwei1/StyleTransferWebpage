@@ -1,7 +1,4 @@
 Original Sentence: 
-You talk about free time .what free time
+Terms were n't disclosed
 Additional Information: 
-('time', 'on', 'iphone')
-('time', 'displayed')
-('time', 'ON', 'phone')
-('time', 'displayed')
+('term', 'house of david')

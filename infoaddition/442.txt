@@ -1,4 +1,5 @@
 Original Sentence: 
-Trading was active
+AN EARTHQUAKE STRUCK Northern California killing more than 50 people
 Additional Information: 
-('red t', 'IN', 'trading')
+('people', 'standing in front of', 'building')
+('people', 'standing')

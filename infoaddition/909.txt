@@ -1,5 +1,5 @@
 Original Sentence: 
-His entry-price condos are labeled Society Hill
+APARTHEID FOES STAGED a massive anti-government rally in South Africa
 Additional Information: 
-('condo', 'facing', 'street')
-('condo', 'white')
+('people', 'demonstrating in political', 'rally')
+('rally', 'black')

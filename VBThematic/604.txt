@@ -1,0 +1,3 @@
+Original Sentence: 
+The mask cuts to the quick
+Emphasize: cuts

@@ -1,4 +1,5 @@
 Original Sentence: 
-A Fed spokesman denied Mr. LaFalce 's statement
+An analyst cited weaker capital spending and exports
 Additional Information: 
-('statement', 'credit')
+('capital', 'building in washington', 'dc')
+('capital', 'a')

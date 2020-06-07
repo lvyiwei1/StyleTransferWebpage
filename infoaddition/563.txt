@@ -1,9 +1,5 @@
 Original Sentence: 
-Yesterday bank stocks lagged behind the overall OTC market
+He 's sharp as a tack
 Additional Information: 
-('bank', 'OF', 'river')
-('bank', 'grassy')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('market', 'with', 'customers')
-('market', 'outdoor')
+('tack', 'holding', 'paper')
+('tack', 'black')

@@ -1,5 +1,5 @@
 Original Sentence: 
-A few drops in circulation are of no consequence
+The pharmaceuticals maker had traded over-the-counter
 Additional Information: 
-('drop', 'OF', 'ocean')
-('drop', 'water')
+('maker', 'ON', 'countertop')
+('maker', 'coffee')

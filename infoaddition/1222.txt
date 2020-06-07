@@ -1,5 +1,5 @@
 Original Sentence: 
-But the tunnel 's just gotten longer
+He probably has n't done it for the cash
 Additional Information: 
-('tunnel', 'has', 'train')
-('tunnel', 'dark')
+('cash', 'inside', 'purse')
+('cash', 'Two round pieces  ')

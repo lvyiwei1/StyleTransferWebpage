@@ -1,5 +1,4 @@
 Original Sentence: 
-Lucy of course is pretty and smart though uneducated
+The prisons are too crowded
 Additional Information: 
-('course', 'with', 'bunker')
-('course', 'green')
+('prison', 'old')

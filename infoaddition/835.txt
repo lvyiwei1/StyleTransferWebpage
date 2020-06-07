@@ -1,5 +1,7 @@
 Original Sentence: 
-Creative accounting is a hallmark of federal credit
+Company officials could n't be reached
 Additional Information: 
-('credit', 'card', 'cardlogos')
-('credit', 'artist')
+('company', 'made', 'fire hydrant')
+('company', 'name')
+('official', 'sitting in', 'chair')
+('official', 'tennis')

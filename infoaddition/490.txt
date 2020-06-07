@@ -1,4 +1,7 @@
 Original Sentence: 
-This is no longer true today
+There are die-hard bodies of course
 Additional Information: 
-('cow', 'are laying down', 'today')
+('body', 'ON', 'sheep')
+('body', 'white')
+('course', 'built with', 'ramps')
+('course', 'green')

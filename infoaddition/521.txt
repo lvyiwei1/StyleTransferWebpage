@@ -1,5 +1,8 @@
 Original Sentence: 
-No doubt he believes the place can be salvaged
+Ski promotions have traditionally avoided the touchy issue of safety
 Additional Information: 
-('place', 'TO PUT FOOT ON', 'snowboard')
-('place', 'full')
+('ski', 'ON', 'foot')
+('ski', 'black')
+('promotion', 'from', "victoria's secret")
+('safety', 'cone', 'orange')
+('safety', 'orange')

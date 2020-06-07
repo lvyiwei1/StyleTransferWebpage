@@ -1,0 +1,3 @@
+Original Sentence: 
+Sales rose to 2.45 billion from 2.2 billion
+Emphasize: rose

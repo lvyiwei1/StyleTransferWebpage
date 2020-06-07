@@ -1,7 +1,5 @@
 Original Sentence: 
-Artists and draftsmen need harder leads
+Thus the shadow jury was born
 Additional Information: 
-('artist', 'for', 'artist')
-('artist', 'painting')
-('lead', 'ON', 'calf')
-('lead', 'green')
+('shadow', 'ON', 'ground')
+('shadow', 'dark')

@@ -1,5 +1,7 @@
 Original Sentence: 
-Per-share net rose to 14.95 yen from 14.44 yen
+With that authority of course goes an unambiguous accountability
 Additional Information: 
-('net', 'ON', 'plane')
-('net', 'black')
+('authority', 'ON', 'building')
+('authority', 'brass')
+('course', 'with', 'bunker')
+('course', 'green')

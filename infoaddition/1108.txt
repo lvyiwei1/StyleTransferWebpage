@@ -1,7 +1,9 @@
 Original Sentence: 
-Previously the company advertised at the 2 million level
+They want psyllium prices low for their purchases next year
 Additional Information: 
-('company', 'OF', 'train')
-('company', 'name')
-('level', 'has', 'light')
-('level', 'upper')
+('price', 'OF', 'hot dog')
+('price', 'written')
+('woman', 'wants to', 'purchase')
+('purchase', 'Levy Restaurant')
+('year', 'ON', 'bench')
+('year', 'white')

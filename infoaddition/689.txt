@@ -1,5 +1,4 @@
 Original Sentence: 
-But he added interest-rate-sensitive stocks in general are stalled
+The investment is worth about 130 today
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('sign', 'reads', 'today')

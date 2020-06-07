@@ -1,5 +1,4 @@
 Original Sentence: 
-There is an element of make-work involved
+Morgenzon has long been a special domain of Afrikanerdom
 Additional Information: 
-('element', 'for a', 'reptile')
-('element', 'heating')
+('domain', 'displayed', 'pic')

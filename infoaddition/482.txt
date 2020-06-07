@@ -1,9 +1,7 @@
 Original Sentence: 
-Simpson is an auto parts maker
+Bond prices fell after the Chicago report was released
 Additional Information: 
-('auto', 'on', 'road')
-('auto', 'SMALL')
-('part', 'ON', 'motorcycle')
-('part', 'small')
-('maker', 'ON', 'counter')
-('maker', 'coffee')
+('bond', 'black ')
+('price', 'tag', 'roll')
+('price', 'written')
+('report', 'ON', 'green paper')

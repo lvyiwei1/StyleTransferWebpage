@@ -1,4 +1,5 @@
 Original Sentence: 
-This is panic buying
+Columbia Laboratories Inc. Miami began trading with the symbol COB
 Additional Information: 
-('panic', 'gold')
+('symbol', 'ON', 'road')
+('symbol', 'white')

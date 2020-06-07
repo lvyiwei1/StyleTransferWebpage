@@ -1,7 +1,5 @@
 Original Sentence: 
-Telerate provides information about financial markets through an electronic network
+Sales rose 14 % to 715 million from 625.4 million
 Additional Information: 
-('information', 'ON', 'sign')
-('information', 'yellow')
-('market', 'filled with', 'green peppers')
-('market', 'outdoor')
+('sale', 'at', 'company')
+('sale', 'red')

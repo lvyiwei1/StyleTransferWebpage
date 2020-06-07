@@ -1,5 +1,7 @@
 Original Sentence: 
-Industry executives are wishing Mr. Achenbaum well
+And taxpayer groups are urging legislation in many other states
 Additional Information: 
-('executive', 'ON', 'signs')
-('executive', 'in white')
+('group', 'OF', 'people')
+('group', 'large')
+('state', 'ON', 'hood')
+('state', 'Penn ')

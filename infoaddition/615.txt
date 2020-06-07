@@ -1,6 +1,4 @@
 Original Sentence: 
-The average recession lasts about a year
+The two are also signing a trade agreement
 Additional Information: 
-('recession', 'wall')
-('year', 'IN', 'corner')
-('year', 'white')
+('company name', 'says', 'trade')

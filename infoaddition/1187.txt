@@ -1,5 +1,6 @@
 Original Sentence: 
-Monday 's losers included railway electric-utility and high-technology issues
+Traders said most municipal bonds ended 1\/2 point higher
 Additional Information: 
-('railway', 'has an', 'edge')
-('railway', 'red')
+('bond', 'black ')
+('point', 'OF', 'kite')
+('point', 'sharp')

@@ -1,7 +1,5 @@
 Original Sentence: 
-Remember those bulky thick-walled refrigerators of 30 years ago
+Oh yes the Atlantic was also pushed back 300 yards
 Additional Information: 
-('refrigerator', 'under', 'microwave')
-('refrigerator', 'white')
-('year', 'IN', 'left corner')
-('year', 'white')
+('yard', 'near', 'sheep')
+('yard', 'green')

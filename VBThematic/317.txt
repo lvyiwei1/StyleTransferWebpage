@@ -1,0 +1,3 @@
+Original Sentence: 
+He cut the dropout rate by 5.5 %
+Emphasize: cut

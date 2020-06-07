@@ -1,5 +1,7 @@
 Original Sentence: 
-That would be the lowest level since the early 1970s
+Is somebody telling us something
 Additional Information: 
-('level', 'has', 'light')
-('level', 'upper')
+('somebody', 'using', 'computer')
+('somebody', 'here')
+('something', 'buried', 'snow')
+('something', 'red')

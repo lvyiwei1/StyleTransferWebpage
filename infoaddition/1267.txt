@@ -1,5 +1,7 @@
 Original Sentence: 
-The dollar dropped
+The ratification follows a 23-day strike against the Philadelphia-based company
 Additional Information: 
-('dollar', 'ON', 'bed')
-('dollar', 'twenty')
+('strike', 'ON', 'door')
+('strike', 'black')
+('company', 'ON', 'bus')
+('company', 'name')

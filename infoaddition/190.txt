@@ -1,5 +1,7 @@
 Original Sentence: 
-Quest for Fire was the first time
+The company sells image
 Additional Information: 
-('time', 'under', 'sign')
-('time', 'displayed')
+('company', 'OF', 'train')
+('company', 'name')
+('image', 'ON', 'glass')
+('image', 'white')

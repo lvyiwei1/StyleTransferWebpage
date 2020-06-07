@@ -1,5 +1,6 @@
 Original Sentence: 
-The difference is magnified by time too
+We are almost left out of campus social activities
 Additional Information: 
-('time', 'ON', 'clock')
-('time', 'displayed')
+('campus', 'benches with', 'flowers')
+('campus', 'college')
+('activity', 'IN', 'bathroom')

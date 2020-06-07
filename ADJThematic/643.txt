@@ -1,0 +1,3 @@
+Original Sentence: 
+And where we are is bad
+Emphasize: bad

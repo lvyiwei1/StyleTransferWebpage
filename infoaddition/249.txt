@@ -1,5 +1,5 @@
 Original Sentence: 
-Accepted bids were all at 7.962 %
+They stroll through the marble-encased corridors of the Atrium Court
 Additional Information: 
-('bid', 'ON', 'shoulder')
-('bid', 'metal')
+('corridor', 'has', 'floor')
+('corridor', 'long')

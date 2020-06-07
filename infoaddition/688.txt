@@ -1,7 +1,5 @@
 Original Sentence: 
-Each share point is worth about 60 million in sales
+The jokes are n't just on the Japanese though
 Additional Information: 
-('point', 'OF', 'tower')
-('point', 'sharp')
-('sale', 'at', 'company')
-('sale', 'red')
+('joke', 'spray painted on', 'entertainment system')
+('joke', 'vulgar')

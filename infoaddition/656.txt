@@ -1,9 +1,8 @@
 Original Sentence: 
-In major market activity Stock prices slumped in sluggish trading
+But a flurry of late trading yesterday beefed up prices
 Additional Information: 
-('market', 'has', 'food')
-('market', 'outdoor')
-('activity', 'around', 'planes')
+('flurry', 'OF', 'snow')
+('flurry', 'big')
+('red t', 'IN', 'trading')
 ('price', 'tag', 'roll')
 ('price', 'written')
-('red t', 'IN', 'trading')

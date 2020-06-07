@@ -1,7 +1,5 @@
 Original Sentence: 
-Other airline stocks were mixed
+That will spur Tandem 's growth
 Additional Information: 
-('airline', 'name on side', 'of the fuselage')
-('airline', 'emirates')
-('stock', 'belonging to', 'plant')
-('stock', 'green')
+('growth', 'IN', 'field')
+('growth', 'green')

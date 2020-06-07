@@ -1,5 +1,5 @@
 Original Sentence: 
-He will remain on the Banc One board
+But we had a fairly active day yesterday
 Additional Information: 
-('board', 'on top of', 'building')
-('board', 'white')
+('day', 'bright and sunny', 'day')
+('day', 'sunny')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Some of the oil interests already have been sold
+The close was the highest since August 3
 Additional Information: 
-('oil', 'in a', 'jar')
-('oil', 'hot')
-('people', 'showing', 'interest')
-('interest', 'great')
+('close', 'up view of an apple', 'tree')

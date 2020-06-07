@@ -1,5 +1,5 @@
 Original Sentence: 
-The company is being acquired
+LDI leases and sells data-processing telecommunications and other high-tech equipment
 Additional Information: 
-('company', 'OF', 'company')
-('company', 'name')
+('equipment', 'with', 'equipment')
+('equipment', 'electronic')

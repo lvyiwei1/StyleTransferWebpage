@@ -1,5 +1,4 @@
 Original Sentence: 
-Officials there declined to comment as did Helmsley management
+Call it the we 're too broke to fight defense
 Additional Information: 
-('official', 'sitting in', 'chair')
-('official', 'tennis')
+('basketball player', 'playing', 'defense')

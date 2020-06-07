@@ -1,0 +1,3 @@
+Original Sentence: 
+The yield on the issue stood at 7.88 %
+Emphasize: stood

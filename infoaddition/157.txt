@@ -1,6 +1,5 @@
 Original Sentence: 
-I have plenty more at home
+The reality is that Bank finances are rock solid
 Additional Information: 
-('plenty', 'fly on', 'carabao')
-('home', 'near', 'lake')
-('home', 'white')
+('rock', 'behind', 'zebra')
+('rock', 'large')

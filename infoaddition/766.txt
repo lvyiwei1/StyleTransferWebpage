@@ -1,5 +1,5 @@
 Original Sentence: 
-Millions of refugees would rush home
+Any hiring is confined to retail sales
 Additional Information: 
-('home', 'with', 'terrace')
-('home', 'white')
+('sale', 'ON', 'window')
+('sale', 'red')

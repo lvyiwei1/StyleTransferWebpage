@@ -1,5 +1,5 @@
 Original Sentence: 
-But the strategy is n't helping much this time
+One such company is Bankers Trust Co
 Additional Information: 
-('time', 'lit on', 'scoreboard')
-('time', 'displayed')
+('company', 'has', 'name')
+('company', 'name')

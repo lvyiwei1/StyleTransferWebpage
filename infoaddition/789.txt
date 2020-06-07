@@ -1,5 +1,6 @@
 Original Sentence: 
-That amounts to more than 350 billion a year
+We got some exposure and pretty much good will
 Additional Information: 
-('year', 'ON', 'picture')
-('year', 'white')
+('exposure', 'translucent')
+('the', 'console', 'will')
+('will', 'white')

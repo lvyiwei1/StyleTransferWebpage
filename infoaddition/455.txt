@@ -1,7 +1,5 @@
 Original Sentence: 
-Nevertheless the device has been successful in other ways
+This seems to be the season for revivals in Chicago
 Additional Information: 
-('device', 'IN', 'hand')
-('device', 'electronic')
-('way', 'IN', 'wall')
-('way', 'walk')
+('season', 'ON', 'spinach')
+('season', 'fall')

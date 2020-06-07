@@ -1,6 +1,7 @@
 Original Sentence: 
-He altered the wording to win Mr. Greenspan 's endorsement
+He got three trucks and a backhoe cheap
 Additional Information: 
-('wording', 'ON', 'bottle')
-('wording', 'white')
-('endorsement', 'by roger federer')
+('truck', 'IN', 'lot')
+('truck', 'white')
+('backhoe', 'IN', 'street')
+('backhoe', 'yellow')

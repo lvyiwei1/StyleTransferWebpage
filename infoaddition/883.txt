@@ -1,7 +1,5 @@
 Original Sentence: 
-Ohbayashi is Japan 's second largest construction company
+They were a sleeper
 Additional Information: 
-('construction', 'ON', 'building')
-('construction', 'gate')
-('company', 'ON', 'building')
-('company', 'name')
+('sleeper', 'ON', 'baby')
+('sleeper', 'wooden')

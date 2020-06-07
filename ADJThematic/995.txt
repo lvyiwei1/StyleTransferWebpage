@@ -1,0 +1,3 @@
+Original Sentence: 
+The accident was caused by faulty operation of a valve
+Emphasize: faulty

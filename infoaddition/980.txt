@@ -1,5 +1,8 @@
 Original Sentence: 
-Even at this early stage drugs caused additional concerns
+The fund invests mainly in gold and silver bullion
 Additional Information: 
-('stage', 'has white letters that says', '"just dancing"')
-('stage', 'black')
+('gold', 'IN', 'background')
+('gold', 'brown')
+('silver', 'power', 'line')
+('silver', 'silver')
+('bullion', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Output of goods-producing industries increased 0.1 %
+Terms were n't disclosed
 Additional Information: 
-('output', 'electrical')
+('term', 'house of david')

@@ -1,5 +1,5 @@
 Original Sentence: 
-ABUSE to our bodies is overwhelming
+For them it makes all kinds of sense
 Additional Information: 
-('body', 'OF', 'kite')
-('body', 'white')
+('kind', 'ON', 'sidewalk')
+('phrase', 'makes no', 'sense')

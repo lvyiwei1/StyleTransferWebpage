@@ -1,4 +1,5 @@
 Original Sentence: 
-The pay 's the same and the duty 's lighter
+The shares are redeemable after the end of 1994
 Additional Information: 
-('pay', 'says on', 'truck')
+('end', 'OF', 'tail')
+('end', 'black')

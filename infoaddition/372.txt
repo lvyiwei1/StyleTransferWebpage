@@ -1,5 +1,5 @@
 Original Sentence: 
-Batibot lacks the polish of Sesame Street
+Pretend Nothing Happened
 Additional Information: 
-('polish', 'ON', 'nail')
-('polish', 'red')
+('nothing', 'IN', 'sky')
+('nothing', 'clear')

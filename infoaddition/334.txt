@@ -1,5 +1,7 @@
 Original Sentence: 
-The appointments take effect Nov. 1
+That included capital gains that were passed along to customers
 Additional Information: 
-('effect', 'ON', 'clock tower')
-('effect', 'yellow')
+('capital', 'building in washington', 'dc')
+('capital', 'a')
+('customer', 'waiting to buy', 'seafood')
+('customer', 'waiting')

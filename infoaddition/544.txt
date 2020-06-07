@@ -1,6 +1,4 @@
 Original Sentence: 
-Now for example she owns 48 hats
+Mr. Dozen knows these problems firsthand
 Additional Information: 
-('example', 'lowercase')
-('hat', 'worn by', 'man')
-('hat', 'black')
+('plane', 'has', 'problem')

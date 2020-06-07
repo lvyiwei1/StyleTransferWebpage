@@ -1,0 +1,3 @@
+Original Sentence: 
+The acquisition is subject to approval by Kennametal 's board
+Emphasize: subject

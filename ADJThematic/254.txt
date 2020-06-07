@@ -1,0 +1,3 @@
+Original Sentence: 
+He is a mechanical engineer not an atmospheric chemist
+Emphasize: atmospheric

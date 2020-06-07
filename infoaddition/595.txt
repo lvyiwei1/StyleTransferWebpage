@@ -1,7 +1,5 @@
 Original Sentence: 
-The U.S. has six trade promotion offices in Canada
+Sales rose 8.4 % to 27.95 billion from 25.78 billion
 Additional Information: 
-('company name', 'says', 'trade')
-('promotion', 'from', "victoria's secret")
-('office', 'building', 'light up')
-('office', 'small')
+('sale', 'ON', 'window')
+('sale', 'red')

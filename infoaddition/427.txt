@@ -1,5 +1,6 @@
 Original Sentence: 
-The expiration date had been Nov. 3
+The comic strip has a magical everlasting quality about it
 Additional Information: 
-('date', 'OF', 'photo')
-('date', 'yellow')
+('strip', 'separating', 'lane')
+('strip', 'white')
+('photo', 'has', 'quality')

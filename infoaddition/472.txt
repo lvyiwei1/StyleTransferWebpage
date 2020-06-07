@@ -1,4 +1,8 @@
 Original Sentence: 
-They were absolutely killed slaughtered said one Chicago-based options trader
+It 's all part of a new command center
 Additional Information: 
-('option', 'ON', 'phone')
+('part', 'of a', 'sign')
+('part', 'small')
+('hand', 'holding', 'command')
+('center', 'hold of', 'donut')
+('center', 'yellow')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Bids totaling 475 million were submitted
+The Socialists held 184 seats going into the balloting
 Additional Information: 
-('bid', 'ON', 'sheet')
-('bid', 'metal')
+('seat', 'OF', 'toilet')
+('seat', 'black')

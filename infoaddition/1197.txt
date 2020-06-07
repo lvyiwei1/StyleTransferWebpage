@@ -1,4 +1,5 @@
 Original Sentence: 
-Yield on the issue was 7.88 %
+She only put her foot down twice he continues
 Additional Information: 
-('yield', 'on', 'sign')
+('foot', 'ON', 'sheep')
+('foot', 'bare')

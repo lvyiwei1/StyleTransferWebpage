@@ -1,5 +1,6 @@
 Original Sentence: 
-November gasoline slipped slightly
+That hurts investors ' confidence in the economy and stocks
 Additional Information: 
-('tube', 'for', 'gasoline')
-('gasoline', 'offered')
+('economy', 'ON', 'train')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

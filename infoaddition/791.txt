@@ -1,5 +1,5 @@
 Original Sentence: 
-But advertising revenue is inadequate
+A lot of pent-up demand is gone
 Additional Information: 
-('advertising', 'on side of', 'bus')
-('advertising', 'white')
+('lot', 'behind', 'players')
+('lot', 'parking')

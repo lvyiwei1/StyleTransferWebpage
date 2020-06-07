@@ -1,7 +1,7 @@
 Original Sentence: 
-Shvartzer is a derogatory Yiddish word for a black person
+Housing Developers Try Brand-Name Buildings
 Additional Information: 
-('word', 'ON', 'bike')
-('word', 'white')
-('person', 'WEARING', 'jacket')
-('person', 'standing')
+('housing', 'inside of', 'picture')
+('housing', 'black')
+('building', 'IN', 'background')
+('building', 'white')

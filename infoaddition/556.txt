@@ -1,7 +1,5 @@
 Original Sentence: 
-They eat sinful and sensual things and explain their clips
+Volume totaled 10,450,000 shares
 Additional Information: 
-('thing', 'protects', 'pizza')
-('thing', 'black')
-('clip', 'IN', 'hair')
-('clip', 'metal')
+('volume', 'ON', 'keyboard')
+('volume', '3')

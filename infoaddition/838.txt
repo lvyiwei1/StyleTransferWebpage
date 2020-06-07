@@ -1,7 +1,7 @@
 Original Sentence: 
-A two-hour lunch break follows
+Polymerix makes lumber-like materials that it describes as plastic wood
 Additional Information: 
-('lunch', 'ON', 'plate')
-('lunch', 'healthy')
-('break', 'IN', 'branch')
-('break', 'light brown')
+('material', 'in a', 'bucket')
+('material', 'white')
+('wood', 'attached to', 'boat')
+('wood', 'brown')

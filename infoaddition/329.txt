@@ -1,5 +1,7 @@
 Original Sentence: 
-But wait a second
+Nevertheless the device has been successful in other ways
 Additional Information: 
-('second', 'set of railroad', 'tracks')
-('second', 'black')
+('device', 'IN', 'black backpack')
+('device', 'electronic')
+('way', 'to', 'house')
+('way', 'walk')

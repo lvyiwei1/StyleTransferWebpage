@@ -1,5 +1,7 @@
 Original Sentence: 
-Ultimately they paid more than 1 million for the rights
+Tokyo 's Nikkei index fell 84.15 points to 35442.40
 Additional Information: 
-('right', 'foot with ten', 'sneaker')
-('right', 'far')
+('index', 'finger', 'cutting donut')
+('index', 'is a finger')
+('point', 'ON', 'short hand')
+('point', 'sharp')

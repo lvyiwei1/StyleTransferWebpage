@@ -1,4 +1,5 @@
 Original Sentence: 
-The wait was miserable
+We had to think about it ahead of time
 Additional Information: 
-('wait', 'ON', 'signal')
+('time', 'ON', 'clock')
+('time', 'displayed')

@@ -1,5 +1,5 @@
 Original Sentence: 
-But there may be less there than meets the eye
+Jeff Rowe contributed to this article
 Additional Information: 
-('eye', 'OF', 'man')
-('eye', 'black')
+('article', 'IN', 'magazine')
+('article', 'newspaper')

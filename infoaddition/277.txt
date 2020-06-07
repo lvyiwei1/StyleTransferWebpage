@@ -1,7 +1,6 @@
 Original Sentence: 
-If you are born to give parties you give parties
+And that naturally exacerbates price movements
 Additional Information: 
-('party', 'at a', 'house')
-('party', 'birthday')
-('party', 'with', 'tea')
-('party', 'birthday')
+('price', 'ON', 'bike')
+('price', 'written')
+('movement', 'of pointed lines over', 'dots')

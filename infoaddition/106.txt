@@ -1,8 +1,5 @@
 Original Sentence: 
-BAY AREA COMMUTERS BATTLED earthquake-related transportation snarls
+Those portfolios are remarkably diversified
 Additional Information: 
-('area', 'for', 'animal')
-('area', 'grassy')
-('commuter', 'train letting passengers', 'off')
-('sign', 'directing people to another source of', 'transportation')
-('transportation', 'public')
+('portfolio', 'ON', 'desk')
+('portfolio', 'black')

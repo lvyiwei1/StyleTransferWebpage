@@ -1,5 +1,7 @@
 Original Sentence: 
-One such company is Bankers Trust Co
+The company has been manufacturing carpet since 1967
 Additional Information: 
-('company', 'at', 'bottom')
+('company', 'OF', 'company')
 ('company', 'name')
+('carpet', 'beneath', 'plate')
+('carpet', 'brown')

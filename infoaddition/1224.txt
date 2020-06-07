@@ -1,5 +1,7 @@
 Original Sentence: 
-Oh yes the Atlantic was also pushed back 300 yards
+Mr. Gelbart also has fun with language
 Additional Information: 
-('yard', 'has', 'grass')
-('yard', 'green')
+('fun', 'on top of', 'circle container')
+('fun', 'great')
+('language', 'ON', 'sign')
+('language', 'foreign')

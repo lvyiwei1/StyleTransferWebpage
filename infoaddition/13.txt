@@ -1,7 +1,5 @@
 Original Sentence: 
-Initial interest rate set at 0.375 point over three-month Libor
+Sales rose 6 % to 2.77 billion from 2.61 billion
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
-('point', 'ON', 'tower')
-('point', 'sharp')
+('sale', 'at', 'company')
+('sale', 'red')

@@ -1,7 +1,6 @@
 Original Sentence: 
-The walls shook the building rocked
+The percentage change is since year-end
 Additional Information: 
-('wall', 'behind', 'bed')
-('wall', 'white')
-('building', 'beside', 'tower')
-('building', 'white')
+('coupon', 'has', 'percentage')
+('change', 'ON', 'red')
+('change', 'loose')

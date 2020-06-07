@@ -1,7 +1,6 @@
 Original Sentence: 
-Interest during first year paid semiannually at 7.51 %
+All prices are as of Monday 's close
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
-('year', 'IN', 'corner')
-('year', 'white')
+('price', 'ON', 'sign')
+('price', 'written')
+('close', 'up view of an apple', 'tree')

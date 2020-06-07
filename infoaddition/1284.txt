@@ -1,7 +1,5 @@
 Original Sentence: 
-There was no immediate estimate of damage from the company
+Some people think the search for liquidity is fruitless
 Additional Information: 
-('damage', 'front', 'bus')
-('damage', 'moisture')
-('company', 'OF', 'company')
-('company', 'name')
+('people', 'ON', 'boat')
+('people', 'standing')

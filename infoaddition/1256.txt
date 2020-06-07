@@ -1,5 +1,7 @@
 Original Sentence: 
-A bid against Paribas could n't be ruled out
+Seats are quoted at 430,000 bid and 525,000 asked
 Additional Information: 
+('seat', 'next to', 'person')
+('seat', 'black')
 ('bid', 'ON', 'shoulder')
 ('bid', 'metal')

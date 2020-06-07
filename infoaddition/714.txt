@@ -1,5 +1,9 @@
 Original Sentence: 
-The Nasdaq Composite Index eased 0.13 to 470.67
+There was little turnover and nothing to stimulate the market
 Additional Information: 
-('index', 'a fingerhas', 'baby')
-('index', 'is a finger')
+('turnover', 'ON', 'paper')
+('turnover', 'apple')
+('nothing', 'IN', 'sky')
+('nothing', 'clear')
+('market', 'IN', 'street')
+('market', 'outdoor')

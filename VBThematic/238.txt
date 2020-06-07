@@ -1,0 +1,3 @@
+Original Sentence: 
+PepsiCo closed at 58.50 a share up 1.375
+Emphasize: closed

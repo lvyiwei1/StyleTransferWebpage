@@ -1,5 +1,12 @@
 Original Sentence: 
-It gave 1,124 businesses a questionnaire and analyzed 353 responses
+People in the phone business call this technology 900 click
 Additional Information: 
-('business', 'has', 'entrance')
+('people', 'ON', 'bicycles')
+('people', 'standing')
+('phone', 'lying on', 'table')
+('phone', 'black')
+('business', 'ON', 'side walk')
 ('business', 'here')
+('technology', 'has', 'dial')
+('technology', 'silver')
+('click', 'ON', 'plane')

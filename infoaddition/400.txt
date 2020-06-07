@@ -1,5 +1,9 @@
 Original Sentence: 
-The return of the Rothschilds is modest
+The dam caused the water level to drop in Zalubice
 Additional Information: 
-('return', 'ON', 'street')
-('return', 'black')
+('dam', 'against', 'bridge')
+('dam', 'concrete')
+('water', 'ON', 'table')
+('water', 'blue')
+('level', 'has', 'light')
+('level', 'upper')

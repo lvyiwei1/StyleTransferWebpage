@@ -1,6 +1,5 @@
 Original Sentence: 
-Traders said most municipal bonds ended 1\/2 point higher
+The Bakersfield Supermarket went out of business last May
 Additional Information: 
-('bond', 'black ')
-('point', 'OF', 'tower')
-('point', 'sharp')
+('business', 'IN', 'city')
+('business', 'here')

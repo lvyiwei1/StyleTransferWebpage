@@ -1,5 +1,5 @@
 Original Sentence: 
-This case realizes that concern
+It has some of the highest costs in the league
 Additional Information: 
-('case', 'has', 'case')
-('case', 'black')
+('cost', 'displayed in front of', 'banana')
+('league', 'baseball', 'logo')

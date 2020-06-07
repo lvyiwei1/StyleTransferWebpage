@@ -1,5 +1,11 @@
 Original Sentence: 
-Mr. Warren pronounces the Litchfield case your typical demonic infestation
+Size and weight considerations also have limited screen displays
 Additional Information: 
-('case', 'and', 'roller')
-('case', 'black')
+('size', 'ON', 'shirt')
+('size', 'XL')
+('weight', 'ON', 'bat')
+('weight', 'limbs')
+('screen', 'ON', 'tv')
+('screen', 'on')
+('display', 'has', 'vegetables')
+('display', 'digital')

@@ -1,8 +1,9 @@
 Original Sentence: 
-The machine employs reduced instruction-set computing or RISC technology
+MANY AFFLUENT people place personal success and money above family
 Additional Information: 
-('machine', 'against', 'wall')
-('machine', 'white')
-('sign', 'says', 'computing')
-('technology', 'has', 'dial')
-('technology', 'silver')
+('people', 'are far from', 'cap')
+('people', 'standing')
+('money', 'ON', 'table')
+('money', 'paper')
+('family', 'under', 'umbrella')
+('family', 'sitting')

@@ -1,6 +1,7 @@
 Original Sentence: 
-The pressure for change will rise with costs
+The heightened competition will hit IBM at a difficult time
 Additional Information: 
-('change', 'in a', 'change')
-('change', 'loose')
-('cost', 'displayed in front of', 'banana')
+('horse', 'jumpimg', 'competition')
+('competition', 'horse')
+('time', 'OF', 'clock')
+('time', 'displayed')

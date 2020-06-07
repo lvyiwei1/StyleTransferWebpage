@@ -1,6 +1,7 @@
 Original Sentence: 
-We have a couple or three tough weeks coming
+Two steps are necessary to translate this idea into action
 Additional Information: 
-('couple', 'around', 'station')
-('couple', 'walking')
-('day', 'OF', 'week')
+('step', 'to', 'train')
+('step', 'concrete')
+('action', 'IN', 'action')
+('action', 'MLB')

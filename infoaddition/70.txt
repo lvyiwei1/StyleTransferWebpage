@@ -1,7 +1,5 @@
 Original Sentence: 
-The case for owning stocks over the long-term is compelling
+The hotel is scheduled to open in 1992
 Additional Information: 
-('case', 'ON', 'floor')
-('case', 'black')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('hotel', 'has', 'balcony')
+('hotel', 'large')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The daily volume for Treasury Securities is about 110 billion
+Apparently the commission did not really believe in this ideal
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
+('ideal', 'dark')

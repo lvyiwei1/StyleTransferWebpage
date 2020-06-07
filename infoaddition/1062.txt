@@ -1,9 +1,15 @@
 Original Sentence: 
-It also licenses optically based data storage and retrieval devices
+The government built ports bridges highways schools hospitals and railways
 Additional Information: 
-('data', 'ON', 'screen')
-('data', 'green')
-('storage', 'behind', 'bar')
-('storage', 'overhead')
-('device', 'ON', 'counter')
-('device', 'electronic')
+('port', 'ON', 'wall')
+('port', 'usb')
+('bridge', 'behind', 'man')
+('bridge', 'metal')
+('highway', 'IN', 'distance')
+('highway', 'busy')
+('school', 'second', 'buses')
+('school', 'word')
+('hospital', 'sponser', 'match')
+('hospital', 'mental')
+('railway', 'under', 'train')
+('railway', 'red')

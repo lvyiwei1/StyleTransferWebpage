@@ -1,5 +1,5 @@
 Original Sentence: 
-It takes one person 's account and gives it authenticity
+Accepted bids ranged from 8.328 % to 8.347 %
 Additional Information: 
-('person', 'walking down', 'stairs')
-('person', 'standing')
+('bid', 'ON', 'shoulder')
+('bid', 'metal')

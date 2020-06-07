@@ -1,4 +1,7 @@
 Original Sentence: 
-Terms were n't disclosed
+Silicon Valley heaved a sigh of relief yesterday
 Additional Information: 
-('term', 'house of david')
+('sigh', 'ON', 'pole')
+('sigh', 'green')
+('relief', 'OF', 'mermaid')
+('relief', 'woman')

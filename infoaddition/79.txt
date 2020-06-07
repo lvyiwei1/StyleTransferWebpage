@@ -1,5 +1,5 @@
 Original Sentence: 
-But no one else does
+That money also would have to be borrowed
 Additional Information: 
-('one', 'tire', 'visible')
-('one', 'white')
+('money', 'IN', 'wallet')
+('money', 'paper')

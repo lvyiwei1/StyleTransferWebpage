@@ -1,6 +1,5 @@
 Original Sentence: 
-Measures of manufacturing activity fell more than the overall measures
+People wonder what 's going to happen next
 Additional Information: 
-('measure', 'black')
-('activity', 'around', 'planes')
-('measure', 'black')
+('people', 'at', 'exhibit')
+('people', 'standing')

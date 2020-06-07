@@ -1,7 +1,4 @@
 Original Sentence: 
-The dollar sagged against other major currencies in lethargic trading
+It should read Have You Anything Left
 Additional Information: 
-('dollar', 'ON', 'table')
-('dollar', 'twenty')
-('currency', 'by', 'luggage')
-('red t', 'IN', 'trading')
+('part', 'of a speaker not connected to', 'anything')

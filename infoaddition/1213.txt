@@ -1,7 +1,7 @@
 Original Sentence: 
-All the figures are adjusted to remove usual seasonal patterns
+There 's nothing on the other side
 Additional Information: 
-('figure', 'ON', 'table')
-('figure', 'green')
-('pattern', 'ON', 'cloth')
-('pattern', 'white')
+('nothing', 'to', 'write')
+('nothing', 'clear')
+('side', 'ON', 'zebras')
+('side', 'white')

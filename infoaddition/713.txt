@@ -1,5 +1,5 @@
 Original Sentence: 
-To be sure the program has n't completely stalled
+The other element includes consolidating BethForge 's press-forge operations
 Additional Information: 
-('program', 'ON', 'screen')
-('program', 'wedding')
+('element', 'next to', 'decorative round')
+('element', 'heating')

@@ -1,7 +1,5 @@
 Original Sentence: 
-The 30-share index ended 12.6 points higher at 1751.9
+WHY BE A MIDDLEMAN for charitable gifts a retiree asks
 Additional Information: 
-('index', 'finger', 'cutting donut')
-('index', 'is a finger')
-('point', 'ON', 'boat')
-('point', 'sharp')
+('gift', 'under', 'tree')
+('gift', 'wrapped')

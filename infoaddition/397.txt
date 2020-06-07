@@ -1,5 +1,6 @@
 Original Sentence: 
-Sales slipped 1.3 % to 2.82 billion from 2.86 billion
+Bond prices rallied
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('bond', 'black ')
+('price', 'ON', 'sign')
+('price', 'written')

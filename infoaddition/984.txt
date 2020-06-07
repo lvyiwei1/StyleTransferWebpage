@@ -1,5 +1,7 @@
 Original Sentence: 
-The Lone Star is on the rise again
+He earned a master 's degree in architecture from Yale
 Additional Information: 
-('rise', 'IN', 'ground')
-('rise', 'GRASSY')
+('dog', 'with', 'master')
+('master', 'his')
+('architecture', 'has a', 'clock')
+('architecture', 'decorative')

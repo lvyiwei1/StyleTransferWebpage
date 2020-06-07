@@ -1,5 +1,5 @@
 Original Sentence: 
-Pitcher = lanzador
+Other as yet unnamed cities will follow
 Additional Information: 
-('pitcher', 'ON', 'table')
-('pitcher', 'white')
+('city', 'with', 'vehicles')
+('city', 'large')

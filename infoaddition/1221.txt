@@ -1,5 +1,5 @@
 Original Sentence: 
-Sock it away in long-term instruments
+The numbers were adjusted for usual seasonal fluctuations
 Additional Information: 
-('instrument', 'by', 'wall')
-('instrument', 'musical')
+('number', 'ON', 'sign')
+('number', 'black')

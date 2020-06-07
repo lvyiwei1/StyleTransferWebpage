@@ -1,7 +1,5 @@
 Original Sentence: 
-At this point the Dow was down about 35 points
+How can it make available funds for purchases
 Additional Information: 
-('point', 'OF', 'lighthouse')
-('point', 'sharp')
-('point', 'on top of', 'tower')
-('point', 'sharp')
+('woman', 'wants to', 'purchase')
+('purchase', 'Levy Restaurant')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The state will vigorously defend against any counterclaim
+Other fund managers were similarly sanguine
 Additional Information: 
-('state', 'ON', 'shirt')
-('state', 'Penn ')
+('manager', 'sitting in', 'dugout')
+('manager', 'overlooking action')

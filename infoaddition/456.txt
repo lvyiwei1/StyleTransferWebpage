@@ -1,4 +1,9 @@
 Original Sentence: 
-You built your career on prejudice and hate
+Copper futures prices failed to extend Friday 's rally
 Additional Information: 
-('hate', 'red')
+('copper', 'on top of', 'cake topper')
+('copper', 'vase')
+('price', 'ON', 'sign')
+('price', 'written')
+('people', 'demonstrating in political', 'rally')
+('rally', 'black')

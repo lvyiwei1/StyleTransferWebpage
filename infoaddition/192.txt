@@ -1,4 +1,5 @@
 Original Sentence: 
-Terms were n't disclosed
+Sound stages echo
 Additional Information: 
-('term', 'house of david')
+('stage', 'behind', 'children')
+('stage', 'black')

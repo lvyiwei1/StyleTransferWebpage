@@ -1,5 +1,5 @@
 Original Sentence: 
-We are the producers of that movie
+It showed the DJIA up 30 points
 Additional Information: 
-('movie', 'under', 'stand')
-('movie', 'vhs')
+('point', 'OF', 'knife')
+('point', 'sharp')

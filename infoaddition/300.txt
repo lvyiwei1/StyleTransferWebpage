@@ -1,5 +1,5 @@
 Original Sentence: 
-So what 's a parent to do
+The anthers in these plants are difficult to clip off
 Additional Information: 
-('parent', 'has', 'stroller')
-('parent', 'chaperoning')
+('plant', 'in a', 'vase')
+('plant', 'green')

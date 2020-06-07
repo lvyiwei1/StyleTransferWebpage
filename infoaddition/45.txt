@@ -1,7 +1,5 @@
 Original Sentence: 
-Her son healthy and symptom-free currently takes no medication
+He bought at share prices ranging from 9.375 to 9.625
 Additional Information: 
-('son', 'written on', 'large truck')
-('son', 'young')
-('medication', 'ON', 'table')
-('medication', 'individual dose')
+('price', 'ON', 'tag')
+('price', 'written')

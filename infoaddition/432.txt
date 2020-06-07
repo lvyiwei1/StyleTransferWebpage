@@ -1,4 +1,4 @@
 Original Sentence: 
-The actual disciplinary hearings will be public
+Lethal Weapon II was also a big hit
 Additional Information: 
-('right', 'giraffe ear for', 'hearing')
+('ball', 'being', 'hit')

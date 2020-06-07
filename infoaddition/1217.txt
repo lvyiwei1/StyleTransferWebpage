@@ -1,9 +1,5 @@
 Original Sentence: 
-Manville is a building and forest products concern
+Second-tier companies are receiving even less per ton
 Additional Information: 
-('building', 'has', 'sill')
-('building', 'white')
-('forest', 'in back of', 'elephant habitat')
-('forest', 'green')
-('product', 'ON', 'shelf')
-('product', 'bathroom')
+('company', 'has', 'name')
+('company', 'name')

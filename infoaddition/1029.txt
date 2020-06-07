@@ -1,6 +1,7 @@
 Original Sentence: 
-The coin is their problem
+Either way the ghostbusting business is going like gangbusters
 Additional Information: 
-('coin', 'ON', 'bed')
-('coin', 'gold')
-('plane', 'has', 'problem')
+('way', 'scrapped on', 'bus')
+('way', 'walk')
+('business', 'has', 'entrance')
+('business', 'here')

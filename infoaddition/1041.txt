@@ -1,5 +1,9 @@
 Original Sentence: 
-Already it 's hard to get people
+He is ogling the curtains rippling above the ventilation ducts
 Additional Information: 
-('people', 'seated at', 'picnic table')
-('people', 'standing')
+('curtain', 'hangs in', 'background')
+('curtain', 'white')
+('ventilation', 'IN', 'tower')
+('ventilation', 'black')
+('duct', 'ON', 'wall')
+('duct', 'large ')

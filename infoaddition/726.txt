@@ -1,5 +1,5 @@
 Original Sentence: 
-There 's no feed he says
+The system also provides course-correction advisories
 Additional Information: 
-('feed', 'IN', 'hands')
-('feed', 'black')
+('system', 'ON', 'table')
+('system', 'black')

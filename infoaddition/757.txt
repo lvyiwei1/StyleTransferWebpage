@@ -1,6 +1,6 @@
 Original Sentence: 
-The plan lacked a withdrawal timetable
+Even excluding the charge however net fell 5 %
 Additional Information: 
-('plan', 'behind', 'guy')
-('plan', 'air')
-('timetable', 'listed')
+('charge', 'can', 'charge')
+('net', 'ON', 'court')
+('net', 'black')

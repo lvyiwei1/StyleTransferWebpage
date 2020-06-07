@@ -1,0 +1,3 @@
+Original Sentence: 
+Wall Street generally likes the industry again
+Emphasize: likes

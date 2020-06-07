@@ -1,7 +1,5 @@
 Original Sentence: 
-The envelope arrives in the mail
+Things had just gone too far
 Additional Information: 
-('envelope', 'for', 'paper')
-('envelope', 'white')
-('mail', 'ON', 'desk')
-('mail', 'white')
+('thing', 'ON', 'wall')
+('thing', 'black')

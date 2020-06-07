@@ -1,5 +1,6 @@
 Original Sentence: 
-That could shove a weak economy into recession
+For nonunion workers the costs rose 1.4 %
 Additional Information: 
-('economy', 'ON', 'train')
-('recession', 'wall')
+('worker', 'WEARING', 'shirt')
+('worker', 'construction')
+('cost', 'displayed in front of', 'banana')

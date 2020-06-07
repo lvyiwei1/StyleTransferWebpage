@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales rose 7.4 % to 580 million from 540 million
+But the company declines to comment
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('company', 'ON', 'lorry')
+('company', 'name')

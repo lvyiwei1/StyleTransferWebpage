@@ -1,5 +1,5 @@
 Original Sentence: 
-John Wilpers resigned as editor in chief
+The fundamentals do n't change in an hour he says
 Additional Information: 
-('spoon', 'next to', 'chief')
-('chief', 'handker')
+('hour', 'hand', '5')
+('hour', 'black')

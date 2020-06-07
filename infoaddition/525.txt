@@ -1,5 +1,9 @@
 Original Sentence: 
-The Newport Beach operators also tend to indulge themselves privately
+The company could command a good price in the market
 Additional Information: 
-('operator', 'sitting', 'shed')
-('operator', 'Lift ')
+('company', 'that owns', 'bus')
+('company', 'name')
+('price', 'for', 'peppers')
+('price', 'written')
+('market', 'has', 'food')
+('market', 'outdoor')

@@ -1,7 +1,6 @@
 Original Sentence: 
-Which makes the chase car necessary
+That means huge travel bills
 Additional Information: 
-('chase', 'ON', 'building')
-('chase', 'word')
-('car', 'driving', 'road')
-('car', 'parked')
+('travel', 'guide', 'book')
+('bill', 'of', 'bird')
+('bill', 'orange')

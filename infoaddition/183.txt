@@ -1,5 +1,4 @@
 Original Sentence: 
-Of course it was
+I guess that 's my forecast
 Additional Information: 
-('course', 'has', 'obstacles')
-('course', 'green')
+('forecast', 'here')

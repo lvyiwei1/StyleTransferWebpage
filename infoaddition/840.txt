@@ -1,5 +1,5 @@
 Original Sentence: 
-They ca n't afford to stay out of HDTV
+NBC 's winning streak has been canceled
 Additional Information: 
-('hdtv', 'displaying', 'image')
-('hdtv', 'silver')
+('streak', 'IN', 'sky')
+('streak', 'white')

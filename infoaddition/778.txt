@@ -1,5 +1,5 @@
 Original Sentence: 
-But fund managers say they 're ready
+The latest rebate is good for all Beretta models
 Additional Information: 
-('manager', 'sitting in', 'dugout')
-('manager', 'overlooking action')
+('model', 'WEARING', 'necklace')
+('model', 'red')

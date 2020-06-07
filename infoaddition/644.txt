@@ -1,7 +1,5 @@
 Original Sentence: 
-Often developers stay on as property manager
+Its attendance is off 23 % from six years ago
 Additional Information: 
-('property', 'standing', 'chainlink fence')
-('property', 'waterfront')
-('manager', 'sitting in', 'dugout')
-('manager', 'overlooking action')
+('year', 'ON', 'building')
+('year', 'white')

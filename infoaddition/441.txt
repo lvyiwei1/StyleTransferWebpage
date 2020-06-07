@@ -1,5 +1,7 @@
 Original Sentence: 
-This time the firms were ready
+This being typed in a standing position
 Additional Information: 
-('time', 'was', '13:11')
-('time', 'displayed')
+('standing', 'in a', 'shirt')
+('standing', 'standing')
+('catcher', 'IN', 'position')
+('position', 'upright')

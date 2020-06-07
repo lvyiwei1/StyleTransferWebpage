@@ -1,4 +1,4 @@
 Original Sentence: 
-THE IRS DELAYS several deadlines for Hugo 's victims
+But again they may need the help of the machinists
 Additional Information: 
-('racket', 'OF', 'victim')
+('poster', 'says', 'help')

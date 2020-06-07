@@ -1,4 +1,7 @@
 Original Sentence: 
-Roe v. Wade pre-empted political debate so the extremes blossomed
+Which makes the chase car necessary
 Additional Information: 
-('panel', 'for', 'debate')
+('chase', 'ON', 'building')
+('chase', 'word')
+('car', 'ON', 'street')
+('car', 'parked')

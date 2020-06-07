@@ -1,5 +1,4 @@
 Original Sentence: 
-Just Wait Until You 're a Bit Older
+No charges were brought against her
 Additional Information: 
-('bit', 'IN', 'mouth')
-('bit', 'gray')
+('charge', 'can', 'charge')

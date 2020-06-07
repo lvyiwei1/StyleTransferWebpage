@@ -1,5 +1,5 @@
 Original Sentence: 
-A closing date has n't been set
+Supporting banks will sign a Texas Declaration of Independents
 Additional Information: 
-('date', 'ON', 'photo')
-('date', 'yellow')
+('bank', 'OF', 'river')
+('bank', 'grassy')

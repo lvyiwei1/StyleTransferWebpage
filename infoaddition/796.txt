@@ -1,5 +1,5 @@
 Original Sentence: 
-The magazine called in Mr. Hyman as a consultant
+Sales rose 2.9 % to 329.2 million from 320 million
 Additional Information: 
-('magazine', 'IN', 'lap')
-('magazine', 'open')
+('sale', 'at', 'company')
+('sale', 'red')

@@ -1,10 +1,4 @@
 Original Sentence: 
-Market conditions point to even lower prices next year
+Everybody was still confident including most institutional investors
 Additional Information: 
-('market', 'has', 'doors')
-('market', 'outdoor')
-('sky', 'weather', 'condition')
-('price', 'ON', 'sign')
-('price', 'written')
-('year', 'ON', 'bench')
-('year', 'white')
+('everybody', 'wearing', 'sunglasses')

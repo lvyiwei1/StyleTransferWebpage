@@ -1,8 +1,9 @@
 Original Sentence: 
-Stock prices edged up in quiet trading Friday
+The stock market reacted strongly to the news
 Additional Information: 
 ('stock', 'OF', 'broccoli')
 ('stock', 'green')
-('price', 'OF', 'grapes')
-('price', 'written')
-('red t', 'IN', 'trading')
+('market', 'has', 'entrance')
+('market', 'outdoor')
+('news', 'ON', 'bus')
+('news', 'word')

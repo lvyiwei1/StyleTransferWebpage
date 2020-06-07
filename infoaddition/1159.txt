@@ -1,7 +1,5 @@
 Original Sentence: 
-Executives universally believe workers should know their employer-sponsored benefits
+People had died
 Additional Information: 
-('executive', 'ON', 'signs')
-('executive', 'in white')
-('worker', 'WEARING', 'shirt')
-('worker', 'construction')
+('people', 'riding on', 'horses')
+('people', 'standing')

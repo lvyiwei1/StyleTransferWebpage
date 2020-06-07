@@ -1,7 +1,5 @@
 Original Sentence: 
-Some smaller clients do n't seem to notice his switch
+Among other things the brief cited insufficient evidence
 Additional Information: 
-('mirror', 'behind', 'client')
-('client', 'young')
-('switch', 'ON', 'appliance')
-('switch', 'white')
+('thing', 'under', 'airplane')
+('thing', 'black')

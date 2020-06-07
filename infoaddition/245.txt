@@ -1,8 +1,5 @@
 Original Sentence: 
-Japanese department stores are also wary of attracting negative publicity
+Things are beginning to settle down
 Additional Information: 
-('horse', 'used', 'department')
-('department', 'British police ')
-('store', 'behind', 'man')
-('store', 'red')
-('bus', 'has', 'publicity')
+('thing', 'ON', 'bus')
+('thing', 'black')

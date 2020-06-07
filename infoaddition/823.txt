@@ -1,5 +1,8 @@
 Original Sentence: 
-Things had just gone too far
+Heating oil and gasoline futures ended higher as well
 Additional Information: 
-('thing', 'on side of', 'clock')
-('thing', 'black')
+('heating', 'and cooling', 'heating')
+('oil', 'IN', 'bottle')
+('oil', 'hot')
+('truck', 'OF', 'gasoline')
+('gasoline', 'offered')

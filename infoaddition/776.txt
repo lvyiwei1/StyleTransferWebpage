@@ -1,5 +1,7 @@
 Original Sentence: 
-Mr. Patel also was placed on three years ' probation
+But quite a few money managers are n't buying it
 Additional Information: 
-('year', 'ON', 'sign')
-('year', 'white')
+('money', 'IN', 'hand')
+('money', 'paper')
+('manager', 'sitting in', 'dugout')
+('manager', 'overlooking action')

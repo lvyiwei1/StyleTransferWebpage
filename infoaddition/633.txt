@@ -1,5 +1,5 @@
 Original Sentence: 
-After cooling the coins are then rewrapped
+Sales were flat at 7.88 billion
 Additional Information: 
-('coin', 'ON', 'tray')
-('coin', 'gold')
+('sale', 'ON', 'window')
+('sale', 'red')

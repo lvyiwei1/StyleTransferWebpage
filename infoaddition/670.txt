@@ -1,4 +1,5 @@
 Original Sentence: 
-We 'd get our asses kicked
+That trend could increase demand for hot-dipped galvanized sheet
 Additional Information: 
-('ass', 'OF', 'zebra')
+('sheet', 'ON', 'bed')
+('sheet', 'white')

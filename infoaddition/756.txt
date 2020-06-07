@@ -1,5 +1,10 @@
 Original Sentence: 
-Times have changed
+By the end of the day bond prices were mixed
 Additional Information: 
-('time', 'ON', 'scoreboard')
-('time', 'displayed')
+('end', 'OF', 'tail')
+('end', 'black')
+('day', 'at', 'park')
+('day', 'sunny')
+('bond', 'black ')
+('price', 'for', 'apple')
+('price', 'written')

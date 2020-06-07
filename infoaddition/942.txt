@@ -1,6 +1,7 @@
 Original Sentence: 
-For that matter perhaps he fixed to the wrong currency
+In five minutes the Dow industrials climbed almost 30 points
 Additional Information: 
-('matter', 'ON', 'rim')
-('matter', 'green')
-('currency', 'by', 'luggage')
+('minute', 'hand on', 'clock')
+('minute', 'black')
+('point', 'IN', 'snow')
+('point', 'sharp')

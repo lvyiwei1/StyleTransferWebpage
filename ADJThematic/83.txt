@@ -1,0 +1,3 @@
+Original Sentence: 
+This is not a major crash she said
+Emphasize: major

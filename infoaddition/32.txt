@@ -1,7 +1,5 @@
 Original Sentence: 
-NEATNESS does count at least in the grocery store
+So far the bubbles have been few and far between
 Additional Information: 
-('grocery', 'ON', 'sign')
-('grocery', 'red')
-('store', 'has', 'front')
-('store', 'red')
+('bubble', 'on side of', 'pizza')
+('bubble', 'small')

@@ -1,4 +1,7 @@
 Original Sentence: 
-Working with lawyers she says I need it
+I much prefer money I can put my hands on
 Additional Information: 
-('lawyer', 'showing a', 'paper')
+('money', 'under', 'card')
+('money', 'paper')
+('hand', 'holding', 'cell phone')
+('hand', 'black')

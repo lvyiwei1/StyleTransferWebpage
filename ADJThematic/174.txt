@@ -1,0 +1,3 @@
+Original Sentence: 
+Some analysts remain bullish
+Emphasize: bullish

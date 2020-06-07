@@ -1,4 +1,5 @@
 Original Sentence: 
-A panic on Wall Street does n't exactly inspire confidence
+The December contract rose 1.50 cents a pound to 1.2795
 Additional Information: 
-('panic', 'gold')
+('pound', 'has a', 'ten')
+('pound', 'here')

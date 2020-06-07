@@ -1,9 +1,6 @@
 Original Sentence: 
-One bank stock was a winner
+I 've got 70 kinds of apples
 Additional Information: 
-('bank', 'OF', 'snow')
-('bank', 'grassy')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('winner', 'standing on', 'box')
-('winner', '2nd place')
+('kind', 'ON', 'sidewalk')
+('apple', 'IN', 'container')
+('apple', 'red')

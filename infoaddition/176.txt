@@ -1,6 +1,8 @@
 Original Sentence: 
-The analysts say their gloomy forecasts have a flip side
+BAY AREA COMMUTERS BATTLED earthquake-related transportation snarls
 Additional Information: 
-('forecast', 'here')
-('side', 'OF', 'motorcycle')
-('side', 'white')
+('area', 'by', 'display stand')
+('area', 'grassy')
+('commuter', 'train letting passengers', 'off')
+('sign', 'directing people to another source of', 'transportation')
+('transportation', 'public')

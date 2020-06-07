@@ -1,5 +1,5 @@
 Original Sentence: 
-I would n't say we 're out of the business
+Estimated volume was a light 1.7 million ounces
 Additional Information: 
-('business', 'behind', 'palm trees')
-('business', 'here')
+('volume', 'ON', 'headphones')
+('volume', '3')

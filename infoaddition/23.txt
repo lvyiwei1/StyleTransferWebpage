@@ -1,5 +1,9 @@
 Original Sentence: 
-The Dow Jones Industrial Average rose 39.55 points to 2683.20
+Grain milk and meat come next
 Additional Information: 
-('point', 'mounted on', 'tower')
-('point', 'sharp')
+('grain', 'IN', 'wood floor')
+('grain', 'wood')
+('milk', 'in a', 'bottle')
+('milk', 'white')
+('meat', 'on inside of', 'burger')
+('meat', 'brown')

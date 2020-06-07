@@ -1,5 +1,4 @@
 Original Sentence: 
-As people get even older many become widowed
+But not just any bonds will do
 Additional Information: 
-('people', 'standing on', 'elevated area')
-('people', 'standing')
+('bond', 'black ')

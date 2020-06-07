@@ -1,5 +1,5 @@
 Original Sentence: 
-The stars do that themselves
+CLUBBING A FAN was n't the Baltimore Orioles ' fault
 Additional Information: 
-('star', 'ON', 'american flag')
-('star', 'white')
+('fan', 'IN', 'green shirt')
+('fan', 'white')

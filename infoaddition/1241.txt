@@ -1,5 +1,4 @@
 Original Sentence: 
-First its position in the government is anomalous
+In national over-the-counter trading LIN closed at 104.75 down 2.75
 Additional Information: 
-('man', 'IN', 'position')
-('position', 'upright')
+('red t', 'IN', 'trading')

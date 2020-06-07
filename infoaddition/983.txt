@@ -1,4 +1,6 @@
 Original Sentence: 
-No charges were brought against her
+The plan lacked a withdrawal timetable
 Additional Information: 
-('charge', 'can', 'charge')
+('plan', 'ON', 'ground')
+('plan', 'air')
+('timetable', 'listed')

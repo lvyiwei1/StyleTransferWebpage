@@ -1,5 +1,5 @@
 Original Sentence: 
-Says Mr. Roberti We want to turn the customer on
+Things have grown worse since June 4 Mr. Lai says
 Additional Information: 
-('customer', 'shops for', 'fruits')
-('customer', 'waiting')
+('thing', 'ON', 'suitcase')
+('thing', 'black')

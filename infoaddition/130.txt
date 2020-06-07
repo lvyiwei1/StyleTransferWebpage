@@ -1,5 +1,5 @@
 Original Sentence: 
-The judge wrote again
+A simultaneous announcement was made in Moscow
 Additional Information: 
-('judge', 'next to', 'fence')
-('judge', 'tennis line')
+('announcement', 'ON', 'table')
+('announcement', 'green')

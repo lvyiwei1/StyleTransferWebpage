@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+But Japanese bonds ended weaker
 Additional Information: 
-('term', 'house of david')
+('bond', 'black ')

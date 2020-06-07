@@ -1,5 +1,7 @@
 Original Sentence: 
-Or call it the wave of the future
+Giveaways just give people the wrong image said Mr. Heinemann
 Additional Information: 
-('wave', 'propelling', 'man')
-('wave', 'white')
+('people', 'standing in', 'hall')
+('people', 'standing')
+('image', 'OF', 'kitchen')
+('image', 'white')

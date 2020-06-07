@@ -1,5 +1,5 @@
 Original Sentence: 
-In last week 's House vote 41 Republicans defected
+But there are limits
 Additional Information: 
-('day', 'OF', 'week')
-('vote', 'written on', 'sign')
+('limit', 'ON', 'meter')
+('limit', '2 hour')

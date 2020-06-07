@@ -1,4 +1,5 @@
 Original Sentence: 
-Municipals ended mixed while mortgage-backed and investment-grade corporate bonds rose
+Many of us are suckers
 Additional Information: 
-('bond', 'black ')
+('sucker', 'wrapped in', 'red paper')
+('sucker', 'green')

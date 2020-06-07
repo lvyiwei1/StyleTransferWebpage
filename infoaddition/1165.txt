@@ -1,5 +1,5 @@
 Original Sentence: 
-He will continue as a director
+Neither man achieved perfection
 Additional Information: 
-('vest', 'ON', 'director')
-('director', 'caucasian')
+('man', 'WEARING', 'business suit')
+('man', 'standing')

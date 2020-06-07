@@ -1,5 +1,7 @@
 Original Sentence: 
-It 's very revealing and soul baring said Ms. Volokh
+PRODUCTS DON'T have to be first to be winners
 Additional Information: 
-('shoe', 'with', 'soul')
-('soul', 'black')
+('product', 'ON', 'display')
+('product', 'bathroom')
+('winner', 'standing on', 'box')
+('winner', '2nd place')

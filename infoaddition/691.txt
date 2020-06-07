@@ -1,7 +1,7 @@
 Original Sentence: 
-The suit seeks unspecified damages
+Health-care companies should get healthier in the third quarter
 Additional Information: 
-('suit', 'has', 'tie')
-('suit', 'black')
-('damage', 'IN', 'building')
-('damage', 'moisture')
+('company', 'has', 'name')
+('company', 'name')
+('quarter', 'lying on', 'shelf')
+('quarter', 'silver')

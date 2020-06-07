@@ -1,5 +1,5 @@
 Original Sentence: 
-This has n't been Kellogg Co. 's year
+The damage is already done
 Additional Information: 
-('year', 'written on', 'sign')
-('year', 'white')
+('damage', 'on a', 'wall')
+('damage', 'moisture')

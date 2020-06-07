@@ -1,4 +1,5 @@
 Original Sentence: 
-Mr. Whittle Friday said several more advertisers have been added
+Both products were immensely popular
 Additional Information: 
-('advertiser', 'ON', 'train')
+('product', 'ON', 'shelf')
+('product', 'bathroom')

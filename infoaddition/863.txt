@@ -1,11 +1,5 @@
 Original Sentence: 
-City building codes require construction that can resist temblors
+The IRS hopes to fill the new positions soon
 Additional Information: 
-('city', 'IN', 'distance')
-('city', 'large')
-('building', 'behind', 'statue')
-('building', 'white')
-('code', 'ON', 'banana')
-('code', 'bar')
-('construction', 'ON', 'building')
-('construction', 'gate')
+('catcher', 'IN', 'position')
+('position', 'upright')

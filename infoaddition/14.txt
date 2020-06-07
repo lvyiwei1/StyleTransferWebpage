@@ -1,5 +1,5 @@
 Original Sentence: 
-Nor does it cover the entire portfolio
+Or is triskaidekaphobia fear of the number 13 justified
 Additional Information: 
-('portfolio', 'IN', 'hand')
-('portfolio', 'black')
+('number', 'ON', 'aircraft')
+('number', 'black')

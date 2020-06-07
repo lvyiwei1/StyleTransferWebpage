@@ -1,5 +1,5 @@
 Original Sentence: 
-Similar proposals were defeated in at least 15 other states
+The industrial average ended at 2659.22 down 3.69 points
 Additional Information: 
-('state', 'ON', 'sign')
-('state', 'Penn ')
+('point', 'OF', 'scissors')
+('point', 'sharp')

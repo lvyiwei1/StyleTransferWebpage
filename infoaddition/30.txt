@@ -1,9 +1,5 @@
 Original Sentence: 
-The security business is my favorite subject
+I mean it is a normal adult relationship
 Additional Information: 
-('security', 'ON', 'airport')
-('security', 'standing')
-('business', 'behind', 'parking meter')
-('business', 'here')
-('background', 'around', 'subject')
-('subject', 'gold')
+('adult', 'with', 'skier')
+('adult', 'young')

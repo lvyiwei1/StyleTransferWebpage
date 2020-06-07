@@ -1,5 +1,9 @@
 Original Sentence: 
-Mr. Roberts was assistant Treasury secretary under President Reagan
+The transaction represents Lynch 's entry into the telephone business
 Additional Information: 
-('book', 'ON', 'secretary')
-('secretary', 'wood')
+('entry', 'to', 'building')
+('entry', 'dark')
+('telephone', 'a', 'pole')
+('telephone', 'black')
+('business', 'ON', 'building')
+('business', 'here')

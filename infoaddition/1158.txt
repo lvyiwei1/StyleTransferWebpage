@@ -1,9 +1,4 @@
 Original Sentence: 
-The name of the game is to move goods
+The truth is Washington understands politics better than economics
 Additional Information: 
-('name', 'OF', 'car')
-('name', 'white')
-('game', 'for', 'tennis')
-('game', 'baseball')
-('good', 'on a', 'buffet')
-('good', 'baked')
+('letters', 'about', 'politics')

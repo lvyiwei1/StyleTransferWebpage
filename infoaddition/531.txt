@@ -1,5 +1,7 @@
 Original Sentence: 
-Three years ago the ratio was reversed
+The bill is expected to pass in Congress next month
 Additional Information: 
-('year', 'IN', 'corner')
-('year', 'white')
+('bill', 'pick', 'frisbee')
+('bill', 'orange')
+('month', 'OF', 'picture')
+('month', 'ninth')

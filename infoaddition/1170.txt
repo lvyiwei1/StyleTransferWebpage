@@ -1,7 +1,7 @@
 Original Sentence: 
-It 's like fighting your way out of a fog
+And you want to make wicker baskets too
 Additional Information: 
-('way', 'scrapped on', 'bus')
-('way', 'walk')
-('fog', 'IN', 'background')
-('fog', 'thick')
+('wicker', 'OF', 'chair')
+('wicker', 'brown')
+('basket', 'ON', 'coffee table')
+('basket', 'brown')

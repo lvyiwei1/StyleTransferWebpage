@@ -1,0 +1,3 @@
+Original Sentence: 
+Sales for the latest quarter were flat at 1.72 billion
+Emphasize: flat

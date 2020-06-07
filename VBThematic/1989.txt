@@ -1,0 +1,3 @@
+Original Sentence: 
+The volatility wo n't end soon
+Emphasize: end

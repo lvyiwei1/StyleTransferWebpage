@@ -1,5 +1,4 @@
 Original Sentence: 
-Turkey in any event is long past it
+Last week CBS Inc. canceled The People Next Door
 Additional Information: 
-('event', 'IN', 'park')
-('event', 'here')
+('day', 'OF', 'week')

@@ -1,0 +1,3 @@
+Original Sentence: 
+He bought at share prices ranging from 9.375 to 9.625
+Emphasize: bought

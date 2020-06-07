@@ -1,4 +1,5 @@
 Original Sentence: 
-We ca n't do without their help says Mrs. Conradie
+He has two more years at Texas A&M
 Additional Information: 
-('poster', 'says', 'help')
+('year', 'ON', 'picture')
+('year', 'white')

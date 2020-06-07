@@ -1,9 +1,4 @@
 Original Sentence: 
-Wisconsin Toy has 71 retail stores primarily in discount settings
+And that they say will be good for bonds
 Additional Information: 
-('store', 'has', 'stone design')
-('store', 'red')
-('discount', 'ON', 'window')
-('discount', 'written')
-('setting', 'ON', 'afternoon')
-('setting', 'urban')
+('bond', 'black ')

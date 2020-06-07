@@ -1,5 +1,5 @@
 Original Sentence: 
-Conservatives have an important decision to make this fall
+Sales fell 2.5 % to 1.54 billion from 1.58 billion
 Additional Information: 
-('fall', 'at', 'park')
-('fall', 'water')
+('sale', 'at', 'company')
+('sale', 'red')

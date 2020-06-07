@@ -1,5 +1,5 @@
 Original Sentence: 
-Not even all the brokerage firms see clear sailing ahead
+Craig Forman in London contributed to this article
 Additional Information: 
-('sailing', 'IN', 'ocean')
-('sailing', 'wind')
+('article', 'ON', 'screen')
+('article', 'newspaper')

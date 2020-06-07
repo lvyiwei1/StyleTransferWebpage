@@ -1,4 +1,7 @@
 Original Sentence: 
-GAF Part III is scheduled to begin today
+It was only a matter of time
 Additional Information: 
-('cow', 'are laying down', 'today')
+('matter', 'ON', 'grass')
+('matter', 'green')
+('time', 'ON', 'clock')
+('time', 'displayed')

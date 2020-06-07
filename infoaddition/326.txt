@@ -1,5 +1,7 @@
 Original Sentence: 
-Mr. Tomash will remain as a director emeritus
+Junk bonds also recovered somewhat though trading remained stalled
 Additional Information: 
-('vest', 'ON', 'director')
-('director', 'caucasian')
+('junk', 'ON', 'bed')
+('junk', 'lots')
+('bond', 'black ')
+('red t', 'IN', 'trading')

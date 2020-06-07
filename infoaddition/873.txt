@@ -1,5 +1,7 @@
 Original Sentence: 
-We put some orders together
+In Los Angeles in our lean years we gave parties
 Additional Information: 
-('order', 'OF', 'french fries')
-('order', 'ready')
+('year', 'ON', 'building')
+('year', 'white')
+('party', 'IN', 'scene')
+('party', 'birthday')

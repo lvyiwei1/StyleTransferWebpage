@@ -1,5 +1,8 @@
 Original Sentence: 
-This gap eventually closes but slowly
+No reason was given in the filing for the sales
 Additional Information: 
-('gap', 'IN', 'wood')
-('gap', 'small')
+('not', 'in mood right nowhold leg in air for no', 'reason')
+('filing', 'cabinet with pull', 'drawers')
+('filing', 'red')
+('sale', 'ON', 'window')
+('sale', 'red')

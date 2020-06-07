@@ -1,5 +1,5 @@
 Original Sentence: 
-Japan 's markets are more stable he said
+Coal earnings rose to 26 million from 21 million
 Additional Information: 
-('market', 'has', 'oranges')
-('market', 'outdoor')
+('coal', 'stacked inside', 'car')
+('coal', 'black')

@@ -1,6 +1,5 @@
 Original Sentence: 
-The loyal servant has come full circle
+Per-share net rose to 20.48 yen from 19.51 yen
 Additional Information: 
-('servant', 'ON', 'wall')
-('circle', 'ON', 'batteries')
-('circle', 'red')
+('net', 'with', 'white edging')
+('net', 'black')

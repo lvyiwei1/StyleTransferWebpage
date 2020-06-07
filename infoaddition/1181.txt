@@ -1,5 +1,5 @@
 Original Sentence: 
-The 120-day exclusivity period was to expire yesterday
+Sales rose 13 % to 1.91 billion from 1.69 billion
 Additional Information: 
-('period', 'ON', 'sign')
-('period', 'red')
+('sale', 'at', 'company')
+('sale', 'red')

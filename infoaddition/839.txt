@@ -1,5 +1,5 @@
 Original Sentence: 
-There 's some price at which we 'd stop bidding
+This avoids knocking down prices further
 Additional Information: 
-('price', 'ON', 'sticker')
+('price', 'ON', 'sign')
 ('price', 'written')

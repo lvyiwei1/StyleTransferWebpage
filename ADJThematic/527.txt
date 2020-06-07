@@ -1,0 +1,3 @@
+Original Sentence: 
+Yesterday bank stocks lagged behind the overall OTC market
+Emphasize: overall

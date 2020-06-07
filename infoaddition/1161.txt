@@ -1,6 +1,8 @@
 Original Sentence: 
-The work though sounds like Muzak for spaceships
+The Soviets have a world-leading space program the guests noted
 Additional Information: 
-('work', 'done on', 'river bank')
-('work', 'iron')
-('spaceship', 'paper')
+('space', 'ON', 'shelf')
+('space', 'green')
+('program', 'running', 'laptop')
+('program', 'wedding')
+('guest', 'behind', 'fence')

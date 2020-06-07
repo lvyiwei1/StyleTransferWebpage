@@ -1,5 +1,6 @@
 Original Sentence: 
-Real heroes exist
+The market 's pessimism reflects the gloomy outlook in Detroit
 Additional Information: 
-('hero', 'ON', 'bike seat')
-('hero', 'written')
+('market', 'for sale at', 'market')
+('market', 'outdoor')
+('outlook', 'ON', 'building')

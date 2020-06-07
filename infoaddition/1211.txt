@@ -1,5 +1,5 @@
 Original Sentence: 
-Rep. Bates said he would write the letters as ordered
+Mr. Ehrlich will continue as a director and a consultant
 Additional Information: 
-('letter', 'says', 'happy new year')
-('letter', 'white')
+('vest', 'ON', 'director')
+('director', 'caucasian')

@@ -1,7 +1,5 @@
 Original Sentence: 
-They are starting to buy growth stocks
+Bostic posted 1988 sales of 255 million
 Additional Information: 
-('growth', 'on terrain', 'green')
-('growth', 'green')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('sale', 'at', 'company')
+('sale', 'red')

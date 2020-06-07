@@ -1,7 +1,7 @@
 Original Sentence: 
-At the core of all this stands a hotel
+They want late-night shuttles to the biology labs
 Additional Information: 
-('core', 'ON', 'apple')
-('core', 'white')
-('hotel', 'has', 'balcony')
-('hotel', 'large')
+('shuttle', 'ON', 'airplane')
+('shuttle', 'white')
+('lab', 'sitting on', 'grass')
+('lab', 'yellow')

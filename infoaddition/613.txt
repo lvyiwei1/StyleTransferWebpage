@@ -1,6 +1,6 @@
 Original Sentence: 
-Texans Get Reasonable Car Rental Insurance
+The dollar rose modestly against most major currencies
 Additional Information: 
-('car', 'driving down', 'street')
-('car', 'parked')
-('advertisement', 'for', 'insurance')
+('dollar', 'ON', 'table')
+('dollar', 'twenty')
+('currency', 'by', 'luggage')

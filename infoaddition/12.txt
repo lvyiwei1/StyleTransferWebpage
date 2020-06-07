@@ -1,6 +1,5 @@
 Original Sentence: 
-We could still have a recession at some point
+But Ms. McCraw says the magazine is fighting back
 Additional Information: 
-('recession', 'wall')
-('point', 'ON', 'fence')
-('point', 'sharp')
+('magazine', 'IS ON THE', 'bench')
+('magazine', 'open')

@@ -1,9 +1,4 @@
 Original Sentence: 
-Other temperature data show similar unexplained swings
+Everybody was out buying Monets
 Additional Information: 
-('temperature', 'at bottom of', 'dial')
-('temperature', 'current')
-('data', 'ON', 'screen')
-('data', 'green')
-('swing', 'IN', 'playground')
-('swing', 'wooden')
+('everybody', 'wearing', 'sunglasses')

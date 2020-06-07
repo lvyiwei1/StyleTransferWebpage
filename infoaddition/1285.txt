@@ -1,4 +1,5 @@
 Original Sentence: 
-It does n't take much to provoke an intense debate
+Rainbow 's stock dropped 2 to 14 1\/4
 Additional Information: 
-('panel', 'for', 'debate')
+('stock', 'ON', 'engine')
+('stock', 'green')

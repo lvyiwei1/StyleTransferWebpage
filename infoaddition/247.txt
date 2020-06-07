@@ -1,7 +1,5 @@
 Original Sentence: 
-Many Law School Grads Find Classes Never End
+That suit is pending
 Additional Information: 
-('drivers', 'are obeying', 'law')
-('school', 'ON', 'grass')
-('school', 'word')
-('class', 'OF', 'kids')
+('suit', 'ON', 'woman')
+('suit', 'black')

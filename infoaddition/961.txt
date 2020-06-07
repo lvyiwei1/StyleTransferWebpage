@@ -1,5 +1,5 @@
 Original Sentence: 
-The company rejected those past proposals
+The acquisition is subject to approval by Kennametal 's board
 Additional Information: 
-('company', 'took', 'photo')
-('company', 'name')
+('board', 'has', 'arm')
+('board', 'white')

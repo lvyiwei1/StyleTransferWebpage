@@ -1,5 +1,7 @@
 Original Sentence: 
-Nissan created its quake ad in a weekend
+The Fed also has the power to set margin requirements
 Additional Information: 
-('ad', 'ON', 'bus')
-('ad', 'white')
+('power', 'cord', 'over pole')
+('power', 'on')
+('margin', 'separating', 'photo')
+('margin', 'thick')

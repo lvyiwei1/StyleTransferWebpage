@@ -1,4 +1,5 @@
 Original Sentence: 
-Deciding what constitutes terrorism can be a legalistic exercise
+In the experiment mice with the defective gene were mated
 Additional Information: 
-('man', 'getting', 'exercise')
+('mouse', 'has', 'circle')
+('mouse', 'black')

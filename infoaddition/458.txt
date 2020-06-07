@@ -1,7 +1,6 @@
 Original Sentence: 
-The disk-drive maker disclosed a major fraud two months ago
+Trading in Walt Disney Co. particularly caught traders ' eyes
 Additional Information: 
-('maker', 'makes', 'ice cream')
-('maker', 'coffee')
-('month', 'around', 'face')
-('month', 'ninth')
+('red t', 'IN', 'trading')
+('eye', 'ON', 'head')
+('eye', 'black')

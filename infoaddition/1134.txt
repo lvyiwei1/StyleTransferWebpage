@@ -1,7 +1,4 @@
 Original Sentence: 
-Wheat futures prices rose slightly
+Everybody was afraid of him Mr. Ingersoll says
 Additional Information: 
-('wheat', 'behind', 'zebras')
-('wheat', 'growing')
-('price', 'ON', 'sign')
-('price', 'written')
+('everybody', 'wearing', 'sunglasses')

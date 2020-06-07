@@ -1,4 +1,9 @@
 Original Sentence: 
-Everybody was out buying Monets
+Comparable store sales for the quarter were up 7.3 %
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
+('store', 'across', 'street')
+('store', 'red')
+('sale', 'ON', 'window')
+('sale', 'red')
+('quarter', 'OF', 'sandwich')
+('quarter', 'silver')

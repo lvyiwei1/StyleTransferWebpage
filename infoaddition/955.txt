@@ -1,5 +1,7 @@
 Original Sentence: 
-He has two more years at Texas A&M
+But most investors were seeking share prices and other information
 Additional Information: 
-('year', 'ON', 'wine')
-('year', 'white')
+('price', 'ON', 'sign')
+('price', 'written')
+('information', 'ON', 'desk')
+('information', 'yellow')

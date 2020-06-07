@@ -1,5 +1,5 @@
 Original Sentence: 
-To be sure the threat has hit home down here
+Many other brokerage firms had similarly bullish views
 Additional Information: 
-('home', 'behind', 'tracks')
-('home', 'white')
+('view', 'OF', 'bulb')
+('view', 'beautiful')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The shares are redeemable after the end of 1994
+Ms. Kolber said the committee had received other bids
 Additional Information: 
-('end', 'OF', 'usb drive')
-('end', 'black')
+('bid', 'ON', 'sheet')
+('bid', 'metal')

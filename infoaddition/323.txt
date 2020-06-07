@@ -1,5 +1,5 @@
 Original Sentence: 
-They figure it 's not a very good advert
+We can lose money on this he says
 Additional Information: 
-('advert', 'IN', 'clip')
-('advert', 'turquoise')
+('money', 'under', 'card')
+('money', 'paper')

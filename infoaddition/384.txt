@@ -1,5 +1,7 @@
 Original Sentence: 
-A main motive is hard cash
+And the winners will be the colleges not either network
 Additional Information: 
-('cash', 'inside', 'purse')
-('cash', 'Two round pieces  ')
+('winner', 'seen', 'left leg')
+('winner', '2nd place')
+('college', 'written on', 'bus')
+('college', 'Tennis')

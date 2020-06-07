@@ -1,5 +1,4 @@
 Original Sentence: 
-Maybe it was their peculiar sense of history
+Some foodstuff shipments will probably resume Thursday he said
 Additional Information: 
-('phrase', 'makes no', 'sense')
-('the', 'word', 'history')
+('shipment', 'ON', 'truck')

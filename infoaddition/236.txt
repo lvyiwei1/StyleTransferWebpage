@@ -1,5 +1,4 @@
 Original Sentence: 
-Executives at Sharon declined to comment on the proposal
+That should happen by today he said
 Additional Information: 
-('executive', 'ON', 'signs')
-('executive', 'in white')
+('sign', 'reads', 'today')

@@ -1,0 +1,3 @@
+Original Sentence: 
+Share prices fell in Milan Amsterdam Zurich Madrid and Stockholm
+Emphasize: fell

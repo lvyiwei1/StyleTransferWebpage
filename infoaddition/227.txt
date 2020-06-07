@@ -1,5 +1,5 @@
 Original Sentence: 
-I expect all the companies to appeal he added
+The Republicans show no sign of relenting
 Additional Information: 
-('company', 'ON', 'wing')
-('company', 'name')
+('sign', 'ON', 'post')
+('sign', 'white')

@@ -1,5 +1,5 @@
 Original Sentence: 
-That has n't deterred plenty of companies
+Ms. Clifton had been executive financial assistant to the chairman
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
+('assistant', 'near', 'juggler')
+('assistant', 'here')

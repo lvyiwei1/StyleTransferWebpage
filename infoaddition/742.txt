@@ -1,5 +1,5 @@
 Original Sentence: 
-Three gambling casinos have opened in Poland
+Richard L. Sherman 42 will advise midsized businesses
 Additional Information: 
-('casino', 'in a', 'casino')
-('casino', 'bright')
+('business', 'has', 'door')
+('business', 'here')

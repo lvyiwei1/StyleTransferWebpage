@@ -1,5 +1,7 @@
 Original Sentence: 
-Sales were nearly identical to the year-earlier 1.36 billion
+States are following suit
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('state', 'ON', 'sign')
+('state', 'Penn ')
+('suit', 'IN', 'snow')
+('suit', 'black')

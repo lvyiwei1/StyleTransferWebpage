@@ -1,5 +1,5 @@
 Original Sentence: 
-Your story was tasteless and insensitive
+But the shortages also spawned rampant speculation and spiraling prices
 Additional Information: 
-('story', 'missing', 'wall')
-('story', 'second')
+('price', 'ON', 'sign')
+('price', 'written')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Hurricane Hugo an Atlantic storm did n't affect Vista
+And the merchandise was well fake
 Additional Information: 
-('storm', 'IN', 'background')
-('storm', 'coming')
+('merchandise', 'next to', 'woman')
+('merchandise', 'fragile')

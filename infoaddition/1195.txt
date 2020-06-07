@@ -1,7 +1,6 @@
 Original Sentence: 
-Viroqua serves about 3,000 access lines in western Wisconsin
+The increased demand would normalize trading and stabilize prices
 Additional Information: 
-('access', 'ON', 'sidewalk')
-('access', 'sloped')
-('line', 'on boarder of', 'sidewalk')
-('line', 'white')
+('red t', 'IN', 'trading')
+('price', 'ON', 'bike')
+('price', 'written')

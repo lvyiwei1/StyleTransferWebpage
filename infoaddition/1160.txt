@@ -1,7 +1,5 @@
 Original Sentence: 
-Mr. Sheinberg remains as executive vice president
+The minimum unit is 100,000
 Additional Information: 
-('handle', 'ON', 'vice')
-('vice', 'blue')
-('president', 'at', 'table')
-('president', ' United States')
+('unit', 'behind', 'house')
+('unit', 'white')

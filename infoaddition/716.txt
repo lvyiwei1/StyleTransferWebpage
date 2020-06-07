@@ -1,5 +1,8 @@
 Original Sentence: 
-These people are n't necessarily stupid or naive
+Long dollar bonds were flat to up 3\/8 point
 Additional Information: 
-('people', 'IN', 'street')
-('people', 'standing')
+('dollar', 'ON', 'bed')
+('dollar', 'twenty')
+('bond', 'black ')
+('point', 'ON', 'fence')
+('point', 'sharp')

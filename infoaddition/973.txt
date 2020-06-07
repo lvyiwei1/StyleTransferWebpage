@@ -1,7 +1,7 @@
 Original Sentence: 
-It seeks unspecified money damages
+Both features appealed most to buyers under 45
 Additional Information: 
-('money', 'laying on', 'carpet')
-('money', 'paper')
-('damage', 'on a', 'wall')
-('damage', 'moisture')
+('feature', 'IN', 'park')
+('feature', 'suppressor ')
+('buyer', 'looking at', 'goods')
+('buyer', 'prospective')

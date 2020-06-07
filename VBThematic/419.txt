@@ -1,0 +1,3 @@
+Original Sentence: 
+Sir Richard succeeds John Plastow who resigned in July
+Emphasize: resigned

@@ -1,5 +1,5 @@
 Original Sentence: 
-Markets usually get noticed because they soar or plunge
+Essentially the critics of stock-index futures fall into two camps
 Additional Information: 
-('market', 'filled with', 'green peppers')
-('market', 'outdoor')
+('camp', 'ON', 'image')
+('camp', 'green tented ')

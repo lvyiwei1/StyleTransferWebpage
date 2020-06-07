@@ -1,6 +1,5 @@
 Original Sentence: 
-The government had fallen 300 million behind in interest payments
+The 6 3\/4 % notes yield 6.25 %
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
-('payment', 'for', 'produce')
+('note', 'on a', 'cork board')
+('note', 'yellow')

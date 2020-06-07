@@ -1,5 +1,4 @@
 Original Sentence: 
-A Manville spokesman would n't elaborate on the proposed changes
+Unless he changes they lose said a Democratic leadership aide
 Additional Information: 
-('change', 'ON', 'machine')
-('change', 'loose')
+('model', 'denture teaching', 'aide')

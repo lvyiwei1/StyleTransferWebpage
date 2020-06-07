@@ -1,5 +1,6 @@
 Original Sentence: 
-She was the child of relative privilege
+These are curious times in South African politics
 Additional Information: 
-('child', 'ON', 'beach')
-('child', 'small')
+('time', 'ON', 'microwave')
+('time', 'displayed')
+('letters', 'about', 'politics')

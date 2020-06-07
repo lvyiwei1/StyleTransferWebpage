@@ -1,4 +1,4 @@
 Original Sentence: 
-Until last week Mr. Dinkins was considered a shoo-in
+After that the layout had been easy
 Additional Information: 
-('day', 'OF', 'week')
+('layout', 'brick')

@@ -1,7 +1,7 @@
 Original Sentence: 
-Either one likes it or one does n't
+For the prior year deposits exceeded withdrawals by 8.8 billion
 Additional Information: 
-('one', 'tall giraffes standing', 'up')
-('one', 'white')
-('one', 'person', 'skating')
-('one', 'white')
+('year', 'IN', 'left corner')
+('year', 'white')
+('deposit', 'ON', 'game')
+('deposit', 'metal')

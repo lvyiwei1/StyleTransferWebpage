@@ -1,4 +1,5 @@
 Original Sentence: 
-I 've had no problems performing my duties and responsibilities
+These figures are n't seasonally adjusted
 Additional Information: 
-('plane', 'has', 'problem')
+('figure', 'ON', 'clock')
+('figure', 'green')

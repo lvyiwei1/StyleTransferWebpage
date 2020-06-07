@@ -1,7 +1,9 @@
 Original Sentence: 
-They note that stocks experienced volatile swings long before futures
+There are no price wars no competition
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
-('swing', 'has', 'chain')
-('swing', 'wooden')
+('price', 'for', 'apple')
+('price', 'written')
+('war', 'ON', 'sign')
+('war', 'word')
+('crowd', 'watching', 'competition')
+('competition', 'horse')

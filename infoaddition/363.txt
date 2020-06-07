@@ -1,7 +1,5 @@
 Original Sentence: 
-When it comes to money Once bitten 2,000 times shy
+This is a very tenacious ghost Mr. Warren says darkly
 Additional Information: 
-('money', 'ON', 'machine')
-('money', 'paper')
-('time', 'ON', 'panel')
-('time', 'displayed')
+('ghost', 'ON', 'shirt')
+('ghost', 'red')

@@ -1,5 +1,7 @@
 Original Sentence: 
-Peter Pae in Pittsburgh contributed to this article
+Some of the oil interests already have been sold
 Additional Information: 
-('article', 'ON', 'chair')
-('article', 'newspaper')
+('oil', 'ON', 'pavement')
+('oil', 'hot')
+('people', 'showing', 'interest')
+('interest', 'great')

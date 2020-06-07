@@ -1,7 +1,5 @@
 Original Sentence: 
-NORTHERN CALIFORNIA BRACED for earthquake-related traffic jams
+The financial-services industry was battered by the 1987 crash
 Additional Information: 
-('traffic', 'driving on', 'road')
-('traffic', 'heavy')
-('jam', 'in a', 'cup')
-('jam', 'red')
+('crash', 'OF', 'wave')
+('crash', 'white')

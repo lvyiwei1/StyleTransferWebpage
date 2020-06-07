@@ -1,8 +1,6 @@
 Original Sentence: 
-I refer essentially to petroleum electric power banking and newsprint
+DISCIPLINARY PROCEEDINGS against lawyers open to public in Illinois
 Additional Information: 
-('power', 'lines over railroad', 'tracks')
-('power', 'on')
-('mud', 'ON', 'banking')
-('banking', 'grassy')
-('newsprint', 'has', 'words')
+('lawyer', 'showing a', 'paper')
+('public', 'written on', 'sign')
+('public', 'watching')

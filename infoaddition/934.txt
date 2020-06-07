@@ -1,5 +1,9 @@
 Original Sentence: 
-In 1982 he started a factory in Greece
+New telephone lines posted healthy growth
 Additional Information: 
-('factory', 'IN', 'platform')
-('factory', 'large')
+('telephone', 'on', 'wall')
+('telephone', 'black')
+('line', 'ON', 'board')
+('line', 'white')
+('growth', 'IN', 'field')
+('growth', 'green')

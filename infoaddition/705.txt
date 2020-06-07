@@ -1,5 +1,5 @@
 Original Sentence: 
-It now takes something really weird to inspire public outrage
+Those Metropolitan Life ads were bad enough
 Additional Information: 
-('something', 'hanging in', 'window')
-('something', 'red')
+('ad', 'on side of', 'court')
+('ad', 'white')

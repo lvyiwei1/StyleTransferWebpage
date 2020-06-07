@@ -1,5 +1,7 @@
 Original Sentence: 
-But others said pico should proceed
+It also rose last Friday while the stock market sagged
 Additional Information: 
-('others', 'at', 'beach')
-('others', 'three')
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('market', 'IN', 'container')
+('market', 'outdoor')

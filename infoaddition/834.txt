@@ -1,4 +1,7 @@
 Original Sentence: 
-The reason does n't relate to your selling skills
+Retail sales are plummeting while consumer prices still are rising
 Additional Information: 
-('not', 'in mood right nowhold leg in air for no', 'reason')
+('sale', 'at', 'company')
+('sale', 'red')
+('price', 'tag', 'roll')
+('price', 'written')

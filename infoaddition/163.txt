@@ -1,5 +1,5 @@
 Original Sentence: 
-She retains her duties of human-resources director
+Any fool can publish a money-losing magazine
 Additional Information: 
-('vest', 'ON', 'director')
-('director', 'caucasian')
+('magazine', 'IN', 'toilet')
+('magazine', 'open')

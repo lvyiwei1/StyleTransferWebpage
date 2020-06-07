@@ -1,7 +1,5 @@
 Original Sentence: 
-In the past two years the stock almost stalled out
+Not all those who wrote oppose the changes
 Additional Information: 
-('year', 'ON', 'building')
-('year', 'white')
-('stock', 'of', 'stock')
-('stock', 'green')
+('change', 'ON', 'red')
+('change', 'loose')

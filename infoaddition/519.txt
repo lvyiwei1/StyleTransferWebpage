@@ -1,5 +1,8 @@
 Original Sentence: 
-One cell was teased out and its DNA extracted
+Aldus Seattle makes computer software products
 Additional Information: 
-('cell', 'on a', 'box')
-('cell', 'black')
+('computer', 'ON', 'woman')
+('computer', 'laptop')
+('software', 'blue')
+('product', 'IN', 'box')
+('product', 'bathroom')

@@ -1,5 +1,5 @@
 Original Sentence: 
-This time We do n't have that at all
+They said the price would be around 10 million
 Additional Information: 
-('time', 'on', 'stove')
-('time', 'displayed')
+('price', 'ON', 'sign')
+('price', 'written')

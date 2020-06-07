@@ -1,0 +1,3 @@
+Original Sentence: 
+In Chicago grain and soybean prices rose slightly
+Emphasize: rose

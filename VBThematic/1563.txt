@@ -1,0 +1,3 @@
+Original Sentence: 
+He earned a master 's degree in architecture from Yale
+Emphasize: earned

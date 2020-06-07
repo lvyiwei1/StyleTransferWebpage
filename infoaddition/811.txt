@@ -1,9 +1,7 @@
 Original Sentence: 
-The interviews took place two years ago
+Ohbayashi is Japan 's second largest construction company
 Additional Information: 
-('interview', 'IN', 'background')
-('interview', 'media')
-('place', 'at', 'table')
-('place', 'full')
-('year', 'IN', 'corner')
-('year', 'white')
+('construction', 'ON', 'building')
+('construction', 'gate')
+('company', 'at', 'bottom')
+('company', 'name')

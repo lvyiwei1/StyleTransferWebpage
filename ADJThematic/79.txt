@@ -1,0 +1,3 @@
+Original Sentence: 
+The dollar was mixed
+Emphasize: mixed

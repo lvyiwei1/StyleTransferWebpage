@@ -1,7 +1,7 @@
 Original Sentence: 
-And the local expression for brother is brah not bruddah
+Police detained more than 350 people
 Additional Information: 
-('expression', 'ON', 'face')
-('expression', 'serious')
-('brother', 'ON', 'bench')
-('brother', 'playing')
+('police', 'ON', 'windscreen')
+('police', 'riding')
+('people', 'are enjoying', 'outdoors')
+('people', 'standing')

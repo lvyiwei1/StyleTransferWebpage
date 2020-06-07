@@ -1,6 +1,4 @@
 Original Sentence: 
-Most investment-grade bonds fell 3\/8 to 1\/2 point
+Neither testified at the previous trials
 Additional Information: 
-('bond', 'black ')
-('point', 'OF', 'scissors')
-('point', 'sharp')
+('snow', 'has', 'trial')

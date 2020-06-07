@@ -1,5 +1,7 @@
 Original Sentence: 
-Not a lot was needed to be done
+There are a lot of them and they have property
 Additional Information: 
-('lot', 'with a', 'fence')
+('lot', 'made of', 'grey brick pavers')
 ('lot', 'parking')
+('property', 'has', 'ditch')
+('property', 'waterfront')

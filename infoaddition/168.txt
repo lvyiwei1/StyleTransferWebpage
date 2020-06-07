@@ -1,5 +1,4 @@
 Original Sentence: 
-Every witness receives a formal subpoena Rep. Gonzalez told him
+This leads to a very special sense of urgency
 Additional Information: 
-('boy', 'has', 'witness')
-('witness', 'black')
+('phrase', 'makes no', 'sense')

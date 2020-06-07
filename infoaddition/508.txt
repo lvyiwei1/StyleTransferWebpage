@@ -1,9 +1,9 @@
 Original Sentence: 
-Company with 1,750 workers in area is fully functional
+What market makers provide is immediacy a very valuable service
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
-('worker', 'ON', 'tarmac')
-('worker', 'construction')
-('area', 'has', 'leaves')
-('area', 'grassy')
+('market', 'has', 'oranges')
+('market', 'outdoor')
+('maker', 'on', 'surface')
+('maker', 'coffee')
+('service', 'ON', 'sign')
+('service', 'gone')

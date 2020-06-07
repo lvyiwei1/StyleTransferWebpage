@@ -1,5 +1,5 @@
 Original Sentence: 
-It invests primarily in tax-exempt municipal securities
+Lloyd 's is moving forward on some fronts though
 Additional Information: 
-('security', 'over', 'doors')
-('security', 'standing')
+('front', 'OF', 'airplane')
+('front', 'yellow')

@@ -1,0 +1,5 @@
+Original Sentence: 
+Other RJR securities also closed higher
+Additional Information: 
+('security', 'ON', 'wall')
+('security', 'standing')

@@ -1,7 +1,5 @@
 Original Sentence: 
-South African gold stocks closed moderately lower
+Some economists found the mixture ominous
 Additional Information: 
-('gold', 'and', 'silver')
-('gold', 'brown')
-('stock', 'of', 'stock')
-('stock', 'green')
+('mixture', 'IN', 'compartment')
+('mixture', 'pink')

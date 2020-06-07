@@ -1,7 +1,6 @@
 Original Sentence: 
-But most investors were seeking share prices and other information
+Advertisers are showing interest
 Additional Information: 
-('price', 'ON', 'book')
-('price', 'written')
-('information', 'ON', 'sticker')
-('information', 'yellow')
+('advertiser', 'ON', 'train')
+('people', 'showing', 'interest')
+('interest', 'great')

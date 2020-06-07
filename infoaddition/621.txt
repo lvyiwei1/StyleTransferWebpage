@@ -1,5 +1,9 @@
 Original Sentence: 
-Many investors certainly believe a bidding war is imminent
+They currently have large orders for cargo planes
 Additional Information: 
-('war', 'ON', 'sign')
-('war', 'word')
+('order', 'OF', 'french fries')
+('order', 'ready')
+('cargo', 'ON', 'ground')
+('cargo', 'white')
+('plane', 'ON', 'runway')
+('plane', 'white')

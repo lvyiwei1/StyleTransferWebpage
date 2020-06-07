@@ -1,9 +1,5 @@
 Original Sentence: 
-The attention span of the public is short he said
+This is a very personal ethnic style Mr. Carew says
 Additional Information: 
-('people', 'paying', 'attention')
-('attention', 'close')
-('span', 'on back of', 'jersey')
-('span', 'curved')
-('public', 'standing in', 'side')
-('public', 'watching')
+('style', 'ON', 'ceiling')
+('style', 'old')

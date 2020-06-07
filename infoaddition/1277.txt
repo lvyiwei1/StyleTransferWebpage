@@ -1,5 +1,7 @@
 Original Sentence: 
-Our commitment to manage these businesses profitably will continue
+This means the returns can vary a great deal
 Additional Information: 
-('business', 'has', 'entrance')
-('business', 'here')
+('return', 'ON', 'street')
+('return', 'black')
+('deal', 'OF', 'bananas')
+('deal', 'great')

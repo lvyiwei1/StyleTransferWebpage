@@ -1,9 +1,4 @@
 Original Sentence: 
-Flight Attendants Lag Before Jets Even Land
+Expects to be fully operational early next week
 Additional Information: 
-('flight', 'on a', 'pavement')
-('flight', 'of metal stairs')
-('attendant', 'talking to', 'visitor')
-('attendant', 'assisting')
-('jet', 'has', 'wing')
-('jet', 'white')
+('day', 'OF', 'week')

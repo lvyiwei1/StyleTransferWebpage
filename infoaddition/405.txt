@@ -1,4 +1,5 @@
 Original Sentence: 
-Investors welcomed the move
+Completion of the project is expected by mid-1992
 Additional Information: 
-('mechanism', 'makes it', 'move')
+('sidewalk', 'among', 'project')
+('project', 'sewing')

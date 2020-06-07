@@ -1,9 +1,9 @@
 Original Sentence: 
-Grain milk and meat come next
+Flight Attendants Lag Before Jets Even Land
 Additional Information: 
-('grain', 'of a', 'table')
-('grain', 'wood')
-('milk', 'IN', 'bowl')
-('milk', 'white')
-('meat', 'ON', 'plate')
-('meat', 'brown')
+('flight', 'of', 'stairs')
+('flight', 'of metal stairs')
+('attendant', 'talking to', 'visitor')
+('attendant', 'assisting')
+('jet', 'about to', 'land')
+('jet', 'white')

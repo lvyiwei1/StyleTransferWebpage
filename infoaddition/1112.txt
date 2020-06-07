@@ -1,5 +1,4 @@
 Original Sentence: 
-He would not reveal which magazines he is considering
+London shares closed moderately lower in thin trading
 Additional Information: 
-('magazine', 'has', 'writing')
-('magazine', 'open')
+('red t', 'IN', 'trading')

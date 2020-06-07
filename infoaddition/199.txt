@@ -1,5 +1,5 @@
 Original Sentence: 
-Accepted bids ranged from 8.38 % to 8.395 %
+Winners outnumbered losers 645-293 with 186 issues unchanged
 Additional Information: 
-('bid', 'ON', 'sheet')
-('bid', 'metal')
+('winner', 'standing on', 'box')
+('winner', '2nd place')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Here 's a look at some of the alternatives
+But he 's not so sure about everyone else
 Additional Information: 
-('look', 'painted on', 'street')
-('look', 'concentration')
+('everyone', 'ON', 'motorcycle')
+('everyone', 'smiling')

@@ -1,0 +1,3 @@
+Original Sentence: 
+In the experiment mice with the defective gene were mated
+Emphasize: defective

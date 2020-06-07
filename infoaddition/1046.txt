@@ -1,5 +1,4 @@
 Original Sentence: 
-Per-share net rose to 55.10 yen from 54.51 yen
+It Tuesday 's quake has n't solved our problem
 Additional Information: 
-('net', 'ON', 'tennis court')
-('net', 'black')
+('plane', 'has', 'problem')

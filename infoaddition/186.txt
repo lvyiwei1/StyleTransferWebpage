@@ -1,5 +1,4 @@
 Original Sentence: 
-People are n't panicking
+But he warned the currency will remain at risk
 Additional Information: 
-('people', 'ON', 'bikes')
-('people', 'standing')
+('currency', 'by', 'luggage')

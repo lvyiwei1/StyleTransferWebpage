@@ -1,7 +1,7 @@
 Original Sentence: 
-Casino revenues and hotel occupancy rates are high
+Major European auction houses are turning increasingly to specialized sales
 Additional Information: 
-('casino', 'IN', 'las vegas')
-('casino', 'bright')
-('hotel', 'has', 'courtyard')
-('hotel', 'large')
+('house', 'IN', 'neighborhood')
+('house', 'white')
+('sale', 'at', 'company')
+('sale', 'red')

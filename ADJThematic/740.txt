@@ -1,0 +1,3 @@
+Original Sentence: 
+The close was the highest since August 3
+Emphasize: highest

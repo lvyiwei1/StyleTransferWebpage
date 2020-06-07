@@ -1,5 +1,6 @@
 Original Sentence: 
-Advancing issues beat declining ones 1,271 to 811
+But that 's not the only problem for stocks
 Additional Information: 
-('one', 'blade of dried brown', 'grass')
-('one', 'white')
+('plane', 'has', 'problem')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

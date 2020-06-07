@@ -1,4 +1,6 @@
 Original Sentence: 
-Terms of the transaction were n't disclosed
+Results for the earlier quarter included a 100,000 restructuring charge
 Additional Information: 
-('term', 'house of david')
+('quarter', 'of a', 'pizza')
+('quarter', 'silver')
+('charge', 'can', 'charge')

@@ -1,6 +1,4 @@
 Original Sentence: 
-Bond prices crept higher
+MiniScribe also has n't filed any financial statements for 1989
 Additional Information: 
-('bond', 'black ')
-('price', 'listed on', 'banner')
-('price', 'written')
+('statement', 'credit')

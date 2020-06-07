@@ -1,5 +1,5 @@
 Original Sentence: 
-Mr. Ehrlich will continue as a director and a consultant
+Three gambling casinos have opened in Poland
 Additional Information: 
-('vest', 'ON', 'director')
-('director', 'caucasian')
+('casino', 'in a', 'casino')
+('casino', 'bright')

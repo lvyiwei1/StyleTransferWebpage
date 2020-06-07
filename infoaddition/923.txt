@@ -1,4 +1,7 @@
 Original Sentence: 
-It matches her voice
+Pockets exploded with one-yen coins
 Additional Information: 
-('voice', 'written', 'on it')
+('pocket', 'ON', 'cargo pants')
+('pocket', 'white')
+('coin', 'lying in', 'collection')
+('coin', 'gold')

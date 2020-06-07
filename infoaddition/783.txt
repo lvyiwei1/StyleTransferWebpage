@@ -1,5 +1,5 @@
 Original Sentence: 
-It all adds up to a cold winter here
+But retail energy prices declined 0.9 % in September
 Additional Information: 
-('winter', 'wearing a gray', 'coat')
-('winter', 'season')
+('price', 'for', 'bananas')
+('price', 'written')

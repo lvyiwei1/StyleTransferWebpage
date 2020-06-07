@@ -1,5 +1,5 @@
 Original Sentence: 
-Estimated volume was a moderate 3.5 million ounces
+It 's a real dog
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
+('dog', 'has', 'ear')
+('dog', 'white')

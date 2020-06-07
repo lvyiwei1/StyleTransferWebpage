@@ -1,5 +1,7 @@
 Original Sentence: 
-He also says he is losing money now
+That is gilding the lily
 Additional Information: 
-('money', 'hanging out of', 'briefcase')
-('money', 'paper')
+('gilding', 'around', 'clock')
+('gilding', 'gold')
+('lily', 'IN', 'vase')
+('lily', 'white')

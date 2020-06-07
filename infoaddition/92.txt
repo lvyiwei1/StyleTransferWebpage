@@ -1,5 +1,5 @@
 Original Sentence: 
-Corporate planners can plan again
+The dollar was mixed
 Additional Information: 
-('planner', 'on top of', 'table')
-('planner', 'black')
+('dollar', 'ON', 'table')
+('dollar', 'twenty')

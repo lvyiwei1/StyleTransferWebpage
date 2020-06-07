@@ -1,5 +1,5 @@
 Original Sentence: 
-It could do damage to us
+Their problem is one of inefficiency of an industrial economy
 Additional Information: 
-('damage', 'ON', 'wall')
-('damage', 'moisture')
+('plane', 'has', 'problem')
+('economy', 'ON', 'train')

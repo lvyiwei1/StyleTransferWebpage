@@ -1,5 +1,5 @@
 Original Sentence: 
-It Helps to Be Male
+He does n't just walk off the mound and weep
 Additional Information: 
-('male', 'ON', 'pike edge')
-('male', 'white')
+('mound', 'ON', 'field')
+('mound', 'dirt')

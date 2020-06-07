@@ -1,0 +1,3 @@
+Original Sentence: 
+We are having a regular day
+Emphasize: regular

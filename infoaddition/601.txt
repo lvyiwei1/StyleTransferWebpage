@@ -1,4 +1,4 @@
 Original Sentence: 
-The fares are code-named Hugo Compassion and Virgin Islands Aid
+Amgen rose 1 1\/2 to 50 3\/4 in heavy trading
 Additional Information: 
-('sign', 'saying', 'fare')
+('red t', 'IN', 'trading')

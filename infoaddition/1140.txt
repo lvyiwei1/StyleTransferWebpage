@@ -1,6 +1,5 @@
 Original Sentence: 
-Now it has especially for people my age
+The 833.6 million figures includes the new acquisitions
 Additional Information: 
-('people', 'WEARING', 'white shirt')
-('people', 'standing')
-('wine', 'has', 'age')
+('figure', 'ON', 'cake')
+('figure', 'green')

@@ -1,4 +1,7 @@
 Original Sentence: 
-Terms were n't disclosed
+That is the way the system works
 Additional Information: 
-('term', 'house of david')
+('way', 'to', 'house')
+('way', 'walk')
+('system', 'under', 'train')
+('system', 'black')

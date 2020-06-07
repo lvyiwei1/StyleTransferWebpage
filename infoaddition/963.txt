@@ -1,5 +1,5 @@
 Original Sentence: 
-Under what weights will the Federal Deposit Insurance Corporation totter
+Mr. Morishita considers himself a connoisseur of art
 Additional Information: 
-('weight', 'ON', 'bat')
-('weight', 'limbs')
+('art', 'drawn on', 'wall')
+('art', 'framed')

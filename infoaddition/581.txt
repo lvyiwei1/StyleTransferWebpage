@@ -1,6 +1,5 @@
 Original Sentence: 
-Long-term bonds have performed erratically this year
+And for every champion there are plenty of nags
 Additional Information: 
-('bond', 'black ')
-('year', 'ON', 'bench')
-('year', 'white')
+('sweatshirt', 'with', 'champion')
+('champion', 'sports')

@@ -1,5 +1,10 @@
 Original Sentence: 
-Sales rose 9 % to 7.54 billion from 6.95 billion
+Next year may see a drop of one percentage point
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('year', 'ON', 'building')
+('year', 'white')
+('drop', 'ON', 'plate')
+('drop', 'water')
+('coupon', 'has', 'percentage')
+('point', 'mounted on', 'tower')
+('point', 'sharp')

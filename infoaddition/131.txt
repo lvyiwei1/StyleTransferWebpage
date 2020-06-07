@@ -1,7 +1,8 @@
 Original Sentence: 
-The CFTC has 90 days to respond to such applications
+American Express card charge volume rose 12 %
 Additional Information: 
-('day', 'IN', 'park')
-('day', 'sunny')
-('application', 'on a', 'cellphone')
-('application', 'loaded')
+('card', 'on', 'tabletop')
+('card', 'white')
+('charge', 'can', 'charge')
+('volume', 'ON', 'headphones')
+('volume', '3')

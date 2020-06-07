@@ -1,5 +1,6 @@
 Original Sentence: 
-Was not the title very clear
+Los Angeles Creates A Courthouse for Kids
 Additional Information: 
-('title', 'of a', 'book')
-('title', 'movie')
+('building', 'on side of', 'courthouse')
+('kid', 'WEARING', 'shirt')
+('kid', 'little')

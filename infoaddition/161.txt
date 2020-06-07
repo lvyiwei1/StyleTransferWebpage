@@ -1,5 +1,7 @@
 Original Sentence: 
-But the shortages also spawned rampant speculation and spiraling prices
+But junk bonds took more hits
 Additional Information: 
-('price', 'tag', 'roll')
-('price', 'written')
+('junk', 'IN', 'picture')
+('junk', 'lots')
+('bond', 'black ')
+('batter', 'readyto', 'hit')

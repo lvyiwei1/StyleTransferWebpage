@@ -1,4 +1,4 @@
 Original Sentence: 
-The U.S.-Japan Security Treaty can continue sort of
+Other terms to be fixed Nov. 1
 Additional Information: 
-('sort', 'OF', 'tracks')
+('term', 'house of david')

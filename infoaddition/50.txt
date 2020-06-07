@@ -1,8 +1,4 @@
 Original Sentence: 
-The secretary is the world 's biggest borrower of money
+I 'm pretty confident I 'm catching everything he says
 Additional Information: 
-('book', 'ON', 'secretary')
-('secretary', 'wood')
-('world', 'ON', 'cover')
-('money', 'ON', 'table')
-('money', 'paper')
+('leafy bushes', 'below', 'everything')

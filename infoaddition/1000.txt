@@ -1,6 +1,5 @@
 Original Sentence: 
-As a critique of middle-class mores the story is heavy-handed
+Nasdaq 's gain was led by its biggest industrial stocks
 Additional Information: 
-('more', 'OF', 'floor')
-('story', 'belonging to', 'building')
-('story', 'second')
+('stock', 'ON', 'engine')
+('stock', 'green')

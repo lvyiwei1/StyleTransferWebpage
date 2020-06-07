@@ -1,5 +1,5 @@
 Original Sentence: 
-Some current rates exceed those on CDs
+I 'm done in two minutes
 Additional Information: 
-('cd', 'ON', 'table')
-('cd', 'silver')
+('minute', 'hand on', 'clock')
+('minute', 'black')

@@ -1,0 +1,3 @@
+Original Sentence: 
+Revenue fell 3 % to 105.2 million from 108.4 million
+Emphasize: fell

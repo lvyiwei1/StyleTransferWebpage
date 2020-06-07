@@ -1,7 +1,5 @@
 Original Sentence: 
-Few telephone lines snapped
+The bank has a negative net worth they say
 Additional Information: 
-('telephone', 'near', 'laptop')
-('telephone', 'black')
-('line', 'IN', 'highway')
-('line', 'white')
+('bank', 'has', 'snow')
+('bank', 'grassy')

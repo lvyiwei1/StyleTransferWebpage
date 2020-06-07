@@ -1,0 +1,3 @@
+Original Sentence: 
+The December contract rose 1.50 cents a pound to 1.2795
+Emphasize: rose

@@ -1,5 +1,5 @@
 Original Sentence: 
-Hotel-casino operators play down the possibility of a labor shortage
+The company estimates its total debt at about 5.2 billion
 Additional Information: 
-('operator', 'sitting', 'shed')
-('operator', 'Lift ')
+('company', 'has', 'label')
+('company', 'name')

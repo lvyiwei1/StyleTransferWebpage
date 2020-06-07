@@ -1,5 +1,5 @@
 Original Sentence: 
-It 's a horrible machine actually
+In this case that 's about 250,000
 Additional Information: 
-('machine', 'operating', 'bar')
-('machine', 'white')
+('case', 'has', 'lettering')
+('case', 'black')

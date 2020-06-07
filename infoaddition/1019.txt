@@ -1,7 +1,8 @@
 Original Sentence: 
-That is the state of Japan 's computer industry
+And black-and-white photography classes are crowded with students
 Additional Information: 
-('state', 'ON', 'hood')
-('state', 'Penn ')
-('computer', 'has', 'chair')
-('computer', 'laptop')
+('photography', 'has', 'copyright')
+('photography', 'cursive')
+('class', 'OF', 'kids')
+('student', 'with a', 'cell phone')
+('student', 'ethnic')

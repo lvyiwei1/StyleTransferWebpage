@@ -1,7 +1,5 @@
 Original Sentence: 
-Long-term CDs declined just a fraction
+Yesterday it provided the details
 Additional Information: 
-('cd', 'IN', 'cd stand')
-('cd', 'silver')
-('fraction', 'ON', 'border')
-('fraction', 'here')
+('detail', 'over', 'door')
+('detail', 'red')

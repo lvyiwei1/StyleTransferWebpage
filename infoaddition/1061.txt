@@ -1,5 +1,5 @@
 Original Sentence: 
-In July unfilled orders grew 1 %
+Read my lips said Mr. Smith
 Additional Information: 
-('order', 'containing', 'fries')
-('order', 'ready')
+('lip', 'of a', 'giraffe')
+('lip', 'pink')

@@ -1,6 +1,6 @@
 Original Sentence: 
-Stock prices rallied in active trading
+It was a busy week for OTC stocks
 Additional Information: 
-('price', 'tag', 'roll')
-('price', 'written')
-('red t', 'IN', 'trading')
+('day', 'OF', 'week')
+('stock', 'ON', 'engine')
+('stock', 'green')

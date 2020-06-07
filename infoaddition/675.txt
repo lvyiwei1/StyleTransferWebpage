@@ -1,8 +1,5 @@
 Original Sentence: 
-The rest were withdrawn for lack of acceptable bids
+Now the assault is on said one top trader
 Additional Information: 
-('rest', 'ON', 'bench')
-('rest', 'arm')
-('lack', 'in front', 'hills')
-('bid', 'ON', 'sheet')
-('bid', 'metal')
+('top', 'OF', 'vehicle')
+('top', 'white')

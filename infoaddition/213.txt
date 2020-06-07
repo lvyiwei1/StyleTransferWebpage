@@ -1,4 +1,5 @@
 Original Sentence: 
-This limits his financial exposure he says
+But funds generally are better prepared this time around
 Additional Information: 
-('exposure', 'translucent')
+('time', 'ON', 'microwave')
+('time', 'displayed')

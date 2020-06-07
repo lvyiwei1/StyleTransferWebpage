@@ -1,7 +1,5 @@
 Original Sentence: 
-Ashland expects that sale to be complete next year
+The offering used at-market pricing
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
-('year', 'ON', 'sign')
-('year', 'white')
+('sign', 'has', 'pricing')
+('pricing', 'hand written')

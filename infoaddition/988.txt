@@ -1,6 +1,6 @@
 Original Sentence: 
-A Rake 's Progress Means Branching Out
+The rest as they say is history
 Additional Information: 
-('rake', 'near', 'tree')
-('rake', 'red')
-('a', 'baseball game in', 'progress')
+('rest', 'ON', 'couch')
+('rest', 'arm')
+('the', 'word', 'history')

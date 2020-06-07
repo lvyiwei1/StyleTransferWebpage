@@ -1,5 +1,5 @@
 Original Sentence: 
-The thrift announced the plan Aug. 21
+Other scandal survivors are sometimes the best source of solace
 Additional Information: 
-('plan', 'ON', 'ground')
-('plan', 'air')
+('source', 'OF', 'water')
+('source', 'blue')

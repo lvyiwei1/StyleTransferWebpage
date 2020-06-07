@@ -1,4 +1,7 @@
 Original Sentence: 
-The Senate did n't vote on six lesser charges
+Analysts and competitors however doubt the numbers were that high
 Additional Information: 
-('charge', 'can', 'charge')
+('competitor', 'number', '693')
+('competitor', 'here')
+('number', 'ON', 'sign')
+('number', 'black')

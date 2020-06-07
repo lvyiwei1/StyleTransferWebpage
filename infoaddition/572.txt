@@ -1,7 +1,7 @@
 Original Sentence: 
-I 'm talking about landing in a canal
+Farmers lay down before the bulldozers
 Additional Information: 
-('landing', 'of an', 'aircraft')
-('landing', 'gear')
-('canal', 'between', 'buildings')
-('canal', 'calm')
+('farmer', 'driving', 'tractor')
+('farmer', 'holding')
+('bulldozer', 'being', 'bumper')
+('bulldozer', 'yellow')

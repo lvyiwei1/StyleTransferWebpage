@@ -1,6 +1,6 @@
 Original Sentence: 
-Prices on the Frankfurt Stock Exchange tumbled in heavy trading
+But for photofinishers developing costs for black-and-white film are higher
 Additional Information: 
-('price', 'for', 'peppers')
-('price', 'written')
-('red t', 'IN', 'trading')
+('cost', 'displayed in front of', 'banana')
+('film', 'has', 'surfers')
+('film', 'black')

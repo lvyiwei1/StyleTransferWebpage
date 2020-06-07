@@ -1,0 +1,3 @@
+Original Sentence: 
+The stock was trading at 69 just two weeks ago
+Emphasize: trading

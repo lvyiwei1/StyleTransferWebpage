@@ -1,8 +1,5 @@
 Original Sentence: 
-Only the bravest spirits survive such roller coasters
+Letting officials express their own nuances can be educational
 Additional Information: 
-('spirit', 'of st lou', 'decal')
-('roller', 'OF', 'skateboard')
-('roller', 'black')
-('coaster', 'under a', 'glass')
-('coaster', 'white')
+('official', 'IN', 'ring')
+('official', 'tennis')

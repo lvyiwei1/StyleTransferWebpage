@@ -1,5 +1,5 @@
 Original Sentence: 
-Among other blue chips Exxon gained 1\/8 to 45 1\/2
+The cafeteria remains closed
 Additional Information: 
-('chip', 'IN', 'paint')
-('chip', 'chocolate')
+('cafeteria', 'filled with', 'girl')
+('cafeteria', 'in school')

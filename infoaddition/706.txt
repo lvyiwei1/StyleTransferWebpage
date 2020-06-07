@@ -1,5 +1,5 @@
 Original Sentence: 
-Contract details however have n't been made public
+Their powerful members manage them
 Additional Information: 
-('detail', 'IN', 'building')
-('detail', 'red')
+('member', 'watching', 'game')
+('member', 'several')

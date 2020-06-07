@@ -1,5 +1,7 @@
 Original Sentence: 
-Known as Easy Eggs the product has disappointed investors
+Interest rates barely budged from Tuesday 's levels
 Additional Information: 
-('product', 'IN', 'box')
-('product', 'bathroom')
+('people', 'showing', 'interest')
+('interest', 'great')
+('level', 'has', 'light')
+('level', 'upper')

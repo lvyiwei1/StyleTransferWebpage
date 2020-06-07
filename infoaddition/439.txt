@@ -1,5 +1,5 @@
 Original Sentence: 
-Professional Crisco products are specially made for the foodservice industry
+Firms Walk Fine Line In Distributing Profits
 Additional Information: 
-('product', 'behind', 'toilet')
-('product', 'bathroom')
+('line', 'ON', 'vest')
+('line', 'white')

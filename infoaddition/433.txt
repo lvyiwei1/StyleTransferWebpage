@@ -1,8 +1,5 @@
 Original Sentence: 
-The laws take effect next month
+No non-competitive tenders will be accepted
 Additional Information: 
-('drivers', 'are obeying', 'law')
-('effect', 'ON', 'clock tower')
-('effect', 'yellow')
-('month', 'around', 'face')
-('month', 'ninth')
+('letters', 'ON', 'tender')
+('tender', 'elephant')

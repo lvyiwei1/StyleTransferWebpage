@@ -1,0 +1,3 @@
+Original Sentence: 
+He 's the director of the local Planned Parenthood chapter
+Emphasize: local

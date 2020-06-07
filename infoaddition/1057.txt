@@ -1,7 +1,5 @@
 Original Sentence: 
-We do n't just hand the customer the package
+Introducing pool argued Councilwoman Riley Reinker would be dangerous
 Additional Information: 
-('customer', 'IN', 'coffee shop')
-('customer', 'waiting')
-('package', 'IN', 'hand')
-('package', 'white')
+('pool', 'OF', 'water')
+('pool', 'blue')

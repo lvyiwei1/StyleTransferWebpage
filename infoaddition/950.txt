@@ -1,6 +1,5 @@
 Original Sentence: 
-The action will establish a two-tier exchange rate
+I do n't like the sound of that
 Additional Information: 
-('action', 'IN', 'action')
-('action', 'MLB')
-('two women', 'make', 'exchange')
+('button', 'for', 'sound')
+('sound', 'button')

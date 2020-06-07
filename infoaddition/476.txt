@@ -1,5 +1,5 @@
 Original Sentence: 
-The metaphor of theater is not entirely coincidental
+The gene thus can prevent a plant from fertilizing itself
 Additional Information: 
-('theater', 'has', 'ceiling')
-('theater', 'movie ')
+('plant', 'growing next to', 'zebra')
+('plant', 'green')

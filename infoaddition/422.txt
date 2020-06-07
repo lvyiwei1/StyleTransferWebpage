@@ -1,5 +1,5 @@
 Original Sentence: 
-Estimated volume was three million ounces
+The issue includes 100 million of insured senior lien bonds
 Additional Information: 
-('volume', 'ON', 'keyboard')
-('volume', '3')
+('lien', 'part')
+('bond', 'black ')

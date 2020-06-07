@@ -1,5 +1,4 @@
 Original Sentence: 
-The reality is that Bank finances are rock solid
+She was in her most radiant expressive voice
 Additional Information: 
-('rock', 'above', 'water')
-('rock', 'large')
+('voice', 'written', 'on it')

@@ -1,0 +1,3 @@
+Original Sentence: 
+The move is likely to anger traders
+Emphasize: likely

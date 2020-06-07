@@ -1,6 +1,5 @@
 Original Sentence: 
-This hurts the price of corporate bonds
+Subsequent margins set by agreement between NatWest and Merrill
 Additional Information: 
-('price', 'ON', 'advertisement')
-('price', 'written')
-('bond', 'black ')
+('margin', 'separating', 'photo')
+('margin', 'thick')

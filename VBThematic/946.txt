@@ -1,0 +1,3 @@
+Original Sentence: 
+BankAmerica 's profit jumped 34 % in the third quarter
+Emphasize: jumped

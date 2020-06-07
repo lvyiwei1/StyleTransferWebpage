@@ -1,5 +1,6 @@
 Original Sentence: 
-I think it was a little premature on their part
+There is n't a black worker in sight
 Additional Information: 
-('part', 'of a', 'part')
-('part', 'small')
+('worker', 'makes', 'food')
+('worker', 'construction')
+('eyeglasses', 'for', 'sight')

@@ -1,4 +1,5 @@
 Original Sentence: 
-It is E-Z listening for the now generation
+Some state middlemen come to buy from me
 Additional Information: 
-('bear ears', 'perked up and', 'listening')
+('state', 'ON', 'hood')
+('state', 'Penn ')

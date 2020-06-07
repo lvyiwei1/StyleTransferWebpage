@@ -1,5 +1,5 @@
 Original Sentence: 
-The executive branch bears the first responsibility for timidity
+The index gained 527.39 Tuesday
 Additional Information: 
-('branch', 'ON', 'tree')
-('branch', 'brown')
+('index', 'finger', 'cutting donut')
+('index', 'is a finger')

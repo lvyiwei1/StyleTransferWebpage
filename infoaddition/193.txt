@@ -1,5 +1,5 @@
 Original Sentence: 
-Analysts predict the sales impact will linger
+Previously it had proposed seven years of 5.5 % increases
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('year', 'ON', 'side')
+('year', 'white')

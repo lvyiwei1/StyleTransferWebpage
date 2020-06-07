@@ -1,4 +1,5 @@
 Original Sentence: 
-Nobody has any credible estimate
+Quest for Fire was the first time
 Additional Information: 
-('nobody', 'on top of', 'skateboard')
+('time', 'ON', 'clock')
+('time', 'displayed')

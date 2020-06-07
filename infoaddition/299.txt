@@ -1,6 +1,9 @@
 Original Sentence: 
-He visits the same department every two or three weeks
+They lost the entertainment crown and they needed one
 Additional Information: 
-('horse', 'used', 'department')
-('department', 'British police ')
-('day', 'OF', 'week')
+('center', 'for', 'entertainment')
+('entertainment', 'light brown entertainment ')
+('crown', 'drawn on', 'tower')
+('crown', 'blue')
+('one', 'blue and white wing on', 'bird')
+('one', 'white')

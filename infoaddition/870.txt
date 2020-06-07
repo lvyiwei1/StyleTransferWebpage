@@ -1,7 +1,7 @@
 Original Sentence: 
-This pattern was particularly evident among more highly educated couples
+Suddenly after about 45 minutes the U.S. markets rallied
 Additional Information: 
-('pattern', 'on', 'bed')
-('pattern', 'white')
-('couple', 'walking in', 'muck')
-('couple', 'walking')
+('minute', 'hand on', 'clock')
+('minute', 'black')
+('market', 'ON', 'sidewalk')
+('market', 'outdoor')

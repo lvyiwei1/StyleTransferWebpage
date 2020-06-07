@@ -1,5 +1,4 @@
 Original Sentence: 
-The dollar also declined
+This is panic buying
 Additional Information: 
-('dollar', 'IN', 'hand')
-('dollar', 'twenty')
+('panic', 'gold')

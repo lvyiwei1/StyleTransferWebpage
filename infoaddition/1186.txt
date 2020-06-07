@@ -1,5 +1,7 @@
 Original Sentence: 
-No major booms no major setbacks he predicts
+Foreign traders say the company is strapped for cash
 Additional Information: 
-('boom', 'over', 'train yard')
-('boom', 'large')
+('company', 'ON', 'building')
+('company', 'name')
+('cash', 'inside', 'purse')
+('cash', 'Two round pieces  ')

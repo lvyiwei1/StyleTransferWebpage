@@ -1,6 +1,5 @@
 Original Sentence: 
-Geeks by at least one definition are chicken-mutilating circus freaks
+John R. Wilke contribued to this article
 Additional Information: 
-('geek', 'red')
-('circus', 'using', 'posts')
-('circus', 'illuminated')
+('article', 'IN', 'magazine')
+('article', 'newspaper')

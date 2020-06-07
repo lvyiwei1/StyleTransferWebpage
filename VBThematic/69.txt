@@ -1,0 +1,3 @@
+Original Sentence: 
+But it will slow production
+Emphasize: slow

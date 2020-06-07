@@ -1,0 +1,3 @@
+Original Sentence: 
+The painting is 10 feet wide seven feet high
+Emphasize: high

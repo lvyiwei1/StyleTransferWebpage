@@ -1,9 +1,5 @@
 Original Sentence: 
-No one wants stock on their books
+Sales fell 20 % to 3.7 billion from 4.6 billion
 Additional Information: 
-('one', 'tall giraffes standing', 'up')
-('one', 'white')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('book', 'ON', 'shelf')
-('book', 'white')
+('sale', 'at', 'company')
+('sale', 'red')

@@ -1,0 +1,3 @@
+Original Sentence: 
+The mayor said the Quayle visit was a publicity stunt
+Emphasize: said

@@ -1,5 +1,7 @@
 Original Sentence: 
-Friday you could n't sell dollars he says
+The second time he says they left the shovel
 Additional Information: 
-('dollar', 'ON', 'table')
-('dollar', 'twenty')
+('time', 'ON', 'clock')
+('time', 'displayed')
+('shovel', 'IN', 'snow')
+('shovel', 'metal')

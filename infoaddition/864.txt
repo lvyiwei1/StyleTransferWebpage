@@ -1,5 +1,5 @@
 Original Sentence: 
-You hate to do it because he 's your father
+The December contract fell 3.85 cents a pound to 1.1960
 Additional Information: 
-('father', 'watching', 'son')
-('father', 'smiling')
+('pound', 'has a', 'ten')
+('pound', 'here')

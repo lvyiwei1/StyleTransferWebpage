@@ -1,4 +1,7 @@
 Original Sentence: 
-And his outlook improved after successful cataract surgery in August
+Offices of the city 's Rent Board were destroyed
 Additional Information: 
-('outlook', 'ON', 'building')
+('office', 'with', 'computers')
+('office', 'small')
+('city', 'standing', 'plane')
+('city', 'large')

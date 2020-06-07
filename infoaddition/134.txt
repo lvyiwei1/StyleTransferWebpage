@@ -1,9 +1,8 @@
 Original Sentence: 
-The scars will be here years after the polls close
+The zero-coupon subordinated notes have no periodic interest payments
 Additional Information: 
-('scar', 'ON', 'apple')
-('scar', 'of old limbs')
-('year', 'ON', 'guard')
-('year', 'white')
-('poll', 'ON', 'cake')
-('poll', 'white')
+('note', 'IN', 'bowl')
+('note', 'yellow')
+('people', 'showing', 'interest')
+('interest', 'great')
+('payment', 'for', 'produce')

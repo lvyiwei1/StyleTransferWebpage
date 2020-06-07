@@ -1,5 +1,4 @@
 Original Sentence: 
-And he added that manufactured goods exports are still rising
+Deciding what constitutes terrorism can be a legalistic exercise
 Additional Information: 
-('good', 'sold in', 'shop')
-('good', 'baked')
+('guy', 'getting', 'exercise')

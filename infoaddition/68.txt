@@ -1,5 +1,5 @@
 Original Sentence: 
-Periodically there are threats that the program will fold
+The earnings drop had been expected
 Additional Information: 
-('program', 'On screen', 'laptop computer')
-('program', 'wedding')
+('drop', 'ON', 'window')
+('drop', 'water')

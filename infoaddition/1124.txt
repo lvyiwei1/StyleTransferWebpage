@@ -1,5 +1,5 @@
 Original Sentence: 
-Okay now you can pick up that phone
+Now because of various difficulties the product has been scrapped
 Additional Information: 
-('phone', 'coming on', 'nightstand')
-('phone', 'black')
+('product', 'selling on', 'show')
+('product', 'bathroom')

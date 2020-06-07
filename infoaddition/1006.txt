@@ -1,5 +1,4 @@
 Original Sentence: 
-Most sleep on the floor
+A further problem is razor-thin profits
 Additional Information: 
-('floor', 'with', 'white spots')
-('floor', 'brown')
+('plane', 'has', 'problem')

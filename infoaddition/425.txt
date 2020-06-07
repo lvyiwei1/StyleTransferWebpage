@@ -1,4 +1,8 @@
 Original Sentence: 
-Those enterprises however are not going to be privatized
+Soldiers and sailors are still measured in inches and pounds
 Additional Information: 
-('sign', 'for', 'enterprise')
+('soldier', 'sits', 'outside')
+('soldier', 'lined up')
+('sailor', 'on a', 'boat')
+('pound', 'has a', 'ten')
+('pound', 'here')

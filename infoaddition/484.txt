@@ -1,5 +1,5 @@
 Original Sentence: 
-But for all its success CNN has hit a plateau
+It 's like squeezing a balloon Dr. Bailit said
 Additional Information: 
-('plateau', 'IN', 'distance')
-('plateau', 'background')
+('balloon', 'IN', 'sky')
+('balloon', 'blue')

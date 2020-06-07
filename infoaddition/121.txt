@@ -1,4 +1,4 @@
 Original Sentence: 
-Ignore the present condition
+That largely reflects the heavy stockholdings
 Additional Information: 
-('sky', 'weather', 'condition')
+('heavy', 'metal', 'plate')

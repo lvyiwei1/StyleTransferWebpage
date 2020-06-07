@@ -1,5 +1,5 @@
 Original Sentence: 
-Futures prices extended Tuesday 's gains
+What is the way forward
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
+('way', 'to', 'house')
+('way', 'walk')

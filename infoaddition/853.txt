@@ -1,5 +1,5 @@
 Original Sentence: 
-There still are some details to be nailed down
+The incident occurred Saturday night
 Additional Information: 
-('detail', 'ON', 'clock tower')
-('detail', 'red')
+('night', 'hangs over', 'city')
+('night', 'black')

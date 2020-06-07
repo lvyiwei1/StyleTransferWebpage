@@ -1,5 +1,6 @@
 Original Sentence: 
-IBM won the case
+But the lack of lines became painfully apparent
 Additional Information: 
-('case', 'on', 'pillow')
-('case', 'black')
+('lack', 'in front', 'hills')
+('line', 'ON', 'road')
+('line', 'white')

@@ -1,0 +1,3 @@
+Original Sentence: 
+The bill is expected to pass in Congress next month
+Emphasize: expected

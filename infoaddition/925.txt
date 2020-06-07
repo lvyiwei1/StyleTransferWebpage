@@ -1,7 +1,6 @@
 Original Sentence: 
-In five minutes the Dow industrials climbed almost 30 points
+The company does n't expect any shipping delays
 Additional Information: 
-('minute', 'attached on', 'clock')
-('minute', 'black')
-('point', 'on top of', 'umbrella')
-('point', 'sharp')
+('company', 'ON', 'corner')
+('company', 'name')
+('container', 'for', 'shipping')

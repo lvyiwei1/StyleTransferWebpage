@@ -1,5 +1,5 @@
 Original Sentence: 
-Meanwhile the exchange has been trying to lower costs
+They say the broker took them out for lunch frequently
 Additional Information: 
-('two women', 'make', 'exchange')
-('cost', 'displayed in front of', 'banana')
+('lunch', 'wrapped in', 'foil')
+('lunch', 'healthy')

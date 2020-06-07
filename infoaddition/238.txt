@@ -1,6 +1,5 @@
 Original Sentence: 
-Now the push is on for more-distinctive shows
+So why even consider stacking freeways now
 Additional Information: 
-('push', 'ON', 'sign')
-('show', 'ON', 'television')
-('show', 'kite')
+('freeway', 'IN', 'background')
+('freeway', 'curved')

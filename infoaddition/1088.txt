@@ -1,9 +1,6 @@
 Original Sentence: 
-We have some level of financial interest in the collection
+CNBC is available to 13 million cable households
 Additional Information: 
-('level', 'ON', 'bus')
-('level', 'upper')
-('people', 'showing', 'interest')
-('interest', 'great')
-('collection', 'OF', 'cds')
-('collection', 'small')
+('cable', 'ON', 'desk top')
+('cable', 'black')
+('toothbrushes', 'IN', 'household')

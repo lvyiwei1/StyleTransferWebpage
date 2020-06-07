@@ -1,0 +1,3 @@
+Original Sentence: 
+The suit is still pending in Illinois state court
+Emphasize: pending

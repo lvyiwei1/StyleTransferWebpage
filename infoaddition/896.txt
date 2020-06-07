@@ -1,5 +1,6 @@
 Original Sentence: 
-Lloyd 's has lost control of the situation he says
+Her parents lost everything in the 1906 earthquake
 Additional Information: 
-('control', 'in', 'in her hand')
-('control', 'remote')
+('parent', 'wears', 'shirt')
+('parent', 'chaperoning')
+('sky', 'above', 'everything')

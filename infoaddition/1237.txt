@@ -1,6 +1,5 @@
 Original Sentence: 
-These are curious times in South African politics
+We have a major problem and that problem is volatility
 Additional Information: 
-('time', 'shown on', 'phone screen')
-('time', 'displayed')
-('letters', 'about', 'politics')
+('plane', 'has', 'problem')
+('plane', 'has', 'problem')

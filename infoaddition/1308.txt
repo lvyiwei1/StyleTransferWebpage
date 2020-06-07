@@ -1,6 +1,5 @@
 Original Sentence: 
-That 's the dilemma for today 's parent
+When selling is so frenzied prices fall steeply and fast
 Additional Information: 
-('sign', 'reads', 'today')
-('parent', 'holding', 'poles')
-('parent', 'chaperoning')
+('price', 'for', 'peppers')
+('price', 'written')

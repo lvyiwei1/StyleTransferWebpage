@@ -1,5 +1,7 @@
 Original Sentence: 
-It will develop produce and market high-performance electronic parts
+Now there are many cars for every purse and purpose
 Additional Information: 
-('part', 'of a', 'grass')
-('part', 'small')
+('car', 'has', 'side mirror')
+('car', 'parked')
+('purse', 'ON', 'shoulder')
+('purse', 'black')

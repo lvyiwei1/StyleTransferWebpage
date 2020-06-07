@@ -1,5 +1,4 @@
 Original Sentence: 
-The company paid five cents a share in April
+Terms of the transaction were n't disclosed
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
+('term', 'house of david')

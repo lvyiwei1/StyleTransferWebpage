@@ -1,5 +1,6 @@
 Original Sentence: 
-And the naczelnik shuts his door
+December delivery gold fell 1.80 an ounce to 370.60
 Additional Information: 
-('door', 'with', 'window')
-('door', 'white')
+('van', 'for', 'delivery')
+('gold', 'and', 'navy')
+('gold', 'brown')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Silicon Valley heaved a sigh of relief yesterday
+We have no further developments to report he said
 Additional Information: 
-('sigh', 'ON', 'pole')
-('sigh', 'green')
-('relief', 'OF', 'mermaid')
-('relief', 'woman')
+('development', 'yellow')

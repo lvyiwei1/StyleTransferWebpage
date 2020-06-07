@@ -1,5 +1,4 @@
 Original Sentence: 
-Heady stuff it 's not
+We 're not rushing into anything
 Additional Information: 
-('stuff', 'IN', 'sand')
-('stuff', 'white')
+('part', 'of a speaker not connected to', 'anything')

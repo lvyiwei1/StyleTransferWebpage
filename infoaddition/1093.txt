@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales rose 8.4 % to 27.95 billion from 25.78 billion
+Some couples continue to try
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('couple', 'ON', 'sidewalk')
+('couple', 'walking')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The current transaction cost the bank approximately 140 million
+I care very much for this post he says
 Additional Information: 
-('bank', 'has', 'window')
-('bank', 'grassy')
+('post', 'ON', 'fence')
+('post', 'wooden')

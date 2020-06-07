@@ -1,6 +1,5 @@
 Original Sentence: 
-Industry observers expect a wide divergence in performance
+The stock split four-for-one on Oct. 10
 Additional Information: 
-('observer', 'has', 'right leg')
-('observer', 'standing')
-('crowd', 'watching', 'performance')
+('stock', 'of', 'stock')
+('stock', 'green')

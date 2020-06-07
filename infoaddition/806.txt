@@ -1,9 +1,5 @@
 Original Sentence: 
-The trip from the test tube was not without snags
+Beta figures are widely available and easy to interpret
 Additional Information: 
-('man and women', 'going on', 'trip')
-('test', 'sitting in', 'aircraft')
-('test', 'filled out')
-('tube', 'OF', 'toothpaste')
-('tube', 'white')
-('snag', 'in bed', 'spread')
+('figure', 'ON', 'mantle')
+('figure', 'green')

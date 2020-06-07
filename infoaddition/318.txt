@@ -1,4 +1,7 @@
 Original Sentence: 
-Georgia-Pacific closed down 2.50 at 50.875 in Big Board trading
+Sales were 348.2 million compared with 307.2 a year earlier
 Additional Information: 
-('red t', 'IN', 'trading')
+('sale', 'ON', 'window')
+('sale', 'red')
+('year', 'OF', 'picture')
+('year', 'white')

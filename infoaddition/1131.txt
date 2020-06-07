@@ -1,7 +1,4 @@
 Original Sentence: 
-1 Make sure you have a strong personnel department
+It is scheduled for delivery in late 1991
 Additional Information: 
-('personnel', 'ON', 'tarmac')
-('personnel', 'army')
-('horse', 'used', 'department')
-('department', 'British police ')
+('van', 'for', 'delivery')

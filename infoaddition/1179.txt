@@ -1,5 +1,5 @@
 Original Sentence: 
-It 's not a zero-sum game
+The family 's long absence is understandable
 Additional Information: 
-('game', 'ON', 'tv')
-('game', 'baseball')
+('family', 'wearing a', 'shirt')
+('family', 'sitting')

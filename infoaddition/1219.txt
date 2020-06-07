@@ -1,5 +1,5 @@
 Original Sentence: 
-The action renews concern about buyouts in high-tech industries
+Also most of the telecommunications equipment was out
 Additional Information: 
-('action', 'at', 'baseball field')
-('action', 'MLB')
+('equipment', 'ON', 'legs')
+('equipment', 'electronic')

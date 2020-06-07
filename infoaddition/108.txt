@@ -1,5 +1,5 @@
 Original Sentence: 
-Then there 'll be fair competition
+Investment-grade corporate municipal and mortgage-backed securities also fell
 Additional Information: 
-('skiers', 'in a', 'competition')
-('competition', 'horse')
+('security', 'ON', 'wall')
+('security', 'standing')

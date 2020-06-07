@@ -1,5 +1,4 @@
 Original Sentence: 
-Officials at Carnival declined to comment
+Old Environmentalism involved microbe hunters and sanitationists
 Additional Information: 
-('official', 'STANDING BEHIND', 'court')
-('official', 'tennis')
+('hunter', 'holding', 'bird')

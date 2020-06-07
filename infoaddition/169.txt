@@ -1,4 +1,5 @@
 Original Sentence: 
-Terms were n't disclosed
+The company did n't break out its fourth-quarter results
 Additional Information: 
-('term', 'house of david')
+('company', 'has', 'advertisement')
+('company', 'name')

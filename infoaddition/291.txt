@@ -1,5 +1,8 @@
 Original Sentence: 
-My style is less informal Mr. Brawer says
+The order is the biggest in the company 's history
 Additional Information: 
-('style', 'ON', 'ceiling')
-('style', 'old')
+('order', 'OF', 'french fries')
+('order', 'ready')
+('company', 'that owns', 'bus')
+('company', 'name')
+('the', 'word', 'history')

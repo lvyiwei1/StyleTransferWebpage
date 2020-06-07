@@ -1,6 +1,7 @@
 Original Sentence: 
-At first glance gold and utilities seem strange bedfellows
+The heart of the case official oppression remains intact
 Additional Information: 
-('gold', 'IN', 'building')
-('gold', 'brown')
-('utility', 'pole', 'lines')
+('heart', 'ON', 'collar')
+('heart', 'red')
+('case', 'inside of black', 'bag')
+('case', 'black')

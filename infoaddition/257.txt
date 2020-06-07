@@ -1,5 +1,7 @@
 Original Sentence: 
-Turnover was 382.9 million shares compared with 449.3 million Wednesday
+Long-term CDs declined just a fraction
 Additional Information: 
-('turnover', 'ON', 'paper')
-('turnover', 'apple')
+('cd', 'near', 'mouse')
+('cd', 'silver')
+('fraction', 'ON', 'border')
+('fraction', 'here')

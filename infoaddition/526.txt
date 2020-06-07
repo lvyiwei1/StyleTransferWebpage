@@ -1,8 +1,5 @@
 Original Sentence: 
-The company is exposed to bulk chemicals however
+UAL 's stock fell 6.25 to 191.75
 Additional Information: 
-('company', 'ON', 'train')
-('company', 'name')
-('bulk', 'under', 'mouth')
-('bottle', 'containing', 'chemical')
-('chemical', 'red')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

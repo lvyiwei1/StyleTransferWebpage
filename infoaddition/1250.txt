@@ -1,7 +1,5 @@
 Original Sentence: 
-SKILLED WORKERS aplenty are available to cope with earthquake damage
+4 Make your due-process system visible
 Additional Information: 
-('worker', 'WEARING', 'vest')
-('worker', 'construction')
-('damage', 'ON', 'wall')
-('damage', 'moisture')
+('system', 'ON', 'stand')
+('system', 'black')

@@ -1,7 +1,5 @@
 Original Sentence: 
-The wholesale price index stood at 89.6 1985 equals 100
+There 's no feed he says
 Additional Information: 
-('price', 'for', 'bananas')
-('price', 'written')
-('index', 'a fingerhas', 'baby')
-('index', 'is a finger')
+('feed', 'in a', 'feeding trough')
+('feed', 'black')

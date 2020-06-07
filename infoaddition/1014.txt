@@ -1,5 +1,5 @@
 Original Sentence: 
-Now we 're going to sell to men
+Contract details however have n't been made public
 Additional Information: 
-('men', 'holds', 'pole')
-('men', 'standing')
+('detail', 'ON', 'stone column')
+('detail', 'red')

@@ -1,9 +1,5 @@
 Original Sentence: 
-They want psyllium prices low for their purchases next year
+THE PANHANDLER approaches makes his pitch
 Additional Information: 
-('price', 'tag', 'roll')
-('price', 'written')
-('woman', 'wants to', 'purchase')
-('purchase', 'Levy Restaurant')
-('year', 'OF', 'picture')
-('year', 'white')
+('pitch', 'has', 'white lines')
+('pitch', 'green')

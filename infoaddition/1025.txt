@@ -1,7 +1,5 @@
 Original Sentence: 
-Heating oil prices also rose
+By 9:45 the industrial average had dropped 27 points
 Additional Information: 
-('oil', 'inside of', 'bottle')
-('oil', 'hot')
-('price', 'for', 'peppers')
-('price', 'written')
+('point', 'ON', 'tower')
+('point', 'sharp')

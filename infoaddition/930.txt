@@ -1,7 +1,5 @@
 Original Sentence: 
-The chair is a way to package massage
+It also has a product-testing facility in California
 Additional Information: 
-('chair', 'outside', 'coffee shop')
-('chair', 'wooden')
-('way', 'to', 'house')
-('way', 'walk')
+('facility', 'for', 'giraffe')
+('facility', 'skateboarding')

@@ -1,4 +1,5 @@
 Original Sentence: 
-But not just any bonds will do
+He left a message accusing Mr. Darman of selling out
 Additional Information: 
-('bond', 'black ')
+('message', 'ON', 'bed')
+('message', 'white')

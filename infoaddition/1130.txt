@@ -1,8 +1,5 @@
 Original Sentence: 
-American Express card charge volume rose 12 %
+It was a jarring day for investors in Genetics Institute
 Additional Information: 
-('card', 'thats pink', 'on the shelf')
-('card', 'white')
-('charge', 'can', 'charge')
-('volume', 'ON', 'headphones')
-('volume', '3')
+('day', 'time', 'picture')
+('day', 'sunny')

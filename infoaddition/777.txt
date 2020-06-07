@@ -1,7 +1,7 @@
 Original Sentence: 
-Many people now claim to have predicted the 1987 crash
+They both called it a welcome home gathering
 Additional Information: 
-('people', 'in front of', 'building')
-('people', 'standing')
-('crash', 'of an', 'airplane')
-('crash', 'white')
+('home', 'has', 'window')
+('home', 'white')
+('gathering', 'OF', 'people')
+('gathering', 'social')

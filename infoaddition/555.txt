@@ -1,5 +1,7 @@
 Original Sentence: 
-He 's a genuine Wheaties-box athlete gushes Mr. Jones
+The board expanded to 17 seats
 Additional Information: 
-('athlete', 'IN', 'uniform')
-('athlete', 'male')
+('board', 'on a', 'bench')
+('board', 'white')
+('seat', 'OF', 'toilet')
+('seat', 'black')

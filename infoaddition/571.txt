@@ -1,6 +1,5 @@
 Original Sentence: 
-Looking ahead to other commodity markets this week
+What does this mean for trade policy
 Additional Information: 
-('market', 'filled with', 'green peppers')
-('market', 'outdoor')
-('day', 'OF', 'week')
+('mean', 'WEARING', 'red shirt')
+('company name', 'says', 'trade')

@@ -1,0 +1,3 @@
+Original Sentence: 
+Both products were immensely popular
+Emphasize: popular

@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's contrary to common sense she added
+In some industries like pharmaceuticals acquisitions make sense
 Additional Information: 
 ('phrase', 'makes no', 'sense')

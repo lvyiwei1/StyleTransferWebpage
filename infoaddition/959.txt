@@ -1,6 +1,7 @@
 Original Sentence: 
-Crested Butte population 1,200 is a bastion of the sport
+Some are even coming up with their own novel designs
 Additional Information: 
-('river', 'passing', 'population')
-('sport', 'played', 'intensely')
-('sport', 'popular')
+('novel', 'IN', 'corner')
+('novel', 'paperback')
+('design', 'ON', 'cloth')
+('design', 'white')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Both moves are effective today
+He throws something
 Additional Information: 
-('mechanism', 'makes it', 'move')
-('sign', 'reads', 'today')
+('something', 'plugged into', 'electrical outlet')
+('something', 'red')

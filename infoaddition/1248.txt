@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales gained 16 % to 1.03 billion from 894 million
+The last Taxpayer Compliance Measurement Program survey covered 1985 returns
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('return', 'ON', 'street')
+('return', 'black')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The pharmaceuticals maker had traded over-the-counter
+Some apply it to gouty joints
 Additional Information: 
-('maker', 'ON', 'cart')
-('maker', 'coffee')
+('joint', 'ON', 'scissors')
+('joint', 'white')

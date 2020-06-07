@@ -1,5 +1,7 @@
 Original Sentence: 
-The dollar retreated
+But city officials say tax revenues are lagging
 Additional Information: 
-('dollar', 'ON', 'table')
-('dollar', 'twenty')
+('city', 'IN', 'background')
+('city', 'large')
+('official', 'has', 'shirt')
+('official', 'tennis')

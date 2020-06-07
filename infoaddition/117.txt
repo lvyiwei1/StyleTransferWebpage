@@ -1,4 +1,5 @@
 Original Sentence: 
-Terms were n't disclosed
+Breeders are betting on the common folk
 Additional Information: 
-('term', 'house of david')
+('breeder', 'with a', 'cow')
+('folk', 'gold')

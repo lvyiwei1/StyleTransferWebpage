@@ -1,4 +1,5 @@
 Original Sentence: 
-But the problem clearly is widespread and persistent
+We will vigorously oppose the bill he says
 Additional Information: 
-('plane', 'has', 'problem')
+('bill', 'on front of', 'hat')
+('bill', 'orange')

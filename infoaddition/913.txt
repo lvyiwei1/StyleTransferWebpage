@@ -1,5 +1,5 @@
 Original Sentence: 
-The merger requires the approval of Norwegian authorities
+Their approach did n't work mine is
 Additional Information: 
-('authority', 'ON', 'building')
-('authority', 'brass')
+('work', 'ON', 'column')
+('work', 'iron')

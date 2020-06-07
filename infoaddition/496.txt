@@ -1,5 +1,11 @@
 Original Sentence: 
-Yet these purchases can be misleading
+Figgie is a fire protection electronics and industrial products concern
 Additional Information: 
-('woman', 'wants to', 'purchase')
-('purchase', 'Levy Restaurant')
+('fire', 'inside', 'pizza oven')
+('fire', 'orange')
+('protection', 'for', 'eyes')
+('protection', 'black')
+('electronics', 'below', 'tv')
+('electronics', 'black')
+('product', 'on top of', 'counter')
+('product', 'bathroom')

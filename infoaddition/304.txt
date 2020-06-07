@@ -1,5 +1,9 @@
 Original Sentence: 
-Mr. Trump never obtained financing for his bid
+Among the leading products is a flu shot for horses
 Additional Information: 
-('bid', 'ON', 'sheet')
-('bid', 'metal')
+('product', 'ON', 'display')
+('product', 'bathroom')
+('shot', 'OF', 'broccoli')
+('shot', 'old')
+('horse', 'has a', 'mane')
+('horse', 'brown')

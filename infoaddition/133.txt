@@ -1,5 +1,4 @@
 Original Sentence: 
-Tolstoy 's characters eat Pushkin 's Gogol 's
+Young & Rubicam has pleaded innocent to the charges
 Additional Information: 
-('character', 'ON', 'keyboard')
-('character', 'foreign')
+('charge', 'can', 'charge')

@@ -1,6 +1,4 @@
 Original Sentence: 
-It was a busy week for OTC stocks
+UAL declined to comment on British Air 's statement
 Additional Information: 
-('day', 'OF', 'week')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('statement', 'credit')

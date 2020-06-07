@@ -1,8 +1,5 @@
 Original Sentence: 
-A big reason for the chemical price retreat is overexpansion
+A unified system of taxation should be introduced rapidly
 Additional Information: 
-('not', 'in mood right nowhold leg in air for no', 'reason')
-('bottle', 'containing', 'chemical')
-('chemical', 'red')
-('price', 'of', 'pizza')
-('price', 'written')
+('system', 'IN', 'room')
+('system', 'black')

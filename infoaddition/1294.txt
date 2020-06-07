@@ -1,6 +1,5 @@
 Original Sentence: 
-Other funds hold a smattering of junk bonds too
+Put these together and you get programs about rape
 Additional Information: 
-('junk', 'IN', 'trunk')
-('junk', 'lots')
-('bond', 'black ')
+('program', 'On screen', 'laptop computer')
+('program', 'wedding')

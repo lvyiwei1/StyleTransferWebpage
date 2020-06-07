@@ -1,0 +1,3 @@
+Original Sentence: 
+People hate to write he says
+Emphasize: write

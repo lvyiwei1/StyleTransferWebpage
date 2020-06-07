@@ -1,11 +1,5 @@
 Original Sentence: 
-Their machine tools are even bolted to the shop floor
+Craig Torres and Anne Newman contributed to this article
 Additional Information: 
-('machine', 'with', 'pole')
-('machine', 'white')
-('tool', 'ON', 'counter')
-('tool', 'metal')
-('shop', 'OF', 'clothes')
-('shop', 'street level')
-('floor', 'OF', 'forest')
-('floor', 'brown')
+('article', 'ON', 'chair')
+('article', 'newspaper')

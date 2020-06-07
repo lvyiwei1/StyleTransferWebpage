@@ -1,0 +1,3 @@
+Original Sentence: 
+It is a quick fix for a complex problem
+Emphasize: complex

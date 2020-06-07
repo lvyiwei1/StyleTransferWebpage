@@ -1,5 +1,5 @@
 Original Sentence: 
-Baker had lots of them
+California Thefts Make Travel Agents Jittery
 Additional Information: 
-('lot', 'made of', 'grey brick pavers')
-('lot', 'parking')
+('travel', 'guide', 'book')
+('agent', 'at', 'airport')

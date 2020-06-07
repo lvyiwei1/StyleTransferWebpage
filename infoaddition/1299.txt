@@ -1,5 +1,4 @@
 Original Sentence: 
-The first signs were economic
+They lied to me on the recruiting trip
 Additional Information: 
-('sign', 'ON', 'wall')
-('sign', 'white')
+('man and women', 'going on', 'trip')

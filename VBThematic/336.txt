@@ -1,0 +1,3 @@
+Original Sentence: 
+The flight was rescheduled for today
+Emphasize: rescheduled

@@ -1,5 +1,4 @@
 Original Sentence: 
-Is such a view justified
+The yield on the issue stood at 7.88 %
 Additional Information: 
-('view', 'OF', 'zebra')
-('view', 'beautiful')
+('yield', 'on', 'sign')

@@ -1,4 +1,5 @@
 Original Sentence: 
-The move by IBM was n't exactly a surprise
+Tom Herman contributed to this article
 Additional Information: 
-('mechanism', 'makes it', 'move')
+('article', 'OF', 'clothing')
+('article', 'newspaper')

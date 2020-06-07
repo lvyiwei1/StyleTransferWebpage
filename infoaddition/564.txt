@@ -1,5 +1,7 @@
 Original Sentence: 
-For employee and employer alike the worry is widespread
+Dollar 141.65 yen off 0.45 1.8300 marks off 0.0100
 Additional Information: 
-('employee', 'wears', 'shirt')
-('employee', 'airport')
+('dollar', 'ON', 'table')
+('dollar', 'twenty')
+('mark', 'ON', 'pavement')
+('mark', 'black')

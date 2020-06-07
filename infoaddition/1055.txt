@@ -1,6 +1,5 @@
 Original Sentence: 
-December delivery gold eased 40 cents an ounce to 380.80
+The naczelnik averts his eyes
 Additional Information: 
-('van', 'for', 'delivery')
-('gold', 'brown', 'watch')
-('gold', 'brown')
+('eye', 'ON', 'head')
+('eye', 'black')

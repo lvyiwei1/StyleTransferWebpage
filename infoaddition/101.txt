@@ -1,5 +1,5 @@
 Original Sentence: 
-Now sterilized intervention may have some effect
+It was considered South Africa 's largest opposition rally
 Additional Information: 
-('effect', 'ON', 'clock tower')
-('effect', 'yellow')
+('man', 'IN', 'rally')
+('rally', 'black')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Compaq is already taking aim at Zenith 's market share
+We were coming down straight into their canal
 Additional Information: 
-('market', 'has', 'doors')
-('market', 'outdoor')
+('canal', 'full of', 'water')
+('canal', 'calm')

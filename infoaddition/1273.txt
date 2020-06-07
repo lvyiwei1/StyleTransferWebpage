@@ -1,4 +1,7 @@
 Original Sentence: 
-Accounting problems raise more knotty issues
+Viroqua serves about 3,000 access lines in western Wisconsin
 Additional Information: 
-('plane', 'has', 'problem')
+('access', 'ramp for', 'passengers')
+('access', 'sloped')
+('line', 'ON', 'court')
+('line', 'white')

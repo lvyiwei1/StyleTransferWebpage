@@ -1,5 +1,5 @@
 Original Sentence: 
-He has good control
+He says his son has n't paid for the shares
 Additional Information: 
-('control', 'ON', 'table')
-('control', 'remote')
+('son', 'written on', 'large truck')
+('son', 'young')

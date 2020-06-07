@@ -1,5 +1,7 @@
 Original Sentence: 
-Once he was held for three months without being charged
+South African gold stocks ended marginally firmer
 Additional Information: 
-('month', 'around', 'face')
-('month', 'ninth')
+('gold', 'tail of', 'kite')
+('gold', 'brown')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

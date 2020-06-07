@@ -1,4 +1,7 @@
 Original Sentence: 
-It 's just not cost efficient he says
+The reason was not high interest rates or labor costs
 Additional Information: 
+('not', 'in mood right nowhold leg in air for no', 'reason')
+('people', 'showing', 'interest')
+('interest', 'great')
 ('cost', 'displayed in front of', 'banana')

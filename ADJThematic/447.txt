@@ -1,0 +1,3 @@
+Original Sentence: 
+Sterling was trading at 1.5805 down from 1.5820 late Monday
+Emphasize: late

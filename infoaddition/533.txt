@@ -1,5 +1,5 @@
 Original Sentence: 
-The stores they work for may be sold
+That 's not what our fathers had in mind
 Additional Information: 
-('store', 'has', 'window')
-('store', 'red')
+('father', 'teaches', 'boy')
+('father', 'smiling')

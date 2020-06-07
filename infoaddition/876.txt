@@ -1,6 +1,5 @@
 Original Sentence: 
-Why should I be part of that problem
+Thus the leverage has amplified the funds ' portfolio losses
 Additional Information: 
-('part', 'of a', 'plate')
-('part', 'small')
-('plane', 'has', 'problem')
+('portfolio', 'ON', 'desk')
+('portfolio', 'black')

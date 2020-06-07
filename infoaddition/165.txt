@@ -1,9 +1,5 @@
 Original Sentence: 
-In major market activity Bond prices rose
+Adverse pressure on gross margins has subsided Mr. Sculley said
 Additional Information: 
-('market', 'IN', 'container')
-('market', 'outdoor')
-('activity', 'IN', 'bathroom')
-('bond', 'black ')
-('price', 'ON', 'book')
-('price', 'written')
+('margin', 'separating', 'photo')
+('margin', 'thick')

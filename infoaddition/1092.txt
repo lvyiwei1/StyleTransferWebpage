@@ -1,5 +1,5 @@
 Original Sentence: 
-It was like driving down the highway watching a wreck
+The merged firm will carry Norris McLaughlin 's name
 Additional Information: 
-('highway', 'near', 'truck')
-('highway', 'busy')
+('name', 'IN', 'tennis net')
+('name', 'white')

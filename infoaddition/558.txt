@@ -1,5 +1,8 @@
 Original Sentence: 
-They wo n't fight the listed companies
+Friday brings the final count on October auto sales
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
+('man', 'IN', 'count')
+('auto', 'on', 'road')
+('auto', 'SMALL')
+('sale', 'at', 'company')
+('sale', 'red')

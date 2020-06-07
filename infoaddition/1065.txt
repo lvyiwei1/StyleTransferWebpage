@@ -1,5 +1,4 @@
 Original Sentence: 
-Freight rates are bottoming out and starting to rebound
+A 35-nation environmental conference opened in Sofia Bulgaria
 Additional Information: 
-('freight', 'behind', 'engine')
-('freight', 'red')
+('people', 'are at a', 'conference')

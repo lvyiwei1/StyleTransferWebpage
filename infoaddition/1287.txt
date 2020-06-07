@@ -1,5 +1,6 @@
 Original Sentence: 
-Japan is not a political country
+PaineWebber considered an even harder sell recommending specific stocks
 Additional Information: 
-('country', 'ON', 'boxes')
-('country', 'foreign')
+('pies', 'for', 'sell')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

@@ -1,5 +1,5 @@
 Original Sentence: 
-What is that point
+You do n't have a right to practice
 Additional Information: 
-('point', 'ON', 'tower')
-('point', 'sharp')
+('right', 'hanging', 'lights')
+('right', 'far')

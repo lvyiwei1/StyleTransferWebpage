@@ -1,4 +1,5 @@
 Original Sentence: 
-You ca n't buy anything nowadays
+Corporate planners can plan again
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('planner', 'on top of', 'table')
+('planner', 'black')

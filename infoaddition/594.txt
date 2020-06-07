@@ -1,5 +1,5 @@
 Original Sentence: 
-And plays
+Some U.S. entrepreneurs operate on a smaller scale
 Additional Information: 
-('button', 'means', 'play')
-('play', 'white')
+('scale', 'IN', 'bathroom')
+('scale', 'white')

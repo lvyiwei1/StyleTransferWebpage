@@ -1,4 +1,5 @@
 Original Sentence: 
-The decision was announced after trading ended
+As a result of the sales he holds 6,727,042 shares
 Additional Information: 
-('red t', 'IN', 'trading')
+('sale', 'at', 'company')
+('sale', 'red')

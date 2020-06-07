@@ -1,5 +1,4 @@
 Original Sentence: 
-He says it accounts for 25 % of total sales
+The Senate did n't vote on six lesser charges
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('charge', 'can', 'charge')

@@ -1,5 +1,7 @@
 Original Sentence: 
-But these wide swings scare them to death
+He started building the files that helped him gain power
 Additional Information: 
-('swing', 'ON', 'rope')
-('swing', 'wooden')
+('file', 'open on', 'laptop')
+('file', 'large')
+('power', 'lines over railroad', 'tracks')
+('power', 'on')

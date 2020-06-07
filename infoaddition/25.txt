@@ -1,5 +1,6 @@
 Original Sentence: 
-For them it makes all kinds of sense
+The entire division employs about 850 workers
 Additional Information: 
-('kind', 'ON', 'sidewalk')
-('phrase', 'makes no', 'sense')
+('division', 'between', 'train cars')
+('worker', 'IN', 'snow.')
+('worker', 'construction')

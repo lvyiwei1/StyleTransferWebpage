@@ -1,7 +1,5 @@
 Original Sentence: 
-Some have been combined into suites for the high rollers
+It is a quick fix for a complex problem
 Additional Information: 
-('suite', 'coat', 'button')
-('suite', 'black')
-('roller', 'OF', 'skateboard')
-('roller', 'black')
+('fix', 'ON', 'wall')
+('plane', 'has', 'problem')

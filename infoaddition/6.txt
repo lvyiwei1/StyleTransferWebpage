@@ -1,5 +1,5 @@
 Original Sentence: 
-Sunbelt foreclosed on the ranch
+Yet abortion-rights forces remain bitterly critical
 Additional Information: 
-('ranch', 'behind', 'cow')
-('ranch', 'large')
+('force', 'ON', 'plane')
+('force', 'black')

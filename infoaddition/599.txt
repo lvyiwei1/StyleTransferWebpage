@@ -1,5 +1,5 @@
 Original Sentence: 
-The reversal was even more evident among shorter-term Treasury securities
+BankAmerica 's profit jumped 34 % in the third quarter
 Additional Information: 
-('security', 'ON', 'court')
-('security', 'standing')
+('quarter', 'OF', 'train')
+('quarter', 'silver')

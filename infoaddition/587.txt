@@ -1,5 +1,5 @@
 Original Sentence: 
-StatesWest serves 10 cities in California Arizona and Nevada
+What if the system does n't work
 Additional Information: 
-('city', 'ON', 'shore')
-('city', 'large')
+('system', 'under', 'train')
+('system', 'black')

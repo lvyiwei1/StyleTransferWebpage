@@ -1,6 +1,4 @@
 Original Sentence: 
-This kind of theater was new to us
+Terms were n't disclosed
 Additional Information: 
-('kind', 'ON', 'sidewalk')
-('theater', 'has', 'ceiling')
-('theater', 'movie ')
+('term', 'house of david')

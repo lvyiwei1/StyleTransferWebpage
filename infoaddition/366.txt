@@ -1,6 +1,6 @@
 Original Sentence: 
-But there are no scientific data on this question
+The company would n't elaborate citing competitive reasons
 Additional Information: 
-('data', 'ON', 'monitor')
-('data', 'green')
-('question', 'black')
+('company', 'ON', 'plane')
+('company', 'name')
+('not', 'in mood right nowhold leg in air for no', 'reason')

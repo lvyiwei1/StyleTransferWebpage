@@ -1,5 +1,5 @@
 Original Sentence: 
-In general they say avoid takeover stocks
+Share prices fell in Milan Amsterdam Zurich Madrid and Stockholm
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('price', 'OF', 'fruit')
+('price', 'written')

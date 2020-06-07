@@ -1,5 +1,5 @@
 Original Sentence: 
-Not all of those parcels have yet been sold
+The rest he is confident can be raised
 Additional Information: 
-('parcel', 'IN', 'bike')
-('parcel', 'white')
+('rest', 'ON', 'sign')
+('rest', 'arm')

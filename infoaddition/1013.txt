@@ -1,5 +1,7 @@
 Original Sentence: 
-This is an enviably low level
+Mothers of young AIDS patients expressed somber satisfaction
 Additional Information: 
-('level', 'OF', 'bus')
-('level', 'upper')
+('mother', 'WEARING', 'shirt')
+('mother', 'standing')
+('patient', 'ON', 'table')
+('patient', 'nurse')

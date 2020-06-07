@@ -1,4 +1,5 @@
 Original Sentence: 
-That 's Chandler 's setup
+Darkness fell
 Additional Information: 
-('setup', 'simple')
+('darkness', 'behind', 'cats')
+('darkness', 'above water')

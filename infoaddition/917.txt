@@ -1,9 +1,5 @@
 Original Sentence: 
-Though modest the change reaches beyond the oil patch too
+The country 's narcotics traffickers claimed responsibility for the slaying
 Additional Information: 
-('change', 'ON', 'red')
-('change', 'loose')
-('oil', 'ON', 'counter')
-('oil', 'hot')
-('patch', 'ON', 'field')
-('patch', 'white')
+('country', 'ON', 'boxes')
+('country', 'foreign')

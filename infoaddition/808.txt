@@ -1,5 +1,7 @@
 Original Sentence: 
-Some things ca n't be repaired
+When the pilots refused the company retracted it
 Additional Information: 
-('thing', 'ON', 'window')
-('thing', 'black')
+('pilot', 'OF', 'airplane')
+('pilot', 'walking')
+('company', 'ON', 'photo')
+('company', 'name')

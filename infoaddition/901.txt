@@ -1,7 +1,11 @@
 Original Sentence: 
-The 30-share index settled 23.2 points higher at 1701.7
+Preparedness involves more than flashlights and fire alarms these days
 Additional Information: 
-('index', 'ON', 'right')
-('index', 'is a finger')
-('point', 'ON', 'umbrella')
-('point', 'sharp')
+('flashlight', 'on top of', 'bed')
+('flashlight', 'black')
+('fire', 'on', 'crosswalk')
+('fire', 'orange')
+('alarm', 'on a', 'tile wall')
+('alarm', 'red')
+('day', 'with', 'tower')
+('day', 'sunny')

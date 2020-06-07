@@ -1,5 +1,5 @@
 Original Sentence: 
-Chemical earnings fell 10 % reflecting softening of demand
+We are only going to sell at the right price
 Additional Information: 
-('bottle', 'containing', 'chemical')
-('chemical', 'red')
+('price', 'for', 'avocados')
+('price', 'written')

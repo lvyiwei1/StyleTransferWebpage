@@ -1,5 +1,7 @@
 Original Sentence: 
-I love this business he says
+Bush administration officials say inflation is under control
 Additional Information: 
-('business', 'has', 'entrance')
-('business', 'here')
+('official', 'STANDING BEHIND', 'court')
+('official', 'tennis')
+('control', 'ON', 'desk')
+('control', 'remote')

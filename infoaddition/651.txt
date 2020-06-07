@@ -1,5 +1,5 @@
 Original Sentence: 
-They were protecting his interests
+In essence we run the show
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
+('show', 'ON', 'television')
+('show', 'kite')

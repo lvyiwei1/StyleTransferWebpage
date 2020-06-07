@@ -1,7 +1,7 @@
 Original Sentence: 
-On his off-hours he wears cardigan sweaters
+Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
 Additional Information: 
-('cardigan', 'has', 'logo')
-('cardigan', 'white')
-('sweater', 'ON', 'man')
-('sweater', 'black')
+('story', 'belonging to', 'building')
+('story', 'second')
+('printed', 'happy', 'holiday')
+('holiday', 'colorful')

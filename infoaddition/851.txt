@@ -1,7 +1,5 @@
 Original Sentence: 
-He got three trucks and a backhoe cheap
+Shippers are saying the party 's over said Mr. LaLonde
 Additional Information: 
-('truck', 'parked near', 'house')
-('truck', 'white')
-('backhoe', 'IN', 'background')
-('backhoe', 'yellow')
+('party', 'at a', 'house')
+('party', 'birthday')

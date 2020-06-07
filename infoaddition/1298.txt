@@ -1,6 +1,5 @@
 Original Sentence: 
-Clearly people like Mrs. Lombardi are giving marketers fits
+This is not the case
 Additional Information: 
-('people', 'are riding', 'horse')
-('people', 'standing')
-('fit', 'ON', 'shirt')
+('case', 'ON', 'cellphone')
+('case', 'black')

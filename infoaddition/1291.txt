@@ -1,9 +1,6 @@
 Original Sentence: 
-It has a similar project for 200,000 cars a year
+A private farmer never wastes anything
 Additional Information: 
-('he', 'discussing', 'project')
-('project', 'sewing')
-('car', 'driving on', 'road')
-('car', 'parked')
-('year', 'ON', 'sign')
-('year', 'white')
+('farmer', 'beside', 'body')
+('farmer', 'holding')
+('part', 'of a speaker not connected to', 'anything')

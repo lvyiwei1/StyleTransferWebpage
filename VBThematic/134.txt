@@ -1,0 +1,3 @@
+Original Sentence: 
+Sales increased 6 % to 5.58 billion from 5.27 billion
+Emphasize: increased

@@ -1,7 +1,5 @@
 Original Sentence: 
-But observers expect broad support
+But Middle East supplies were growing in importance
 Additional Information: 
-('observer', 'has', 'right leg')
-('observer', 'standing')
-('support', 'near', 'car')
-('support', 'metal')
+('supply', 'on', 'table')
+('supply', 'all')

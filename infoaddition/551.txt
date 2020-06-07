@@ -1,8 +1,5 @@
 Original Sentence: 
-Slowing economies in some areas limit student choice
+Bush and Deng are hoping that cooler heads prevail
 Additional Information: 
-('economy', 'ON', 'train')
-('area', 'near', 'street')
-('area', 'grassy')
-('student', 'at', 'desk')
-('student', 'ethnic')
+('head', 'OF', 'giraffe')
+('head', 'white')

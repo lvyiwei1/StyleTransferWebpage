@@ -1,7 +1,5 @@
 Original Sentence: 
-Is this the wrong time to open a store
+Local bankers and accountants help applicants fill out forms
 Additional Information: 
-('time', 'ON', 'scoreboard')
-('time', 'displayed')
-('store', 'OF', 'plushes')
-('store', 'red')
+('form', 'ON', 'table top')
+('form', 'white')

@@ -1,4 +1,10 @@
 Original Sentence: 
-Old Environmentalism involved microbe hunters and sanitationists
+One handout promises Pedigrees parties post times parimutuels and pageantry
 Additional Information: 
-('hunter', 'green', 'tea pot')
+('can', 'OF', 'pedigree')
+('party', 'at a', 'house')
+('party', 'birthday')
+('post', 'attached to', 'net')
+('post', 'wooden')
+('time', 'ON', 'scoreboard')
+('time', 'displayed')

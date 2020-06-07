@@ -1,0 +1,3 @@
+Original Sentence: 
+Inventories fell 0.3 % in August
+Emphasize: fell

@@ -1,7 +1,7 @@
 Original Sentence: 
-A cultural center has been built shops
+Urban is the company 's first telephone subsidiary in Wisconsin
 Additional Information: 
-('center', 'hold of', 'donut')
-('center', 'yellow')
-('shop', 'has', 'shutter')
-('shop', 'street level')
+('company', 'has', 'name')
+('company', 'name')
+('telephone', 'a', 'pole')
+('telephone', 'black')

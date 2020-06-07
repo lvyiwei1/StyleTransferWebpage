@@ -1,5 +1,5 @@
 Original Sentence: 
-But the man who built it has fallen
+Suddenly I am not a comfortable man for Solidarity
 Additional Information: 
-('man', 'standing by', 'railing')
+('man', 'WEARING', 'pants')
 ('man', 'standing')

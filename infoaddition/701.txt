@@ -1,5 +1,5 @@
 Original Sentence: 
-A unified system of taxation should be introduced rapidly
+Meritor has headed the list since May
 Additional Information: 
-('system', 'ON', 'stand')
-('system', 'black')
+('list', 'ON', 'bus')
+('list', 'champagne ')

@@ -1,8 +1,7 @@
 Original Sentence: 
-The system is the problem not an individual member
+Many Law School Grads Find Classes Never End
 Additional Information: 
-('system', 'under', 'train')
-('system', 'black')
-('plane', 'has', 'problem')
-('member', 'WEARING', 'shirt')
-('member', 'several')
+('drivers', 'are obeying', 'law')
+('school', 'second', 'buses')
+('school', 'word')
+('class', 'OF', 'kids')

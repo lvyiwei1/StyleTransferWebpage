@@ -1,5 +1,5 @@
 Original Sentence: 
-Corporations need liquidity in the form of borrowed funds
+Jeffrey Peter and Joseph Jr. are brothers
 Additional Information: 
-('form', 'ON', 'table top')
-('form', 'white')
+('brother', 'ON', 'bench')
+('brother', 'playing')

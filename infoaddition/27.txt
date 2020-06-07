@@ -1,5 +1,5 @@
 Original Sentence: 
-It also inevitably leaves a residue of shareholder lawsuits
+But it 's in very early stages still
 Additional Information: 
-('residue', 'ON', 'knife head')
-('residue', 'red')
+('stage', 'inside of', 'canopy')
+('stage', 'black')

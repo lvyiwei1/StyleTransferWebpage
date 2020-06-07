@@ -1,4 +1,5 @@
 Original Sentence: 
-But that partner is n't Fiat
+We do n't have passive readers
 Additional Information: 
-('partner', 'playing on', 'tennis court')
+('reader', 'OF', 'meter')
+('reader', 'e')

@@ -1,8 +1,6 @@
 Original Sentence: 
-There 's nothing rational about this kind of action
+Those activities generated 26.1 million in operating profit last year
 Additional Information: 
-('nothing', 'to', 'write')
-('nothing', 'clear')
-('kind', 'ON', 'sidewalk')
-('action', 'IN', 'action')
-('action', 'MLB')
+('activity', 'IN', 'bathroom')
+('year', 'IN', 'corner')
+('year', 'white')

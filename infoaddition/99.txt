@@ -1,4 +1,5 @@
 Original Sentence: 
-Thursday 's edition misstated the narrowing
+What is that point
 Additional Information: 
-('edition', 'word')
+('point', 'OF', 'board')
+('point', 'sharp')

@@ -1,4 +1,5 @@
 Original Sentence: 
-We 're not rushing into anything
+It has three U.S. branches
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('branch', 'IN', 'tree')
+('branch', 'brown')

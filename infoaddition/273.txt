@@ -1,4 +1,7 @@
 Original Sentence: 
-Investors pulled back from bond funds in September too
+After a while someone has to go over the side
 Additional Information: 
-('bond', 'black ')
+('someone', 'holding', 'cellphone')
+('someone', 'standing')
+('side', 'OF', 'boat')
+('side', 'white')

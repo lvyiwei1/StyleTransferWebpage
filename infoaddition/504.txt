@@ -1,5 +1,7 @@
 Original Sentence: 
-New York Stock Exchange volume was 164,830,000
+Unlike 1987 interest rates have been falling this year
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
+('people', 'showing', 'interest')
+('interest', 'great')
+('year', 'ON', 'bench')
+('year', 'white')

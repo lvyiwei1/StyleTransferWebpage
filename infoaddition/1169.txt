@@ -1,5 +1,9 @@
 Original Sentence: 
-But a few funds have taken other defensive steps
+The plant was evacuated and workers sent home
 Additional Information: 
-('step', 'under', 'door')
-('step', 'concrete')
+('plant', 'IN', 'vase')
+('plant', 'green')
+('worker', 'next to', 'cash register')
+('worker', 'construction')
+('home', 'ON', 'hilltop')
+('home', 'white')

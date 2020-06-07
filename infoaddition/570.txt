@@ -1,5 +1,6 @@
 Original Sentence: 
-Minitruck production fell 13 % to 94,243 units
+Would n't the Japanese like a piece of it
 Additional Information: 
-('unit', 'top', 'truck')
-('unit', 'white')
+('baner', 'IN', 'japanese')
+('piece', 'of sausage on a', 'pizza')
+('piece', 'small')

@@ -1,5 +1,9 @@
 Original Sentence: 
-Each has an equal vote at the monthly meetings
+In some cases competition has squeezed margins
 Additional Information: 
-('vote', 'written on', 'sign')
-('meeting', 'has', 'folder')
+('case', 'HOUSING THE', 'pizza')
+('case', 'black')
+('man', 'watching', 'competition')
+('competition', 'horse')
+('margin', 'separating', 'photo')
+('margin', 'thick')

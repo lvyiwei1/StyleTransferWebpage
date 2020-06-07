@@ -1,7 +1,5 @@
 Original Sentence: 
-It 's expected to produce about 62,000 barrels per day
+Once somebody eats one they get hooked
 Additional Information: 
-('barrel', 'ON', 'road')
-('barrel', 'blue')
-('day', 'time', 'picture')
-('day', 'sunny')
+('somebody', 'using', 'computer')
+('somebody', 'here')

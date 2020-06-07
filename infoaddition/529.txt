@@ -1,7 +1,5 @@
 Original Sentence: 
-Blue chips led the march up in heavy trading
+NESB is also the parent of Omnibank
 Additional Information: 
-('chip', 'IN', 'wall')
-('chip', 'chocolate')
-('march', 'ON', 'sign')
-('red t', 'IN', 'trading')
+('parent', 'holding', 'poles')
+('parent', 'chaperoning')

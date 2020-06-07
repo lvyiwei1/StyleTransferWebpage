@@ -1,8 +1,5 @@
 Original Sentence: 
-Two election commission members opposed the matching plans
+Before that he was an executive with a manufacturing concern
 Additional Information: 
-('member', 'crossing', 'racket')
-('member', 'several')
-('matching', 'bedspreads on', 'beds')
-('plan', 'ON', 'tarmac')
-('plan', 'air')
+('executive', 'ON', 'signs')
+('executive', 'in white')

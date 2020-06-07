@@ -1,5 +1,5 @@
 Original Sentence: 
-Sotheby 's has been aggressively promoting the Dorrance sale
+The harvest delays however are expected to be temporary
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('harvest', 'name of', 'restaurant')
+('harvest', 'gathered')

@@ -1,0 +1,3 @@
+Original Sentence: 
+The stock market reacted strongly to the news
+Emphasize: reacted

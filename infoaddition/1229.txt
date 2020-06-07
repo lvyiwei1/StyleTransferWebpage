@@ -1,5 +1,5 @@
 Original Sentence: 
-Both said the new plan would n't work
+In other words it was a better-than-average Manhattan commute
 Additional Information: 
-('plan', 'ON', 'tarmac')
-('plan', 'air')
+('word', 'ON', 'bus')
+('word', 'white')

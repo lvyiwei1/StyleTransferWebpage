@@ -1,0 +1,3 @@
+Original Sentence: 
+The death toll rose to 63
+Emphasize: rose

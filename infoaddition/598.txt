@@ -1,5 +1,5 @@
 Original Sentence: 
-He sees a psychoanalyst five mornings a week
+Other furriers have also benefited from leathers
 Additional Information: 
-('college campus', 'IN', 'morning')
-('day', 'OF', 'week')
+('leather', 'ON', 'saddle')
+('leather', 'black')

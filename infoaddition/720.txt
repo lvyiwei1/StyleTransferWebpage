@@ -1,5 +1,7 @@
 Original Sentence: 
-Time officials declined to comment
+The company 's president quit suddenly
 Additional Information: 
-('official', 'with', 'hand')
-('official', 'tennis')
+('company', 'that owns', 'bus')
+('company', 'name')
+('president', 'ON', 'television')
+('president', ' United States')

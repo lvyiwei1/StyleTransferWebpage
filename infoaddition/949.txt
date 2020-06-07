@@ -1,5 +1,9 @@
 Original Sentence: 
-Jeffrey Peter and Joseph Jr. are brothers
+The following month the company put itself up for sale
 Additional Information: 
-('brother', 'ON', 'bench')
-('brother', 'playing')
+('month', 'OF', 'picture')
+('month', 'ninth')
+('company', 'at', 'bottom')
+('company', 'name')
+('sale', 'at', 'company')
+('sale', 'red')

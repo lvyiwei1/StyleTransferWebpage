@@ -1,5 +1,5 @@
 Original Sentence: 
-Supporting banks will sign a Texas Declaration of Independents
+The companies are automotive-emissions-testing concerns
 Additional Information: 
-('bank', 'over', 'water')
-('bank', 'grassy')
+('company', 'that owns', 'bus')
+('company', 'name')

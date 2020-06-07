@@ -1,5 +1,6 @@
 Original Sentence: 
-Instead this official said This is vintage George Bush
+The Treasury 's 30-year bond ended over 1\/4 point higher
 Additional Information: 
-('official', 'for', 'tennis')
-('official', 'tennis')
+('bond', 'black ')
+('point', 'ON', 'short hand')
+('point', 'sharp')

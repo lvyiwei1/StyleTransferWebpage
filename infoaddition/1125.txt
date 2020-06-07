@@ -1,6 +1,5 @@
 Original Sentence: 
-The city could lose some of its entrepreneurial flavor
+Earnings of female workers were unchanged
 Additional Information: 
-('city', 'behind', 'man')
-('city', 'large')
-('words', 'caffienated black currant', 'flavor')
+('worker', 'ON', 'ground')
+('worker', 'construction')

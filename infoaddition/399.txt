@@ -1,7 +1,5 @@
 Original Sentence: 
-Nuclear power plants are acceptable
+It also sells single-premium annuities to individuals
 Additional Information: 
-('power', 'lines over railroad', 'tracks')
-('power', 'on')
-('plant', 'laying on', 'sidewalk')
-('plant', 'green')
+('individual', 'holding', 'glass')
+('individual', 'smiling')

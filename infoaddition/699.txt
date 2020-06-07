@@ -1,5 +1,9 @@
 Original Sentence: 
-This was not a do-or-die deal she said
+It recently introduced a line for the home market
 Additional Information: 
-('deal', 'OF', 'bananas')
-('deal', 'great')
+('line', 'ON', 'road')
+('line', 'white')
+('home', 'behind', 'tree')
+('home', 'white')
+('market', 'filled with', 'green peppers')
+('market', 'outdoor')

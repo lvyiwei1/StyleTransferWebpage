@@ -1,5 +1,7 @@
 Original Sentence: 
-Sales rose 6.7 % to 4.27 billion from 4 billion
+The envelope arrives in the mail
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('envelope', 'ON', 'wall')
+('envelope', 'white')
+('mail', 'ON', 'table')
+('mail', 'white')

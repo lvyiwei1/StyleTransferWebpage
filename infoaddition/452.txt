@@ -1,11 +1,7 @@
 Original Sentence: 
-Total return is price changes plus interest income
+In 1987 such selling contributed to a snowball effect
 Additional Information: 
-('return', 'ON', 'street')
-('return', 'black')
-('price', 'ON', 'bike')
-('price', 'written')
-('change', 'ON', 'machine')
-('change', 'loose')
-('people', 'showing', 'interest')
-('interest', 'great')
+('snowball', 'IN', 'hand')
+('snowball', 'rolling down')
+('effect', 'ON', 'clock tower')
+('effect', 'yellow')

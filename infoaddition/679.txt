@@ -1,5 +1,5 @@
 Original Sentence: 
-Mr. Zafris thinks rates are heading down helping small companies
+The December contract declined 1.85 cents a pound to 1.2645
 Additional Information: 
-('company', 'OF', 'company')
-('company', 'name')
+('pound', 'has a', 'ten')
+('pound', 'here')

@@ -1,5 +1,7 @@
 Original Sentence: 
-It 's traders squaring positions
+Sun also reported a record backlog of orders
 Additional Information: 
-('man', 'IN', 'position')
-('position', 'upright')
+('record', 'sitting on', 'record player')
+('record', 'black')
+('order', 'OF', 'french fries')
+('order', 'ready')

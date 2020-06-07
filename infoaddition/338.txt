@@ -1,4 +1,5 @@
 Original Sentence: 
-The firm was indicted in Tampa Fla. on money-laundering charges
+The company reported a big third-quarter loss on Thursday
 Additional Information: 
-('charge', 'can', 'charge')
+('company', 'ON', 'wing')
+('company', 'name')

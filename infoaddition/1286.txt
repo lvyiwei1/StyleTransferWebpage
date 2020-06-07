@@ -1,6 +1,7 @@
 Original Sentence: 
-That means huge travel bills
+It 's expected to produce about 62,000 barrels per day
 Additional Information: 
-('travel', 'guide', 'book')
-('bill', 'OF', "man's hat")
-('bill', 'orange')
+('barrel', 'ON', 'sidewalk')
+('barrel', 'blue')
+('day', 'above', 'city')
+('day', 'sunny')

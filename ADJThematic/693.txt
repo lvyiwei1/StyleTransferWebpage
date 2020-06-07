@@ -1,0 +1,3 @@
+Original Sentence: 
+Its maximum velocity is 72 mph
+Emphasize: maximum

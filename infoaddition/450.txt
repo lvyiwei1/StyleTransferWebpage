@@ -1,5 +1,11 @@
 Original Sentence: 
-Noriega was an expert at bribing and blackmailing people
+Every major maker offers computers with color displays
 Additional Information: 
-('people', 'with', 'dark hair')
-('people', 'standing')
+('maker', 'on', 'surface')
+('maker', 'coffee')
+('computer', 'ON', 'table')
+('computer', 'laptop')
+('color', 'ON', 'television')
+('color', 'red')
+('display', 'IN', 'fridge')
+('display', 'digital')

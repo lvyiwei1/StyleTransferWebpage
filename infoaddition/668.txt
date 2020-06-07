@@ -1,6 +1,7 @@
 Original Sentence: 
-Mortgage securities ended 2\/32 to 4\/32 higher in light trading
+If you are born to give parties you give parties
 Additional Information: 
-('security', 'ON', 'court')
-('security', 'standing')
-('red t', 'IN', 'trading')
+('party', 'at a', 'house')
+('party', 'birthday')
+('party', 'at a', 'house')
+('party', 'birthday')

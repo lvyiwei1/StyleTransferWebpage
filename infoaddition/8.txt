@@ -1,7 +1,5 @@
 Original Sentence: 
-Business was slow because many companies were closed yesterday
+TransCanada transports all gas that moves eastward from Alberta
 Additional Information: 
-('business', 'lining', 'street')
-('business', 'here')
-('company', 'that owns', 'bus')
-('company', 'name')
+('gas', 'ON', 'road')
+('gas', 'invisible')

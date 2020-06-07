@@ -1,5 +1,5 @@
 Original Sentence: 
-I 'm not sure cross-ownership would necessarily make things smoother
+My position is well-known and well-stated he replied
 Additional Information: 
-('thing', 'ON', 'floor')
-('thing', 'black')
+('man', 'IN', 'position')
+('position', 'upright')

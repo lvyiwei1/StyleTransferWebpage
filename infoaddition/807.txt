@@ -1,7 +1,5 @@
 Original Sentence: 
-Bush administration officials say inflation is under control
+Lindens need about 36 feet
 Additional Information: 
-('official', 'IN', 'chair')
-('official', 'tennis')
-('control', 'has', 'button')
-('control', 'remote')
+('foot', 'ON', 'plush')
+('foot', 'bare')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The paper reflected the truth
+Marshall McLuhan you should have been there at that hour
 Additional Information: 
-('paper', 'in front of', 'boy')
-('paper', 'white')
+('hour', 'ON', 'box')
+('hour', 'black')

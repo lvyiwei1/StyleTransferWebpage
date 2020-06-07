@@ -1,4 +1,7 @@
 Original Sentence: 
-Puts or sell options would not be added until 1977
+Understandably smaller growth stocks have n't been in favor recently
 Additional Information: 
-('option', 'ON', 'phone')
+('growth', 'near', 'shore')
+('growth', 'green')
+('stock', 'of', 'stock')
+('stock', 'green')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Earlier this month another effort to choose a commissioner failed
+We 're talking real money
 Additional Information: 
-('month', 'around', 'face')
-('month', 'ninth')
+('money', 'ON', 'table')
+('money', 'paper')

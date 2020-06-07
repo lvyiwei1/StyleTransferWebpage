@@ -1,7 +1,5 @@
 Original Sentence: 
-Pockets exploded with one-yen coins
+I decided to brave the storm
 Additional Information: 
-('pocket', 'with', 'blanket')
-('pocket', 'white')
-('coin', 'in a', 'display')
-('coin', 'gold')
+('storm', 'ON', 'pavement')
+('storm', 'coming')

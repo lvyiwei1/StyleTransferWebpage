@@ -1,5 +1,6 @@
 Original Sentence: 
-Treasury bonds ended narrowly mixed in quiet trading
+But most lawyers accept that the marketplace has spoken
 Additional Information: 
-('bond', 'black ')
-('red t', 'IN', 'trading')
+('lawyer', 'showing a', 'paper')
+('marketplace', 'on side of', 'buildings')
+('marketplace', 'outdoor')

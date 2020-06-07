@@ -1,5 +1,5 @@
 Original Sentence: 
-On June 30 loss reserves stood at 108.3 million
+The other half we may have before long
 Additional Information: 
-('elephants', 'IN', 'reserve')
-('reserve', 'game')
+('half', 'of a sub', 'sandwich')
+('half', 'bottom')

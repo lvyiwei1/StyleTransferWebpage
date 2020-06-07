@@ -1,5 +1,5 @@
 Original Sentence: 
-Read my lips said Mr. Smith
+The centers normally are closed through the weekend
 Additional Information: 
-('lip', 'ON', 'photo')
-('lip', 'pink')
+('center', 'OF', 'flower')
+('center', 'yellow')

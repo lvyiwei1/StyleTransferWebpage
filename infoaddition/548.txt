@@ -1,7 +1,5 @@
 Original Sentence: 
-But junk bonds took more hits
+The judge wrote again
 Additional Information: 
-('junk', 'by', 'building')
-('junk', 'lots')
-('bond', 'black ')
-('ball', 'being', 'hit')
+('judge', 'has', 'vest')
+('judge', 'tennis line')

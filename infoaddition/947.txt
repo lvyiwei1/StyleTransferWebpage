@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales rose 2.9 % to 329.2 million from 320 million
+Then take the expected return and subtract one standard deviation
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('return', 'ON', 'street')
+('return', 'black')

@@ -1,7 +1,5 @@
 Original Sentence: 
-Sorting out the wreckage is expected to take several days
+The successors would be nominated by the independent directors
 Additional Information: 
-('trunks', 'wedge into train', 'wreckage')
-('wreckage', "plane's")
-('day', 'time', 'picture')
-('day', 'sunny')
+('vest', 'ON', 'director')
+('director', 'caucasian')

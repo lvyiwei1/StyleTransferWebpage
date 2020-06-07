@@ -1,5 +1,6 @@
 Original Sentence: 
-This time there are 30 % more shares outstanding
+The year was misstated in Friday 's editions
 Additional Information: 
-('time', 'ON', 'screen')
-('time', 'displayed')
+('year', 'OF', 'picture')
+('year', 'white')
+('edition', 'word')

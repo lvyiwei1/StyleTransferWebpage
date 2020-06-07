@@ -1,7 +1,5 @@
 Original Sentence: 
-The trial begins today in federal court in Philadelphia
+Her instincts were capitalistic despite her background
 Additional Information: 
-('snow', 'has', 'trial')
-('sign', 'reads', 'today')
-('court', 'by', 'fence')
-('court', 'green')
+('background', 'behind', 'man')
+('background', 'white')

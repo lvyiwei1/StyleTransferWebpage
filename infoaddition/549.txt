@@ -1,6 +1,4 @@
 Original Sentence: 
-Lawrence Insurance underwrites mostly primary insurance a company spokesman said
+The death toll rose to 63
 Additional Information: 
-('advertisement', 'for', 'insurance')
-('company', 'that owns', 'bus')
-('company', 'name')
+('toll', 'by', 'car')

@@ -1,5 +1,7 @@
 Original Sentence: 
-You have n't seen the full effect of that yet
+Those companies are paying the price for taking the risk
 Additional Information: 
-('effect', 'ON', 'clock tower')
-('effect', 'yellow')
+('company', 'has', 'advertisement')
+('company', 'name')
+('price', 'for', 'avocados')
+('price', 'written')

@@ -1,4 +1,5 @@
 Original Sentence: 
-Mr. Maynard claims this is a manageable problem
+Once they are in the building they stay
 Additional Information: 
-('plane', 'has', 'problem')
+('building', 'with', 'windows')
+('building', 'white')

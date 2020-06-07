@@ -1,6 +1,7 @@
 Original Sentence: 
-We see it becoming a bargain-basement kind of business
+But it 's like kicking your father in the pants
 Additional Information: 
-('kind', 'ON', 'sidewalk')
-('business', 'sign on', 'building')
-('business', 'here')
+('father', 'watching', 'tennis ball')
+('father', 'smiling')
+('pant', 'has', 'dirt')
+('pant', 'black')

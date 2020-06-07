@@ -1,5 +1,9 @@
 Original Sentence: 
-Merrill Lynch ca n't survive without the little guy
+And you ca n't cut this chain with bolt cutters
 Additional Information: 
-('guy', 'WEARING', 'sneaker')
-('guy', 'standing')
+('chain', 'OF', 'bike')
+('chain', 'metal')
+('bolt', 'ON', 'scissors')
+('bolt', 'metal')
+('cutter', 'has', 'handle')
+('cutter', 'silver')

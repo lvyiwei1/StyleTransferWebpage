@@ -1,0 +1,3 @@
+Original Sentence: 
+Health-insurance costs soared
+Emphasize: soared

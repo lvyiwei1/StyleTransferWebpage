@@ -1,6 +1,5 @@
 Original Sentence: 
-After all in all five recessions since 1960 stocks declined
+So does Mr. Friend and his law partner Nick Nichols
 Additional Information: 
-('recession', 'wall')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('drivers', 'are obeying', 'law')
+('partner', 'playing on', 'tennis court')

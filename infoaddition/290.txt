@@ -1,5 +1,9 @@
 Original Sentence: 
-LDI leases and sells data-processing telecommunications and other high-tech equipment
+Outside I spotted two young men lugging blocks of concrete
 Additional Information: 
-('equipment', 'ON', 'table')
-('equipment', 'electronic')
+('men', 'standing on', 'stage')
+('men', 'standing')
+('block', 'ON', 'wall')
+('block', 'cement')
+('concrete', 'touching', 'lane')
+('concrete', 'grey')

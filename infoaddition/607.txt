@@ -1,5 +1,7 @@
 Original Sentence: 
-The Afrikaner must end his reliance on others
+UNIFIRST Corp. declared a 2-for-1 stock split
 Additional Information: 
-('others', 'at', 'beach')
-('others', 'three')
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('split', 'ON', 'tracks')
+('split', 'long')

@@ -1,7 +1,4 @@
 Original Sentence: 
-We must find any way to get business
+Creation of a new realistic U.S. policy is long overdue
 Additional Information: 
-('way', 'to', 'house')
-('way', 'walk')
-('business', 'name', 'lab')
-('business', 'here')
+('creation', 'made', 'snow')

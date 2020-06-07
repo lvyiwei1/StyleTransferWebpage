@@ -1,5 +1,7 @@
 Original Sentence: 
-Sales were 4.2 billion compared with 3.7 billion
+It did n't provide details of setup costs
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('detail', 'over', 'door')
+('detail', 'red')
+('setup', 'simple')
+('cost', 'displayed in front of', 'banana')

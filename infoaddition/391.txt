@@ -1,7 +1,4 @@
 Original Sentence: 
-Motorola is fighting back against junk mail
+A panic on Wall Street does n't exactly inspire confidence
 Additional Information: 
-('junk', 'behind', 'fence')
-('junk', 'lots')
-('mail', 'ON', 'table')
-('mail', 'white')
+('panic', 'gold')

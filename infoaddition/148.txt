@@ -1,6 +1,5 @@
 Original Sentence: 
-We got some exposure and pretty much good will
+Computer-generated videos help
 Additional Information: 
-('exposure', 'translucent')
-('the', 'console', 'will')
-('will', 'white')
+('video', 'playing on', 'television')
+('video', 'halfway')

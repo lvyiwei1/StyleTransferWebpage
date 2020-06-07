@@ -1,5 +1,7 @@
 Original Sentence: 
-It reduces the baseline by 169 billion
+Sales for the latest quarter were flat at 1.72 billion
 Additional Information: 
-('baseline', 'ON', 'tennis court')
-('baseline', 'white')
+('sale', 'at', 'company')
+('sale', 'red')
+('quarter', 'OF', 'train')
+('quarter', 'silver')

@@ -1,6 +1,5 @@
 Original Sentence: 
-Trading volume was only modestly higher than normal
+The notes can be redeemed starting in July 1991
 Additional Information: 
-('red t', 'IN', 'trading')
-('volume', 'ON', 'headphones')
-('volume', '3')
+('note', 'on a', 'cork board')
+('note', 'yellow')

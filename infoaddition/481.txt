@@ -1,5 +1,7 @@
 Original Sentence: 
-Opponents do n't buy such arguments
+For one thing Digital Maynard Mass. has sold fewer machines
 Additional Information: 
-('opponent', 'IN', 'white uniform')
-('opponent', 'standing')
+('thing', 'under', 'airplane')
+('thing', 'black')
+('machine', 'ON', 'desk')
+('machine', 'white')

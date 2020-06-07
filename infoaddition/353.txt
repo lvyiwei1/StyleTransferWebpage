@@ -1,5 +1,5 @@
 Original Sentence: 
-But it 's in very early stages still
+Tenneco Credit is a unit of Tenneco Inc
 Additional Information: 
-('stage', 'has white letters that says', '"just dancing"')
-('stage', 'black')
+('unit', 'ON', 'bus')
+('unit', 'white')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Tom Herman contributed to this article
+Sales increased 5.5 % to 9.81 billion from 9.3 billion
 Additional Information: 
-('article', 'ON', 'chair')
-('article', 'newspaper')
+('sale', 'ON', 'window')
+('sale', 'red')

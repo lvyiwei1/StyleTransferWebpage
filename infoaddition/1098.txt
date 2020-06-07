@@ -1,7 +1,6 @@
 Original Sentence: 
-Pricing details were n't immediately available
+We recognized the problem and took care of it
 Additional Information: 
-('sign', 'has', 'pricing')
-('pricing', 'hand written')
-('detail', 'OF', 'cake')
-('detail', 'red')
+('plane', 'has', 'problem')
+('fence', 'encloses', 'care')
+('care', 'red')

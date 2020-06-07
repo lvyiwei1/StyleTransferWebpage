@@ -1,7 +1,4 @@
 Original Sentence: 
-They both called it a welcome home gathering
+UAL declined to comment on British Air 's statement
 Additional Information: 
-('home', 'skirts', 'field')
-('home', 'white')
-('gathering', 'OF', 'people')
-('gathering', 'social')
+('statement', 'credit')

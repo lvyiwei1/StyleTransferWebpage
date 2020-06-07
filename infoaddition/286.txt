@@ -1,9 +1,7 @@
 Original Sentence: 
-The ambitious Warsaw project still awaits approval by city officials
+Some people must drop names call it an irresistible impulse
 Additional Information: 
-('sidewalk', 'among', 'project')
-('project', 'sewing')
-('city', 'besides', 'water')
-('city', 'large')
-('official', 'with', 'hand')
-('official', 'tennis')
+('people', 'walking on', 'stairs')
+('people', 'standing')
+('name', 'on back of', 'shirt')
+('name', 'white')

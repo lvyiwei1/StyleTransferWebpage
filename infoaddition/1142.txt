@@ -1,5 +1,5 @@
 Original Sentence: 
-And pregnant women are fat
+The metaphor of theater is not entirely coincidental
 Additional Information: 
-('woman', 'IN', 'dress jacket')
-('woman', 'standing')
+('theater', 'has', 'ceiling')
+('theater', 'movie ')

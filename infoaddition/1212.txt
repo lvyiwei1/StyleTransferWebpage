@@ -1,7 +1,7 @@
 Original Sentence: 
-However risky the business it 's brisk these days
+Neither has plans to be a market maker for now
 Additional Information: 
-('business', 'along', 'road')
-('business', 'here')
-('day', 'at', 'park')
-('day', 'sunny')
+('market', 'has', 'food')
+('market', 'outdoor')
+('maker', 'for', 'coffee')
+('maker', 'coffee')

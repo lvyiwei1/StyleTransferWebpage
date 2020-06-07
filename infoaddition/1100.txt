@@ -1,9 +1,5 @@
 Original Sentence: 
-a Totals include only vehicle sales reported in the period
+Mr. Smith angered Federal 's pilots too
 Additional Information: 
-('vehicle', 'has', 'wheel')
-('vehicle', 'white')
-('sale', 'at', 'company')
-('sale', 'red')
-('period', 'against', 'background')
-('period', 'red')
+('pilot', 'OF', 'fighter')
+('pilot', 'walking')

@@ -1,10 +1,7 @@
 Original Sentence: 
-Next year may see a drop of one percentage point
+NEATNESS does count at least in the grocery store
 Additional Information: 
-('year', 'ON', 'guard')
-('year', 'white')
-('drop', 'ON', 'plate')
-('drop', 'water')
-('coupon', 'has', 'percentage')
-('point', 'has', 'trees')
-('point', 'sharp')
+('grocery', 'ON', 'sign')
+('grocery', 'red')
+('store', 'has', 'front')
+('store', 'red')

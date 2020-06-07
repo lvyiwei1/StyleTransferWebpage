@@ -1,6 +1,6 @@
 Original Sentence: 
-Management Co. manages entertainers and produces markets and finances entertainment
+As a critique of middle-class mores the story is heavy-handed
 Additional Information: 
-('entertainer', 'has', 'hand')
-('center', 'for', 'entertainment')
-('entertainment', 'light brown entertainment ')
+('more', 'OF', 'table')
+('story', 'ON', 'church')
+('story', 'second')

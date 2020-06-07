@@ -1,0 +1,3 @@
+Original Sentence: 
+Estimated and actual results involving losses are omitted
+Emphasize: actual

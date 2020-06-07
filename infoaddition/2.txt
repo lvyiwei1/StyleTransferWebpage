@@ -1,5 +1,5 @@
 Original Sentence: 
-We do n't need cartoons anymore
+We are the producers of that movie
 Additional Information: 
-('cartoon', 'ON', 'tv')
-('cartoon', 'white')
+('movie', 'on top of', 'television')
+('movie', 'vhs')

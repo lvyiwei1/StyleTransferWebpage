@@ -1,0 +1,3 @@
+Original Sentence: 
+He lived with her
+Emphasize: lived

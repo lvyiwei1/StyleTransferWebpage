@@ -1,0 +1,3 @@
+Original Sentence: 
+McCaw 's offer is scheduled to expire tomorrow
+Emphasize: scheduled

@@ -1,9 +1,5 @@
 Original Sentence: 
-Piping in a waste-treatment plant needed immediate repairs
+Kennametal is a carbide-products and cutting-tools company
 Additional Information: 
-('piping', 'ON', 'cover')
-('piping', 'silver')
-('plant', 'growing on', 'ground')
-('plant', 'green')
-('repair', 'ON', 'wall')
-('repair', 'reconstruction')
+('company', 'that owns', 'bus')
+('company', 'name')

@@ -1,5 +1,4 @@
 Original Sentence: 
-He still has 1,143 shares according to SEC files
+Health-insurance costs soared
 Additional Information: 
-('file', 'ON', 'wall')
-('file', 'large')
+('cost', 'displayed in front of', 'banana')

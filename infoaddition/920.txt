@@ -1,6 +1,7 @@
 Original Sentence: 
-I 'm not going to address questions of safety
+The magazine Success however was for years lackluster and unfocused
 Additional Information: 
-('question', 'black')
-('safety', 'cone', 'orange')
-('safety', 'orange')
+('magazine', 'ON', 'coffee table')
+('magazine', 'open')
+('year', 'ON', 'picture')
+('year', 'white')

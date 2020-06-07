@@ -1,5 +1,5 @@
 Original Sentence: 
-The Norfolk Va. company has 172.2 million shares outstanding
+Those days are gone
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
+('day', 'above', 'city')
+('day', 'sunny')

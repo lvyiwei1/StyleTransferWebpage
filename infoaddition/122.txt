@@ -1,8 +1,6 @@
 Original Sentence: 
-Junk bond prices moved higher however
+We want it to be a '90s kind of image
 Additional Information: 
-('junk', 'IN', 'junkyard')
-('junk', 'lots')
-('bond', 'black ')
-('price', 'ON', 'bike')
-('price', 'written')
+('kind', 'ON', 'sidewalk')
+('image', 'ON', 'monitor')
+('image', 'white')

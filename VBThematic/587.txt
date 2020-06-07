@@ -1,0 +1,3 @@
+Original Sentence: 
+The closely held company has n't disclosed sales
+Emphasize: disclosed

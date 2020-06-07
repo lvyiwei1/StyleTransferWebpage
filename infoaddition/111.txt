@@ -1,5 +1,6 @@
 Original Sentence: 
-Analysts predict little or no near-term growth
+Auto insurance rates are soaring
 Additional Information: 
-('growth', 'near', 'grass')
-('growth', 'green')
+('auto', 'written on', 'alarm clock')
+('auto', 'SMALL')
+('advertisement', 'for', 'insurance')

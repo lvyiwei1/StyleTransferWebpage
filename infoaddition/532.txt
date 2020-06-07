@@ -1,5 +1,5 @@
 Original Sentence: 
-Estimated volume was a light 1.7 million ounces
+Please contribute what you can the ad said
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
+('ad', 'with', 'ad')
+('ad', 'white')

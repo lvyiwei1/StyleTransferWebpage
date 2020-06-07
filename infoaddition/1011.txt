@@ -1,7 +1,5 @@
 Original Sentence: 
-Farmers lay down before the bulldozers
+Tendered shares not purchased will be returned to holders
 Additional Information: 
-('farmer', 'beside', 'body')
-('farmer', 'holding')
-('bulldozer', 'clearing out', 'debris')
-('bulldozer', 'yellow')
+('holder', 'ON', 'shoe')
+('holder', 'silver')

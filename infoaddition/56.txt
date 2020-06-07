@@ -1,8 +1,7 @@
 Original Sentence: 
-Exchange seats hit a peak of 1,150,000 in September 1987
+We found a market niche Mr. Mills boasts
 Additional Information: 
-('two women', 'make', 'exchange')
-('seat', 'ON', 'bike')
-('seat', 'black')
-('peak', 'has', 'snow')
-('peak', 'mountain')
+('market', 'place for', 'christmas')
+('market', 'outdoor')
+('niche', 'IN', 'building')
+('niche', 'is')

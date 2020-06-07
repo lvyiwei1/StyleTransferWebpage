@@ -1,7 +1,5 @@
 Original Sentence: 
-Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
+Public TV is in fantasy land he said
 Additional Information: 
-('story', 'ON', 'church')
-('story', 'second')
-('printed', 'happy', 'holiday')
-('holiday', 'colorful')
+('land', 'behind', 'water')
+('land', 'flat')

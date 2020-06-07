@@ -1,5 +1,5 @@
 Original Sentence: 
-Here are two cases to illustrate
+To reinforce employees ' dedication Mr. Smith pays well
 Additional Information: 
-('case', 'ON', 'moped')
-('case', 'black')
+('employee', 'ON', 'tarmac')
+('employee', 'airport')

@@ -1,0 +1,3 @@
+Original Sentence: 
+The government 's action was unusual
+Emphasize: unusual

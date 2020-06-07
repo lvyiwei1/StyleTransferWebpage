@@ -1,0 +1,3 @@
+Original Sentence: 
+UAL fell 56.875 to 222.875
+Emphasize: fell

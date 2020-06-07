@@ -1,7 +1,5 @@
 Original Sentence: 
-In 1987 such selling contributed to a snowball effect
+Increasingly the financial markets are reflecting the gloom
 Additional Information: 
-('snowball', 'IN', 'hand')
-('snowball', 'rolling down')
-('effect', 'ON', 'clock tower')
-('effect', 'yellow')
+('market', 'IN', 'street')
+('market', 'outdoor')

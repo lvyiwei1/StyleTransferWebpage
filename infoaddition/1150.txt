@@ -1,5 +1,5 @@
 Original Sentence: 
-Mr. Milgrim succeeds David Berman who resigned last month
+But Nevada state labor economists think a shortage is probable
 Additional Information: 
-('month', 'around', 'face')
-('month', 'ninth')
+('state', 'ON', 'hood')
+('state', 'Penn ')

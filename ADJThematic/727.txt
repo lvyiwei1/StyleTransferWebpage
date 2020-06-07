@@ -1,0 +1,3 @@
+Original Sentence: 
+This bias is in no way deliberate
+Emphasize: deliberate

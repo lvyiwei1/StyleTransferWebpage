@@ -1,5 +1,7 @@
 Original Sentence: 
-There are still bulls out there
+It 's part of our style too
 Additional Information: 
-('bull', 'has', 'bushy tail')
-('bull', 'brown')
+('part', 'OF', 'water')
+('part', 'small')
+('style', 'ON', 'ceiling')
+('style', 'old')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales rose 8 % to 368.5 million from 340.7 million
+The market during the start-up is estimated at 25,000 subscribers
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('market', 'selling', 'fruit')
+('market', 'outdoor')

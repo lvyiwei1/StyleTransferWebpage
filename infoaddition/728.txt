@@ -1,5 +1,4 @@
 Original Sentence: 
-He will retain the honorary title of non-executive chairman
+Terms were n't disclosed
 Additional Information: 
-('title', 'ON', 'book')
-('title', 'movie')
+('term', 'house of david')

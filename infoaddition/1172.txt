@@ -1,4 +1,6 @@
 Original Sentence: 
-Ortega cited renewed attacks by the U.S.backed rebels
+In Chicago for example size is the issue
 Additional Information: 
-('attack', 'are', 'attack')
+('example', 'lowercase')
+('size', 'ON', 'shirt')
+('size', 'XL')

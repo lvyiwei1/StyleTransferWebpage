@@ -1,7 +1,5 @@
 Original Sentence: 
-Analysts have mixed views about the two-year note auction
+But what about all those non-duck ducks flapping over Washington
 Additional Information: 
-('view', 'of moutains covered in', 'snow')
-('view', 'beautiful')
-('note', 'ON', "guy's head")
-('note', 'yellow')
+('duck', 'has a', 'neck')
+('duck', 'white')

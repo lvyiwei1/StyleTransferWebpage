@@ -1,0 +1,3 @@
+Original Sentence: 
+Bond prices fell after the Chicago report was released
+Emphasize: fell

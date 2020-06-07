@@ -1,5 +1,7 @@
 Original Sentence: 
-Coopers uses the Coopers & Lybrand name world-wide
+I 'm talking about landing in a canal
 Additional Information: 
-('name', 'ON', 'airplane')
-('name', 'white')
+('landing', 'gear', 'underneath')
+('landing', 'gear')
+('canal', 'near', 'pathway')
+('canal', 'calm')

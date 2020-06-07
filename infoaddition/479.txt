@@ -1,5 +1,8 @@
 Original Sentence: 
-Moreover he says Irish companies are small but spunky
+Related Roommates Trim Hospital Bills
 Additional Information: 
-('company', 'has', 'label')
-('company', 'name')
+('roommate', 'IN', 'room')
+('hospital', 'sponser', 'match')
+('hospital', 'mental')
+('bill', 'on front of', 'hat')
+('bill', 'orange')

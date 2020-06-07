@@ -1,7 +1,7 @@
 Original Sentence: 
-And you want to make wicker baskets too
+His hands sit farther apart on the keyboard
 Additional Information: 
-('wicker', 'OF', 'chair')
-('wicker', 'brown')
-('basket', 'behind', 'broccoli')
-('basket', 'brown')
+('hand', 'OF', 'he')
+('hand', 'black')
+('keyboard', 'with', 'keys')
+('keyboard', 'black')

@@ -1,7 +1,5 @@
 Original Sentence: 
-A hundred billion dollars in stock was subject to it
+Rally officials were n't available to comment late yesterday
 Additional Information: 
-('dollar', 'ON', 'table')
-('dollar', 'twenty')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('official', 'ON', 'court')
+('official', 'tennis')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Irish and Soviet people are similar says Mr. Ovcharenko
+Rising operating expenses are another problem
 Additional Information: 
-('people', 'walking on', 'street')
-('people', 'standing')
+('plane', 'has', 'problem')

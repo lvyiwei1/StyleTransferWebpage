@@ -1,4 +1,9 @@
 Original Sentence: 
-I think we 're making progress
+Not all funds have raised cash levels of course
 Additional Information: 
-('a', 'baseball game in', 'progress')
+('cash', 'ON', 'sign')
+('cash', 'Two round pieces  ')
+('level', 'ON', 'bus')
+('level', 'upper')
+('course', 'OF', 'skate park')
+('course', 'green')

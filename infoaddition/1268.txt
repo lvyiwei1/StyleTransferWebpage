@@ -1,7 +1,4 @@
 Original Sentence: 
-The next level down did doors
+The exchange ratio was never established
 Additional Information: 
-('level', 'has', 'light')
-('level', 'upper')
-('door', 'OF', 'toilet')
-('door', 'white')
+('two women', 'make', 'exchange')

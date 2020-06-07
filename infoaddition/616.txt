@@ -1,5 +1,7 @@
 Original Sentence: 
-John R. Wilke contributed to this article
+South African gold stocks closed firmer
 Additional Information: 
-('article', 'IN', 'magazine')
-('article', 'newspaper')
+('gold', 'high', 'heel')
+('gold', 'brown')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

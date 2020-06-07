@@ -1,4 +1,5 @@
 Original Sentence: 
-Assets soared 4.5 billion in the previous week
+Mr. Pound responded It 's a deal
 Additional Information: 
-('day', 'OF', 'week')
+('deal', 'OF', 'bananas')
+('deal', 'great')

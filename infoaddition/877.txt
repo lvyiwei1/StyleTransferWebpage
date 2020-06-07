@@ -1,6 +1,5 @@
 Original Sentence: 
-The percentage change is since year-end
+But a few new spots are opening
 Additional Information: 
-('coupon', 'has', 'percentage')
-('change', 'ON', 'machine')
-('change', 'loose')
+('spot', 'ON', 'lamb')
+('spot', 'brown')

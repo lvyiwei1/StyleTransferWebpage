@@ -1,5 +1,5 @@
 Original Sentence: 
-We 're standing in gasoline so do n't smoke
+We 'd like to do business in America he says
 Additional Information: 
-('truck', 'OF', 'gasoline')
-('gasoline', 'offered')
+('business', 'has', 'awning')
+('business', 'here')

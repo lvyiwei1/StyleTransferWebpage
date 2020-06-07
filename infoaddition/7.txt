@@ -1,5 +1,7 @@
 Original Sentence: 
-Volume totaled 16,800,000 shares
+Some forms of private property would be sanctioned
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
+('form', 'lying under', 'tool')
+('form', 'white')
+('property', 'has', 'ditch')
+('property', 'waterfront')

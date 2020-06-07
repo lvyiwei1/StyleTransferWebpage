@@ -1,5 +1,7 @@
 Original Sentence: 
-Thus an acquisition may prove the necessary course
+Smaller projects swell the figure to at least 2.5 billion
 Additional Information: 
-('course', 'OF', 'skate park')
-('course', 'green')
+('sidewalk', 'among', 'project')
+('project', 'sewing')
+('figure', 'ON', 'sign')
+('figure', 'green')

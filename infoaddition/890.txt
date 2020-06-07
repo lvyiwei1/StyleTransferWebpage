@@ -1,5 +1,5 @@
 Original Sentence: 
-They want to turn everything upside down in a week
+They needed new crises to generate new grants and contracts
 Additional Information: 
-('leafy bushes', 'below', 'everything')
-('day', 'OF', 'week')
+('sign', 'says', 'grant')
+('grant', 'typed 100 times!')

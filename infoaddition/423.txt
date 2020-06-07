@@ -1,5 +1,7 @@
 Original Sentence: 
-He throws something
+None of these chief executives were available for comment
 Additional Information: 
-('something', 'in hands of', 'man')
-('something', 'red')
+('spoon', 'next to', 'chief')
+('chief', 'handker')
+('executive', 'ON', 'signs')
+('executive', 'in white')

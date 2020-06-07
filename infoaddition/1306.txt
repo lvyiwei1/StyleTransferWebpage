@@ -1,7 +1,4 @@
 Original Sentence: 
-The supply of experienced civil engineers though is tighter
+Manufacturers Hanover Trust Co. is redemption agent
 Additional Information: 
-('supply', 'ON', 'table')
-('supply', 'all')
-('engineer', 'OF', 'train')
-('engineer', 'train')
+('agent', 'at', 'airport')

@@ -1,9 +1,7 @@
 Original Sentence: 
-PAY FOR PERFORMANCE hangs mostly on boss 's subjective view
+Is this the wrong time to open a store
 Additional Information: 
-('pay', 'says on', 'truck')
-('teenagers', 'watching', 'performance')
-('stand', 'with', 'bos')
-('bos', 'green')
-('view', 'OF', 'sky')
-('view', 'beautiful')
+('time', 'ON', 'phone')
+('time', 'displayed')
+('store', 'sells', 'furniture')
+('store', 'red')

@@ -1,6 +1,7 @@
 Original Sentence: 
-But the complex language is n't the only reason
+Japanese companies have a caveat competitor attitude
 Additional Information: 
-('language', 'ON', 'sign')
-('language', 'foreign')
-('not', 'in mood right nowhold leg in air for no', 'reason')
+('company', 'ON', 'bus')
+('company', 'name')
+('competitor', 'number', '693')
+('competitor', 'here')

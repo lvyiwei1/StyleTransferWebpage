@@ -1,5 +1,5 @@
 Original Sentence: 
-Now that 's advice the writers should take to heart
+Mr. Gale is an assistant professor of economics at UCLA
 Additional Information: 
-('heart', 'ON', 'bear')
-('heart', 'red')
+('professor', 'teaching', 'college course')
+('professor', 'napping')

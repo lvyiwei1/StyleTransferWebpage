@@ -1,5 +1,5 @@
 Original Sentence: 
-The previous deadline to complete the sale was Nov. 30
+Closer to home the negotiators were more generous
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('home', 'parked in', 'lot')
+('home', 'white')

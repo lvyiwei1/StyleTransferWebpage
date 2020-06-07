@@ -1,5 +1,5 @@
 Original Sentence: 
-The incident occurred Saturday night
+I do n't want expensive machines
 Additional Information: 
-('night', 'hangs over', 'city')
-('night', 'black')
+('machine', 'next to', 'oven')
+('machine', 'white')

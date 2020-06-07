@@ -1,0 +1,3 @@
+Original Sentence: 
+In five minutes the Dow industrials climbed almost 30 points
+Emphasize: climbed

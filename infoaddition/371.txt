@@ -1,5 +1,7 @@
 Original Sentence: 
-Borrowed shares on the Amex rose to another record
+The closely held company has n't disclosed sales
 Additional Information: 
-('record', 'ON', 'record player')
-('record', 'black')
+('company', 'ON', 'bus')
+('company', 'name')
+('sale', 'at', 'company')
+('sale', 'red')

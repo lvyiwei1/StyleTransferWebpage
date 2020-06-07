@@ -1,7 +1,5 @@
 Original Sentence: 
-Company officials could n't be reached
+A bid against Paribas could n't be ruled out
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
-('official', 'IN', 'ring')
-('official', 'tennis')
+('bid', 'ON', 'shoulder')
+('bid', 'metal')

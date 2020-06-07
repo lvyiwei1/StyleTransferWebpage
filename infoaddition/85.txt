@@ -1,5 +1,6 @@
 Original Sentence: 
-Bloomingdale 's does an estimated 1.2 billion in annual sales
+An announcement is more likely next week though
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('announcement', 'ON', 'table')
+('announcement', 'green')
+('day', 'OF', 'week')

@@ -1,5 +1,6 @@
 Original Sentence: 
-Mr. Wanniski is president of Polyconomics Inc. of Morristown N.J
+Defining combat aircraft is even tougher
 Additional Information: 
-('president', 'ON', 'television')
-('president', ' United States')
+('combat', 'ON', 'train')
+('aircraft', 'IN', 'air')
+('aircraft', 'small')

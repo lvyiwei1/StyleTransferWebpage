@@ -1,5 +1,5 @@
 Original Sentence: 
-And her husband sometimes calls her Ducky
+You do n't know which way to punch
 Additional Information: 
-('husband', 'and', 'wife')
-('husband', 'walking')
+('way', 'to', 'house')
+('way', 'walk')

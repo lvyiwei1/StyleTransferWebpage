@@ -1,6 +1,5 @@
 Original Sentence: 
-The rest as they say is history
+Never in my life have I been so frightened
 Additional Information: 
-('rest', 'made out of', 'wood')
-('rest', 'arm')
-('the', 'word', 'history')
+('life', 'ON', 'sign')
+('life', 'printed')

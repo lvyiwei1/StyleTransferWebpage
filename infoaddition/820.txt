@@ -1,6 +1,5 @@
 Original Sentence: 
-Even least-cost environmental solutions will require billions of dollars
+Professional Crisco products are specially made for the foodservice industry
 Additional Information: 
-('solution', 'for', 'windows')
-('dollar', 'IN', 'hand')
-('dollar', 'twenty')
+('product', 'selling on', 'show')
+('product', 'bathroom')

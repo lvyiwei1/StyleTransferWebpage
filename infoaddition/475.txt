@@ -1,5 +1,10 @@
 Original Sentence: 
-Volume totaled 14,560,000 shares
+Neither disclosed details pending board meetings next month
 Additional Information: 
-('volume', 'ON', 'keyboard')
-('volume', '3')
+('detail', 'ON', 'fixture')
+('detail', 'red')
+('board', 'with', 'lettering')
+('board', 'white')
+('meeting', 'has', 'folder')
+('month', 'around', 'face')
+('month', 'ninth')

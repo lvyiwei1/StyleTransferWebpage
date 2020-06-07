@@ -1,4 +1,7 @@
 Original Sentence: 
-Away from the general obligation sector activity was modest
+Wilfred closed its Massachusetts schools earlier this year
 Additional Information: 
-('activity', 'around', 'planes')
+('school', 'ON', 'grass')
+('school', 'word')
+('year', 'ON', 'side')
+('year', 'white')

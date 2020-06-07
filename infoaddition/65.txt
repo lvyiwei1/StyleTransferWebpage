@@ -1,6 +1,7 @@
 Original Sentence: 
-The restaurant was conceived as a sparkling crystalline geode
+The program traders were in there too of course
 Additional Information: 
-('restaurant', 'OF', 'building')
-('restaurant', 'busy')
-('geode', 'large')
+('program', 'beside', 'table')
+('program', 'wedding')
+('course', 'with', 'bunker')
+('course', 'green')

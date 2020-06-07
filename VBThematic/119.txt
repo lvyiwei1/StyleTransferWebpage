@@ -1,0 +1,3 @@
+Original Sentence: 
+He throws something
+Emphasize: throws

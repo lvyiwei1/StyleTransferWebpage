@@ -1,0 +1,3 @@
+Original Sentence: 
+The practice is however legal in most cases
+Emphasize: most

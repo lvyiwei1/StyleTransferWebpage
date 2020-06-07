@@ -1,6 +1,5 @@
 Original Sentence: 
-Bond prices were barely higher
+We do n't need cartoons anymore
 Additional Information: 
-('bond', 'black ')
-('price', 'good for', 'doughnut')
-('price', 'written')
+('cartoon', 'ON', 'cabin door')
+('cartoon', 'white')

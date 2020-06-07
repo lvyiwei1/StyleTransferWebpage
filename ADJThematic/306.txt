@@ -1,0 +1,3 @@
+Original Sentence: 
+The company reported a big third-quarter loss on Thursday
+Emphasize: third-quarter

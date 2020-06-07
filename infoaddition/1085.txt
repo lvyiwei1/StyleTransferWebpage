@@ -1,5 +1,5 @@
 Original Sentence: 
-There 'll be fewer and fewer deals
+Macy acquired those three businesses in May 1988
 Additional Information: 
-('deal', 'OF', 'bananas')
-('deal', 'great')
+('business', 'has', 'sign')
+('business', 'here')

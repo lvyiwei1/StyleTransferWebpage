@@ -1,6 +1,5 @@
 Original Sentence: 
-Stock prices slipped lower in moderate trading
+But analysts say Sansui is a special case
 Additional Information: 
-('price', 'ON', 'bike')
-('price', 'written')
-('red t', 'IN', 'trading')
+('case', 'on top of', 'luggage')
+('case', 'black')

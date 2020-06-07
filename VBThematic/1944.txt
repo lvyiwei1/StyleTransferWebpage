@@ -1,0 +1,3 @@
+Original Sentence: 
+The estimate includes the results of new stores
+Emphasize: includes

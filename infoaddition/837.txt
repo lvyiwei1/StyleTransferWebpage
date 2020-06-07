@@ -1,5 +1,5 @@
 Original Sentence: 
-Seats are currently quoted at 151,000 bid and 162,000 asked
+Tandem 's pricing is just as aggressive
 Additional Information: 
-('seat', 'on a', 'motorcycle')
-('seat', 'black')
+('sign', 'has', 'pricing')
+('pricing', 'hand written')

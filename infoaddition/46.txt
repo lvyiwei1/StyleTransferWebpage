@@ -1,5 +1,5 @@
 Original Sentence: 
-Per-share net rose to 44.08 yen from 36.13 yen
+Peter Gumbel in Moscow contributed to this article
 Additional Information: 
-('net', 'in front of', 'field')
-('net', 'black')
+('article', 'ON', 'chair')
+('article', 'newspaper')

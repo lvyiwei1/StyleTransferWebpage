@@ -1,4 +1,5 @@
 Original Sentence: 
-Clearly the existence of the former lures the latter
+Marcus W. Brauchli contributed to this article
 Additional Information: 
-('man', 'holding', 'lure')
+('article', 'ON', 'chair')
+('article', 'newspaper')

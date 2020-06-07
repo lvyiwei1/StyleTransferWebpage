@@ -1,0 +1,3 @@
+Original Sentence: 
+It will trade over the counter under the symbol CRAY
+Emphasize: trade

@@ -1,5 +1,7 @@
 Original Sentence: 
-Other stocks were affected by corporate earnings
+October is a critical month for the privatization program
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('month', 'around', 'face')
+('month', 'ninth')
+('program', 'ON', 'monitor')
+('program', 'wedding')

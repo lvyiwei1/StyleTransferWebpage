@@ -1,5 +1,8 @@
 Original Sentence: 
-Yet abortion-rights forces remain bitterly critical
+The rest is of course history
 Additional Information: 
-('force', 'ON', 'plane')
-('force', 'black')
+('rest', 'attached to', 'wall')
+('rest', 'arm')
+('course', 'with', 'bunker')
+('course', 'green')
+('the', 'word', 'history')

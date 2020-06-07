@@ -1,5 +1,4 @@
 Original Sentence: 
-You 're making a pure bet on the market
+The move is likely to anger traders
 Additional Information: 
-('market', 'ON', 'sidewalk')
-('market', 'outdoor')
+('mechanism', 'makes it', 'move')

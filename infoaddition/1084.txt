@@ -1,5 +1,5 @@
 Original Sentence: 
-Lindens need about 36 feet
+The government will penalize offenders but wo n't confiscate property
 Additional Information: 
-('foot', 'of', 'elephant')
-('foot', 'bare')
+('property', 'has', 'ditch')
+('property', 'waterfront')

@@ -1,5 +1,7 @@
 Original Sentence: 
-However for many managing speed does not come naturally
+The CFTC has 90 days to respond to such applications
 Additional Information: 
-('speed', 'boat', 'wake')
-('speed', 'black')
+('day', 'full of', 'day')
+('day', 'sunny')
+('application', 'on a', 'cellphone')
+('application', 'loaded')

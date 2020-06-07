@@ -1,0 +1,3 @@
+Original Sentence: 
+The lists total 654.5 million
+Emphasize: total

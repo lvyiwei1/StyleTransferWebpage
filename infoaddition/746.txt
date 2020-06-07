@@ -1,7 +1,4 @@
 Original Sentence: 
-Fuel cost adjustments could change the effective rate increases however
+Its maximum velocity is 72 mph
 Additional Information: 
-('fuel', 'from', 'truck')
-('fuel', 'jet ')
-('cost', 'displayed in front of', 'banana')
-('adjustment', 'row')
+('mph', 'IN', 'letters')

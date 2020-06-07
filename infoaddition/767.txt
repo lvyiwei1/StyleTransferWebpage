@@ -1,6 +1,7 @@
 Original Sentence: 
-FEDERAL PROSECUTORS are concluding fewer criminal cases with trials
+Digital 's new line has been a long time coming
 Additional Information: 
-('case', 'on a', 'counter')
-('case', 'black')
-('snow', 'has', 'trial')
+('line', 'ON', 'board')
+('line', 'white')
+('time', 'ON', 'clock')
+('time', 'displayed')

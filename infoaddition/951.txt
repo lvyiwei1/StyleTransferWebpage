@@ -1,4 +1,5 @@
 Original Sentence: 
-New trade accords were signed
+Estimated volume was 3.5 million ounces
 Additional Information: 
-('company name', 'says', 'trade')
+('volume', 'ON', 'headphones')
+('volume', '3')

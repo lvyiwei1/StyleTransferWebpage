@@ -1,7 +1,6 @@
 Original Sentence: 
-Broader market averages were little changed in the latest session
+The test may come today
 Additional Information: 
-('market', 'has', 'oranges')
-('market', 'outdoor')
-('screen', 'showing', 'session')
-('session', 'skype  ')
+('test', 'sitting in', 'aircraft')
+('test', 'filled out')
+('sign', 'reads', 'today')

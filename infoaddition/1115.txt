@@ -1,4 +1,7 @@
 Original Sentence: 
-It is a knock-out battle perhaps to the death
+The OTC market has only a handful of takeover-related stocks
 Additional Information: 
-('battle', 'close')
+('market', 'selling', 'fruit')
+('market', 'outdoor')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

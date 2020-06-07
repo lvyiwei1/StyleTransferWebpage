@@ -1,4 +1,5 @@
 Original Sentence: 
-Recession fears are springing up again among investors
+Computer Sciences said its work will improve mail-processing efficiency
 Additional Information: 
-('recession', 'wall')
+('work', 'beside', 'paw')
+('work', 'iron')

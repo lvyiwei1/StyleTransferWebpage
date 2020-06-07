@@ -1,0 +1,3 @@
+Original Sentence: 
+We have a major problem and that problem is volatility
+Emphasize: major

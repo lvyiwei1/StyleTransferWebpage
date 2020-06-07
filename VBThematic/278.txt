@@ -1,0 +1,3 @@
+Original Sentence: 
+The buyer was n't identified
+Emphasize: identified

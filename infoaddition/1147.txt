@@ -1,7 +1,6 @@
 Original Sentence: 
-Volume was 959.3 million shares more than triple recent levels
+The stock was trading at 69 just two weeks ago
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
-('level', 'ON', 'bus')
-('level', 'upper')
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('day', 'OF', 'week')

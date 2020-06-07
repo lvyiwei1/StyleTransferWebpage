@@ -1,5 +1,4 @@
 Original Sentence: 
-The resulting stockpiling has depressed the market
+And that 's a problem
 Additional Information: 
-('market', 'place for', 'christmas')
-('market', 'outdoor')
+('plane', 'has', 'problem')

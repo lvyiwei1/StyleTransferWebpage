@@ -1,7 +1,5 @@
 Original Sentence: 
-This is how American women won the right to vote
+We 're after a little bigger niche he said
 Additional Information: 
-('woman', 'standing by', 'chair')
-('woman', 'standing')
-('right', 'foot with ten', 'sneaker')
-('right', 'far')
+('niche', 'IN', 'building')
+('niche', 'is')

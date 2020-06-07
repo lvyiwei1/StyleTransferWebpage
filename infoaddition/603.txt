@@ -1,5 +1,8 @@
 Original Sentence: 
-But the FHA program is hemorrhaging bad loans
+Fuel costs were up 10 % in the third quarter
 Additional Information: 
-('program', 'On screen', 'laptop computer')
-('program', 'wedding')
+('fuel', 'ON', 'train')
+('fuel', 'jet ')
+('cost', 'displayed in front of', 'banana')
+('quarter', 'OF', 'train')
+('quarter', 'silver')

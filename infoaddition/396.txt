@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+The outlook for corporate earnings is fairly bleak
 Additional Information: 
-('term', 'house of david')
+('outlook', 'ON', 'building')

@@ -1,5 +1,5 @@
 Original Sentence: 
-It screwed things up said one major specialist
+Hanson is a London producer of consumer and other goods
 Additional Information: 
-('thing', 'on side of', 'clock')
-('thing', 'black')
+('good', 'on a', 'buffet')
+('good', 'baked')

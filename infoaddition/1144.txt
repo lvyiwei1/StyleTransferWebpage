@@ -1,5 +1,5 @@
 Original Sentence: 
-Breeders are betting on the common folk
+I want to publish one that succeeds said Mr. Lang
 Additional Information: 
-('breeder', 'with a', 'cow')
-('folk', 'gold')
+('one', 'blue', 'plate')
+('one', 'white')

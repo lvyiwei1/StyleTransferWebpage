@@ -1,7 +1,7 @@
 Original Sentence: 
-There is too much complacency says money manager Barry Schrager
+Others analyze the data
 Additional Information: 
-('money', 'hanging out of', 'briefcase')
-('money', 'paper')
-('manager', 'sitting in', 'dugout')
-('manager', 'overlooking action')
+('others', 'at', 'beach')
+('others', 'three')
+('data', 'ON', 'monitor')
+('data', 'green')

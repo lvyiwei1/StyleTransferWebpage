@@ -1,6 +1,4 @@
 Original Sentence: 
-But the lack of lines became painfully apparent
+He reset opening arguments for today
 Additional Information: 
-('lack', 'in front', 'hills')
-('line', 'by', 'fire truck')
-('line', 'white')
+('sign', 'reads', 'today')

@@ -1,4 +1,5 @@
 Original Sentence: 
-Terms were n't disclosed
+That has n't yet captured traders ' attention he added
 Additional Information: 
-('term', 'house of david')
+('people', 'paying', 'attention')
+('attention', 'close')

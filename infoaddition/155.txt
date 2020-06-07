@@ -1,7 +1,5 @@
 Original Sentence: 
-Without machines good farms ca n't get bigger
+Kia is reportedly also considering such a plan
 Additional Information: 
-('machine', 'ON', 'train platform')
-('machine', 'white')
-('farm', 'ON', 'ground')
-('farm', 'here')
+('plan', 'behind', 'guy')
+('plan', 'air')

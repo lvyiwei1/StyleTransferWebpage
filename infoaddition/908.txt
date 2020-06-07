@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales increased 10 % to 2.65 billion from 2.41 billion
+As a result the company has suspended its quarterly dividend
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('company', 'ON', 'building')
+('company', 'name')

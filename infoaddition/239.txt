@@ -1,5 +1,5 @@
 Original Sentence: 
-A lot of pent-up demand is gone
+They looked at the miniature and saw a giant folly
 Additional Information: 
-('lot', 'OF', 'grass')
-('lot', 'parking')
+('miniature', 'rocking', 'chair')
+('miniature', 'manmade')

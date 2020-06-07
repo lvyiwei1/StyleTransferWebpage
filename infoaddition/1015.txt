@@ -1,6 +1,4 @@
 Original Sentence: 
-No such statement appears on the tapes
+Terms were n't disclosed
 Additional Information: 
-('statement', 'credit')
-('tape', 'covering', 'keys')
-('tape', 'yellow')
+('term', 'house of david')

@@ -1,5 +1,6 @@
 Original Sentence: 
-People had died
+Goya Concocts a Milk For Hispanic Tastes
 Additional Information: 
-('people', 'ON', 'grass')
-('people', 'standing')
+('milk', 'IN', 'cups')
+('milk', 'white')
+('taste', 'reads on', 'tractor trailer')

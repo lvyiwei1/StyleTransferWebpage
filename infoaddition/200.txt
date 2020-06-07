@@ -1,4 +1,6 @@
 Original Sentence: 
-The yield on the issue slipped to 7.92 %
+Oddly enough this presents a problem for the stock
 Additional Information: 
-('yield', 'on', 'sign')
+('plane', 'has', 'problem')
+('stock', 'OF', 'broccoli')
+('stock', 'green')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales eased 0.2 % to 8.88 billion from 8.90 billion
+For the Giuliani forces it 's a conundrum
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('force', 'ON', 'plane')
+('force', 'black')

@@ -1,5 +1,7 @@
 Original Sentence: 
-Generally regulators have n't announced enforcement actions in the past
+Seats currently are quoted at 353,500 bid 405,000 asked
 Additional Information: 
-('action', 'IN', 'action')
-('action', 'MLB')
+('seat', 'ON', 'bicycle')
+('seat', 'black')
+('bid', 'ON', 'shoulder')
+('bid', 'metal')

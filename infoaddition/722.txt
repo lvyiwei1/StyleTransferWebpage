@@ -1,5 +1,5 @@
 Original Sentence: 
-The play is filled with intrigue dishonesty and injustice
+The figures are seasonally adjusted
 Additional Information: 
-('basketball', 'IN', 'play')
-('play', 'white')
+('figure', 'on', 'sign board')
+('figure', 'green')

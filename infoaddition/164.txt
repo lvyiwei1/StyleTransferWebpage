@@ -1,6 +1,7 @@
 Original Sentence: 
-There is n't a black worker in sight
+The position of chief operating officer is new
 Additional Information: 
-('worker', 'looking at', 'streetcar')
-('worker', 'construction')
-('train', 'IN', 'sight')
+('catcher', 'IN', 'position')
+('position', 'upright')
+('officer', 'ON', 'motorcycle')
+('officer', 'police')

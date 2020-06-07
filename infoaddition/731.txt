@@ -1,6 +1,6 @@
 Original Sentence: 
-Lackluster returns are one reason
+But we should n't leave out political reasons number one
 Additional Information: 
-('return', 'ON', 'street')
-('return', 'black')
 ('not', 'in mood right nowhold leg in air for no', 'reason')
+('number', 'ON', 'wall')
+('number', 'black')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Ten minutes later it was done
+Nekoosa ranked 11th with sales of 3.59 billion
 Additional Information: 
-('minute', 'hand on', 'clock')
-('minute', 'black')
+('sale', 'at', 'company')
+('sale', 'red')

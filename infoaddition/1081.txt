@@ -1,5 +1,5 @@
 Original Sentence: 
-The price was n't disclosed
+It 's very worrying that these markets ca n't cope
 Additional Information: 
-('price', 'written on', 'paper')
-('price', 'written')
+('market', 'filled with', 'green peppers')
+('market', 'outdoor')

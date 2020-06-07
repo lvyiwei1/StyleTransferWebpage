@@ -1,0 +1,3 @@
+Original Sentence: 
+It expects a 1.42 billion quarterly loss
+Emphasize: quarterly

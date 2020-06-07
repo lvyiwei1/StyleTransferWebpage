@@ -1,11 +1,7 @@
 Original Sentence: 
-He had been group vice president of the electronic-publishing group
+It seeks unspecified money damages
 Additional Information: 
-('group', 'OF', 'people')
-('group', 'large')
-('handle', 'ON', 'vice')
-('vice', 'blue')
-('president', 'ON', 'television')
-('president', ' United States')
-('group', 'ON', 'beach')
-('group', 'large')
+('money', 'IN', 'hand')
+('money', 'paper')
+('damage', 'ON', 'wall')
+('damage', 'moisture')

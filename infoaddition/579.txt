@@ -1,4 +1,6 @@
 Original Sentence: 
-They will be available in minimum denominations of 10,000
+Everyone in the world is watching us very closely
 Additional Information: 
-('denomination', 'American dollar bill ')
+('everyone', 'stretches out right', 'leg')
+('everyone', 'smiling')
+('world', 'map on', 'wall')

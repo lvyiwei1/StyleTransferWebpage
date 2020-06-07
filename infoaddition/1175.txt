@@ -1,8 +1,5 @@
 Original Sentence: 
-Aldus Seattle makes computer software products
+we 're in for a lot of turbulence
 Additional Information: 
-('computer', 'sitting on', 'desk')
-('computer', 'laptop')
-('software', 'blue')
-('product', 'IN', 'box')
-('product', 'bathroom')
+('lot', 'for', 'truck')
+('lot', 'parking')

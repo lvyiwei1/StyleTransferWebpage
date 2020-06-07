@@ -1,5 +1,5 @@
 Original Sentence: 
-The index fell 151.20 Friday
+We are having a regular day
 Additional Information: 
-('index', 'finger', 'cutting donut')
-('index', 'is a finger')
+('day', 'with', 'tower')
+('day', 'sunny')

@@ -1,5 +1,7 @@
 Original Sentence: 
-Yet some funds have pulled in their horns
+Certain details of the restructured facilities remain to be negotiated
 Additional Information: 
-('horn', 'ON', 'giraffe head')
-('horn', 'black')
+('detail', 'on side of', 'detail')
+('detail', 'red')
+('facility', 'near', 'river')
+('facility', 'skateboarding')

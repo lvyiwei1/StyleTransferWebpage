@@ -1,5 +1,4 @@
 Original Sentence: 
-The latest quarter included a 6.6 million write-down of investments
+Bofors admits payments of 41 million to middlemen
 Additional Information: 
-('quarter', 'ON', 'counter top')
-('quarter', 'silver')
+('payment', 'for', 'produce')

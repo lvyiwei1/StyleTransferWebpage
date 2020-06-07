@@ -1,0 +1,3 @@
+Original Sentence: 
+The worst-case scenario would be if the put expires worthless
+Emphasize: worst-case

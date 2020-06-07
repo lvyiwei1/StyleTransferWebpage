@@ -1,0 +1,3 @@
+Original Sentence: 
+There is n't a black worker in sight
+Emphasize: black

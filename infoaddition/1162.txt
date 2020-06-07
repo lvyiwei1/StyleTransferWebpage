@@ -1,4 +1,8 @@
 Original Sentence: 
-Frequent Drinker Offer Stirs Up Spirited Debate
+The company expects all branches to reopen today
 Additional Information: 
-('panel', 'for', 'debate')
+('company', 'has', 'name')
+('company', 'name')
+('branch', 'near', 'butterfly')
+('branch', 'brown')
+('sign', 'reads', 'today')

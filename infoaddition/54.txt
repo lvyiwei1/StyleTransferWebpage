@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales dropped 2 % to 4.8 billion from 4.9 billion
+Productivity in Japanese offices is relatively low
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('office', 'with', 'laptop')
+('office', 'small')

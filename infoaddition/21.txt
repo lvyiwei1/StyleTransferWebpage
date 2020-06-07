@@ -1,9 +1,5 @@
 Original Sentence: 
-They effectively lead team efforts to reduce cycle time
+The turnover in both issues was roughly normal
 Additional Information: 
-('team', 'has', 'dugout')
-('team', 'posing')
-('cycle', 'ON', 'road')
-('cycle', 'black')
-('time', 'ON', 'clock')
-('time', 'displayed')
+('turnover', 'ON', 'paper')
+('turnover', 'apple')

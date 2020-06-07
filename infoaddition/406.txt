@@ -1,4 +1,7 @@
 Original Sentence: 
-But Japanese bonds ended weaker
+Value of the properties and management interests was n't disclosed
 Additional Information: 
-('bond', 'black ')
+('property', 'standing', 'chainlink fence')
+('property', 'waterfront')
+('people', 'showing', 'interest')
+('interest', 'great')

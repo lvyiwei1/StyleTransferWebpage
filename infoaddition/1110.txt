@@ -1,5 +1,6 @@
 Original Sentence: 
-Oil-tool prices are even edging up
+The company plans to be fully operational today
 Additional Information: 
-('price', 'ON', 'book')
-('price', 'written')
+('company', 'made', 'snowboard')
+('company', 'name')
+('cow', 'are laying down', 'today')

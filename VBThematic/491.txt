@@ -1,0 +1,3 @@
+Original Sentence: 
+I 've read Balzac he answers critics
+Emphasize: answers

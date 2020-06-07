@@ -1,5 +1,7 @@
 Original Sentence: 
-Everyone around me lives well
+She did n't have hot water for five days
 Additional Information: 
-('everyone', 'ON', 'sidewalk')
-('everyone', 'smiling')
+('water', 'falling from', 'umbrella')
+('water', 'blue')
+('day', 'within', 'lake')
+('day', 'sunny')

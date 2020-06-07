@@ -1,5 +1,7 @@
 Original Sentence: 
-Ford has signaled it might acquire a majority interest later
+LUTHER BURBANK CROSS-BRED PLANTS to produce the billion-dollar Idaho potato
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
+('plant', 'against', 'wall')
+('plant', 'green')
+('potato', 'with', 'cheese')
+('potato', 'fried')

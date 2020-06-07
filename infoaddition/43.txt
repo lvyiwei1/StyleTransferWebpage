@@ -1,6 +1,5 @@
 Original Sentence: 
-Advertisers already are balking at higher prices
+Proceeds from those sales will be used to reduce debt
 Additional Information: 
-('advertiser', 'ON', 'train')
-('price', 'ON', 'tag')
-('price', 'written')
+('sale', 'ON', 'window')
+('sale', 'red')

@@ -1,4 +1,5 @@
 Original Sentence: 
-He reset opening arguments for today
+But wait a second
 Additional Information: 
-('sign', 'reads', 'today')
+('second', 'floor', 'balcony')
+('second', 'black')

@@ -1,0 +1,3 @@
+Original Sentence: 
+It should read Have You Anything Left
+Emphasize: Left

@@ -1,5 +1,7 @@
 Original Sentence: 
-A warm foster home has been found
+Her sister Cynthia wishes Toni had a different job
 Additional Information: 
-('home', 'has', 'roof')
-('home', 'white')
+('boy', 'looking at', 'sister')
+('sister', 'sitting')
+('job', 'ON', 'bus')
+('job', 'decorative')

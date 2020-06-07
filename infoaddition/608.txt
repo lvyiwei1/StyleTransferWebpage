@@ -1,7 +1,7 @@
 Original Sentence: 
-Major European auction houses are turning increasingly to specialized sales
+There are a lot of have and have-not markets
 Additional Information: 
-('house', 'IN', 'distance')
-('house', 'white')
-('sale', 'at', 'company')
-('sale', 'red')
+('lot', 'to', 'park')
+('lot', 'parking')
+('market', 'has', 'fruit')
+('market', 'outdoor')

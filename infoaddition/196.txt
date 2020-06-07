@@ -1,5 +1,7 @@
 Original Sentence: 
-Joann S. Lublin in London contributed to this article
+Other companies figure they ca n't avoid the market
 Additional Information: 
-('article', 'ON', 'hill')
-('article', 'newspaper')
+('company', 'has', 'label')
+('company', 'name')
+('market', 'OF', 'cucumbers')
+('market', 'outdoor')

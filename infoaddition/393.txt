@@ -1,6 +1,5 @@
 Original Sentence: 
-Anti-abortion forces regard him as at best an uncertain ally
+Brokers agreed with the two-tier price theory
 Additional Information: 
-('force', 'ON', 'plane')
-('force', 'black')
-('people', 'in an', 'ally')
+('price', 'ON', 'sign')
+('price', 'written')

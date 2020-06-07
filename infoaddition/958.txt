@@ -1,8 +1,8 @@
 Original Sentence: 
-Some bourbon makers advertise abroad as they do at home
+Canada is the world 's largest producer of market pulp
 Additional Information: 
-('bourbon', 'on a', 'sign')
-('maker', 'on front of', 'fridge')
-('maker', 'coffee')
-('home', 'ON', 'hill')
-('home', 'white')
+('world', 'on side of', 'airplane')
+('market', 'OF', 'fruit')
+('market', 'outdoor')
+('pulp', 'OF', 'orange')
+('pulp', 'orange')

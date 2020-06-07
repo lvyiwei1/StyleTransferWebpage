@@ -1,0 +1,3 @@
+Original Sentence: 
+Investment analysts generally agree
+Emphasize: agree

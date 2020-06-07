@@ -1,0 +1,3 @@
+Original Sentence: 
+It reduces the baseline by 169 billion
+Emphasize: reduces

@@ -1,0 +1,3 @@
+Original Sentence: 
+The market 's pessimism reflects the gloomy outlook in Detroit
+Emphasize: gloomy

@@ -1,7 +1,5 @@
 Original Sentence: 
-They ca n't buy feed from the state
+Joann S. Lublin contributed to this article
 Additional Information: 
-('feed', 'under', 'nose')
-('feed', 'black')
-('state', 'ON', 'sign')
-('state', 'Penn ')
+('article', 'OF', 'clothing')
+('article', 'newspaper')

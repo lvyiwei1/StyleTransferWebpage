@@ -1,5 +1,5 @@
 Original Sentence: 
-Like many sports buffs Mr. Engelken has turned cynic
+Estimated volume was a moderate 3.5 million ounces
 Additional Information: 
-('sport', 'written on screen of', 'game')
-('sport', 'popular')
+('volume', 'ON', 'headphones')
+('volume', '3')

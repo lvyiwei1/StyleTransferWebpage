@@ -1,6 +1,4 @@
 Original Sentence: 
-Japanese stock salesmen selling American bonds
+He called the battle uphill
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
-('bond', 'black ')
+('battle', 'close')

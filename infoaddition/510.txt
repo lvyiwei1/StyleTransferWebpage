@@ -1,5 +1,7 @@
 Original Sentence: 
-Accord prices start at 12,345
+The playoff series had riveted the 12-year-old Giants fan
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
+('series', 'of posted American', 'flags')
+('series', 'of ski gates')
+('fan', 'IN', 'first row')
+('fan', 'white')

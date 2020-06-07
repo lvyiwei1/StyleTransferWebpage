@@ -1,5 +1,7 @@
 Original Sentence: 
-Growth is slower
+Now comes the pool flap
 Additional Information: 
-('growth', 'on', 'shore')
-('growth', 'green')
+('pool', 'in front of', 'building')
+('pool', 'blue')
+('flap', 'OF', 'bird')
+('flap', 'white')

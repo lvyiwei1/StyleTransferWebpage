@@ -1,9 +1,11 @@
 Original Sentence: 
-People have a different reputation country by country
+Their machine tools are even bolted to the shop floor
 Additional Information: 
-('people', 'crossing a', 'road')
-('people', 'standing')
-('country', 'ON', 'skateboard')
-('country', 'foreign')
-('country', 'ON', 'skateboard')
-('country', 'foreign')
+('machine', 'ON', 'truck')
+('machine', 'white')
+('tool', 'attached to', 'hydrant')
+('tool', 'metal')
+('shop', 'IN', 'lounge')
+('shop', 'street level')
+('floor', 'has', 'square pattern')
+('floor', 'brown')

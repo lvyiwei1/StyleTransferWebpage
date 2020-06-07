@@ -1,4 +1,5 @@
 Original Sentence: 
-Some foodstuff shipments will probably resume Thursday he said
+The minimum unit is 100,000
 Additional Information: 
-('shipment', 'ON', 'truck')
+('unit', 'ON', 'building')
+('unit', 'white')

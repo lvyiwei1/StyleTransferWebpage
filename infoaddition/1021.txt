@@ -1,5 +1,5 @@
 Original Sentence: 
-Older people help profits by filling in downtime
+Like many sports buffs Mr. Engelken has turned cynic
 Additional Information: 
-('people', 'carrying', 'purse')
-('people', 'standing')
+('sport', 'written on screen of', 'game')
+('sport', 'popular')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Americans may not be so lucky the next time
+At least it has a little dash
 Additional Information: 
-('time', 'reflected on', 'clock')
-('time', 'displayed')
+('dash', 'ON', 'road')
+('dash', 'white')

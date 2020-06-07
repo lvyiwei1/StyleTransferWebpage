@@ -1,4 +1,6 @@
 Original Sentence: 
-There were rumors of 148-a-share trades
+Accepted theories of asset pricing offer a perfectly legitimate explanation
 Additional Information: 
-('company name', 'says', 'trade')
+('menu', 'with', 'pricing')
+('pricing', 'hand written')
+('explanation', 'OF', 'display')

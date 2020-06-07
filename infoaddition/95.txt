@@ -1,5 +1,5 @@
 Original Sentence: 
-Others were more cautious
+Volume totaled 8,930,000 shares
 Additional Information: 
-('others', 'facing away from', 'zebra')
-('others', 'three')
+('volume', 'ON', 'headphones')
+('volume', '3')

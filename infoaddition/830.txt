@@ -1,5 +1,5 @@
 Original Sentence: 
-Japan is a major target for the Soviets
+There was tremendous public enthusiasm for stock mutual funds
 Additional Information: 
-('target', 'ON', 'plane')
-('target', 'red')
+('stock', 'of', 'stock')
+('stock', 'green')

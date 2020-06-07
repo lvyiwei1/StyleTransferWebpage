@@ -1,5 +1,5 @@
 Original Sentence: 
-Later he marketed glue
+Accord prices start at 12,345
 Additional Information: 
-('glue', 'ON', 'wooden table')
-('glue', 'bottles')
+('price', 'OF', 'food')
+('price', 'written')

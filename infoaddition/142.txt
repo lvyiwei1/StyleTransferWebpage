@@ -1,7 +1,5 @@
 Original Sentence: 
-Michael late yesterday announced a 3.8 million stock buy-back program
+Yet some funds have pulled in their horns
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
-('program', 'running', 'laptop')
-('program', 'wedding')
+('horn', 'ON', 'bull')
+('horn', 'black')

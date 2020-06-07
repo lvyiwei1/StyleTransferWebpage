@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales rose 7 % to 3.8 billion
+Not all the scandal-tripped have enjoyed soft landings
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('landing', 'gear and its', 'assembly')
+('landing', 'gear')

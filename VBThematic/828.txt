@@ -1,0 +1,3 @@
+Original Sentence: 
+He withdrew the remark
+Emphasize: withdrew

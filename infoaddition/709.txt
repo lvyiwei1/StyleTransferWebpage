@@ -1,5 +1,4 @@
 Original Sentence: 
-Closer to home the negotiators were more generous
+Terms were n't disclosed
 Additional Information: 
-('home', 'has a', 'window')
-('home', 'white')
+('term', 'house of david')

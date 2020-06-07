@@ -1,4 +1,7 @@
 Original Sentence: 
-Most British programming is more of an acquired taste
+Customized baskets of fewer stocks will also be available
 Additional Information: 
-('taste', 'reads on', 'tractor trailer')
+('basket', 'ON', 'ground')
+('basket', 'brown')
+('stock', 'of', 'stock')
+('stock', 'green')

@@ -1,10 +1,7 @@
 Original Sentence: 
-The condom balloon was denied official entry status this year
+He has a built-in constant longing for lower interest rates
 Additional Information: 
-('balloon', 'ON', 'table')
-('balloon', 'blue')
-('entry', 'has a', 'arch')
-('entry', 'dark')
-('clock', 'ON', 'status')
-('year', 'ON', 'building')
-('year', 'white')
+('built-in', 'microwave', 'oven')
+('built-in', 'Black ')
+('people', 'showing', 'interest')
+('interest', 'great')

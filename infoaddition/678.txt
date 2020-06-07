@@ -1,7 +1,7 @@
 Original Sentence: 
-He also leads an opulent life style
+Some found it on the screen of a personal computer
 Additional Information: 
-('life', 'ON', 'sign')
-('life', 'printed')
-('style', 'ON', 'ceiling')
-('style', 'old')
+('screen', 'with', 'water')
+('screen', 'on')
+('computer', 'ON', 'desk')
+('computer', 'laptop')

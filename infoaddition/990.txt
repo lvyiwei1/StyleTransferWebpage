@@ -1,6 +1,5 @@
 Original Sentence: 
-Mr. Jones is attacking the problem on several fronts
+But others said pico should proceed
 Additional Information: 
-('plane', 'has', 'problem')
-('front', 'OF', 'bus.')
-('front', 'yellow')
+('others', 'IN', 'background')
+('others', 'three')

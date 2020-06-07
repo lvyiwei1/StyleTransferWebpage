@@ -1,7 +1,5 @@
 Original Sentence: 
-And some fund groups said investors actually became net buyers
+They allowed this country to be credible
 Additional Information: 
-('group', 'OF', 'trees')
-('group', 'large')
-('buyer', 'looking at', 'goods')
-('buyer', 'prospective')
+('country', 'ON', 'skateboard')
+('country', 'foreign')

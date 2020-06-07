@@ -1,0 +1,3 @@
+Original Sentence: 
+Do n't jump yet
+Emphasize: jump

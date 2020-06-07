@@ -1,7 +1,5 @@
 Original Sentence: 
-Lloyd 's officials decline to comment on the matter
+I would like to issue a challenge to corporate America
 Additional Information: 
-('official', 'WEARING', 'shirt')
-('official', 'tennis')
-('matter', 'ON', 'rim')
-('matter', 'green')
+('challenge', 'ON', 'truck')
+('challenge', 'word')

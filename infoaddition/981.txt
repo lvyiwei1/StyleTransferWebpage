@@ -1,5 +1,5 @@
 Original Sentence: 
-Please contribute what you can the ad said
+They want a 24-hour library
 Additional Information: 
-('ad', 'ON', 'wall')
-('ad', 'white')
+('library', 'OF', 'books')
+('library', 'white')

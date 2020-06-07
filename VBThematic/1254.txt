@@ -1,0 +1,3 @@
+Original Sentence: 
+The cafeteria remains closed
+Emphasize: remains

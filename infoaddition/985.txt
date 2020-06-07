@@ -1,5 +1,5 @@
 Original Sentence: 
-Was 300 ft. out on a pier in San Rafael
+November gasoline slipped slightly
 Additional Information: 
-('pier', 'IN', 'calm water')
-('pier', 'wooden')
+('truck', 'OF', 'gasoline')
+('gasoline', 'offered')

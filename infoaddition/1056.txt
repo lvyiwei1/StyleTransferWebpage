@@ -1,7 +1,5 @@
 Original Sentence: 
-The solution to this problem is a time-limited poison pill
+But fund managers say they 're ready
 Additional Information: 
-('solution', 'for', 'windows')
-('plane', 'has', 'problem')
-('pill', 'ON', 'table')
-('pill', 'pink')
+('manager', 'sitting in', 'dugout')
+('manager', 'overlooking action')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Here is an example
+Third they offer high yields
 Additional Information: 
-('example', 'lowercase')
+('yield', 'on', 'sign')

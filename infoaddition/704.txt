@@ -1,6 +1,5 @@
 Original Sentence: 
-As the West German currency rose so did Merkur prices
+The experiment was stopped briefly to change an instrument
 Additional Information: 
-('currency', 'by', 'luggage')
-('price', 'tag', 'roll')
-('price', 'written')
+('instrument', 'ON', 'mantle')
+('instrument', 'musical')

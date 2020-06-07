@@ -1,5 +1,5 @@
 Original Sentence: 
-AMR has not been and is not for sale
+Mr. Patel also was placed on three years ' probation
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('year', 'ON', 'side')
+('year', 'white')

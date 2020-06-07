@@ -1,5 +1,6 @@
 Original Sentence: 
-We think this is a superior deal to McCaw 's
+Third-quarter earnings at both companies were below analysts ' forecasts
 Additional Information: 
-('deal', 'OF', 'bananas')
-('deal', 'great')
+('company', 'that owns', 'bus')
+('company', 'name')
+('forecast', 'here')

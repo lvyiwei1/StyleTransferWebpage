@@ -1,0 +1,3 @@
+Original Sentence: 
+Mr. Bass is based in Fort Worth
+Emphasize: based

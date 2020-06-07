@@ -1,0 +1,3 @@
+Original Sentence: 
+Tokyo 's Nikkei index fell 84.15 points to 35442.40
+Emphasize: fell

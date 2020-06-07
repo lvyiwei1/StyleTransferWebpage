@@ -1,9 +1,11 @@
 Original Sentence: 
-It 's tabloid news from A to Z
+Some have raised their cash positions to record levels
 Additional Information: 
-('news', 'ON', 'bus')
-('news', 'word')
-('a', 'water', 'tower')
-('a', 'black')
-('z', 'ON', 'sign')
-('z', 'letter')
+('cash', 'inside', 'purse')
+('cash', 'Two round pieces  ')
+('catcher', 'IN', 'position')
+('position', 'upright')
+('record', 'on top of', 'turntable')
+('record', 'black')
+('level', 'ON', 'bus')
+('level', 'upper')

@@ -1,6 +1,7 @@
 Original Sentence: 
-We recognized the problem and took care of it
+Over the next few years I would advise caution
 Additional Information: 
-('plane', 'has', 'problem')
-('fence', 'encloses', 'care')
-('care', 'red')
+('year', 'ON', 'bench')
+('year', 'white')
+('caution', 'sign at a skate', 'park')
+('caution', 'written')

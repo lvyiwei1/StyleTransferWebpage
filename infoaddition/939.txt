@@ -1,7 +1,5 @@
 Original Sentence: 
-For starters some people call Ed and Lorraine Warren
+The difference is magnified by time too
 Additional Information: 
-('starter', 'ON', 'table')
-('starter', 'motorcycle kick')
-('people', 'at', 'table')
-('people', 'standing')
+('time', 'says', 'time')
+('time', 'displayed')

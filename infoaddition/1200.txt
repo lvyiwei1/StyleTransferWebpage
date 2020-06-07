@@ -1,6 +1,5 @@
 Original Sentence: 
-That hurts investors ' confidence in the economy and stocks
+Sales rose to 2.45 billion from 2.2 billion
 Additional Information: 
-('economy', 'ON', 'train')
-('stock', 'of', 'stock')
-('stock', 'green')
+('sale', 'at', 'company')
+('sale', 'red')

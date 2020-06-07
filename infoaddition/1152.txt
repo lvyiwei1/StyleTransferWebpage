@@ -1,7 +1,7 @@
 Original Sentence: 
-Strong farmer selling over the weekend also weighed on prices
+Another contradictory message comes from Businessland Inc. a computer retailer
 Additional Information: 
-('farmer', 'pulling', 'blue plow')
-('farmer', 'holding')
-('price', 'ON', 'circle')
-('price', 'written')
+('message', 'ON', 'step')
+('message', 'white')
+('computer', 'on top of', 'desk')
+('computer', 'laptop')

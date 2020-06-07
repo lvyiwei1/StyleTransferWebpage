@@ -1,4 +1,8 @@
 Original Sentence: 
-His 1988 salary was 575,000 with a 575,000 bonus
+Addison is no stranger to cans of worms either
 Additional Information: 
-('bonus', 'under', 'patty')
+('stranger', 'happy')
+('can', 'ON', 'sidewalk')
+('can', 'trash')
+('worm', 'held in', 'beak')
+('worm', 'green')

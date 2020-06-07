@@ -1,7 +1,4 @@
 Original Sentence: 
-Those companies are paying the price for taking the risk
+JURY 'S CRIMINAL CONVICTION under Superfund law is a first
 Additional Information: 
-('company', 'OF', 'company')
-('company', 'name')
-('price', 'ON', 'sign')
-('price', 'written')
+('drivers', 'are obeying', 'law')

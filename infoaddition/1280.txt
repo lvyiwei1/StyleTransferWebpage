@@ -1,5 +1,5 @@
 Original Sentence: 
-He has mastered the art of survival
+Still the split is there
 Additional Information: 
-('art', 'ON', 'wall')
-('art', 'framed')
+('split', 'IN', 'tree trunk')
+('split', 'long')

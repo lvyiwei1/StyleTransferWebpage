@@ -1,0 +1,3 @@
+Original Sentence: 
+Unlike 1987 the dollar has been strong
+Emphasize: strong

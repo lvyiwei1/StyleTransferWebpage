@@ -1,5 +1,5 @@
 Original Sentence: 
-Tomorrow the Treasury will sell 10 billion of two-year notes
+She was the child of relative privilege
 Additional Information: 
-('note', 'ON', 'table')
-('note', 'yellow')
+('child', 'standing at', 'ocean')
+('child', 'small')

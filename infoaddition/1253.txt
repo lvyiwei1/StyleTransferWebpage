@@ -1,5 +1,6 @@
 Original Sentence: 
-Brown-Forman a Louisville Ky. distiller also declined to comment
+But Friday did n't help things says Mr. Schaefer
 Additional Information: 
-('distiller', 'ON', 'shelf')
-('distiller', 'glass')
+('poster', 'says', 'help')
+('thing', 'protects', 'pizza')
+('thing', 'black')

@@ -1,6 +1,5 @@
 Original Sentence: 
-Trading also was heavy in the over-the-counter market
+GAF faces potential fines of 500,000 for each count
 Additional Information: 
-('red t', 'IN', 'trading')
-('market', 'OF', 'fruit')
-('market', 'outdoor')
+('fine', 'legal')
+('man', 'IN', 'count')

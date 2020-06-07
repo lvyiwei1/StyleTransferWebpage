@@ -1,0 +1,3 @@
+Original Sentence: 
+Sam Ramirez and his men are late
+Emphasize: late

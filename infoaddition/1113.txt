@@ -1,7 +1,6 @@
 Original Sentence: 
-Is somebody telling us something
+New Jersey Bell awaits state clearance
 Additional Information: 
-('somebody', 'using', 'computer')
-('somebody', 'here')
-('something', 'that holds', 'lights')
-('something', 'red')
+('state', 'park', 'sign')
+('state', 'Penn ')
+('business sign', 'says', 'clearance')

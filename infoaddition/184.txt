@@ -1,4 +1,5 @@
 Original Sentence: 
-Your Sept. 25 criticism of credit-card foreign-exchange charges is unwarranted
+Sometimes says his wife we 're happy about that
 Additional Information: 
-('charge', 'can', 'charge')
+('wife', 'cutting', 'cake')
+('wife', 'superhero')

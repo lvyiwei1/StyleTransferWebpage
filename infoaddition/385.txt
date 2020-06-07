@@ -1,4 +1,7 @@
 Original Sentence: 
-Edisto currently is the general partner of NRM
+They will have to throw their hat in the ring
 Additional Information: 
-('partner', 'playing on', 'tennis court')
+('hat', 'on top of', 'head')
+('hat', 'black')
+('ring', 'worn around', 'finger')
+('ring', 'silver')

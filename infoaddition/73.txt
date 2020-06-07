@@ -1,5 +1,5 @@
 Original Sentence: 
-Newport Beach fits the scam artists ' specifications perfectly
+The lists total 654.5 million
 Additional Information: 
-('artist', 'signature', 'tag')
-('artist', 'painting')
+('list', 'hanging on', 'wall')
+('list', 'champagne ')

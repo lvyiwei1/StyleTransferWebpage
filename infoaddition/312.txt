@@ -1,9 +1,5 @@
 Original Sentence: 
-Federal Paper Board sells paper and wood products
+So developers are saying they will look into distressed properties
 Additional Information: 
-('paper', 'has', 'stickers')
-('paper', 'white')
-('wood', 'ON', 'table')
-('wood', 'brown')
-('product', 'on top of', 'counter')
-('product', 'bathroom')
+('property', 'has', 'ditch')
+('property', 'waterfront')

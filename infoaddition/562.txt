@@ -1,4 +1,4 @@
 Original Sentence: 
-The exchange ratio was never established
+Municipals ended mixed while mortgage-backed and investment-grade corporate bonds rose
 Additional Information: 
-('two women', 'make', 'exchange')
+('bond', 'black ')

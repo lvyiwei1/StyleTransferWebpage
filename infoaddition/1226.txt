@@ -1,4 +1,5 @@
 Original Sentence: 
-And centenarians fly free in first class
+He became angry in return
 Additional Information: 
-('class', 'OF', 'kids')
+('return', 'ON', 'street')
+('return', 'black')

@@ -1,9 +1,4 @@
 Original Sentence: 
-So he 's using river in many project names
+Terms of the agreement were n't disclosed
 Additional Information: 
-('river', 'by', 'tower')
-('river', 'calm')
-('he', 'discussing', 'project')
-('project', 'sewing')
-('name', 'ON', 'bike')
-('name', 'white')
+('term', 'house of david')

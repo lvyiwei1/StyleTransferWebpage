@@ -1,5 +1,7 @@
 Original Sentence: 
-David B. Hilder in New York contributed to this article
+These errata do not affect business programs he said
 Additional Information: 
-('article', 'ON', 'chair')
-('article', 'newspaper')
+('business', 'sign on', 'building')
+('business', 'here')
+('program', 'ON', 'screen')
+('program', 'wedding')

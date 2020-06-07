@@ -1,5 +1,5 @@
 Original Sentence: 
-Both reflect the dismissal of lower-level and shorter-tenure executives
+That would be the lowest level since the early 1970s
 Additional Information: 
-('executive', 'ON', 'signs')
-('executive', 'in white')
+('level', 'OF', 'tower')
+('level', 'upper')

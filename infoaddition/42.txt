@@ -1,5 +1,5 @@
 Original Sentence: 
-But going against the grain has never bothered Mr. Andersson
+The crowd remained good natured even bemused
 Additional Information: 
-('grain', 'IN', 'wood floor')
-('grain', 'wood')
+('crowd', 'ON', 'street')
+('crowd', 'watching')

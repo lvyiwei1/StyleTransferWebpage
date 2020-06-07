@@ -1,7 +1,6 @@
 Original Sentence: 
-The anticipated drop follows a 3.9 % rise in August
+For now defense attorneys are tight-lipped about their plans
 Additional Information: 
-('drop', 'ON', 'window')
-('drop', 'water')
-('rise', 'IN', 'ground')
-('rise', 'GRASSY')
+('basketball player', 'playing', 'defense')
+('plan', 'ON', 'tarmac')
+('plan', 'air')

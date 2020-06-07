@@ -1,5 +1,6 @@
 Original Sentence: 
-The windows will open
+Japanese government bonds showed little change
 Additional Information: 
-('window', 'on side of', 'bus')
-('window', 'glass')
+('bond', 'black ')
+('change', 'goes into', 'parking meter')
+('change', 'loose')

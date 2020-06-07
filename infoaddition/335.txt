@@ -1,5 +1,4 @@
 Original Sentence: 
-On abortion their own day will come
+The billion-dollar question is How much are those benefits worth
 Additional Information: 
-('day', 'time', 'picture')
-('day', 'sunny')
+('question', 'black')

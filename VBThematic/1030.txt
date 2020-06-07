@@ -1,0 +1,3 @@
+Original Sentence: 
+I have accomplished too much
+Emphasize: accomplished

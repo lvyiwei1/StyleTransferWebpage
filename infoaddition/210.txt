@@ -1,6 +1,5 @@
 Original Sentence: 
-Its securities have been dubbed bailout bonds by traders
+It would n't discuss a price
 Additional Information: 
-('security', 'ON', 'court')
-('security', 'standing')
-('bond', 'black ')
+('price', 'OF', 'fruit')
+('price', 'written')

@@ -1,4 +1,6 @@
 Original Sentence: 
-Strategy however is about possibilities not hopes and dreams
+In Europe the dollar ended lower in dull trading
 Additional Information: 
-('dream', 'capital letters')
+('dollar', 'IN', 'hand')
+('dollar', 'twenty')
+('red t', 'IN', 'trading')

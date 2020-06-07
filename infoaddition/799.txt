@@ -1,5 +1,5 @@
 Original Sentence: 
-To reinforce employees ' dedication Mr. Smith pays well
+Sales rose 12 % to 249.5 million from 222.8 million
 Additional Information: 
-('employee', 'helps', 'people')
-('employee', 'airport')
+('sale', 'at', 'company')
+('sale', 'red')

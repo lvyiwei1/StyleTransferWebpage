@@ -1,9 +1,7 @@
 Original Sentence: 
-Kidder officials stand by their aggressive use of program trading
+Even claims against individuals and companies face significant roadblocks
 Additional Information: 
-('official', 'IN', 'ring')
-('official', 'tennis')
-('use', 'hiding in', 'corner')
-('program', 'ON', 'monitor')
-('program', 'wedding')
-('red t', 'IN', 'trading')
+('individual', 'rides', 'bikes')
+('individual', 'smiling')
+('company', 'took', 'photo')
+('company', 'name')

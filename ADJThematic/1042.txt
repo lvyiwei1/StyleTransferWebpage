@@ -1,0 +1,3 @@
+Original Sentence: 
+The election was by secret ballot in the General Assembly
+Emphasize: secret

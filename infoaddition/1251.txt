@@ -1,5 +1,5 @@
 Original Sentence: 
-Just say the offices are tastefully appointed he says
+By 1982 he was selling thousands of tires
 Additional Information: 
-('office', 'beside', 'terminal')
-('office', 'small')
+('tire', 'ON', 'cart')
+('tire', 'black')

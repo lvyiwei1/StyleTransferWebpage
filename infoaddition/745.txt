@@ -1,5 +1,5 @@
 Original Sentence: 
-It has more drug users than Boston has people
+Markets usually get noticed because they soar or plunge
 Additional Information: 
-('people', 'sitting on a', 'couch')
-('people', 'standing')
+('market', 'has', 'fruit')
+('market', 'outdoor')

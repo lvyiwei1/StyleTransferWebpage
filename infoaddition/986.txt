@@ -1,5 +1,5 @@
 Original Sentence: 
-Not everyone is worried however
+Why did East Bloc participants unanimously endorse market-based pollution approaches
 Additional Information: 
-('everyone', 'ON', 'sidewalk')
-('everyone', 'smiling')
+('participant', 'at top of', 'ramp')
+('pollution', 'eminating from', 'stacks')

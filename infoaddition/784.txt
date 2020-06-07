@@ -1,5 +1,5 @@
 Original Sentence: 
-Never in my life have I been so frightened
+Interest will be paid semi-annually
 Additional Information: 
-('life', 'written on', 'sign')
-('life', 'printed')
+('people', 'showing', 'interest')
+('interest', 'great')

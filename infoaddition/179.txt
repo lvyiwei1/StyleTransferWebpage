@@ -1,6 +1,5 @@
 Original Sentence: 
-That facility should reopen today
+The buyer was n't identified
 Additional Information: 
-('facility', 'for', 'giraffe')
-('facility', 'skateboarding')
-('sign', 'reads', 'today')
+('buyer', 'looking at', 'goods')
+('buyer', 'prospective')

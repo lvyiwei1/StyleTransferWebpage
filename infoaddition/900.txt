@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales rose slightly to 2.68 billion from 2.66 billion
+He intends to add to the litigation staff
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('staff', 'IN', 'clothes')
+('staff', 'kitchen')

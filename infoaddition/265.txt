@@ -1,5 +1,6 @@
 Original Sentence: 
-IRA rules have been changed over the years
+They gleefully await the dream season in 1990
 Additional Information: 
-('year', 'ON', 'picture')
-('year', 'white')
+('dream', 'capital letters')
+('season', 'ON', 'stove')
+('season', 'fall')

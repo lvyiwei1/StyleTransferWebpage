@@ -1,7 +1,7 @@
 Original Sentence: 
-As that system grows larger computers may be needed
+In this case the Members outdid themselves
 Additional Information: 
-('system', 'ON', 'table')
-('system', 'black')
-('computer', 'ON', 'students')
-('computer', 'laptop')
+('case', 'ON', 'table')
+('case', 'black')
+('member', 'wearing a', 'jersey number')
+('member', 'several')

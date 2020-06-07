@@ -1,6 +1,5 @@
 Original Sentence: 
-The Chicago exchanges also are working on such a device
+This of course led to disaster in New York City
 Additional Information: 
-('two women', 'make', 'exchange')
-('device', 'to milk', 'cow')
-('device', 'electronic')
+('course', 'has', 'obstacles')
+('course', 'green')

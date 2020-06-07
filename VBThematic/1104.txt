@@ -1,0 +1,3 @@
+Original Sentence: 
+The industrial average closed down only 3.69 points at 2659.22
+Emphasize: closed

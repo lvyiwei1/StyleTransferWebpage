@@ -1,5 +1,6 @@
 Original Sentence: 
-He intends to add to the litigation staff
+The cost of competition has become extremely high he says
 Additional Information: 
-('staff', 'in front of', 'horse')
-('staff', 'kitchen')
+('cost', 'displayed in front of', 'banana')
+('people', 'watching', 'competition')
+('competition', 'horse')

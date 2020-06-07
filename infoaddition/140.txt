@@ -1,5 +1,5 @@
 Original Sentence: 
-By 1982 he was selling thousands of tires
+It 's a very small shop
 Additional Information: 
-('tire', 'on a', 'motorcycle')
-('tire', 'black')
+('shop', 'IN', 'lounge')
+('shop', 'street level')

@@ -1,5 +1,5 @@
 Original Sentence: 
-All of a sudden it was back to square one
+He will retain the honorary title of non-executive chairman
 Additional Information: 
-('square', 'on back of', 'sign')
-('square', 'white')
+('title', 'of a', 'book')
+('title', 'movie')

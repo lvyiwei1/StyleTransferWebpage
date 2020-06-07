@@ -1,5 +1,6 @@
 Original Sentence: 
-Revenue doubled from two years ago
+Massage also has an image problem to contend with
 Additional Information: 
-('year', 'ON', 'sign')
-('year', 'white')
+('image', 'ON', 'wall')
+('image', 'white')
+('plane', 'has', 'problem')

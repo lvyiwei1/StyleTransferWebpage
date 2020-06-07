@@ -1,5 +1,6 @@
 Original Sentence: 
-Still Vista officials realize they 're relatively fortunate
+But not everybody was making money
 Additional Information: 
-('official', 'has', 'shirt')
-('official', 'tennis')
+('everybody', 'wearing', 'sunglasses')
+('money', 'ON', 'table')
+('money', 'paper')

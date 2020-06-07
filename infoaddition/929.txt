@@ -1,4 +1,7 @@
 Original Sentence: 
-Ruined the damn fishing
+The suit seeks unspecified damages
 Additional Information: 
-('fishing', 'poles mounted to', 'boat')
+('suit', 'OF', 'man')
+('suit', 'black')
+('damage', 'on a', 'wall')
+('damage', 'moisture')

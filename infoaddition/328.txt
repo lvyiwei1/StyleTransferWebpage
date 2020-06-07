@@ -1,5 +1,7 @@
 Original Sentence: 
-Reflecting that logic insurance-company stocks posted strong gains
+Artists and draftsmen need harder leads
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('artist', 'signature', 'tag')
+('artist', 'painting')
+('lead', 'ON', 'plant')
+('lead', 'green')

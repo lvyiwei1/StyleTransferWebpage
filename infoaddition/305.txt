@@ -1,5 +1,8 @@
 Original Sentence: 
-Then take the expected return and subtract one standard deviation
+In the end politics got in the way
 Additional Information: 
-('return', 'ON', 'street')
-('return', 'black')
+('end', 'OF', 'train')
+('end', 'black')
+('letters', 'about', 'politics')
+('way', 'scrapped on', 'bus')
+('way', 'walk')

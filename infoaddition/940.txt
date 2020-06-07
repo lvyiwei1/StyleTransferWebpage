@@ -1,5 +1,4 @@
 Original Sentence: 
-The report is to be released today
+Since then deliveries have slumped
 Additional Information: 
-('report', 'ON', 'green paper')
-('sign', 'reads', 'today')
+('van', 'for', 'delivery')

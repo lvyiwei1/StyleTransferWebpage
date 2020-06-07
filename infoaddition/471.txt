@@ -1,5 +1,5 @@
 Original Sentence: 
-Real-estate executives are lobbying to ease anti-tax-shelter rules
+He 's a rare Democratic hawk
 Additional Information: 
-('executive', 'ON', 'signs')
-('executive', 'in white')
+('hawk', 'ON', 'shirt')
+('hawk', 'brown')

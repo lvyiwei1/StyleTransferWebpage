@@ -1,7 +1,5 @@
 Original Sentence: 
-It is also planning another night of original series
+This is a tough market
 Additional Information: 
-('night', 'at', 'marina')
-('night', 'black')
-('series', 'of posted American', 'flags')
-('series', 'of ski gates')
+('market', 'has', 'fruit')
+('market', 'outdoor')

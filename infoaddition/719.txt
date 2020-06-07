@@ -1,7 +1,9 @@
 Original Sentence: 
-Overall more Big Board stocks lost money than gained
+They 're really fashion items wrapped up in little jars
 Additional Information: 
-('stock', 'ON', 'engine')
-('stock', 'green')
-('money', 'sticking out of', 'briefcase')
-('money', 'paper')
+('fashion', 'on a', 'lady')
+('fashion', 'floral print')
+('item', 'on top of', 'refrigerator')
+('item', 'red')
+('jar', 'OF', 'jam')
+('jar', 'glass')

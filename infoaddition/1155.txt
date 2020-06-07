@@ -1,7 +1,7 @@
 Original Sentence: 
-Union officials could n't be reached for comment
+The company had a tax credit of 1.4 million
 Additional Information: 
-('union', 'on side of', 'train')
-('union', 'word')
-('official', 'IN', 'chair')
-('official', 'tennis')
+('company', 'that owns', 'bus')
+('company', 'name')
+('credit', 'ON', 'image')
+('credit', 'artist')

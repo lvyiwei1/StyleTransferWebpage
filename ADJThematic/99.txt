@@ -1,0 +1,3 @@
+Original Sentence: 
+But while index options are convenient they have several disadvantages
+Emphasize: convenient

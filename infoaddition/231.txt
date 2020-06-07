@@ -1,7 +1,5 @@
 Original Sentence: 
-All other countries registered support below 50 %
+Among other changes the White House wants to
 Additional Information: 
-('country', 'ON', 'skateboard')
-('country', 'foreign')
-('support', 'OF', 'bench')
-('support', 'metal')
+('change', 'goes into', 'parking meter')
+('change', 'loose')

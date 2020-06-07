@@ -1,0 +1,3 @@
+Original Sentence: 
+That is the way the system works
+Emphasize: works

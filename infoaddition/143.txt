@@ -1,7 +1,9 @@
 Original Sentence: 
-But some money managers are doing just that
+Jewelry Makers Copy Cosmetics Sales Ploys
 Additional Information: 
-('money', 'in h', 'hand')
-('money', 'paper')
-('manager', 'sitting in', 'dugout')
-('manager', 'overlooking action')
+('jewelry', 'under', 'lip')
+('jewelry', 'silver')
+('maker', 'for', 'coffee')
+('maker', 'coffee')
+('sale', 'at', 'company')
+('sale', 'red')

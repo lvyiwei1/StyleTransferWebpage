@@ -1,5 +1,5 @@
 Original Sentence: 
-The last Taxpayer Compliance Measurement Program survey covered 1985 returns
+We are prepared to support those changes said Mr. Mosbacher
 Additional Information: 
-('return', 'ON', 'street')
-('return', 'black')
+('change', 'ON', 'table')
+('change', 'loose')

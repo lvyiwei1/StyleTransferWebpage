@@ -1,8 +1,4 @@
 Original Sentence: 
-Merchant banks were stronger across the board
+At first it seemed as if history might repeat itself
 Additional Information: 
-('merchant', 'WEARING', 'apron')
-('bank', 'of', 'water')
-('bank', 'grassy')
-('board', 'ON', 'counter')
-('board', 'white')
+('the', 'word', 'history')

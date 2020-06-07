@@ -1,5 +1,5 @@
 Original Sentence: 
-Las Vegas has seen nothing quite like it before
+Mr Pyszkiewicz smiles and his brow furrows
 Additional Information: 
-('nothing', 'IN', 'sky')
-('nothing', 'clear')
+('brow', 'ON', 'face')
+('brow', 'furrowed')

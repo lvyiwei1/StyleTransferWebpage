@@ -1,4 +1,5 @@
 Original Sentence: 
-The close was the highest since Aug. 15
+Indeed the competition is n't greatly concerned
 Additional Information: 
-('close', 'up view of an apple', 'tree')
+('skiers', 'in a', 'competition')
+('competition', 'horse')

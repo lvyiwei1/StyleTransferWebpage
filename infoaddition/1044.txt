@@ -1,4 +1,5 @@
 Original Sentence: 
-But it 's not mediocre it 's a real problem
+Paying players at SMU was no casual operation
 Additional Information: 
-('plane', 'has', 'problem')
+('player', 'has', 'helmet')
+('player', 'baseball')

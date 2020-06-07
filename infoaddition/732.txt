@@ -1,6 +1,5 @@
 Original Sentence: 
-Last year only 8 % were expecting a recession
+Many groups are n't waiting that long
 Additional Information: 
-('year', 'IN', 'left corner')
-('year', 'white')
-('recession', 'wall')
+('group', 'OF', 'woman')
+('group', 'large')

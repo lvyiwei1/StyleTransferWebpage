@@ -1,5 +1,4 @@
 Original Sentence: 
-Another agency issue came to market yesterday
+Chemical Securities Inc. is acting as agent for the seller
 Additional Information: 
-('market', 'on', 'sign')
-('market', 'outdoor')
+('agent', 'at', 'airport')

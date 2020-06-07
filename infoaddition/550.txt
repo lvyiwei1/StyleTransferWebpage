@@ -1,7 +1,9 @@
 Original Sentence: 
-DWG is a holding company controlled by Mr. Posner
+Formerly president and treasurer Mr. Lang remains chief executive officer
 Additional Information: 
-('holding', 'white', 'control')
-('holding', 'wooden')
-('company', 'ON', 'wing')
-('company', 'name')
+('president', 'at', 'table')
+('president', ' United States')
+('executive', 'ON', 'signs')
+('executive', 'in white')
+('officer', 'ON', 'motorcycle')
+('officer', 'police')

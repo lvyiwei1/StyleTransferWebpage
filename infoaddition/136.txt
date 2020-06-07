@@ -1,6 +1,5 @@
 Original Sentence: 
-For the week the index dropped 3.8 %
+The core rate is not really out of line
 Additional Information: 
-('day', 'OF', 'week')
-('index', 'ON', 'helmet')
-('index', 'is a finger')
+('line', 'IN', 'court')
+('line', 'white')

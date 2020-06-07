@@ -1,5 +1,5 @@
 Original Sentence: 
-First there was a death watch
+Their reaction was to do nothing and ride it out
 Additional Information: 
-('watch', 'around', 'hand')
-('watch', 'black')
+('nothing', 'IN', 'sky')
+('nothing', 'clear')

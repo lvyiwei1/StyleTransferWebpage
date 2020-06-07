@@ -1,5 +1,5 @@
 Original Sentence: 
-It had been due to expire Friday evening
+By this month it had more than doubled
 Additional Information: 
-('evening', 'ON', 'ocean')
-('evening', 'dark')
+('month', 'around', 'face')
+('month', 'ninth')

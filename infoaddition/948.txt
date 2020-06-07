@@ -1,4 +1,6 @@
 Original Sentence: 
-London had some problems too
+And federal insurance protected the bank 's 631,163 depositors
 Additional Information: 
-('plane', 'has', 'problem')
+('advertisement', 'for', 'insurance')
+('bank', 'by', 'water')
+('bank', 'grassy')

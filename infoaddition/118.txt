@@ -1,5 +1,7 @@
 Original Sentence: 
-Everything 's a Dollar operates 60 specialty-retail stores
+The channel reaches 6.5 million homes a Penney spokesman said
 Additional Information: 
-('store', 'behind', 'horse')
-('store', 'red')
+('channel', 'has', 'logo')
+('channel', 'here')
+('home', 'behind', 'train')
+('home', 'white')

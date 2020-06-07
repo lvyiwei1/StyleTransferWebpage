@@ -1,7 +1,9 @@
 Original Sentence: 
-Many brokerage house officials also are optimistic
+The farmer at the next truck shouts Wheat
 Additional Information: 
-('house', 'with', 'roof')
-('house', 'white')
-('official', 'IN', 'ring')
-('official', 'tennis')
+('farmer', 'pulling', 'blue plow')
+('farmer', 'holding')
+('truck', 'has', 'dodge logo')
+('truck', 'white')
+('wheat', 'by', 'giraffe')
+('wheat', 'growing')

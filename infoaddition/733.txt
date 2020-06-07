@@ -1,7 +1,7 @@
 Original Sentence: 
-Timber stocks got a big boost
+I played very transparently with the tip of the bow
 Additional Information: 
-('timber', 'ON', 'ground')
-('timber', 'wooden')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('tip', 'OF', 'umbrella')
+('tip', 'black')
+('bow', 'around', 'bear')
+('bow', 'red')

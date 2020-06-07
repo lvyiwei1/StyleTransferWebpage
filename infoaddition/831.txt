@@ -1,5 +1,5 @@
 Original Sentence: 
-Asked about that the other day he replied Anti-Semitic
+He is going to pursue other interests Mr. Jahn said
 Additional Information: 
-('day', 'at', 'beach')
-('day', 'sunny')
+('people', 'showing', 'interest')
+('interest', 'great')

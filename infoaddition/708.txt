@@ -1,5 +1,5 @@
 Original Sentence: 
-Aldus officials could n't be reached for comment
+Most are anchored by a K mart store
 Additional Information: 
-('official', 'ON', 'baseball')
-('official', 'tennis')
+('store', 'Sells', 'bag')
+('store', 'red')

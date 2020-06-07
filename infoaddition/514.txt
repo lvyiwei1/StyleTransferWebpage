@@ -1,5 +1,4 @@
 Original Sentence: 
-Some hotels in the hurricane-stricken Caribbean promise money-back guarantees
+Such problems may not be over
 Additional Information: 
-('hotel', 'next to', 'water')
-('hotel', 'large')
+('plane', 'has', 'problem')

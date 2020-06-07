@@ -1,4 +1,6 @@
 Original Sentence: 
-Now the personal-computer revolution is finally reaching Japan
+Outokumpu is a mining trading and construction concern
 Additional Information: 
-('word', 'says', 'revolution')
+('red t', 'IN', 'trading')
+('construction', 'ON', 'building')
+('construction', 'gate')

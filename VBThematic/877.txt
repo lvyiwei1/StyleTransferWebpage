@@ -1,0 +1,3 @@
+Original Sentence: 
+The judge wrote again
+Emphasize: wrote

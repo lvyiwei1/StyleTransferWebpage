@@ -1,5 +1,7 @@
 Original Sentence: 
-In 1988 the company earned 1.38 a share
+Later the judge went a step farther
 Additional Information: 
-('company', 'ON', 'bus')
-('company', 'name')
+('judge', 'ON', 'tennis court')
+('judge', 'tennis line')
+('step', 'underneath', 'door')
+('step', 'concrete')

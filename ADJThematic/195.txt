@@ -1,0 +1,3 @@
+Original Sentence: 
+There are n't too many winners
+Emphasize: many

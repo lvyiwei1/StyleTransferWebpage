@@ -1,5 +1,5 @@
 Original Sentence: 
-So far though Mr. Lesko has received only one entry
+Our commitment to manage these businesses profitably will continue
 Additional Information: 
-('entry', 'to', 'building')
-('entry', 'dark')
+('business', 'along', 'road')
+('business', 'here')

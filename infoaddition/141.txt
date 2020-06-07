@@ -1,5 +1,9 @@
 Original Sentence: 
-But the company declines to comment
+There 's nothing like skin to skin
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
+('nothing', 'to', 'write')
+('nothing', 'clear')
+('skin', 'ON', 'elephant')
+('skin', 'wrinkled')
+('skin', 'ON', 'fruit')
+('skin', 'wrinkled')

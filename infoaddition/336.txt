@@ -1,7 +1,5 @@
 Original Sentence: 
-The end of the marriage was at hand
+This sets things way back
 Additional Information: 
-('end', 'of a', 'hot dog')
-('end', 'black')
-('hand', 'ON', 'clock')
-('hand', 'black')
+('thing', 'behind', 'fence')
+('thing', 'black')

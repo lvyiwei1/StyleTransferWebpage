@@ -1,4 +1,5 @@
 Original Sentence: 
-The predictions of doom are premature she says
+A more blue-collar panel became a second aim
 Additional Information: 
-('clock tower', 'has', 'doom')
+('panel', 'ON', 'cooker')
+('panel', 'white')

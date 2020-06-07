@@ -1,5 +1,9 @@
 Original Sentence: 
-MeraBank 's rating for short-term deposits remains Not Prime
+Yesterday bank stocks lagged behind the overall OTC market
 Additional Information: 
-('deposit', 'ON', 'game')
-('deposit', 'metal')
+('bank', 'OF', 'lights')
+('bank', 'grassy')
+('stock', 'of', 'stock')
+('stock', 'green')
+('market', 'IN', 'container')
+('market', 'outdoor')

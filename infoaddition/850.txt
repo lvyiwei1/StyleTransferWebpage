@@ -1,6 +1,4 @@
 Original Sentence: 
-Innocent bystanders often are the victims
+Long-term Treasury bonds ended slightly higher
 Additional Information: 
-('bystander', 'IN', 'background')
-('bystander', 'watching')
-('racket', 'OF', 'victim')
+('bond', 'black ')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The program expires April 27
+Compaq is already taking aim at Zenith 's market share
 Additional Information: 
-('program', 'running', 'laptop')
-('program', 'wedding')
+('market', 'has', 'doors')
+('market', 'outdoor')

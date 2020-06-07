@@ -1,0 +1,3 @@
+Original Sentence: 
+Polysilicon is used in making integrated circuits
+Emphasize: used

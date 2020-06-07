@@ -1,5 +1,5 @@
 Original Sentence: 
-The doomsayers had a receptive audience
+She made money but spent more
 Additional Information: 
-('audience', 'IN', 'background')
-('audience', 'watching')
+('money', 'ON', 'machine')
+('money', 'paper')

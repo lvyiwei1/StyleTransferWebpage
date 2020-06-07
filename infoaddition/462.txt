@@ -1,4 +1,5 @@
 Original Sentence: 
-Issues of insurance brokers were especially strong
+Coopers uses the Coopers & Lybrand name world-wide
 Additional Information: 
-('advertisement', 'for', 'insurance')
+('name', 'OF', 'dish')
+('name', 'white')

@@ -1,0 +1,3 @@
+Original Sentence: 
+It showed the DJIA up 30 points
+Emphasize: showed

@@ -1,9 +1,5 @@
 Original Sentence: 
-The computers will display stock prices selected by users
+For one thing credit-card loans are unsecured
 Additional Information: 
-('computer', 'has', 'monitor')
-('computer', 'laptop')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('price', 'for', 'avocados')
-('price', 'written')
+('thing', 'ON', 'suitcase')
+('thing', 'black')

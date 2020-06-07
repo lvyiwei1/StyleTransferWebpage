@@ -1,7 +1,5 @@
 Original Sentence: 
-Retail sales are plummeting while consumer prices still are rising
+Revenue doubled from two years ago
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
-('price', 'shows', '2.50')
-('price', 'written')
+('year', 'IN', 'corner')
+('year', 'white')

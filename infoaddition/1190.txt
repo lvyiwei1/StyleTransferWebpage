@@ -1,9 +1,7 @@
 Original Sentence: 
-That 's the path of reasoning leading to growth stocks
+Which cars do Americans favor most these days
 Additional Information: 
-('path', 'inside of', 'field')
-('path', 'dirt')
-('growth', 'near', 'grass')
-('growth', 'green')
-('stock', 'belonging to', 'plant')
-('stock', 'green')
+('car', 'driving', 'road')
+('car', 'parked')
+('day', 'with', 'tower')
+('day', 'sunny')

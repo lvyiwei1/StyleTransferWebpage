@@ -1,5 +1,9 @@
 Original Sentence: 
-We would even save on freight
+Someday viewers may also choose different depths of news coverage
 Additional Information: 
-('freight', 'on side of', 'train')
-('freight', 'red')
+('viewer', 'ON', 'bleachers')
+('viewer', 'seated')
+('depth', 'OF', 'snow')
+('depth', 'shadowed')
+('news', 'ON', 'bus')
+('news', 'word')

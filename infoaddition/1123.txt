@@ -1,7 +1,11 @@
 Original Sentence: 
-The Vatican was in the red last year
+The excess supply pushed gasoline prices down in that period
 Additional Information: 
-('red', 'safety', 'helmet')
-('red', 'red')
-('year', 'IN', 'corner')
-('year', 'white')
+('supply', 'ON', 'table')
+('supply', 'all')
+('truck', 'OF', 'gasoline')
+('gasoline', 'offered')
+('price', 'ON', 'sign')
+('price', 'written')
+('period', 'against', 'background')
+('period', 'red')

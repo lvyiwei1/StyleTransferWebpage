@@ -1,7 +1,6 @@
 Original Sentence: 
-Bond prices were little changed in sluggish activity
+MCA strongly opposed the Drabinsky group 's move
 Additional Information: 
-('bond', 'black ')
-('price', 'for', 'apple')
-('price', 'written')
-('activity', 'IN', 'bathroom')
+('group', 'OF', 'people')
+('group', 'large')
+('mechanism', 'makes it', 'move')

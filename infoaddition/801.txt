@@ -1,5 +1,5 @@
 Original Sentence: 
-Pilgrim had been closed for 32 months
+I said Somebody come get me
 Additional Information: 
-('month', 'around', 'face')
-('month', 'ninth')
+('somebody', 'using', 'computer')
+('somebody', 'here')

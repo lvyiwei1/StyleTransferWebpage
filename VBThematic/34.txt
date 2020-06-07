@@ -1,0 +1,3 @@
+Original Sentence: 
+Stock prices rose
+Emphasize: rose

@@ -1,5 +1,5 @@
 Original Sentence: 
-Mr. Dozen succeeds Sadakane Doi who will become vice chairman
+Last year 45,000 went
 Additional Information: 
-('handle', 'ON', 'vice')
-('vice', 'blue')
+('year', 'OF', 'picture')
+('year', 'white')

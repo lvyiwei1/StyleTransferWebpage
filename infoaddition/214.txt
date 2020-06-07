@@ -1,5 +1,5 @@
 Original Sentence: 
-A settlement was reached but was n't made public
+Magazine editors did not take the criticisms lying down
 Additional Information: 
-('settlement', 'OF', 'buildings')
-('settlement', 'SUBURBAN')
+('magazine', 'ON', 'chair')
+('magazine', 'open')

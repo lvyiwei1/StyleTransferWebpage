@@ -1,5 +1,7 @@
 Original Sentence: 
-Introducing pool argued Councilwoman Riley Reinker would be dangerous
+The company also reassigned several executive responsibilities
 Additional Information: 
-('pool', 'OF', 'water')
-('pool', 'blue')
+('company', 'ON', 'train')
+('company', 'name')
+('executive', 'ON', 'signs')
+('executive', 'in white')

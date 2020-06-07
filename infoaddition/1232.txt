@@ -1,6 +1,6 @@
 Original Sentence: 
-But for photofinishers developing costs for black-and-white film are higher
+Mr. Falco continues to rank the stock a longterm buy
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
-('film', 'ON', 'film')
-('film', 'black')
+('stock', 'ON', 'engine')
+('stock', 'green')
+('buy', 'large')

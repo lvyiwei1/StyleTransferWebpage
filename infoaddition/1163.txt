@@ -1,6 +1,7 @@
 Original Sentence: 
-Everyone in the world is watching us very closely
+It is also planning another night of original series
 Additional Information: 
-('everyone', 'ON', 'sidewalk')
-('everyone', 'smiling')
-('world', 'map on', 'wall')
+('night', 'black', 'sky')
+('night', 'black')
+('series', 'of posted American', 'flags')
+('series', 'of ski gates')

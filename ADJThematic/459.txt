@@ -1,0 +1,3 @@
+Original Sentence: 
+Mr. Gale is an assistant professor of economics at UCLA
+Emphasize: assistant

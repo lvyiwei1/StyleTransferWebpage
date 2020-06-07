@@ -1,5 +1,7 @@
 Original Sentence: 
-The owners meet again tomorrow
+Gasoline terminals were also largely unhurt they said
 Additional Information: 
-('owner', 'running after', 'dog')
-('owner', 'proud')
+('truck', 'OF', 'gasoline')
+('gasoline', 'offered')
+('terminal', 'has', 'roof')
+('terminal', 'airport')

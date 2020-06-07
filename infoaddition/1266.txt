@@ -1,7 +1,6 @@
 Original Sentence: 
-Proceeds will be used for capital expenditures and working capital
+Last week many Jaguar shareholders took their money and ran
 Additional Information: 
-('capital', 'building in washington', 'dc')
-('capital', 'a')
-('capital', 'building in washington', 'dc')
-('capital', 'a')
+('day', 'OF', 'week')
+('money', 'IN', 'wallet')
+('money', 'paper')

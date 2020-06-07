@@ -1,7 +1,7 @@
 Original Sentence: 
-Football is the No. 1 thing here
+The German stock index tumbled 26.29 to end at
 Additional Information: 
-('football', 'with', 'stripe')
-('football', 'brown')
-('thing', 'guiding', 'airplane')
-('thing', 'black')
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('index', 'finger', 'cutting donut')
+('index', 'is a finger')

@@ -1,5 +1,6 @@
 Original Sentence: 
-It was all over the place
+The flight was rescheduled for today
 Additional Information: 
-('place', 'at', 'table')
-('place', 'full')
+('flight', 'ON', 'building')
+('flight', 'of metal stairs')
+('cow', 'are laying down', 'today')

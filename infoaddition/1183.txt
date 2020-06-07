@@ -1,5 +1,5 @@
 Original Sentence: 
-Policy statement P-5-39 sets out terms
+Many other factors played a part in yesterday 's comeback
 Additional Information: 
-('statement', 'credit')
-('term', 'house of david')
+('part', 'of a', 'tree')
+('part', 'small')

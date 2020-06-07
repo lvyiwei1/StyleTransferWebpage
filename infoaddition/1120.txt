@@ -1,5 +1,5 @@
 Original Sentence: 
-Rainbow 's stock dropped 2 to 14 1\/4
+But one recent day they became much closer
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('day', 'within', 'lake')
+('day', 'sunny')

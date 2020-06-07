@@ -1,5 +1,5 @@
 Original Sentence: 
-Here are auction details
+When the computer says switch Renaissance switches
 Additional Information: 
-('detail', 'ON', 'stone column')
-('detail', 'red')
+('computer', 'ON', 'ground')
+('computer', 'laptop')

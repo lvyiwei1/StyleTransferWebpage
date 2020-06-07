@@ -1,5 +1,5 @@
 Original Sentence: 
-The lists total 654.5 million
+The price can not be less than 7,000
 Additional Information: 
-('list', 'ON', 'refrigerator door')
-('list', 'champagne ')
+('price', 'tag', 'roll')
+('price', 'written')

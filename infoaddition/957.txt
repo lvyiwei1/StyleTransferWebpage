@@ -1,5 +1,5 @@
 Original Sentence: 
-She only put her foot down twice he continues
+Who that winner will be is highly uncertain
 Additional Information: 
-('foot', 'ON', 'player')
-('foot', 'bare')
+('winner', 'standing on', 'box')
+('winner', '2nd place')

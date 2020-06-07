@@ -1,7 +1,5 @@
 Original Sentence: 
-Step 1 cleans up our books
+But they need not be to do their jobs well
 Additional Information: 
-('step', 'by', 'structure')
-('step', 'concrete')
-('book', 'on top of', 'bookshelf')
-('book', 'white')
+('job', 'ON', 'bus')
+('job', 'decorative')

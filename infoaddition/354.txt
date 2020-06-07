@@ -1,5 +1,6 @@
 Original Sentence: 
-DPC said it could n't comment on the suit
+My vision is to change human consciousness towards touch
 Additional Information: 
-('suit', 'has', 'button')
-('suit', 'black')
+('vision', 'of fence', 'blurred')
+('touch', 'OF', 'laptop')
+('touch', 'gray')

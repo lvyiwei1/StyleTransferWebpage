@@ -1,5 +1,7 @@
 Original Sentence: 
-Pershare net fell to 4.97 yen from 5.40 yen
+The house just settled right down into the ground
 Additional Information: 
-('net', 'made of', 'squares')
-('net', 'black')
+('house', 'ON', 'hill')
+('house', 'white')
+('ground', 'has', 'spots')
+('ground', 'brown')

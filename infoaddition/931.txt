@@ -1,4 +1,4 @@
 Original Sentence: 
-X-rays have problems too
+Lloyd 's has endured decades of genteel decline
 Additional Information: 
-('plane', 'has', 'problem')
+('decline', ' of grass')

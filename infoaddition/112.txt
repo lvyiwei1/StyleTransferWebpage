@@ -1,9 +1,4 @@
 Original Sentence: 
-There 's nothing like skin to skin
+I am aware we have real budgetary problems
 Additional Information: 
-('nothing', 'IN', 'sky')
-('nothing', 'clear')
-('skin', 'on', 'surfboard')
-('skin', 'wrinkled')
-('skin', 'has', 'spot')
-('skin', 'wrinkled')
+('plane', 'has', 'problem')

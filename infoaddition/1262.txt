@@ -1,5 +1,5 @@
 Original Sentence: 
-They 're looking for something that 's very safe
+The expiration date had been Nov. 3
 Additional Information: 
-('something', 'inside', 'container')
-('something', 'red')
+('date', 'below', 'name')
+('date', 'yellow')

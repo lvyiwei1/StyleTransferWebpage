@@ -1,6 +1,7 @@
 Original Sentence: 
-The action came after the Senate approved the House-passed measure
+Names are resigning at an even faster pace this year
 Additional Information: 
-('action', 'IN', 'action')
-('action', 'MLB')
-('measure', 'black')
+('name', 'on', 'building')
+('name', 'white')
+('year', 'ON', 'guard')
+('year', 'white')

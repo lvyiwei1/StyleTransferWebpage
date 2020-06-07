@@ -1,5 +1,4 @@
 Original Sentence: 
-Some economists found the mixture ominous
+U.S. clearance also is needed for the proposed acquisition
 Additional Information: 
-('mixture', 'OF', 'food')
-('mixture', 'pink')
+('business sign', 'says', 'clearance')

@@ -1,11 +1,5 @@
 Original Sentence: 
-A bus is the data highway within a computer
+We tend to run a very tight book
 Additional Information: 
-('bus', 'ON', 'road')
-('bus', 'white')
-('data', 'ON', 'monitor')
-('data', 'green')
-('highway', 'IN', 'distance')
-('highway', 'busy')
-('computer', 'ON', 'table')
-('computer', 'laptop')
+('book', 'ON', 'desk')
+('book', 'white')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Growth is good
+But by and large this company has only been profitable
 Additional Information: 
-('growth', 'ON', 'slope')
-('growth', 'green')
+('company', 'has', 'name')
+('company', 'name')

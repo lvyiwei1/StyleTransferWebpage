@@ -1,6 +1,5 @@
 Original Sentence: 
-The eyes of the world were watching us
+The company paid five cents a share in April
 Additional Information: 
-('eye', 'OF', 'zebra')
-('eye', 'black')
-('world', 'map on', 'wall')
+('company', 'has', 'name')
+('company', 'name')

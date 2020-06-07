@@ -1,5 +1,5 @@
 Original Sentence: 
-Estimated volume was a heavy seven million ounces
+This is n't a distress sale
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
+('sale', 'ON', 'window')
+('sale', 'red')

@@ -1,0 +1,3 @@
+Original Sentence: 
+Mr. Bloch concedes that a recent diversification attempt fell through
+Emphasize: recent

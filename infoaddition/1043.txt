@@ -1,11 +1,6 @@
 Original Sentence: 
-Corn futures prices rose slightly while wheat prices settled mixed
+Management Co. manages entertainers and produces markets and finances entertainment
 Additional Information: 
-('corn', 'attached to', 'cob')
-('corn', 'yellow')
-('price', 'ON', 'sign')
-('price', 'written')
-('wheat', 'ON', 'wall')
-('wheat', 'growing')
-('price', 'for', 'bananas')
-('price', 'written')
+('entertainer', 'has', 'hand')
+('center', 'for', 'entertainment')
+('entertainment', 'light brown entertainment ')

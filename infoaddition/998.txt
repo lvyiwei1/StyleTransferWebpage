@@ -1,4 +1,10 @@
 Original Sentence: 
-Then he answers his own question
+The company also makes optical character recognition equipment
 Additional Information: 
-('question', 'black')
+('company', 'has', 'name')
+('company', 'name')
+('character', 'ON', 'table')
+('character', 'foreign')
+('plaque', 'for', 'recognition')
+('equipment', 'with', 'equipment')
+('equipment', 'electronic')

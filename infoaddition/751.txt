@@ -1,6 +1,5 @@
 Original Sentence: 
-The percentage change is since year-end
+What is the mission of the financial community
 Additional Information: 
-('coupon', 'has', 'percentage')
-('change', 'ON', 'red')
-('change', 'loose')
+('community', 'ON', 'river')
+('community', 'here')

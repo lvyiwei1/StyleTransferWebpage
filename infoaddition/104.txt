@@ -1,5 +1,4 @@
 Original Sentence: 
-Economists had expected a 9.1 billion gap
+That was another reason the Street loved Santa Fe
 Additional Information: 
-('gap', 'IN', 'grate')
-('gap', 'small')
+('not', 'in mood right nowhold leg in air for no', 'reason')

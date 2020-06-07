@@ -1,5 +1,11 @@
 Original Sentence: 
-I do n't think that is the case
+It shows a boy hurling rocks at a street lamp
 Additional Information: 
-('case', 'sitting on', 'desk')
-('case', 'black')
+('boy', 'ON', 'field')
+('boy', 'young')
+('rock', 'IN', 'jar')
+('rock', 'large')
+('street', 'IN', 'city')
+('street', 'paved')
+('lamp', 'has', 'shade')
+('lamp', 'white')

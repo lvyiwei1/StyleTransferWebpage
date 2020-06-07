@@ -1,5 +1,4 @@
 Original Sentence: 
-It stopped selling a standard personal computer a while ago
+They do n't have the votes to get it passed
 Additional Information: 
-('computer', 'sporting an', 'apple')
-('computer', 'laptop')
+('vote', 'written on', 'sign')

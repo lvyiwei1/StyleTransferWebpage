@@ -1,4 +1,7 @@
 Original Sentence: 
-By 10 a.m. it was down 49
+Most people ca n't even remember his name
 Additional Information: 
-('a.m.', 'says', 'a.m.')
+('people', 'at', 'food market')
+('people', 'standing')
+('name', 'ON', 'phone')
+('name', 'white')

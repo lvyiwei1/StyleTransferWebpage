@@ -1,5 +1,7 @@
 Original Sentence: 
-The radio queries again
+The 282 members had paid 10,000 apiece for seats
 Additional Information: 
-('radio', 'ON', 'desk')
-('radio', 'black')
+('member', 'WEARING', 'shirt')
+('member', 'several')
+('seat', 'OF', 'bicycle')
+('seat', 'black')

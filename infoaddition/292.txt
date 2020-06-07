@@ -1,6 +1,5 @@
 Original Sentence: 
-MCA strongly opposed the Drabinsky group 's move
+Other details were n't available
 Additional Information: 
-('group', 'OF', 'woman')
-('group', 'large')
-('mechanism', 'makes it', 'move')
+('detail', 'adorning', 'building')
+('detail', 'red')

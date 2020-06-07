@@ -1,4 +1,5 @@
 Original Sentence: 
-The British shakeup was widely cited for the declines
+We think this is a superior deal to McCaw 's
 Additional Information: 
-('decline', ' of grass')
+('deal', 'OF', 'bananas')
+('deal', 'great')

@@ -1,4 +1,4 @@
 Original Sentence: 
-First Interstate made the move under pressure from regulators
+Mr. Goldberg is the sole general partner in Rose Partners
 Additional Information: 
-('mechanism', 'makes it', 'move')
+('partner', 'playing on', 'tennis court')

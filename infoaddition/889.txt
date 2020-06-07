@@ -1,5 +1,7 @@
 Original Sentence: 
-What we had was a real old-fashioned rally
+Further staff cuts are likely the spokesman indicated
 Additional Information: 
-('people', 'at a', 'rally')
-('rally', 'black')
+('staff', 'IN', 'clothes')
+('staff', 'kitchen')
+('cut', 'ON', 'elbow')
+('cut', 'small')

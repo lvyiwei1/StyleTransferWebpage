@@ -1,4 +1,4 @@
 Original Sentence: 
-The yield on the issue stood at 7.88 %
+This limits his financial exposure he says
 Additional Information: 
-('yield', 'on', 'sign')
+('exposure', 'translucent')

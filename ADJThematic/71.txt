@@ -1,0 +1,3 @@
+Original Sentence: 
+An announcement is more likely next week though
+Emphasize: likely

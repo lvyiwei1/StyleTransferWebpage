@@ -1,6 +1,5 @@
 Original Sentence: 
-Heating oil finished at 60.6 cents down 0.45 cent
+Gerald F. Seib contributed to this article
 Additional Information: 
-('heating', 'and cooling', 'heating')
-('oil', 'IN', 'jar')
-('oil', 'hot')
+('article', 'ON', 'chair')
+('article', 'newspaper')

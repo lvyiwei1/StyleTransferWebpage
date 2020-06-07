@@ -1,6 +1,4 @@
 Original Sentence: 
-If nobody buys I bring my prices down
+That wo n't be an easy task
 Additional Information: 
-('nobody', 'on top of', 'skateboard')
-('price', 'tag', 'roll')
-('price', 'written')
+('eye', 'concentrating on', 'task')

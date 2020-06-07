@@ -1,5 +1,7 @@
 Original Sentence: 
-I care very much for this post he says
+Our customers watch us for the hidden message he said
 Additional Information: 
-('post', 'ON', 'post')
-('post', 'wooden')
+('customer', 'WEARING', 'shirt')
+('customer', 'waiting')
+('message', 'ON', 'heart')
+('message', 'white')

@@ -1,0 +1,3 @@
+Original Sentence: 
+That is n't easy
+Emphasize: easy

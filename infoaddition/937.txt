@@ -1,7 +1,5 @@
 Original Sentence: 
-The board expanded to 17 seats
+Estimated volume was a moderate 3.5 million ounces
 Additional Information: 
-('board', 'has', 'part')
-('board', 'white')
-('seat', 'on a', 'motorcycle')
-('seat', 'black')
+('volume', 'ON', 'keyboard')
+('volume', '3')

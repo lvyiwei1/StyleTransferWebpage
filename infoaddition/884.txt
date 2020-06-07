@@ -1,4 +1,5 @@
 Original Sentence: 
-The two are also signing a trade agreement
+New York Stock Exchange volume swelled to 198,120,000 shares
 Additional Information: 
-('company name', 'says', 'trade')
+('volume', 'ON', 'headphones')
+('volume', '3')

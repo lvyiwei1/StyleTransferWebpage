@@ -1,0 +1,3 @@
+Original Sentence: 
+It 's a very small shop
+Emphasize: small

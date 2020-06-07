@@ -1,5 +1,5 @@
 Original Sentence: 
-The offering used at-market pricing
+Sales increased 36 % to 683 million from 502 million
 Additional Information: 
-('sign', 'has', 'pricing')
-('pricing', 'hand written')
+('sale', 'at', 'company')
+('sale', 'red')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The naczelnik averts his eyes
+Signed by 25 students
 Additional Information: 
-('eye', 'OF', 'bear')
-('eye', 'black')
+('student', 'working on', 'laptop')
+('student', 'ethnic')

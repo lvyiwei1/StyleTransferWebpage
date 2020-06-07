@@ -1,0 +1,3 @@
+Original Sentence: 
+The December contract fell 3.85 cents a pound to 1.1960
+Emphasize: fell

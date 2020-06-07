@@ -1,7 +1,5 @@
 Original Sentence: 
-Nothing has changed fundamentally in the Tokyo market
+Some hotels in the hurricane-stricken Caribbean promise money-back guarantees
 Additional Information: 
-('nothing', 'IN', 'sky')
-('nothing', 'clear')
-('market', 'has', 'fruit')
-('market', 'outdoor')
+('hotel', 'displays', 'name')
+('hotel', 'large')

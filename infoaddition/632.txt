@@ -1,5 +1,7 @@
 Original Sentence: 
-Julie Amparano Lopez in Philadelphia also contributed to this article
+There 's lots of supply the New York trader said
 Additional Information: 
-('article', 'OF', 'clothing')
-('article', 'newspaper')
+('lot', 'on side of', 'road')
+('lot', 'parking')
+('supply', 'ON', 'table')
+('supply', 'all')

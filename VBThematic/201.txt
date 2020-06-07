@@ -1,0 +1,3 @@
+Original Sentence: 
+Gray was advised by Goldman Sachs and Merrill Lynch
+Emphasize: advised

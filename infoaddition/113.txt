@@ -1,5 +1,5 @@
 Original Sentence: 
-She made money but spent more
+But even that goal may prove optimistic
 Additional Information: 
-('money', 'IN', 'wallet')
-('money', 'paper')
+('goal', 'has', 'basket')
+('goal', 'white')

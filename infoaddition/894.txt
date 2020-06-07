@@ -1,13 +1,6 @@
 Original Sentence: 
-Sales of parts for cars and construction vehicles rose
+Texans Get Reasonable Car Rental Insurance
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
-('part', 'OF', 'lid')
-('part', 'small')
-('car', 'IN', 'parking spot')
+('car', 'passes', 'crowd')
 ('car', 'parked')
-('construction', 'IN', 'background')
-('construction', 'gate')
-('vehicle', 'on top of', 'train')
-('vehicle', 'white')
+('advertisement', 'for', 'insurance')

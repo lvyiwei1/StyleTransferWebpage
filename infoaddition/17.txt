@@ -1,7 +1,6 @@
 Original Sentence: 
-There 's lots of supply the New York trader said
+Most investment-grade bonds fell 3\/8 to 1\/2 point
 Additional Information: 
-('lot', 'with', 'vehicles')
-('lot', 'parking')
-('supply', 'ON', 'table')
-('supply', 'all')
+('bond', 'black ')
+('point', 'IN', 'background')
+('point', 'sharp')

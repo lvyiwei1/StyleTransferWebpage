@@ -1,6 +1,7 @@
 Original Sentence: 
-In 1987 he became deputy chief of the civil division
+He expects Citicorp to take a similar step this year
 Additional Information: 
-('spoon', 'next to', 'chief')
-('chief', 'handker')
-('division', 'between', 'train cars')
+('step', 'leading to', 'entrance')
+('step', 'concrete')
+('year', 'ON', 'picture')
+('year', 'white')

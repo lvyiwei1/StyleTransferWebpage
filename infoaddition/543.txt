@@ -1,7 +1,5 @@
 Original Sentence: 
-The liquor industry went metric 10 years ago
+Estimates suggest October 's figure may be even higher
 Additional Information: 
-('liquor', 'behind', 'bar')
-('liquor', 'of liqour')
-('year', 'ON', 'photograph')
-('year', 'white')
+('figure', 'has', 'head')
+('figure', 'green')

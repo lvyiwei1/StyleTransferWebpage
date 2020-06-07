@@ -1,4 +1,5 @@
 Original Sentence: 
-That should happen by today he said
+It will develop produce and market high-performance electronic parts
 Additional Information: 
-('sign', 'reads', 'today')
+('part', 'ON', 'zebra')
+('part', 'small')

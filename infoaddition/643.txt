@@ -1,4 +1,5 @@
 Original Sentence: 
-The offer is based on several conditions including obtaining financing
+His boss complained about neglect of other chores
 Additional Information: 
-('sky', 'weather', 'condition')
+('stand', 'with', 'bos')
+('bos', 'green')

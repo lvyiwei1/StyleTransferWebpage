@@ -1,5 +1,7 @@
 Original Sentence: 
-Investment-grade corporate municipal and mortgage-backed securities also fell
+The accident was caused by faulty operation of a valve
 Additional Information: 
-('security', 'over', 'doors')
-('security', 'standing')
+('accident', 'ON', 'highway')
+('accident', 'in traffic')
+('valve', 'on top of', 'fire hydrant')
+('valve', 'large')

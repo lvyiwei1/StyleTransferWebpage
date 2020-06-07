@@ -1,6 +1,4 @@
 Original Sentence: 
-Prior to 1932 the pattern was nearly the opposite
+The pay 's the same and the duty 's lighter
 Additional Information: 
-('pattern', 'ON', 'rug')
-('pattern', 'white')
-('sheep herd', 'are facing', 'opposite')
+('pay', 'says on', 'truck')

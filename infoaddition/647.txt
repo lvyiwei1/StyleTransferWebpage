@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales declined 10 % to 251.2 million from 278.7 million
+Making computers smaller often means sacrificing memory
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('computer', 'ON', 'desk')
+('computer', 'laptop')

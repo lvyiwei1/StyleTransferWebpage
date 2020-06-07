@@ -1,5 +1,6 @@
 Original Sentence: 
-Both men were also relieved of their duties yesterday
+He 's the director of the local Planned Parenthood chapter
 Additional Information: 
-('men', 'WEARING', 'helmet')
-('men', 'standing')
+('vest', 'ON', 'director')
+('director', 'caucasian')
+('chapter', 'OF', 'book')

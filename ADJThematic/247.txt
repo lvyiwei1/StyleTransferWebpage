@@ -1,0 +1,3 @@
+Original Sentence: 
+The cats are fine although nervous
+Emphasize: fine

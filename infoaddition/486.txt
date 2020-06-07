@@ -1,7 +1,11 @@
 Original Sentence: 
-There 's nothing on the other side
+China-bound freight streams through the territory 's port
 Additional Information: 
-('nothing', 'IN', 'sky')
-('nothing', 'clear')
-('side', 'of a', 'eyeglasses')
-('side', 'white')
+('freight', 'being loaded in', 'distance')
+('freight', 'red')
+('stream', 'OF', 'water')
+('stream', 'small')
+('grass', 'IN', 'territory')
+('territory', 'foul')
+('port', 'ON', 'wall')
+('port', 'usb')

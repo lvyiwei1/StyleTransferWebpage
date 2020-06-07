@@ -1,5 +1,8 @@
 Original Sentence: 
-But the customer does n't want that
+There 's nothing rational about this kind of action
 Additional Information: 
-('customer', 'IN', 'green hoodie')
-('customer', 'waiting')
+('nothing', 'IN', 'sky')
+('nothing', 'clear')
+('kind', 'ON', 'sidewalk')
+('action', 'IN', 'action')
+('action', 'MLB')

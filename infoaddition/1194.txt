@@ -1,7 +1,5 @@
 Original Sentence: 
-Oil has long been Mr. Corry 's pet
+Nor does it cover the entire portfolio
 Additional Information: 
-('oil', 'ON', 'counter')
-('oil', 'hot')
-('pet', 'IN', 'yard')
-('pet', 'white')
+('portfolio', 'ON', 'desk')
+('portfolio', 'black')

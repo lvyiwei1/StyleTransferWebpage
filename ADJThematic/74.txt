@@ -1,0 +1,3 @@
+Original Sentence: 
+Mr. Lescaze is foreign editor of the Journal
+Emphasize: foreign

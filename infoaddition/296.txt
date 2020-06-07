@@ -1,5 +1,5 @@
 Original Sentence: 
-Clients include Miller Brewing Co. and General Motors
+Hotel-casino operators play down the possibility of a labor shortage
 Additional Information: 
-('mirror', 'behind', 'client')
-('client', 'young')
+('operator', 'sitting', 'shed')
+('operator', 'Lift ')

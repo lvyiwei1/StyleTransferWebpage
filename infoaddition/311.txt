@@ -1,7 +1,5 @@
 Original Sentence: 
-Niche-itis fragments our advertising dollars said Mr. Lauder
+Americans may not be so lucky the next time
 Additional Information: 
-('advertising', 'ON', 'advertising')
-('advertising', 'white')
-('dollar', 'IN', 'hand')
-('dollar', 'twenty')
+('time', 'shown on', 'inner circle')
+('time', 'displayed')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Mr. Phelan expressed relief that the market rebounded yesterday
+Investors pulled back from bond funds in September too
 Additional Information: 
-('relief', 'OF', 'mermaid')
-('relief', 'woman')
-('market', 'OF', 'fruit')
-('market', 'outdoor')
+('bond', 'black ')

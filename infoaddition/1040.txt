@@ -1,5 +1,4 @@
 Original Sentence: 
-Conservatives now hold only a 5-4 edge
+Nursing Home Patients Apt to Be Private Payers
 Additional Information: 
-('edge', 'on a', 'sign')
-('edge', 'white')
+('payer', 'dressed')

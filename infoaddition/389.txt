@@ -1,6 +1,6 @@
 Original Sentence: 
-They said the problems are n't safety related
+Prices on the Frankfurt Stock Exchange tumbled in heavy trading
 Additional Information: 
-('plane', 'has', 'problem')
-('safety', 'cone', 'orange')
-('safety', 'orange')
+('price', 'tag', 'roll')
+('price', 'written')
+('red t', 'IN', 'trading')

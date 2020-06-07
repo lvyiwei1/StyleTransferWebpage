@@ -1,0 +1,3 @@
+Original Sentence: 
+Kyle manufactures electronic components
+Emphasize: manufactures

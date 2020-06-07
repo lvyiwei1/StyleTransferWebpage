@@ -1,7 +1,6 @@
 Original Sentence: 
-Some found it on the screen of a personal computer
+But trading risk stems from credit risk
 Additional Information: 
-('screen', 'OF', 'laptop')
-('screen', 'on')
-('computer', 'IN', 'desk')
-('computer', 'laptop')
+('red t', 'IN', 'trading')
+('credit', 'card', 'cardlogos')
+('credit', 'artist')

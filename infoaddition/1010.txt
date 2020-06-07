@@ -1,4 +1,5 @@
 Original Sentence: 
-El Paso owns and operates a petroleum refinery
+Still there is money to be made
 Additional Information: 
-('refinery', 'behind', 'hill')
+('money', 'IN', 'wallet')
+('money', 'paper')

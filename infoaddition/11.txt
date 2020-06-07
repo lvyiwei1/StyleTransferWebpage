@@ -1,4 +1,5 @@
 Original Sentence: 
-The prisons are too crowded
+The dispute pits two groups of claimants against each other
 Additional Information: 
-('prison', 'old')
+('group', 'ON', 'beach')
+('group', 'large')

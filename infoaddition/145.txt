@@ -1,5 +1,10 @@
 Original Sentence: 
-We 'd like to do business in America he says
+FOR YEARS costume jewelry makers fought a losing battle
 Additional Information: 
-('business', 'ON', 'building')
-('business', 'here')
+('year', 'ON', 'bench')
+('year', 'white')
+('jewelry', 'ON', 'neck')
+('jewelry', 'silver')
+('maker', 'ON', 'countertop')
+('maker', 'coffee')
+('battle', 'close')

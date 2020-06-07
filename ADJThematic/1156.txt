@@ -1,0 +1,3 @@
+Original Sentence: 
+In national over-the-counter trading LIN closed at 104.75 down 2.75
+Emphasize: national

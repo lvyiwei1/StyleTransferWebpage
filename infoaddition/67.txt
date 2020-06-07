@@ -1,5 +1,6 @@
 Original Sentence: 
-But it fell to 1.8470 marks from 1.8485
+Many law firms sponsor their own programs
 Additional Information: 
-('mark', 'ON', 'grass')
-('mark', 'black')
+('drivers', 'are obeying', 'law')
+('program', 'On screen', 'laptop computer')
+('program', 'wedding')

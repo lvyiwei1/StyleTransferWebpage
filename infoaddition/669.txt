@@ -1,7 +1,6 @@
 Original Sentence: 
-The consequences of building empires with sand are showing up
+Most foreign government bonds markets were quiet
 Additional Information: 
-('empire', 'holding', 'racket')
-('empire', 'gray')
-('sand', 'near', 'bush')
-('sand', 'brown')
+('bond', 'black ')
+('market', 'has', 'flowers')
+('market', 'outdoor')

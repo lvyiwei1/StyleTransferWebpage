@@ -1,5 +1,7 @@
 Original Sentence: 
-And export business is still good
+The place costs nearly 2 million a year to maintain
 Additional Information: 
-('business', 'has', 'entrance')
-('business', 'here')
+('place', 'full of', 'snow')
+('place', 'full')
+('year', 'ON', 'building')
+('year', 'white')

@@ -1,5 +1,7 @@
 Original Sentence: 
-Six-year-old Pace based in Aurora Colo. operates 41 warehouse-club stores
+But Burger King operators independently confirm using Michael 's product
 Additional Information: 
-('store', 'OF', 'wine')
-('store', 'red')
+('operator', 'sitting', 'shed')
+('operator', 'Lift ')
+('product', 'IN', 'box')
+('product', 'bathroom')

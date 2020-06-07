@@ -1,5 +1,7 @@
 Original Sentence: 
-Sales rose to 2.45 billion from 2.2 billion
+In the 1988 quarter the bank earned 1.1 million
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('quarter', 'ON', 'counter top')
+('quarter', 'silver')
+('bank', 'by', 'water')
+('bank', 'grassy')

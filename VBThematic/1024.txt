@@ -1,0 +1,3 @@
+Original Sentence: 
+Making computers smaller often means sacrificing memory
+Emphasize: sacrificing

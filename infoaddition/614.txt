@@ -1,5 +1,5 @@
 Original Sentence: 
-The system also provides course-correction advisories
+It 's a tough thing when you ca n't
 Additional Information: 
-('system', 'ON', 'stand')
-('system', 'black')
+('thing', 'under', 'wiener')
+('thing', 'black')

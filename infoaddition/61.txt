@@ -1,7 +1,5 @@
 Original Sentence: 
-In post-earthquake parlance her building is a red
+But by comparison this fluffy comedy seems like a gem
 Additional Information: 
-('building', 'beside', 'road')
-('building', 'white')
-('red', 'traffic', 'light')
-('red', 'red')
+('gem', 'ON', 'hat')
+('gem', 'blue')

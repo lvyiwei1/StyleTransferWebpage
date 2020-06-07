@@ -1,5 +1,5 @@
 Original Sentence: 
-Some 4,300 institutions are part of the pension fund
+Still Mrs. Thatcher had once again gone against the grain
 Additional Information: 
-('part', 'OF', 'sky')
-('part', 'small')
+('grain', 'ON', 'half')
+('grain', 'wood')

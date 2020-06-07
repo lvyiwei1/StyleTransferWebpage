@@ -1,4 +1,9 @@
 Original Sentence: 
-You already know the answer
+Leaseway provides transportation services for manufacturers distributors and retailers
 Additional Information: 
-('test questions', 'with', 'answer')
+('woman', 'standing in front of', 'transportation')
+('transportation', 'public')
+('service', 'ON', 'sign')
+('service', 'gone')
+('manufacturer', 'OF', 'truck')
+('manufacturer', 'hidden')

@@ -1,6 +1,5 @@
 Original Sentence: 
-The product overcame the bad publicity and kept evolving
+Coors with its large beer-distribution network could penetrate more markets
 Additional Information: 
-('product', 'IN', 'box')
-('product', 'bathroom')
-('bus', 'has', 'publicity')
+('market', 'has', 'fruit')
+('market', 'outdoor')

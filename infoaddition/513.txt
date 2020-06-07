@@ -1,6 +1,9 @@
 Original Sentence: 
-The company does n't expect any shipping delays
+But the new lens became the eye of a storm
 Additional Information: 
-('company', 'ON', 'photo')
-('company', 'name')
-('container', 'for', 'shipping')
+('lens', 'ON', 'goggles')
+('lens', 'black')
+('eye', 'OF', 'bear')
+('eye', 'black')
+('storm', 'IN', 'background')
+('storm', 'coming')

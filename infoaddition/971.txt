@@ -1,7 +1,5 @@
 Original Sentence: 
-He then made most of the changes pilots say
+PENALTY OVERHAUL is still likely congressional sources say
 Additional Information: 
-('change', 'goes into', 'parking meter')
-('change', 'loose')
-('pilot', 'IN', 'cockpit')
-('pilot', 'walking')
+('source', 'OF', 'water')
+('source', 'blue')

@@ -1,5 +1,5 @@
 Original Sentence: 
-The Financial Times 30-share index ended 13.6 higher at 1772.1
+Profits improved across Hess 's businesses
 Additional Information: 
-('index', 'a fingerhas', 'baby')
-('index', 'is a finger')
+('business', 'along', 'road')
+('business', 'here')

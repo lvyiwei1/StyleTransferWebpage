@@ -1,5 +1,4 @@
 Original Sentence: 
-Still its edge is lost
+We 've actually read the speech
 Additional Information: 
-('edge', 'OF', 'plate')
-('edge', 'white')
+('man', 'giving', 'speech')

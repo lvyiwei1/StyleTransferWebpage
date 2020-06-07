@@ -1,5 +1,5 @@
 Original Sentence: 
-But there 's another side to Mr. Krenz
+No doubt he believes the place can be salvaged
 Additional Information: 
-('side', 'OF', 'fire hydrant')
-('side', 'white')
+('place', 'for', 'conductor')
+('place', 'full')

@@ -1,0 +1,3 @@
+Original Sentence: 
+It has a similar project for 200,000 cars a year
+Emphasize: similar

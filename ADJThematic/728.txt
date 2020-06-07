@@ -1,0 +1,3 @@
+Original Sentence: 
+But retail energy prices declined 0.9 % in September
+Emphasize: retail

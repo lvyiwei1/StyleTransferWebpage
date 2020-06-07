@@ -1,5 +1,6 @@
 Original Sentence: 
-That is the key to the current national disease
+Looking ahead to commodity markets this week
 Additional Information: 
-('key', 'ON', 'keyboard')
-('key', 'black')
+('market', 'for sale at', 'market')
+('market', 'outdoor')
+('day', 'OF', 'week')

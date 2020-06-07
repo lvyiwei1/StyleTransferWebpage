@@ -1,5 +1,5 @@
 Original Sentence: 
-The other element includes consolidating BethForge 's press-forge operations
+Community involvement is an even worse idea
 Additional Information: 
-('element', 'for', 'broiler')
-('element', 'heating')
+('community', 'ON', 'water')
+('community', 'here')

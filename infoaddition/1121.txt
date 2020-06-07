@@ -1,7 +1,4 @@
 Original Sentence: 
-a reflects 2-for-1 stock split effective Dec. 30 1988
+And You Are There sort of
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
-('split', 'on top of', 'fish')
-('split', 'long')
+('sort', 'OF', 'tracks')

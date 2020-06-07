@@ -1,6 +1,7 @@
 Original Sentence: 
-But five weeks after the premiere the series has floundered
+It will trade over the counter under the symbol CRAY
 Additional Information: 
-('day', 'OF', 'week')
-('series', 'of posted American', 'flags')
-('series', 'of ski gates')
+('counter', 'IN', 'bathroom')
+('counter', 'white')
+('symbol', 'ON', 'sign')
+('symbol', 'white')

@@ -1,4 +1,5 @@
 Original Sentence: 
-UAL Corp. is a good example
+Sale of Saatchi Unit Close
 Additional Information: 
-('example', 'lowercase')
+('sale', 'at', 'company')
+('sale', 'red')

@@ -1,0 +1,3 @@
+Original Sentence: 
+American Express card charge volume rose 12 %
+Emphasize: rose

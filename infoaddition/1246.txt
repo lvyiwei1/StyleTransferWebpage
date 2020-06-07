@@ -1,4 +1,5 @@
 Original Sentence: 
-Brockville is about 100 miles east of Toronto
+Sales were 12 billion off 13 % from 13.8 billion
 Additional Information: 
-('mile', 'ON', 'avenue of americas')
+('sale', 'at', 'company')
+('sale', 'red')

@@ -1,5 +1,6 @@
 Original Sentence: 
-In New York the company declined comment
+WCRS has been in discussions with Eurocom for several months
 Additional Information: 
-('company', 'at', 'bottom')
-('company', 'name')
+('man', 'and woman engaged in', 'discussion')
+('month', 'around', 'face')
+('month', 'ninth')

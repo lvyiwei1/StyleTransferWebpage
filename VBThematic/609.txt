@@ -1,0 +1,3 @@
+Original Sentence: 
+He says his son has n't paid for the shares
+Emphasize: paid

@@ -1,4 +1,5 @@
 Original Sentence: 
-Law Firm Management Can Be Quite Rewarding
+The industrial average closed down only 3.69 points at 2659.22
 Additional Information: 
-('drivers', 'are obeying', 'law')
+('point', 'ON', 'short hand')
+('point', 'sharp')

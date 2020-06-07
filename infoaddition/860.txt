@@ -1,5 +1,5 @@
 Original Sentence: 
-Not everyone is so pessimistic
+Do n't say it 's a gold ceiling
 Additional Information: 
-('everyone', 'ON', 'sidewalk')
-('everyone', 'smiling')
+('ceiling', 'has', 'vent')
+('ceiling', 'white')

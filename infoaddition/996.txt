@@ -1,4 +1,4 @@
 Original Sentence: 
-We 're not rushing into anything
+Other trips were more productive
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('man and women', 'going on', 'trip')

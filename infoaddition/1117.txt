@@ -1,5 +1,5 @@
 Original Sentence: 
-Cadillac may be on to something
+My younger daughter and I are fine
 Additional Information: 
-('something', 'lying on top of', 'table')
-('something', 'red')
+('daughter', 'right of', 'train')
+('daughter', 'small')

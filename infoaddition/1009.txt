@@ -1,5 +1,5 @@
 Original Sentence: 
-The comic book will cost about 2
+Our competitors say we overbid them
 Additional Information: 
-('book', 'about', 'woman')
-('book', 'white')
+('competitor', 'holding', 'pole')
+('competitor', 'here')

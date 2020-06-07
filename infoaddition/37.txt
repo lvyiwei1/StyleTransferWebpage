@@ -1,5 +1,5 @@
 Original Sentence: 
-The Northeast and West regions were unchanged
+That is the key to the current national disease
 Additional Information: 
-('region', 'around', 'stop sign')
-('region', 'mountainous')
+('key', 'part of', 'keyboard')
+('key', 'black')

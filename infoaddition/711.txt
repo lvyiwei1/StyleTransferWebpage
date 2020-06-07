@@ -1,5 +1,5 @@
 Original Sentence: 
-For the Giuliani forces it 's a conundrum
+A few drops in circulation are of no consequence
 Additional Information: 
-('force', 'ON', 'plane')
-('force', 'black')
+('drop', 'OF', 'water')
+('drop', 'water')

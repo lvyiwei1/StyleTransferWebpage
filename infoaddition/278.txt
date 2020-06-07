@@ -1,5 +1,5 @@
 Original Sentence: 
-Western Digital does n't make the monitors
+He is a mechanical engineer not an atmospheric chemist
 Additional Information: 
-('monitor', 'on top of', 'floor')
-('monitor', 'black')
+('engineer', 'ON', 'train')
+('engineer', 'train')

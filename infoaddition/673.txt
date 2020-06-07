@@ -1,4 +1,7 @@
 Original Sentence: 
-Then he unleashed his own unstoppable attack
+Most dealers can not continue to absorb this supply
 Additional Information: 
-('attack', 'are', 'attack')
+('dealer', 'WEARING', 'glasses')
+('dealer', 'female')
+('supply', 'ON', 'table')
+('supply', 'all')

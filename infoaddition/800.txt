@@ -1,8 +1,7 @@
 Original Sentence: 
-The dollar and bond prices also closed higher
+We must find any way to get business
 Additional Information: 
-('dollar', 'ON', 'bed')
-('dollar', 'twenty')
-('bond', 'black ')
-('price', 'OF', 'apples')
-('price', 'written')
+('way', 'scrapped on', 'bus')
+('way', 'walk')
+('business', 'along', 'road')
+('business', 'here')

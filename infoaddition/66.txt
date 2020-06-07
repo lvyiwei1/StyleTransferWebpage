@@ -1,5 +1,6 @@
 Original Sentence: 
-Other manufacturers are equally cautious
+Bond prices also edged higher
 Additional Information: 
-('manufacturer', 'OF', 'bus')
-('manufacturer', 'hidden')
+('bond', 'black ')
+('price', 'ON', 'sign')
+('price', 'written')

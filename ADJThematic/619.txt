@@ -1,0 +1,3 @@
+Original Sentence: 
+The Senate Commerce Committee already has approved similar legislation
+Emphasize: similar

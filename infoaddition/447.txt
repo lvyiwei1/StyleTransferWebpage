@@ -1,7 +1,9 @@
 Original Sentence: 
-Not that oil suddenly is a sure thing again
+It said it would purchase the stock at market price
 Additional Information: 
-('oil', 'ON', 'street')
-('oil', 'hot')
-('thing', 'ON', 'table')
-('thing', 'black')
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('market', 'IN', 'street')
+('market', 'outdoor')
+('price', 'OF', 'fruit')
+('price', 'written')

@@ -1,7 +1,5 @@
 Original Sentence: 
-The company has been manufacturing carpet since 1967
+I would n't say we 're out of the business
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
-('carpet', 'protecting', 'carpet')
-('carpet', 'brown')
+('business', 'name', 'lab')
+('business', 'here')

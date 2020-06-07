@@ -1,4 +1,7 @@
 Original Sentence: 
-I would n't expect an immediate resolution to anything
+Many brokerage house officials also are optimistic
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('house', 'ON', 'road')
+('house', 'white')
+('official', 'sitting on', 'green stand')
+('official', 'tennis')

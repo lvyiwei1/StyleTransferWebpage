@@ -1,5 +1,5 @@
 Original Sentence: 
-Tandem 's pricing is just as aggressive
+He dedicated all these new forces to the Persian Gulf
 Additional Information: 
-('sign', 'has', 'pricing')
-('pricing', 'hand written')
+('force', 'ON', 'plane')
+('force', 'black')

@@ -1,8 +1,5 @@
 Original Sentence: 
-Fuel costs were up 10 % in the third quarter
+Eight years I 've had it
 Additional Information: 
-('fuel', 'ON', 'truck')
-('fuel', 'jet ')
-('cost', 'displayed in front of', 'banana')
-('quarter', 'lying on', 'shelf')
-('quarter', 'silver')
+('year', 'ON', 'side')
+('year', 'white')

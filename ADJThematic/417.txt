@@ -1,0 +1,3 @@
+Original Sentence: 
+It 's a real dog
+Emphasize: real

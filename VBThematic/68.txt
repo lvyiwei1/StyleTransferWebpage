@@ -1,0 +1,3 @@
+Original Sentence: 
+I am waiting
+Emphasize: waiting

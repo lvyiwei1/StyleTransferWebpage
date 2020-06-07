@@ -1,5 +1,7 @@
 Original Sentence: 
-Laurie McGinley contributed to this article
+Cathay is taking several steps to bolster business
 Additional Information: 
-('article', 'ON', 'screen')
-('article', 'newspaper')
+('step', 'underneath', 'door')
+('step', 'concrete')
+('business', 'IN', 'city')
+('business', 'here')

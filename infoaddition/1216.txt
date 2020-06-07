@@ -1,5 +1,4 @@
 Original Sentence: 
-If the show ai n't a killer they 're gone
+In over-the-counter trading Friday Weisfield 's gained 9.50 to 39
 Additional Information: 
-('show', 'playing on', 'television')
-('show', 'kite')
+('red t', 'IN', 'trading')

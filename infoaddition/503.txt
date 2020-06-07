@@ -1,5 +1,5 @@
 Original Sentence: 
-The future of the forest remains uncertain
+There is hope of change
 Additional Information: 
-('forest', 'lines', 'lake')
-('forest', 'green')
+('change', 'in a', 'change')
+('change', 'loose')

@@ -1,5 +1,8 @@
 Original Sentence: 
-She wants things to be exciting
+Japanese department stores are also wary of attracting negative publicity
 Additional Information: 
-('thing', 'in back of', 'train')
-('thing', 'black')
+('horse', 'used', 'department')
+('department', 'British police ')
+('store', 'has', 'entrance')
+('store', 'red')
+('bus', 'has', 'publicity')

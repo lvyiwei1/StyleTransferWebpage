@@ -1,5 +1,6 @@
 Original Sentence: 
-These figures are n't seasonally adjusted
+But there are no scientific data on this question
 Additional Information: 
-('figure', 'on top of', 'monolith')
-('figure', 'green')
+('data', 'ON', 'monitor')
+('data', 'green')
+('question', 'black')

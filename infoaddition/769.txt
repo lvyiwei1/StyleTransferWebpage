@@ -1,4 +1,5 @@
 Original Sentence: 
-But Sony is a problem
+Sales rose 8 % to 368.5 million from 340.7 million
 Additional Information: 
-('plane', 'has', 'problem')
+('sale', 'ON', 'window')
+('sale', 'red')

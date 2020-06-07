@@ -1,5 +1,7 @@
 Original Sentence: 
-I add two others
+A man said he saw the upper rim undulate
 Additional Information: 
-('others', 'at', 'beach')
-('others', 'three')
+('man', 'standing in', 'corner')
+('man', 'standing')
+('rim', 'on', 'tire')
+('rim', 'silver')

@@ -1,5 +1,7 @@
 Original Sentence: 
-Sales rose 4.8 % to 1.20 billion from 1.14 billion
+People in Glass houses tend to look stoned
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('people', 'ON', 'bleachers')
+('people', 'standing')
+('house', 'with', 'windows')
+('house', 'white')

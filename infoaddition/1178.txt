@@ -1,5 +1,5 @@
 Original Sentence: 
-He cut her hair
+The good news is it 's not your fault
 Additional Information: 
-('hair', 'ON', 'man')
-('hair', 'brown')
+('news', 'ON', 'bus')
+('news', 'word')

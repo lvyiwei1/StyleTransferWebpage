@@ -1,5 +1,5 @@
 Original Sentence: 
-John E. Yang contributed to this article
+The price was 3.6 billion yen 25 million
 Additional Information: 
-('article', 'ON', 'chair')
-('article', 'newspaper')
+('price', 'ON', 'tag')
+('price', 'written')

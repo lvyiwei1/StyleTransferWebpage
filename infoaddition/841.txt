@@ -1,5 +1,5 @@
 Original Sentence: 
-That 's antithetical to the art of selling
+But the strategy is n't helping much this time
 Additional Information: 
-('art', 'ON', 'wall')
-('art', 'framed')
+('time', 'on', 'iphone')
+('time', 'displayed')

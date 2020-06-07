@@ -1,5 +1,5 @@
 Original Sentence: 
-It is a quick fix for a complex problem
+It 's bad soil he says
 Additional Information: 
-('fix', 'ON', 'wall')
-('plane', 'has', 'problem')
+('soil', 'below', 'trees')
+('soil', 'brown')

@@ -1,5 +1,6 @@
 Original Sentence: 
-But they did n't lose touch with the U.S. issuers
+Japanese stock salesmen selling American bonds
 Additional Information: 
-('touch', 'OF', 'laptop')
-('touch', 'gray')
+('stock', 'OF', 'broccoli')
+('stock', 'green')
+('bond', 'black ')

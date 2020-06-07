@@ -1,6 +1,5 @@
 Original Sentence: 
-In Europe the dollar ended lower in dull trading
+Some institutional traders loved the wild ride
 Additional Information: 
-('dollar', 'IN', 'hand')
-('dollar', 'twenty')
-('red t', 'IN', 'trading')
+('ride', 'ON', 'playground')
+('ride', 'tall')

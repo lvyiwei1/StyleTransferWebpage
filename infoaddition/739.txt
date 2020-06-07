@@ -1,5 +1,5 @@
 Original Sentence: 
-Malaysia 's High Court is expected to approve the plan
+He also said investment by businesses is falling off
 Additional Information: 
-('plan', 'ON', 'ground')
-('plan', 'air')
+('business', 'has', 'phone number')
+('business', 'here')

@@ -1,5 +1,5 @@
 Original Sentence: 
-If you do n't you ca n't do your job
+Citicorp posted a 9 % drop in quarterly profit
 Additional Information: 
-('job', 'ON', 'bus')
-('job', 'decorative')
+('drop', 'ON', 'plate')
+('drop', 'water')

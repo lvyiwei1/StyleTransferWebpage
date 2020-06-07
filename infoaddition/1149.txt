@@ -1,5 +1,5 @@
 Original Sentence: 
-Now it 's on the fence
+On second thought make that just mom
 Additional Information: 
-('fence', 'behind', 'car')
-('fence', 'metal')
+('mom', 'helping', 'cook')
+('mom', 'spray painted')

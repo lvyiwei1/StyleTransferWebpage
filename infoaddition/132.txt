@@ -1,5 +1,5 @@
 Original Sentence: 
-Prices were mixed in Zurich and lower in Stockholm
+We are not trying to encourage everyone
 Additional Information: 
-('price', 'written on', 'paper')
-('price', 'written')
+('everyone', 'ON', 'sidewalk')
+('everyone', 'smiling')

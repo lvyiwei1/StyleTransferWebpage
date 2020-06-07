@@ -1,6 +1,7 @@
 Original Sentence: 
-These securities are attractive to Japanese investors for three reasons
+Even so his bill is given little chance of passage
 Additional Information: 
-('security', 'ON', 'airport')
-('security', 'standing')
-('not', 'in mood right nowhold leg in air for no', 'reason')
+('bill', 'ON', 'player')
+('bill', 'orange')
+('passage', 'ON', 'left')
+('passage', 'gray')

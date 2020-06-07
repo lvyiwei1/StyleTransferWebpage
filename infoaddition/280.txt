@@ -1,7 +1,6 @@
 Original Sentence: 
-But the apple industry is ripe for change
+Sierra Tucson operates an addiction treatment center
 Additional Information: 
-('apple', 'IN', 'hand')
-('apple', 'red')
-('change', 'ON', 'machine')
-('change', 'loose')
+('treatment', 'wooden')
+('center', 'OF', 'daisy')
+('center', 'yellow')

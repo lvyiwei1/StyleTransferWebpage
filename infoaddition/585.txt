@@ -1,7 +1,7 @@
 Original Sentence: 
-Traders are already buckling their seat belts
+The new exchange drew instant recognition from an unwelcome quarter
 Additional Information: 
-('seat', 'ON', 'bike')
-('seat', 'black')
-('belt', 'around', 'waist')
-('belt', 'black')
+('two women', 'make', 'exchange')
+('plaque', 'for', 'recognition')
+('quarter', 'lying on', 'shelf')
+('quarter', 'silver')

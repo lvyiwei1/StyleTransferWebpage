@@ -1,5 +1,5 @@
 Original Sentence: 
-In January Mr. Salvatori sold the unit
+Accepted bids were all at 7.962 %
 Additional Information: 
-('unit', 'ON', 'train')
-('unit', 'white')
+('bid', 'ON', 'shoulder')
+('bid', 'metal')

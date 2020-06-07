@@ -1,8 +1,4 @@
 Original Sentence: 
-Overall Salomon reported program trading volume of 75.2 million shares
+They will be available in minimum denominations of 10,000
 Additional Information: 
-('program', 'ON', 'monitor')
-('program', 'wedding')
-('red t', 'IN', 'trading')
-('volume', 'ON', 'keyboard')
-('volume', '3')
+('denomination', 'American dollar bill ')

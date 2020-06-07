@@ -1,0 +1,3 @@
+Original Sentence: 
+The farmer stands to go
+Emphasize: stands

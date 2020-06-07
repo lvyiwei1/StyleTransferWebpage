@@ -1,0 +1,3 @@
+Original Sentence: 
+The transactions are unrelated
+Emphasize: unrelated

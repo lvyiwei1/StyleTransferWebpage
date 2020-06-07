@@ -1,5 +1,5 @@
 Original Sentence: 
-But Nevada state labor economists think a shortage is probable
+But such spots can be too soft
 Additional Information: 
-('state', 'ON', 'hood')
-('state', 'Penn ')
+('spot', 'by', 'bench')
+('spot', 'brown')

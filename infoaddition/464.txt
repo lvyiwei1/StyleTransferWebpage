@@ -1,6 +1,4 @@
 Original Sentence: 
-Evaluating asset-backed securities poses another problem
+Changing the outcome of the trial is what really matters
 Additional Information: 
-('security', 'system sticker', 'on the window')
-('security', 'standing')
-('plane', 'has', 'problem')
+('snow', 'has', 'trial')

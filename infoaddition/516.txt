@@ -1,5 +1,5 @@
 Original Sentence: 
-Now because of various difficulties the product has been scrapped
+People have been very respectful of each other
 Additional Information: 
-('product', 'IN', 'box')
-('product', 'bathroom')
+('people', 'ON', 'highway')
+('people', 'standing')

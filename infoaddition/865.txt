@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Gonzalez is not quite a closet supply-side revolutionary however
+Now the question is Is Poland ready for it
 Additional Information: 
-('closet', 'has', 'door')
-('closet', 'wooden')
+('question', 'black')

@@ -1,7 +1,5 @@
 Original Sentence: 
-Seats currently are quoted at 400,000 bid 425,000 asked
+The cats are fine although nervous
 Additional Information: 
-('seat', 'OF', 'bike')
-('seat', 'black')
-('bid', 'ON', 'shoulder')
-('bid', 'metal')
+('cat', 'sleeping on', 'window sill')
+('cat', 'black')

@@ -1,7 +1,5 @@
 Original Sentence: 
-He remains chief executive officer
+Times have changed
 Additional Information: 
-('executive', 'ON', 'signs')
-('executive', 'in white')
-('officer', 'WEARING', 'sunglasses')
-('officer', 'police')
+('time', 'ON', 'screen')
+('time', 'displayed')

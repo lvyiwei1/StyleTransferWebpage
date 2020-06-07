@@ -1,8 +1,7 @@
 Original Sentence: 
-The rest is of course history
+The IRA portion of the Packwood-Roth plan is irresponsible
 Additional Information: 
-('rest', 'ON', 'controller')
-('rest', 'arm')
-('course', 'has a', 'flag')
-('course', 'green')
-('the', 'word', 'history')
+('portion', 'of', 'face')
+('portion', 'white')
+('plan', 'ON', 'tarmac')
+('plan', 'air')

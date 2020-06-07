@@ -1,7 +1,6 @@
 Original Sentence: 
-The farmer barges into the naczelnik 's office
+Innocent bystanders often are the victims
 Additional Information: 
-('farmer', 'with', 'blue shirt')
-('farmer', 'holding')
-('office', 'seen', 'here')
-('office', 'small')
+('bystander', 'IN', 'coat')
+('bystander', 'watching')
+('racket', 'OF', 'victim')

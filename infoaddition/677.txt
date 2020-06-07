@@ -1,7 +1,6 @@
 Original Sentence: 
-The machine is essentially a mainframe computer he said
+Evaluating asset-backed securities poses another problem
 Additional Information: 
-('machine', 'IN', 'track')
-('machine', 'white')
-('computer', 'ON', 'cabinet')
-('computer', 'laptop')
+('security', 'walking in', 'orange vests')
+('security', 'standing')
+('plane', 'has', 'problem')

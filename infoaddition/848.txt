@@ -1,4 +1,7 @@
 Original Sentence: 
-it defended appropriate constitutional safeguards and practical common sense
+People were even hoarding bags he says
 Additional Information: 
-('phrase', 'makes no', 'sense')
+('people', 'IN', 'top')
+('people', 'standing')
+('bag', 'IN', 'drawer')
+('bag', 'black')

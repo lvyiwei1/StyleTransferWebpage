@@ -1,7 +1,9 @@
 Original Sentence: 
-The lawyers are now in charge of our national security
+It also licenses optically based data storage and retrieval devices
 Additional Information: 
-('lawyer', 'showing a', 'paper')
-('charge', 'can', 'charge')
-('security', 'walking in', 'orange vests')
-('security', 'standing')
+('data', 'ON', 'monitor')
+('data', 'green')
+('storage', 'underneath', 'oven')
+('storage', 'overhead')
+('device', 'IN', 'black backpack')
+('device', 'electronic')

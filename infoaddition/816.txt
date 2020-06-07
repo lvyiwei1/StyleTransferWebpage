@@ -1,5 +1,4 @@
 Original Sentence: 
-The price was n't disclosed
+We ca n't lose sight of that
 Additional Information: 
-('price', 'for', 'avocados')
-('price', 'written')
+('train', 'IN', 'sight')

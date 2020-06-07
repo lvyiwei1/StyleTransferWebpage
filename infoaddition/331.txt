@@ -1,5 +1,5 @@
 Original Sentence: 
-Perhaps in time the Supreme Court will correct them
+Craig Torres contributed to this article
 Additional Information: 
-('time', 'on a', 'clock')
-('time', 'displayed')
+('article', 'ON', 'chair')
+('article', 'newspaper')

@@ -1,5 +1,6 @@
 Original Sentence: 
-Sales of Prozac an anti-depressant led drug-sales increases
+California enacted a rights law in 1988
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('right', 'ear of', 'giraffee')
+('right', 'far')
+('drivers', 'are obeying', 'law')

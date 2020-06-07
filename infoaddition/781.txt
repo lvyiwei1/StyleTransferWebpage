@@ -1,5 +1,5 @@
 Original Sentence: 
-The bank has a negative net worth they say
+Currently the company has about six million common shares outstanding
 Additional Information: 
-('bank', 'next to', 'hotel')
-('bank', 'grassy')
+('company', 'calls', 'flowering mills')
+('company', 'name')

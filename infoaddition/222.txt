@@ -1,6 +1,5 @@
 Original Sentence: 
-Figures do n't include taxes or transaction costs
+It was succeeded in the group by Fuqua Industries Inc
 Additional Information: 
-('figure', 'ON', 'building')
-('figure', 'green')
-('cost', 'displayed in front of', 'banana')
+('group', 'OF', 'trees')
+('group', 'large')

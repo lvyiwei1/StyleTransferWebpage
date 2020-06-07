@@ -1,5 +1,5 @@
 Original Sentence: 
-Mr. Bush returned to Washington Saturday night
+But the U.S. companies are redoubling their efforts
 Additional Information: 
-('night', 'at', 'marina')
-('night', 'black')
+('company', 'ON', 'photo')
+('company', 'name')

@@ -1,5 +1,7 @@
 Original Sentence: 
-It is a bureaucratic country
+Yesterday 's Centennial Journal misstated the company 's name
 Additional Information: 
-('country', 'ON', 'boxes')
-('country', 'foreign')
+('company', 'that owns', 'bus')
+('company', 'name')
+('name', 'ON', 'airplane')
+('name', 'white')

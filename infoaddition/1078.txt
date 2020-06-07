@@ -1,5 +1,5 @@
 Original Sentence: 
-Taken together the worries prompted a broad sell-off of stocks
+In September 1988 that level was 9.5 %
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
+('level', 'OF', 'truck')
+('level', 'upper')

@@ -1,6 +1,5 @@
 Original Sentence: 
-But while index options are convenient they have several disadvantages
+The report is to be released today
 Additional Information: 
-('index', 'a fingerhas', 'baby')
-('index', 'is a finger')
-('option', 'ON', 'phone')
+('report', 'ON', 'green paper')
+('sign', 'reads', 'today')

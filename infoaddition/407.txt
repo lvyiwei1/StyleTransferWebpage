@@ -1,7 +1,6 @@
 Original Sentence: 
-The new exchange drew instant recognition from an unwelcome quarter
+TIMES SQUARE development opponents are dealt setback
 Additional Information: 
-('two women', 'make', 'exchange')
-('plaque', 'for', 'recognition')
-('quarter', 'of a', 'pizza')
-('quarter', 'silver')
+('development', 'yellow')
+('opponent', 'wears', 'green')
+('opponent', 'standing')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Bostic posted 1988 sales of 255 million
+The Dow Jones Industrial Average rose 39.55 points to 2683.20
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('point', 'OF', 'tower')
+('point', 'sharp')

@@ -1,4 +1,5 @@
 Original Sentence: 
-I think Mr. Phillips is going to need some help
+But the shift has also been fueled by necessity
 Additional Information: 
-('poster', 'says', 'help')
+('shift', 'ON', 'keyboard')
+('shift', 'black')

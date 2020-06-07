@@ -1,6 +1,5 @@
 Original Sentence: 
-Not everybody agrees that it 's time to trim
+But gay rights advocates are angry too
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
-('time', 'ON', 'screen')
-('time', 'displayed')
+('right', 'wheel of computer', 'chair')
+('right', 'far')

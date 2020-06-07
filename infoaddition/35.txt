@@ -1,5 +1,5 @@
 Original Sentence: 
-A disciplined program will work the best Mr. Boesel says
+The letter was dated Oct. 6
 Additional Information: 
-('program', 'ON', 'monitor')
-('program', 'wedding')
+('letter', 'ON', 'page')
+('letter', 'white')

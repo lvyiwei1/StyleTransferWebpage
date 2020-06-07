@@ -1,7 +1,4 @@
 Original Sentence: 
-Its Houston work force now totals 230
+And before last Friday they were actually making modest progress
 Additional Information: 
-('work', 'beside', 'paw')
-('work', 'iron')
-('force', 'ON', 'plane')
-('force', 'black')
+('a', 'baseball game in', 'progress')

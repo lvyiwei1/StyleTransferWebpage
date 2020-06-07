@@ -1,7 +1,5 @@
 Original Sentence: 
-Some nights he slept under his desk
+The ventilation here is great
 Additional Information: 
-('night', 'hangs over', 'city')
-('night', 'black')
-('desk', 'IN', 'photo')
-('desk', 'wooden')
+('ventilation', 'ON', 'wall')
+('ventilation', 'black')

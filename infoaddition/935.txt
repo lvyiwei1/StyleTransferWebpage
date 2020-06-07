@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales fell 1.5 % to 884 million from 897.2 million
+And his outlook improved after successful cataract surgery in August
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('outlook', 'ON', 'building')

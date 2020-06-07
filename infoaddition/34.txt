@@ -1,5 +1,4 @@
 Original Sentence: 
-It showed the DJIA up 30 points
+The FASB had its initial meeting on March 28 1973
 Additional Information: 
-('point', 'of', 'post')
-('point', 'sharp')
+('meeting', 'has', 'folder')

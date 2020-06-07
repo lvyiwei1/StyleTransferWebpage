@@ -1,5 +1,7 @@
 Original Sentence: 
-Mr. Lurie is currently co-chief executive
+And even though employees paid the bill taxpayers grumbled
 Additional Information: 
-('executive', 'ON', 'signs')
-('executive', 'in white')
+('employee', 'sets', 'table')
+('employee', 'airport')
+('bill', 'attached to', 'hat')
+('bill', 'orange')

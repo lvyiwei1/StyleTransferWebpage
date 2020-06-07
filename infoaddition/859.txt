@@ -1,7 +1,5 @@
 Original Sentence: 
-And another thing real Texans drink Lipton iced tea
+People will learn to be more circumspect
 Additional Information: 
-('thing', 'under', 'airplane')
-('thing', 'black')
-('tea', 'inside', 'cup')
-('tea', 'iced')
+('people', 'sitting', 'bar')
+('people', 'standing')

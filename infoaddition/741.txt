@@ -1,7 +1,5 @@
 Original Sentence: 
-Imports of goods and services soared while exports were flat
+But the man who built it has fallen
 Additional Information: 
-('good', 'sold in', 'shop')
-('good', 'baked')
-('service', 'on a', 'building')
-('service', 'gone')
+('man', 'behind', 'plane')
+('man', 'standing')

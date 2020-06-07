@@ -1,4 +1,5 @@
 Original Sentence: 
-Corporate bonds were unchanged
+The computer 's miscalculation has been painful for Renaissance
 Additional Information: 
-('bond', 'black ')
+('computer', 'has a', 'keyboard')
+('computer', 'laptop')

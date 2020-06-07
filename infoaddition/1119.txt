@@ -1,5 +1,5 @@
 Original Sentence: 
-The two sides had n't met since Oct. 18
+Should the rest of the Series be played at all
 Additional Information: 
-('side', 'windows of a', 'bus')
-('side', 'white')
+('rest', 'ON', 'chair')
+('rest', 'arm')

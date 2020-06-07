@@ -1,7 +1,4 @@
 Original Sentence: 
-The operating chief 's post is new
+They wo n't do that very often today at all
 Additional Information: 
-('spoon', 'next to', 'chief')
-('chief', 'handker')
-('post', 'behind', 'giraffes')
-('post', 'wooden')
+('sign', 'reads', 'today')

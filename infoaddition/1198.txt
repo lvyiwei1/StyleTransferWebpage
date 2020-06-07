@@ -1,5 +1,5 @@
 Original Sentence: 
-Those days are gone
+But those would require pilots ' cooperation
 Additional Information: 
-('day', 'within', 'lake')
-('day', 'sunny')
+('pilot', 'ON', 'airplane')
+('pilot', 'walking')

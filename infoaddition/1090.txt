@@ -1,6 +1,5 @@
 Original Sentence: 
-It does n't mean anything it 's public-relations money
+There will be a lot of malice
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
-('money', 'IN', 'right hand')
-('money', 'paper')
+('lot', 'made of', 'grey brick pavers')
+('lot', 'parking')

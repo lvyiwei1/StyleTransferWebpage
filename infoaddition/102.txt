@@ -1,7 +1,6 @@
 Original Sentence: 
-South African gold stocks closed firmer
+The percentage change is since year-end
 Additional Information: 
-('gold', 'high', 'heel')
-('gold', 'brown')
-('stock', 'of', 'stock')
-('stock', 'green')
+('coupon', 'has', 'percentage')
+('change', 'ON', 'red')
+('change', 'loose')

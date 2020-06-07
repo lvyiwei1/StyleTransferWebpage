@@ -1,5 +1,4 @@
 Original Sentence: 
-For Cathay Pacific Airways the smooth ride may be ending
+The yield rose to 5.38 %
 Additional Information: 
-('ride', 'IN', 'background')
-('ride', 'tall')
+('yield', 'on', 'sign')

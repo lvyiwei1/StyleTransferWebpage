@@ -1,0 +1,3 @@
+Original Sentence: 
+Is this the wrong time to open a store
+Emphasize: wrong

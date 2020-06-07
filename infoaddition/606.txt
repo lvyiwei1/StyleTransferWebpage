@@ -1,4 +1,6 @@
 Original Sentence: 
-Changing the outcome of the trial is what really matters
+Wall Street is n't avoiding everything connected with paper
 Additional Information: 
-('snow', 'has', 'trial')
+('sky', 'above', 'everything')
+('paper', 'ON', 'ground')
+('paper', 'white')

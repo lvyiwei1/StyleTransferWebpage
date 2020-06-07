@@ -1,6 +1,8 @@
 Original Sentence: 
-The two banks appear to be a good fit
+On some days the Nucor plant does n't produce anything
 Additional Information: 
-('bank', 'IN', 'hill')
-('bank', 'grassy')
-('fit', 'ON', 'shirt')
+('day', 'at', 'beach')
+('day', 'sunny')
+('plant', 'next to', 'people')
+('plant', 'green')
+('part', 'of a speaker not connected to', 'anything')

@@ -1,7 +1,6 @@
 Original Sentence: 
-People in Glass houses tend to look stoned
+Security costs are also quite high
 Additional Information: 
-('people', 'underneath', 'tent')
-('people', 'standing')
-('house', 'along', 'shoreline')
-('house', 'white')
+('security', 'ON', 'court')
+('security', 'standing')
+('cost', 'displayed in front of', 'banana')

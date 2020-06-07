@@ -1,5 +1,5 @@
 Original Sentence: 
-Indeed the competition is n't greatly concerned
+Meanwhile the exchange has been trying to lower costs
 Additional Information: 
-('man', 'IN', 'competition')
-('competition', 'horse')
+('two women', 'make', 'exchange')
+('cost', 'displayed in front of', 'banana')

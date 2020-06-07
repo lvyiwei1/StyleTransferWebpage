@@ -1,5 +1,5 @@
 Original Sentence: 
-The dollar was mixed
+It 's not a zero-sum game
 Additional Information: 
-('dollar', 'IN', 'hand')
-('dollar', 'twenty')
+('game', 'ON', 'tv')
+('game', 'baseball')

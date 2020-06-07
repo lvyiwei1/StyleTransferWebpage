@@ -1,7 +1,5 @@
 Original Sentence: 
-Ms. House is vice president of Dow Jones International Group
+Why did he add the Value Fund to the list
 Additional Information: 
-('handle', 'ON', 'vice')
-('vice', 'blue')
-('president', 'at', 'table')
-('president', ' United States')
+('list', 'ON', 'screen')
+('list', 'champagne ')

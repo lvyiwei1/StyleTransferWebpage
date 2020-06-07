@@ -1,7 +1,5 @@
 Original Sentence: 
-Anatol Pawlowski 's leg begins jiggling beneath his desk
+After cooling the coins are then rewrapped
 Additional Information: 
-('leg', 'of', 'dog')
-('leg', 'white')
-('desk', 'has a', 'water bottle')
-('desk', 'wooden')
+('coin', 'ON', 'back')
+('coin', 'gold')

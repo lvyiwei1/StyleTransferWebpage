@@ -1,5 +1,9 @@
 Original Sentence: 
-I just felt another aftershock a few seconds ago
+The interviews took place two years ago
 Additional Information: 
-('second', 'story on', 'building')
-('second', 'black')
+('interview', 'IN', 'background')
+('interview', 'media')
+('place', 'made of', 'wood')
+('place', 'full')
+('year', 'ON', 'photograph')
+('year', 'white')

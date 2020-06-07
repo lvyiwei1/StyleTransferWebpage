@@ -1,9 +1,5 @@
 Original Sentence: 
-Some casino owners have resisted the temptation to add rooms
+Both men were also relieved of their duties yesterday
 Additional Information: 
-('casino', 'in a', 'casino')
-('casino', 'bright')
-('owner', 'OF', 'cat')
-('owner', 'proud')
-('room', 'has', 'sink')
-('room', 'dark')
+('men', 'ON', 'water')
+('men', 'standing')

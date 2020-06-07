@@ -1,5 +1,5 @@
 Original Sentence: 
-Veiling his message has helped him endure
+Jacobs Engineering officials could n't be reached for comment
 Additional Information: 
-('message', 'ON', 'heart')
-('message', 'white')
+('official', 'for', 'tennis')
+('official', 'tennis')

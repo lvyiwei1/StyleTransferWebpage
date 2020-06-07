@@ -1,0 +1,3 @@
+Original Sentence: 
+These figures are n't seasonally adjusted
+Emphasize: adjusted

@@ -1,5 +1,5 @@
 Original Sentence: 
-The two sides now are accusing each other of lying
+Sales increased 6 % to 5.58 billion from 5.27 billion
 Additional Information: 
-('side', 'OF', 'truck')
-('side', 'white')
+('sale', 'at', 'company')
+('sale', 'red')

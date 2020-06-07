@@ -1,5 +1,5 @@
 Original Sentence: 
-That puts pressure on CD rates
+He will remain on the Banc One board
 Additional Information: 
-('cd', 'ON', 'ground')
-('cd', 'silver')
+('board', 'against', 'wall')
+('board', 'white')

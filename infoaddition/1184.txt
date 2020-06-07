@@ -1,5 +1,6 @@
 Original Sentence: 
-Americans stay longer with Japanese firms than American companies
+The action came after the Senate approved the House-passed measure
 Additional Information: 
-('company', 'ON', 'building')
-('company', 'name')
+('action', 'IN', 'action')
+('action', 'MLB')
+('measure', 'black')

@@ -1,7 +1,7 @@
 Original Sentence: 
-The figures occasionally include incomplete transactions in restricted stock
+In other words Get rid of all the pictures
 Additional Information: 
-('figure', 'ON', 'roof')
-('figure', 'green')
-('stock', 'of', 'stock')
-('stock', 'green')
+('word', 'ON', 'sign')
+('word', 'white')
+('picture', 'taken', 'outdoors')
+('picture', 'framed')

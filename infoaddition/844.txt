@@ -1,5 +1,5 @@
 Original Sentence: 
-The financial-services industry was battered by the 1987 crash
+And he has attached himself to the Lincoln story tenaciously
 Additional Information: 
-('crash', 'of an', 'airplane')
-('crash', 'white')
+('story', 'missing', 'wall')
+('story', 'second')

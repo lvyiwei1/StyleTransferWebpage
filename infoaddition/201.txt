@@ -1,5 +1,5 @@
 Original Sentence: 
-A year later it was 5.7 million
+It is the New Journalism come to television
 Additional Information: 
-('year', 'IN', 'corner')
-('year', 'white')
+('television', 'has', 'large screen')
+('television', 'black')

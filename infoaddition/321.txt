@@ -1,6 +1,5 @@
 Original Sentence: 
-Each one has a different agenda
+It all adds up to a cold winter here
 Additional Information: 
-('one', 'staring at', 'camera')
-('one', 'white')
-('agenda', 'OF', 'conference')
+('winter', 'trees', 'background')
+('winter', 'season')

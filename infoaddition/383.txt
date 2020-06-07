@@ -1,5 +1,5 @@
 Original Sentence: 
-Sales were 730.1 million up 7 % from 679.5 million
+The mask cuts to the quick
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('mask', 'ON', 'catcher')
+('mask', 'black')

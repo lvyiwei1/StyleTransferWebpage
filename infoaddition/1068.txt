@@ -1,5 +1,5 @@
 Original Sentence: 
-The device was replaced
+Falconbridge he says will continue operating in its current form
 Additional Information: 
-('device', 'on', 'charger')
-('device', 'electronic')
+('form', 'OF', 'blurred woman')
+('form', 'white')

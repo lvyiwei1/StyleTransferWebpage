@@ -1,7 +1,6 @@
 Original Sentence: 
-No employee or vendor would be involved
+The index is intended to measure future economic performance
 Additional Information: 
-('employee', 'WEARING', 'helmet')
-('employee', 'airport')
-('vendor', 'IN', 'boat')
-('vendor', 'street')
+('index', 'a fingerhas', 'baby')
+('index', 'is a finger')
+('crowd', 'watching', 'performance')

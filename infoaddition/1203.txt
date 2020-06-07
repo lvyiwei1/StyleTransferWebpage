@@ -1,5 +1,8 @@
 Original Sentence: 
-What really stirs his muse though is aerobic architecture
+The announcement came after the market 's close
 Additional Information: 
-('architecture', 'around', 'clock')
-('architecture', 'decorative')
+('announcement', 'ON', 'table')
+('announcement', 'green')
+('market', 'IN', 'container')
+('market', 'outdoor')
+('close', 'up', 'cheese')

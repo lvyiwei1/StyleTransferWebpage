@@ -1,5 +1,6 @@
 Original Sentence: 
-And the merchandise was well fake
+The percentage change is since year-end
 Additional Information: 
-('merchandise', 'ON', 'table')
-('merchandise', 'fragile')
+('coupon', 'has', 'percentage')
+('change', 'ON', 'machine')
+('change', 'loose')

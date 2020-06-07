@@ -1,7 +1,5 @@
 Original Sentence: 
-The accident was caused by faulty operation of a valve
+There are n't too many winners
 Additional Information: 
-('accident', 'ON', 'highway')
-('accident', 'in traffic')
-('valve', 'for', 'toilet')
-('valve', 'large')
+('winner', 'seen', 'left leg')
+('winner', '2nd place')

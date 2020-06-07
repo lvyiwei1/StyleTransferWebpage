@@ -1,9 +1,9 @@
 Original Sentence: 
-Another poked a hole in the heel of his shoe
+But the steam may never reach the engine room
 Additional Information: 
-('hole', 'ON', 'headrest')
-('hole', 'small')
-('heel', 'OF', 'woman')
-('heel', 'black')
-('shoe', 'sitting on', 'shelf')
-('shoe', 'black')
+('steam', 'coming from a', 'train')
+('steam', 'white')
+('engine', 'ON', 'jet')
+('engine', 'blue')
+('room', 'ON', 'plate')
+('room', 'dark')

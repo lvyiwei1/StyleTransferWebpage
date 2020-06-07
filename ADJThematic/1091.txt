@@ -1,0 +1,3 @@
+Original Sentence: 
+The agreement is subject to government approval
+Emphasize: subject

@@ -1,5 +1,5 @@
 Original Sentence: 
-This feels more like a one-shot deal
+The markets are returning to normalcy
 Additional Information: 
-('deal', 'OF', 'bananas')
-('deal', 'great')
+('market', 'filled with', 'green peppers')
+('market', 'outdoor')

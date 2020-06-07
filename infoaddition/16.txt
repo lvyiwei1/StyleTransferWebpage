@@ -1,4 +1,5 @@
 Original Sentence: 
-This creates several problems
+Stock prices rose
 Additional Information: 
-('plane', 'has', 'problem')
+('price', 'for', 'peppers')
+('price', 'written')

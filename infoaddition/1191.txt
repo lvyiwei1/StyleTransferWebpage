@@ -1,4 +1,7 @@
 Original Sentence: 
-Complying with environmental and workplace regulations runs a close second
+Mr. Smith 39 retains the title of chief financial officer
 Additional Information: 
-('regulation', 'size white', 'base')
+('title', 'OF', 'recipe pamphlet')
+('title', 'movie')
+('officer', 'driving', 'car')
+('officer', 'police')

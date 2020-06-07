@@ -1,0 +1,3 @@
+Original Sentence: 
+Revenue totaled 5 million
+Emphasize: totaled

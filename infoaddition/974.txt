@@ -1,5 +1,5 @@
 Original Sentence: 
-Interest will be paid semi-annually
+It must be accepted by the court
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
+('court', 'has', 'lines')
+('court', 'green')

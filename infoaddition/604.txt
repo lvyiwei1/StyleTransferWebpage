@@ -1,4 +1,7 @@
 Original Sentence: 
-Health-insurance costs soared
+This will raise the energy level of the show
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('level', 'OF', 'bunkbed')
+('level', 'upper')
+('show', 'ON', 'hillside')
+('show', 'kite')

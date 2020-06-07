@@ -1,11 +1,4 @@
 Original Sentence: 
-The excess supply pushed gasoline prices down in that period
+Male scandal victims invariably fare better
 Additional Information: 
-('supply', 'ON', 'table')
-('supply', 'all')
-('tube', 'for', 'gasoline')
-('gasoline', 'offered')
-('price', 'ON', 'sign')
-('price', 'written')
-('period', 'against', 'background')
-('period', 'red')
+('racket', 'OF', 'victim')

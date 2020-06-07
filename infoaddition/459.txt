@@ -1,5 +1,8 @@
 Original Sentence: 
-Things are beginning to settle down
+Those percentages hardly changed from the previous year 's poll
 Additional Information: 
-('thing', 'coming off', 'wing')
-('thing', 'black')
+('coupon', 'has', 'percentage')
+('year', 'ON', 'wine')
+('year', 'white')
+('poll', 'ON', 'ground')
+('poll', 'white')

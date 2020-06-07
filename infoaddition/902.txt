@@ -1,5 +1,6 @@
 Original Sentence: 
-But I loved turbans
+Mitsubishi has a futuristic delivery truck called the Guppy
 Additional Information: 
-('turban', 'ON', 'man')
-('turban', 'white')
+('van', 'for', 'delivery')
+('truck', 'ON', 'road')
+('truck', 'white')

@@ -1,8 +1,5 @@
 Original Sentence: 
-For months the resistance has been defenseless against air attack
+The stock fell 75 cents
 Additional Information: 
-('month', 'around', 'face')
-('month', 'ninth')
-('air', 'contains', 'smoke')
-('air', 'mid')
-('attack', 'are', 'attack')
+('stock', 'of', 'stock')
+('stock', 'green')

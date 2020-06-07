@@ -1,5 +1,6 @@
 Original Sentence: 
-The hotel is scheduled to open in 1992
+Some companies are cutting costs and hoping for the best
 Additional Information: 
-('hotel', 'has', 'window')
-('hotel', 'large')
+('company', 'at', 'bottom')
+('company', 'name')
+('cost', 'displayed in front of', 'banana')

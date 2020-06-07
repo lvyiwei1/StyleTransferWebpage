@@ -1,0 +1,3 @@
+Original Sentence: 
+Mr. Jones takes heart
+Emphasize: takes

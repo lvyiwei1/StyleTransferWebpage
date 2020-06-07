@@ -1,5 +1,9 @@
 Original Sentence: 
-He probably has n't done it for the cash
+Men would crawl in the sand looking for shiny stones
 Additional Information: 
-('cash', 'inside', 'purse')
-('cash', 'Two round pieces  ')
+('men', 'IN', 'dugout')
+('men', 'standing')
+('sand', 'at', 'beach')
+('sand', 'brown')
+('stone', 'IN', 'distance')
+('stone', 'large')

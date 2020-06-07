@@ -1,0 +1,3 @@
+Original Sentence: 
+A related editorial appears today
+Emphasize: appears

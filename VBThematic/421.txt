@@ -1,0 +1,3 @@
+Original Sentence: 
+The envelope arrives in the mail
+Emphasize: arrives

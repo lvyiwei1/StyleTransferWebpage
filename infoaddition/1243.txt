@@ -1,5 +1,5 @@
 Original Sentence: 
-Police did n't intervene
+That 's also the day of the gubernatorial election
 Additional Information: 
-('police', 'station', 'building')
-('police', 'riding')
+('day', 'at', 'beach')
+('day', 'sunny')

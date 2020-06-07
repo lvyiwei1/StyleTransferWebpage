@@ -1,5 +1,4 @@
 Original Sentence: 
-But such thin-slab technology is only the beginning
+Thursday 's edition misstated the narrowing
 Additional Information: 
-('technology', 'has', 'dial')
-('technology', 'silver')
+('edition', 'word')

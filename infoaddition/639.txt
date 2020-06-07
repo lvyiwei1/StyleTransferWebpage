@@ -1,4 +1,5 @@
 Original Sentence: 
-The measure is expected to move through this Congress
+Money helped too
 Additional Information: 
-('measure', 'black')
+('money', 'ON', 'floor')
+('money', 'paper')

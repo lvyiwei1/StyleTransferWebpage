@@ -1,5 +1,4 @@
 Original Sentence: 
-Shippers are saying the party 's over said Mr. LaLonde
+To ask those questions is to answer them
 Additional Information: 
-('party', 'at a', 'house')
-('party', 'birthday')
+('question', 'black')

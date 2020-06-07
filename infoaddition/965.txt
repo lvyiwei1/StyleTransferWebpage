@@ -1,5 +1,5 @@
 Original Sentence: 
-There 's contract revenue from limited research and development partnerships
+I could n't afford to hire 16 whites
 Additional Information: 
-('laptop', 'used for', 'research')
-('development', 'yellow')
+('white', 'toilet', 'brush')
+('white', 'white')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Prices peaked at 1,150,000 in September 1987
+For employee and employer alike the worry is widespread
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
+('employee', 'ON', 'ground')
+('employee', 'airport')

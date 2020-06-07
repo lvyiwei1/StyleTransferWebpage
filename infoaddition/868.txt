@@ -1,6 +1,7 @@
 Original Sentence: 
-TIMES SQUARE development opponents are dealt setback
+Bond prices were little changed in sluggish activity
 Additional Information: 
-('development', 'yellow')
-('opponent', 'wears', 'green')
-('opponent', 'standing')
+('bond', 'black ')
+('price', 'for', 'bananas')
+('price', 'written')
+('activity', 'around', 'planes')

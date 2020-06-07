@@ -1,9 +1,5 @@
 Original Sentence: 
-Excluding transportation items orders rose 1.8 %
+But they never materialized and IMA completed the purchase yesterday
 Additional Information: 
-('sign', 'directing people to another source of', 'transportation')
-('transportation', 'public')
-('item', 'ON', 'commode')
-('item', 'red')
-('order', 'containing', 'fries')
-('order', 'ready')
+('woman', 'wants to', 'purchase')
+('purchase', 'Levy Restaurant')

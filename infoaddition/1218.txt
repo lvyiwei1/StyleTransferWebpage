@@ -1,5 +1,5 @@
 Original Sentence: 
-When selling is so frenzied prices fall steeply and fast
+The estimate includes the results of new stores
 Additional Information: 
-('price', 'tag', 'roll')
-('price', 'written')
+('store', 'has', 'glass')
+('store', 'red')

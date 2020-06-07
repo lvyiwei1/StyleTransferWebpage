@@ -1,7 +1,5 @@
 Original Sentence: 
-Individuals can always have their hands slapped
+The Norfolk Va. company has 172.2 million shares outstanding
 Additional Information: 
-('individual', 'has', 'green shirt')
-('individual', 'smiling')
-('hand', 'ON', 'hand')
-('hand', 'black')
+('company', 'has', 'advertisement')
+('company', 'name')

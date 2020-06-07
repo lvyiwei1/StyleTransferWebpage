@@ -1,5 +1,5 @@
 Original Sentence: 
-Richard L. Sherman 42 will advise midsized businesses
+They stopped short of resuming diplomatic ties severed in 1979
 Additional Information: 
-('business', 'name', 'lab')
-('business', 'here')
+('tie', 'around', 'tops')
+('tie', 'black')

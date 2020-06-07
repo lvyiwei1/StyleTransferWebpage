@@ -1,6 +1,4 @@
 Original Sentence: 
-An announcement is more likely next week though
+Mr. Ahmad 's lawyer said he would appeal
 Additional Information: 
-('announcement', 'ON', 'table')
-('announcement', 'green')
-('day', 'OF', 'week')
+('lawyer', 'showing a', 'paper')

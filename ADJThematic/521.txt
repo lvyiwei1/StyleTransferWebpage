@@ -1,0 +1,3 @@
+Original Sentence: 
+The vaccine however causes allergic reactions that can be fatal
+Emphasize: allergic

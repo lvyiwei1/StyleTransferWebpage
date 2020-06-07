@@ -1,0 +1,3 @@
+Original Sentence: 
+AMR slid 22.125 to 76.50
+Emphasize: slid

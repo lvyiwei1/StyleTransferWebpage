@@ -1,6 +1,4 @@
 Original Sentence: 
-Is he a victim of Gramm-Rudman cuts
+Mr. Whittle Friday said several more advertisers have been added
 Additional Information: 
-('racket', 'OF', 'victim')
-('cut', 'IN', 'rock')
-('cut', 'small')
+('advertiser', 'ON', 'train')

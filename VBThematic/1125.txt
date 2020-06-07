@@ -1,0 +1,3 @@
+Original Sentence: 
+The plant employs between 800 and 900 on three shifts
+Emphasize: employs

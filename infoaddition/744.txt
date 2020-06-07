@@ -1,5 +1,5 @@
 Original Sentence: 
-Proceeds from those sales will be used to reduce debt
+Czeslaw Pyszkiewicz owns 30 acres in 14 scattered scraps
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('scrap', 'ON', 'floor')
+('scrap', 'white')

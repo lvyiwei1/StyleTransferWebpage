@@ -1,9 +1,5 @@
 Original Sentence: 
-Some industry groups consistently weather the storm better than others
+Per-share net rose to 44.08 yen from 36.13 yen
 Additional Information: 
-('group', 'grazing on', 'field')
-('group', 'large')
-('storm', 'ON', 'pavement')
-('storm', 'coming')
-('others', 'at', 'beach')
-('others', 'three')
+('net', 'ON', 'court')
+('net', 'black')

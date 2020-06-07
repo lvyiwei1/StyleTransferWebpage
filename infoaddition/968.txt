@@ -1,5 +1,6 @@
 Original Sentence: 
-Kennametal is a carbide-products and cutting-tools company
+These are long-term Richter readings on American capitalism
 Additional Information: 
-('company', 'made', 'fire hydrant')
-('company', 'name')
+('reading', 'on', 'clock')
+('reading', 'white')
+('capitalism', 'written on', 'sign')

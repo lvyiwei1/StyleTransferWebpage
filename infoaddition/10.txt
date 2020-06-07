@@ -1,5 +1,5 @@
 Original Sentence: 
-I decided to brave the storm
+People hold out and try to get a bargain
 Additional Information: 
-('storm', 'ahead of', 'traffic')
-('storm', 'coming')
+('people', 'behind', 'girl')
+('people', 'standing')

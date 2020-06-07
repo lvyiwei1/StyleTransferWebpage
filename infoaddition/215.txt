@@ -1,5 +1,5 @@
 Original Sentence: 
-Remember the Dalkon Shield and the early birth-control pills
+Mortgage securities ended little changed after light dealings
 Additional Information: 
-('pill', 'ON', 'table')
-('pill', 'pink')
+('security', 'ON', 'court')
+('security', 'standing')

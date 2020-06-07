@@ -1,5 +1,5 @@
 Original Sentence: 
-We are prepared to support those changes said Mr. Mosbacher
+This was not a do-or-die deal she said
 Additional Information: 
-('change', 'ON', 'red')
-('change', 'loose')
+('deal', 'OF', 'bananas')
+('deal', 'great')

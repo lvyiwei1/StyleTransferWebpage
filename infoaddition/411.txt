@@ -1,7 +1,7 @@
 Original Sentence: 
-Both men are 44 years old
+ESB directors warmly accepted but a whirlwind bidding match ensued
 Additional Information: 
-('men', 'behind', 'horse')
-('men', 'standing')
-('year', 'OF', 'picture')
-('year', 'white')
+('vest', 'ON', 'director')
+('director', 'caucasian')
+('match', 'OF', 'rugby')
+('match', 'tennis')

@@ -1,6 +1,7 @@
 Original Sentence: 
-And that naturally exacerbates price movements
+Details of credit enhancements vary widely from issue to issue
 Additional Information: 
-('price', 'for', 'peppers')
-('price', 'written')
-('movement', 'of pointed lines over', 'dots')
+('detail', 'IN', 'tower')
+('detail', 'red')
+('credit', 'IN', 'corner')
+('credit', 'artist')

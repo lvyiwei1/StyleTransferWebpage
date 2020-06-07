@@ -1,0 +1,3 @@
+Original Sentence: 
+There are n't any such listings for asset-backed securities
+Emphasize: asset-backed

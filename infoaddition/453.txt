@@ -1,7 +1,5 @@
 Original Sentence: 
-Wives May Not Benefit When Men Do Chores
+A three is 10 times 10 again and so on
 Additional Information: 
-('wife', 'WEARING', 'eyeglasses')
-('wife', 'superhero')
-('men', 'are sitting at', 'table')
-('men', 'standing')
+('time', 'ON', 'laptop')
+('time', 'displayed')

@@ -1,5 +1,5 @@
 Original Sentence: 
-That 's also the day of the gubernatorial election
+Indeed institutions already are taking note
 Additional Information: 
-('day', 'with', 'tower')
-('day', 'sunny')
+('note', 'ON', 'monitor')
+('note', 'yellow')

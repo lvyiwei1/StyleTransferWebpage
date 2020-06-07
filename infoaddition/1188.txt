@@ -1,4 +1,7 @@
 Original Sentence: 
-The companion tax-exempt funds add 71 billion
+The company also has a stock-repurchase plan
 Additional Information: 
-('companion', 'walking', 'beach')
+('company', 'has', 'name')
+('company', 'name')
+('plan', 'ON', 'tarmac')
+('plan', 'air')

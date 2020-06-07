@@ -1,9 +1,5 @@
 Original Sentence: 
-ORGANIZED CRIME Strike Forces likely to be abolished next month
+Mr. Zafris thinks rates are heading down helping small companies
 Additional Information: 
-('strike', 'ON', 'door')
-('strike', 'black')
-('force', 'ON', 'plane')
-('force', 'black')
-('month', 'OF', 'picture')
-('month', 'ninth')
+('company', 'has', 'name')
+('company', 'name')

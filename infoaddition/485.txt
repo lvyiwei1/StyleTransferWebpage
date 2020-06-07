@@ -1,5 +1,5 @@
 Original Sentence: 
-Its interest expense surged to 21.5 million from 12.4 million
+Among other blue chips Exxon gained 1\/8 to 45 1\/2
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
+('chip', 'ON', 'plate')
+('chip', 'chocolate')

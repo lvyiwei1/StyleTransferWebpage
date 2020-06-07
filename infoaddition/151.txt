@@ -1,6 +1,7 @@
 Original Sentence: 
-Treasury prices ended mixed in light trading
+And the egg producers have done a pretty good job
 Additional Information: 
-('price', 'OF', 'fruit')
-('price', 'written')
-('red t', 'IN', 'trading')
+('egg', 'IN', 'carton')
+('egg', 'white')
+('job', 'ON', 'bus')
+('job', 'decorative')

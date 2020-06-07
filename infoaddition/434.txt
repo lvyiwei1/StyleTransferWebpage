@@ -1,4 +1,7 @@
 Original Sentence: 
-The recession that is
+Japanese Firms Push Posh Car Showrooms
 Additional Information: 
-('recession', 'wall')
+('car', 'ON', 'runway')
+('car', 'parked')
+('showroom', 'has white', 'carpet')
+('showroom', 'carpeted')

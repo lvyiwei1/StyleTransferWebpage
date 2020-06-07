@@ -1,5 +1,5 @@
 Original Sentence: 
-That has outraged some fans
+The software conversion costs would dwarf any savings
 Additional Information: 
-('fan', 'IN', 'corner')
-('fan', 'white')
+('software', 'blue')
+('cost', 'displayed in front of', 'banana')

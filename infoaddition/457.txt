@@ -1,7 +1,5 @@
 Original Sentence: 
-The market closed prior to Mr. Lawson 's announcement
+But these wide swings scare them to death
 Additional Information: 
-('market', 'IN', 'container')
-('market', 'outdoor')
-('announcement', 'ON', 'table')
-('announcement', 'green')
+('swing', 'ON', 'rope')
+('swing', 'wooden')

@@ -1,5 +1,6 @@
 Original Sentence: 
-But critics consider the changes regressive
+Most people said they exercise both for health and enjoyment
 Additional Information: 
-('change', 'ON', 'red')
-('change', 'loose')
+('people', 'are in', 'distance')
+('people', 'standing')
+('health', 'center', 'sign')

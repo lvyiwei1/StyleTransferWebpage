@@ -1,5 +1,6 @@
 Original Sentence: 
-It also saves money
+It is the stuff of dreams but also of traumas
 Additional Information: 
-('money', 'hanging out of', 'briefcase')
-('money', 'paper')
+('stuff', 'around a', 'bike')
+('stuff', 'white')
+('dream', 'capital letters')

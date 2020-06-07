@@ -1,0 +1,3 @@
+Original Sentence: 
+The farmer at the next truck shouts Wheat
+Emphasize: shouts

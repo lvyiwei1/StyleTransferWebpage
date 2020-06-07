@@ -1,0 +1,3 @@
+Original Sentence: 
+London shares closed moderately lower in thin trading
+Emphasize: closed

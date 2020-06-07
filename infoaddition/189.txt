@@ -1,5 +1,5 @@
 Original Sentence: 
-Also most of the telecommunications equipment was out
+Volume totaled 14,580,000 shares
 Additional Information: 
-('equipment', 'IN', 'field')
-('equipment', 'electronic')
+('volume', 'ON', 'keyboard')
+('volume', '3')

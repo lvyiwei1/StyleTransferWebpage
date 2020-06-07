@@ -1,0 +1,3 @@
+Original Sentence: 
+Mr. Goldberg is the sole general partner in Rose Partners
+Emphasize: general

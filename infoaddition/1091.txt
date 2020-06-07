@@ -1,5 +1,4 @@
 Original Sentence: 
-The estimate includes the results of new stores
+The Russians are talking peace
 Additional Information: 
-('store', 'next to', 'tracks')
-('store', 'red')
+('peace', 'ON', 'pillow')

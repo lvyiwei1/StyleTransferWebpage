@@ -1,5 +1,7 @@
 Original Sentence: 
-Kyle manufactures electronic components
+The market was caught totally the wrong way
 Additional Information: 
-('component', 'in a', 'bowl')
-('component', 'blue')
+('market', 'has', 'oranges')
+('market', 'outdoor')
+('way', 'scrapped on', 'bus')
+('way', 'walk')

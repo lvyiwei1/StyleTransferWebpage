@@ -1,5 +1,6 @@
 Original Sentence: 
-That 's baseball
+Long-term bonds have performed erratically this year
 Additional Information: 
-('baseball', 'ON', 'tee')
-('baseball', 'white')
+('bond', 'black ')
+('year', 'IN', 'corner')
+('year', 'white')

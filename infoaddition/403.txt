@@ -1,7 +1,6 @@
 Original Sentence: 
-Pricing details were n't available
+Reagan Era Young Hold Liberal Views
 Additional Information: 
-('sign', 'has', 'pricing')
-('pricing', 'hand written')
-('detail', 'on front of', 'wheel')
-('detail', 'red')
+('young', 'ON', 'street sign')
+('view', 'of a', 'building')
+('view', 'beautiful')

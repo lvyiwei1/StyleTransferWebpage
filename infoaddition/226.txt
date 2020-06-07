@@ -1,6 +1,7 @@
 Original Sentence: 
-Trading in Taipei was suspended for a national holiday
+The board increased by one to 26 members
 Additional Information: 
-('red t', 'IN', 'trading')
-('decoration', 'for', 'holiday')
-('holiday', 'colorful')
+('board', 'ON', 'tracks')
+('board', 'white')
+('member', 'WEARING', 'shirt')
+('member', 'several')

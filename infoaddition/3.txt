@@ -1,5 +1,5 @@
 Original Sentence: 
-The fiscal 1989 budget deficit figure came out Friday
+We were reassured they would stand behind the company
 Additional Information: 
-('figure', 'standing under', 'bathtub')
-('figure', 'green')
+('company', 'ON', 'photo')
+('company', 'name')

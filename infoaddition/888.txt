@@ -1,5 +1,6 @@
 Original Sentence: 
-CNBC will produce six one-hour programs beginning in April 1990
+Companies will continue to war over standards
 Additional Information: 
-('program', 'on a', 'television')
-('program', 'wedding')
+('company', 'that owns', 'bus')
+('company', 'name')
+('standard', 'size white', 'toilet')

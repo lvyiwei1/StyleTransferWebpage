@@ -1,5 +1,4 @@
 Original Sentence: 
-Other scandal survivors are sometimes the best source of solace
+Then they identified snags in the process
 Additional Information: 
-('source', 'OF', 'water')
-('source', 'blue')
+('snag', 'in bed', 'spread')

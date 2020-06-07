@@ -1,0 +1,3 @@
+Original Sentence: 
+The board expanded to 17 seats
+Emphasize: expanded

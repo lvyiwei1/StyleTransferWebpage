@@ -1,8 +1,5 @@
 Original Sentence: 
-The Soviets have a world-leading space program the guests noted
+Known as Easy Eggs the product has disappointed investors
 Additional Information: 
-('space', 'showing', 'frying pan')
-('space', 'green')
-('program', 'On screen', 'laptop computer')
-('program', 'wedding')
-('guest', 'behind', 'fence')
+('product', 'selling on', 'show')
+('product', 'bathroom')

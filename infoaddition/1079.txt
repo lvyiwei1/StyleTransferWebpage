@@ -1,8 +1,4 @@
 Original Sentence: 
-But a flurry of late trading yesterday beefed up prices
+She added however It is not robust by any means
 Additional Information: 
-('flurry', 'OF', 'snow')
-('flurry', 'big')
-('red t', 'IN', 'trading')
-('price', 'for', 'peppers')
-('price', 'written')
+('mean', 'WEARING', 'red shirt')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Nothing less it seemed could console them for their traumas
+The U.S. futures exchanges compete world-wide as never before
 Additional Information: 
-('nothing', 'IN', 'sky')
-('nothing', 'clear')
+('two women', 'make', 'exchange')

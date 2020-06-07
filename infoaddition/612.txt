@@ -1,7 +1,4 @@
 Original Sentence: 
-Mr. Meador had been executive vice president of Balcor
+Some funds are posting yields far higher than the average
 Additional Information: 
-('handle', 'ON', 'vice')
-('vice', 'blue')
-('president', 'ON', 'television')
-('president', ' United States')
+('yield', 'on', 'sign')

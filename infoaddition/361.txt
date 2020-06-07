@@ -1,5 +1,6 @@
 Original Sentence: 
-The issue has been simmering for years
+For longer-term CDs yields were up
 Additional Information: 
-('year', 'ON', 'building')
-('year', 'white')
+('cd', 'laying on', 'desk')
+('cd', 'silver')
+('yield', 'on', 'sign')

@@ -1,5 +1,5 @@
 Original Sentence: 
-Uneasiness about Wall Street was cited in several markets
+And the naczelnik shuts his door
 Additional Information: 
-('market', 'full of', 'people')
-('market', 'outdoor')
+('door', 'OF', 'oven')
+('door', 'white')

@@ -1,0 +1,3 @@
+Original Sentence: 
+d Percentage change is greater than 999 %
+Emphasize: greater

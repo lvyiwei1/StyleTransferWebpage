@@ -1,5 +1,5 @@
 Original Sentence: 
-I do n't think anyone left the place whistling Dixie
+Growth is slower
 Additional Information: 
-('place', 'full of', 'snow')
-('place', 'full')
+('growth', 'IN', 'field')
+('growth', 'green')

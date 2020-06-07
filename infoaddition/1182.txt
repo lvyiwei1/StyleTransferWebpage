@@ -1,6 +1,5 @@
 Original Sentence: 
-Reagan Era Young Hold Liberal Views
+Every time he sees me he gets very nervous
 Additional Information: 
-('young', 'ON', 'street sign')
-('view', 'OF', 'zebra')
-('view', 'beautiful')
+('time', 'ON', 'clock')
+('time', 'displayed')

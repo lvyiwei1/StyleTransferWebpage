@@ -1,5 +1,5 @@
 Original Sentence: 
-In essence we run the show
+Construction is set to begin in early 1991
 Additional Information: 
-('show', 'ON', 'television')
-('show', 'kite')
+('construction', 'by', 'building')
+('construction', 'gate')

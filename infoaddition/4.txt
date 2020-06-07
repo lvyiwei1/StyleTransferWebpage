@@ -1,7 +1,9 @@
 Original Sentence: 
-He sits down at the piano and plays
+Take heart sports fans he wrote
 Additional Information: 
-('piano', 'against', 'wall')
-('piano', 'black')
-('basketball', 'IN', 'play')
-('play', 'white')
+('heart', 'ON', 'picture')
+('heart', 'red')
+('sport', 'played', 'intensely')
+('sport', 'popular')
+('fan', 'behind', 'pizza')
+('fan', 'white')

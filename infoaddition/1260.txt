@@ -1,7 +1,5 @@
 Original Sentence: 
-The company says sales have soared
+We do n't need the cash
 Additional Information: 
-('company', 'ON', 'photo')
-('company', 'name')
-('sale', 'ON', 'window')
-('sale', 'red')
+('cash', 'inside', 'purse')
+('cash', 'Two round pieces  ')

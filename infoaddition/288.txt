@@ -1,4 +1,7 @@
 Original Sentence: 
-It is what lawyers call fact intensive
+Now producers hope prices have hit bottom
 Additional Information: 
-('lawyer', 'showing a', 'paper')
+('price', 'above', 'food')
+('price', 'written')
+('bottom', 'belonging to', 'airplane')
+('bottom', 'black')

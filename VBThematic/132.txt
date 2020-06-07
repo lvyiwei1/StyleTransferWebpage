@@ -1,0 +1,3 @@
+Original Sentence: 
+Scientists felt differently
+Emphasize: felt

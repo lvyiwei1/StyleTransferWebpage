@@ -1,5 +1,5 @@
 Original Sentence: 
-Mr. Gale is an assistant professor of economics at UCLA
+Securities analysts however remained downbeat
 Additional Information: 
-('professor', 'teaching', 'college course')
-('professor', 'napping')
+('security', 'ON', 'court')
+('security', 'standing')

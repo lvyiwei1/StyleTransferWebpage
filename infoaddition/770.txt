@@ -1,5 +1,6 @@
 Original Sentence: 
-That system has worked
+A foul-smelling demon supposedly plagued a house in Mannington Ky
 Additional Information: 
-('system', 'IN', 'cabinet')
-('system', 'black')
+('demon', 'on a', 'magazine')
+('house', 'has', 'windows')
+('house', 'white')

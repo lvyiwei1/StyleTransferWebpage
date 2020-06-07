@@ -1,4 +1,7 @@
 Original Sentence: 
-We ca n't lose sight of that
+Either one likes it or one does n't
 Additional Information: 
-('eyeglasses', 'for', 'sight')
+('one', 'man', 'talking')
+('one', 'white')
+('one', 'slice', 'pizza')
+('one', 'white')

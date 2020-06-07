@@ -1,6 +1,5 @@
 Original Sentence: 
-The Japanese use 40 % of the world 's ivory
+McCaw 's bid also has a similar clause
 Additional Information: 
-('world', 'ON', 'cover')
-('ivory', 'made of', 'ivory')
-('ivory', 'white')
+('bid', 'ON', 'shoulder')
+('bid', 'metal')
