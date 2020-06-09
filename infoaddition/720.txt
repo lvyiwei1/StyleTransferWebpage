@@ -1,7 +1,4 @@
 Original Sentence: 
-The company 's president quit suddenly
+Offices of the city 's Rent Board were destroyed
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
-('president', 'ON', 'television')
-('president', ' United States')
+('city', 'standing', 'plane')

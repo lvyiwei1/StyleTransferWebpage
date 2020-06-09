@@ -1,4 +1,4 @@
 Original Sentence: 
-The citation was misstated in Friday 's edition
+Ford has signaled it might acquire a majority interest later
 Additional Information: 
-('edition', 'word')
+('people', 'showing', 'interest')

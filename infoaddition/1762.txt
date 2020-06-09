@@ -1,0 +1,4 @@
+Original Sentence: 
+Everybody was still confident including most institutional investors
+Additional Information: 
+('everybody', 'wearing', 'sunglasses')

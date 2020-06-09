@@ -1,7 +1,4 @@
 Original Sentence: 
-The company also has a stock-repurchase plan
+It said it would purchase the stock at market price
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
-('plan', 'ON', 'tarmac')
-('plan', 'air')
+('price', 'written')

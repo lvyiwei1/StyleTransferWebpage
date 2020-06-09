@@ -1,5 +1,4 @@
 Original Sentence: 
-At least it has a little dash
+Flight Attendants Lag Before Jets Even Land
 Additional Information: 
-('dash', 'ON', 'road')
-('dash', 'white')
+('jet', 'white')

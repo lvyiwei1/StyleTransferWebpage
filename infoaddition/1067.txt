@@ -1,5 +1,4 @@
 Original Sentence: 
-They 're looking for something that 's very safe
+Reagan Era Young Hold Liberal Views
 Additional Information: 
-('something', 'ON', 'ground')
-('something', 'red')
+('view', 'beautiful')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Long-term bonds have performed erratically this year
+Additional Information: 
+('year', 'white')

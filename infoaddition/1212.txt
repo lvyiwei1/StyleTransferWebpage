@@ -1,7 +1,4 @@
 Original Sentence: 
-Neither has plans to be a market maker for now
+Third-quarter earnings at both companies were below analysts ' forecasts
 Additional Information: 
-('market', 'has', 'food')
-('market', 'outdoor')
-('maker', 'for', 'coffee')
-('maker', 'coffee')
+('company', 'name')

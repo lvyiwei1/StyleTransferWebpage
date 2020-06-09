@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+The board increased by one to 26 members
 Additional Information: 
-('term', 'house of david')
+('board', 'white')

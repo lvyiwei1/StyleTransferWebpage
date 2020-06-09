@@ -1,5 +1,4 @@
 Original Sentence: 
-Much of the family 's mystique remained
+The December contract rose 1.50 cents a pound to 1.2795
 Additional Information: 
-('family', 'skiing', 'snow')
-('family', 'sitting')
+('pound', 'has a', 'ten')

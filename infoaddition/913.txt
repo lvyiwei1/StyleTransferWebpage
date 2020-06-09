@@ -1,5 +1,4 @@
 Original Sentence: 
-Their approach did n't work mine is
+Most public-health measures were handled at the local level
 Additional Information: 
-('work', 'ON', 'column')
-('work', 'iron')
+('measure', 'black')

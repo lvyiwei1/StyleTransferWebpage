@@ -1,6 +1,4 @@
 Original Sentence: 
-Most foreign government bonds markets were quiet
+That 's baseball
 Additional Information: 
-('bond', 'black ')
-('market', 'has', 'flowers')
-('market', 'outdoor')
+('baseball', 'laying on', 'ground')

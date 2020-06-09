@@ -1,0 +1,4 @@
+Original Sentence: 
+This is a very personal ethnic style Mr. Carew says
+Additional Information: 
+('style', 'ON', 'ceiling')

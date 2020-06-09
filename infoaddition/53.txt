@@ -1,12 +1,4 @@
 Original Sentence: 
-People in the phone business call this technology 900 click
+Japanese government bonds showed little change
 Additional Information: 
-('people', 'ON', 'bicycles')
-('people', 'standing')
-('phone', 'lying on', 'table')
-('phone', 'black')
-('business', 'ON', 'side walk')
-('business', 'here')
-('technology', 'has', 'dial')
-('technology', 'silver')
-('click', 'ON', 'plane')
+('change', 'loose')

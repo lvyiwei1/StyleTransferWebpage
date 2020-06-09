@@ -1,7 +1,4 @@
 Original Sentence: 
-Polymerix makes lumber-like materials that it describes as plastic wood
+Sales were 348.2 million compared with 307.2 a year earlier
 Additional Information: 
-('material', 'in a', 'bucket')
-('material', 'white')
-('wood', 'attached to', 'boat')
-('wood', 'brown')
+('sale', 'red')

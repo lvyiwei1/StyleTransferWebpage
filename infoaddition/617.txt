@@ -1,5 +1,4 @@
 Original Sentence: 
-Two years later he opened one in West Germany
+It has a similar project for 200,000 cars a year
 Additional Information: 
-('year', 'OF', 'picture')
 ('year', 'white')

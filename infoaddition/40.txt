@@ -1,4 +1,4 @@
 Original Sentence: 
-U.S. clearance also is needed for the proposed acquisition
+Or is triskaidekaphobia fear of the number 13 justified
 Additional Information: 
-('business sign', 'says', 'clearance')
+('number', 'ON', 'aircraft')

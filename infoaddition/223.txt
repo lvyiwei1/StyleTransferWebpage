@@ -1,7 +1,4 @@
 Original Sentence: 
-Which makes the chase car necessary
+We continue to develop products faster than anyone else can
 Additional Information: 
-('chase', 'ON', 'building')
-('chase', 'word')
-('car', 'ON', 'street')
-('car', 'parked')
+('product', 'selling on', 'show')

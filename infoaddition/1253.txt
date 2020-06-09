@@ -1,6 +1,4 @@
 Original Sentence: 
-But Friday did n't help things says Mr. Schaefer
+The interview did not touch on Singapore 's domestic affairs
 Additional Information: 
-('poster', 'says', 'help')
-('thing', 'protects', 'pizza')
-('thing', 'black')
+('interview', 'IN', 'background')

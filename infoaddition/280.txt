@@ -1,6 +1,4 @@
 Original Sentence: 
-Sierra Tucson operates an addiction treatment center
+Investment-grade corporate municipal and mortgage-backed securities also fell
 Additional Information: 
-('treatment', 'wooden')
-('center', 'OF', 'daisy')
-('center', 'yellow')
+('security', 'ON', 'wall')

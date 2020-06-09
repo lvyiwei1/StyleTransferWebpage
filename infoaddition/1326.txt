@@ -1,0 +1,4 @@
+Original Sentence: 
+Thus the shadow jury was born
+Additional Information: 
+('shadow', 'ON', 'ground')

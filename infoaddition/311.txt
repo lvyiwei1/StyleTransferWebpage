@@ -1,5 +1,4 @@
 Original Sentence: 
-Americans may not be so lucky the next time
+That largely reflects the heavy stockholdings
 Additional Information: 
-('time', 'shown on', 'inner circle')
-('time', 'displayed')
+('heavy', 'metal', 'plate')

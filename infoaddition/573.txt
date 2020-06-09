@@ -1,6 +1,4 @@
 Original Sentence: 
-California enacted a rights law in 1988
+Most people ca n't even remember his name
 Additional Information: 
-('right', 'ear of', 'giraffee')
-('right', 'far')
-('drivers', 'are obeying', 'law')
+('people', 'at', 'food market')

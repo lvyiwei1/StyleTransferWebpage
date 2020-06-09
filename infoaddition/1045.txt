@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales fell 2.5 % to 1.54 billion from 1.58 billion
+The outlook for corporate earnings is fairly bleak
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('outlook', 'ON', 'building')

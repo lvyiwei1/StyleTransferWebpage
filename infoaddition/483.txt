@@ -1,6 +1,4 @@
 Original Sentence: 
-Is he a victim of Gramm-Rudman cuts
+The buyer was n't identified
 Additional Information: 
-('racket', 'OF', 'victim')
-('cut', 'IN', 'rock')
-('cut', 'small')
+('buyer', 'prospective')

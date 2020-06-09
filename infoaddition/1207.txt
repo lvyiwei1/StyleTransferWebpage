@@ -1,5 +1,4 @@
 Original Sentence: 
-Some institutional traders loved the wild ride
+In 1987 such selling contributed to a snowball effect
 Additional Information: 
-('ride', 'ON', 'playground')
-('ride', 'tall')
+('effect', 'ON', 'clock tower')

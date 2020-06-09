@@ -1,5 +1,4 @@
 Original Sentence: 
-Bach 's Air followed
+The price was 3.6 billion yen 25 million
 Additional Information: 
-('air', 'IN', 'air')
-('air', 'mid')
+('price', 'written')

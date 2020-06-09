@@ -1,5 +1,4 @@
 Original Sentence: 
-But he 's not so sure about everyone else
+The percentage change is since year-end
 Additional Information: 
-('everyone', 'ON', 'motorcycle')
-('everyone', 'smiling')
+('change', 'loose')

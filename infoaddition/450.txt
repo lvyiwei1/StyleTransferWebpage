@@ -1,11 +1,4 @@
 Original Sentence: 
-Every major maker offers computers with color displays
+Adverse pressure on gross margins has subsided Mr. Sculley said
 Additional Information: 
-('maker', 'on', 'surface')
-('maker', 'coffee')
-('computer', 'ON', 'table')
-('computer', 'laptop')
-('color', 'ON', 'television')
-('color', 'red')
-('display', 'IN', 'fridge')
-('display', 'digital')
+('margin', 'separating', 'photo')

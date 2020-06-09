@@ -1,6 +1,4 @@
 Original Sentence: 
-Traders said most municipal bonds ended 1\/2 point higher
+It said it would purchase the stock at market price
 Additional Information: 
-('bond', 'black ')
-('point', 'OF', 'kite')
-('point', 'sharp')
+('price', 'OF', 'fruit')

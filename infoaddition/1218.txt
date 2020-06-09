@@ -1,5 +1,4 @@
 Original Sentence: 
-The estimate includes the results of new stores
+Copper futures prices failed to extend Friday 's rally
 Additional Information: 
-('store', 'has', 'glass')
-('store', 'red')
+('price', 'ON', 'sign')

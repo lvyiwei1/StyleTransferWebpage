@@ -1,0 +1,4 @@
+Original Sentence: 
+Any hiring is confined to retail sales
+Additional Information: 
+('sale', 'ON', 'window')

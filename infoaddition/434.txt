@@ -1,7 +1,4 @@
 Original Sentence: 
-Japanese Firms Push Posh Car Showrooms
+Others analyze the data
 Additional Information: 
-('car', 'ON', 'runway')
-('car', 'parked')
-('showroom', 'has white', 'carpet')
-('showroom', 'carpeted')
+('others', 'at', 'beach')

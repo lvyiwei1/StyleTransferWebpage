@@ -1,0 +1,4 @@
+Original Sentence: 
+Her story is becoming part of local folklore
+Additional Information: 
+('part', 'small')

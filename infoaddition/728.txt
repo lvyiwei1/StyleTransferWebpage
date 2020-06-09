@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+He is a mechanical engineer not an atmospheric chemist
 Additional Information: 
-('term', 'house of david')
+('engineer', 'ON', 'train')

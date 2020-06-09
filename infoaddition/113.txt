@@ -1,5 +1,4 @@
 Original Sentence: 
-But even that goal may prove optimistic
+The crowd remained good natured even bemused
 Additional Information: 
-('goal', 'has', 'basket')
-('goal', 'white')
+('crowd', 'ON', 'street')

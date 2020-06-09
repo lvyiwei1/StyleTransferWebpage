@@ -1,9 +1,4 @@
 Original Sentence: 
-It also licenses optically based data storage and retrieval devices
+U.S. clearance also is needed for the proposed acquisition
 Additional Information: 
-('data', 'ON', 'monitor')
-('data', 'green')
-('storage', 'underneath', 'oven')
-('storage', 'overhead')
-('device', 'IN', 'black backpack')
-('device', 'electronic')
+('business sign', 'says', 'clearance')

@@ -1,7 +1,4 @@
 Original Sentence: 
-And you want to make wicker baskets too
+This being typed in a standing position
 Additional Information: 
-('wicker', 'OF', 'chair')
-('wicker', 'brown')
-('basket', 'ON', 'coffee table')
-('basket', 'brown')
+('standing', 'standing')

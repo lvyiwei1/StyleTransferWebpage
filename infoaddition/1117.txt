@@ -1,5 +1,4 @@
 Original Sentence: 
-My younger daughter and I are fine
+The market closed prior to Mr. Lawson 's announcement
 Additional Information: 
-('daughter', 'right of', 'train')
-('daughter', 'small')
+('announcement', 'green')

@@ -1,6 +1,4 @@
 Original Sentence: 
-He 's the director of the local Planned Parenthood chapter
+Hotel-casino operators play down the possibility of a labor shortage
 Additional Information: 
-('vest', 'ON', 'director')
-('director', 'caucasian')
-('chapter', 'OF', 'book')
+('operator', 'Lift ')

@@ -1,7 +1,4 @@
 Original Sentence: 
-This will raise the energy level of the show
+In other words Get rid of all the pictures
 Additional Information: 
-('level', 'OF', 'bunkbed')
-('level', 'upper')
-('show', 'ON', 'hillside')
-('show', 'kite')
+('word', 'ON', 'sign')

@@ -1,5 +1,4 @@
 Original Sentence: 
-It also has a product-testing facility in California
+But it 's like kicking your father in the pants
 Additional Information: 
-('facility', 'for', 'giraffe')
-('facility', 'skateboarding')
+('father', 'watching', 'tennis ball')

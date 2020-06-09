@@ -1,0 +1,4 @@
+Original Sentence: 
+He called the battle uphill
+Additional Information: 
+('battle', 'close')

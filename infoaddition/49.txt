@@ -1,5 +1,4 @@
 Original Sentence: 
-It showed the DJIA up 30 points
+Most investment-grade bonds fell 3\/8 to 1\/2 point
 Additional Information: 
-('point', 'OF', 'knife')
-('point', 'sharp')
+('point', 'IN', 'background')

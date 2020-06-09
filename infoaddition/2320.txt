@@ -1,0 +1,4 @@
+Original Sentence: 
+Computer Sciences said its work will improve mail-processing efficiency
+Additional Information: 
+('work', 'beside', 'paw')

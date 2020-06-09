@@ -1,0 +1,4 @@
+Original Sentence: 
+What we had was a real old-fashioned rally
+Additional Information: 
+('man', 'IN', 'rally')

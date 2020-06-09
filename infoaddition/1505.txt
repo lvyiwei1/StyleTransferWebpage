@@ -1,0 +1,4 @@
+Original Sentence: 
+Formerly president and treasurer Mr. Lang remains chief executive officer
+Additional Information: 
+('officer', 'police')

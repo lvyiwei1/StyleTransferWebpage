@@ -1,6 +1,4 @@
 Original Sentence: 
-Most investment-grade bonds fell 3\/8 to 1\/2 point
+We are almost left out of campus social activities
 Additional Information: 
-('bond', 'black ')
-('point', 'IN', 'background')
-('point', 'sharp')
+('campus', 'benches with', 'flowers')

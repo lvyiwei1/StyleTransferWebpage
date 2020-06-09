@@ -1,5 +1,4 @@
 Original Sentence: 
-He will remain on the Banc One board
+The envelope arrives in the mail
 Additional Information: 
-('board', 'against', 'wall')
-('board', 'white')
+('mail', 'white')

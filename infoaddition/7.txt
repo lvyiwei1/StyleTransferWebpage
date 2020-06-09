@@ -1,7 +1,4 @@
 Original Sentence: 
-Some forms of private property would be sanctioned
+We are the producers of that movie
 Additional Information: 
-('form', 'lying under', 'tool')
-('form', 'white')
-('property', 'has', 'ditch')
-('property', 'waterfront')
+('movie', 'on top of', 'television')

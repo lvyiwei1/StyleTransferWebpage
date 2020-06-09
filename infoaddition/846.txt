@@ -1,6 +1,4 @@
 Original Sentence: 
-DISCIPLINARY PROCEEDINGS against lawyers open to public in Illinois
+But the steam may never reach the engine room
 Additional Information: 
-('lawyer', 'showing a', 'paper')
-('public', 'written on', 'sign')
-('public', 'watching')
+('room', 'dark')

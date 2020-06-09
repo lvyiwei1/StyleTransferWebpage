@@ -1,4 +1,4 @@
 Original Sentence: 
-Everybody was afraid of him Mr. Ingersoll says
+The advance felt more like a technical bounce he said
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
+('bounce', 'behind', 'boy')

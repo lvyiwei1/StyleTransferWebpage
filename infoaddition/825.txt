@@ -1,5 +1,4 @@
 Original Sentence: 
-Brawls between union factions still erupt at Pemex installations
+So developers are saying they will look into distressed properties
 Additional Information: 
-('union', 'station', 'engraved')
-('union', 'word')
+('property', 'waterfront')

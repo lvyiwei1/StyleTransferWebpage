@@ -1,4 +1,4 @@
 Original Sentence: 
-You built your career on prejudice and hate
+People wonder what 's going to happen next
 Additional Information: 
-('hate', 'red')
+('people', 'at', 'exhibit')

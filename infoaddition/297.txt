@@ -1,4 +1,4 @@
 Original Sentence: 
-Some foodstuff shipments will probably resume Thursday he said
+But while index options are convenient they have several disadvantages
 Additional Information: 
-('shipment', 'ON', 'truck')
+('option', 'ON', 'phone')

@@ -1,0 +1,4 @@
+Original Sentence: 
+When selling is so frenzied prices fall steeply and fast
+Additional Information: 
+('price', 'for', 'peppers')

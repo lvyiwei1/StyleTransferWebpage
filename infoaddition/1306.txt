@@ -1,4 +1,4 @@
 Original Sentence: 
-Manufacturers Hanover Trust Co. is redemption agent
+Is he a victim of Gramm-Rudman cuts
 Additional Information: 
-('agent', 'at', 'airport')
+('racket', 'OF', 'victim')

@@ -1,6 +1,4 @@
 Original Sentence: 
-The rest as they say is history
+She did n't have hot water for five days
 Additional Information: 
-('rest', 'ON', 'couch')
-('rest', 'arm')
-('the', 'word', 'history')
+('water', 'blue')

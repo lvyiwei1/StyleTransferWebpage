@@ -1,5 +1,4 @@
 Original Sentence: 
-This of course led to disaster in New York City
+The supply of experienced civil engineers though is tighter
 Additional Information: 
-('course', 'has', 'obstacles')
-('course', 'green')
+('supply', 'all')

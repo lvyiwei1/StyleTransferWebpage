@@ -1,0 +1,4 @@
+Original Sentence: 
+We are having a regular day
+Additional Information: 
+('day', 'sunny')

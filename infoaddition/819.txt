@@ -1,4 +1,4 @@
 Original Sentence: 
-We are trying to create quality and involvement
+Other fund managers were similarly sanguine
 Additional Information: 
-('photo', 'has', 'quality')
+('manager', 'overlooking action')

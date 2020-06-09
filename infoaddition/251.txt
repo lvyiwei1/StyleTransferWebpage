@@ -1,7 +1,4 @@
 Original Sentence: 
-Certain details of the restructured facilities remain to be negotiated
+MCA strongly opposed the Drabinsky group 's move
 Additional Information: 
-('detail', 'on side of', 'detail')
-('detail', 'red')
-('facility', 'near', 'river')
-('facility', 'skateboarding')
+('group', 'OF', 'people')

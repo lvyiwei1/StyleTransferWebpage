@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales rose 14 % to 715 million from 625.4 million
+Bond prices also edged higher
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('bond', 'black ')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The cafeteria remains closed
+In the end politics got in the way
 Additional Information: 
-('cafeteria', 'filled with', 'girl')
-('cafeteria', 'in school')
+('end', 'black')

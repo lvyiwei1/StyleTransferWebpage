@@ -1,8 +1,4 @@
 Original Sentence: 
-Aldus Seattle makes computer software products
+We 'd like to do business in America he says
 Additional Information: 
-('computer', 'ON', 'woman')
-('computer', 'laptop')
-('software', 'blue')
-('product', 'IN', 'box')
-('product', 'bathroom')
+('business', 'here')

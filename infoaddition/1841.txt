@@ -1,0 +1,4 @@
+Original Sentence: 
+Gene-splicing now is an integral part of the drug business
+Additional Information: 
+('part', 'OF', 'food')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The markets are returning to normalcy
+Additional Information: 
+('market', 'outdoor')

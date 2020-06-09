@@ -1,5 +1,4 @@
 Original Sentence: 
-The incident occurred Saturday night
+Both products were immensely popular
 Additional Information: 
-('night', 'hangs over', 'city')
-('night', 'black')
+('product', 'bathroom')

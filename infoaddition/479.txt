@@ -1,8 +1,4 @@
 Original Sentence: 
-Related Roommates Trim Hospital Bills
+Mr. Ahmad 's lawyer said he would appeal
 Additional Information: 
-('roommate', 'IN', 'room')
-('hospital', 'sponser', 'match')
-('hospital', 'mental')
-('bill', 'on front of', 'hat')
-('bill', 'orange')
+('lawyer', 'showing a', 'paper')

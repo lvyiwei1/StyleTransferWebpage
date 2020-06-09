@@ -1,5 +1,4 @@
 Original Sentence: 
-Community involvement is an even worse idea
+So what 's the catch
 Additional Information: 
-('community', 'ON', 'water')
-('community', 'here')
+('catch', 'FRISBEE')

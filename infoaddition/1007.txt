@@ -1,4 +1,4 @@
 Original Sentence: 
-Apparently the commission did not really believe in this ideal
+But city officials say tax revenues are lagging
 Additional Information: 
-('ideal', 'dark')
+('city', 'IN', 'background')

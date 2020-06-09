@@ -1,0 +1,4 @@
+Original Sentence: 
+Mothers of young AIDS patients expressed somber satisfaction
+Additional Information: 
+('patient', 'nurse')

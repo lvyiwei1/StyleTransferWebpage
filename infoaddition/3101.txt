@@ -1,0 +1,4 @@
+Original Sentence: 
+I 've got 70 kinds of apples
+Additional Information: 
+('apple', 'IN', 'container')

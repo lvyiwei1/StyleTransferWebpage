@@ -1,4 +1,4 @@
 Original Sentence: 
-UAL declined to comment on British Air 's statement
+There 's nothing like skin to skin
 Additional Information: 
-('statement', 'credit')
+('skin', 'wrinkled')

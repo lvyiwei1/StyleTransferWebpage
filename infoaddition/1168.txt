@@ -1,5 +1,4 @@
 Original Sentence: 
-Ms. Clifton had been executive financial assistant to the chairman
+Two steps are necessary to translate this idea into action
 Additional Information: 
-('assistant', 'near', 'juggler')
-('assistant', 'here')
+('action', 'MLB')

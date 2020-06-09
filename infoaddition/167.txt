@@ -1,5 +1,4 @@
 Original Sentence: 
-Our commitment to manage these businesses profitably will continue
+Craig Forman in London contributed to this article
 Additional Information: 
-('business', 'along', 'road')
-('business', 'here')
+('article', 'ON', 'screen')

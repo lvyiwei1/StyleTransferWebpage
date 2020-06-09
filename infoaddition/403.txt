@@ -1,6 +1,4 @@
 Original Sentence: 
-Reagan Era Young Hold Liberal Views
+There was no cost estimate for the second phase
 Additional Information: 
-('young', 'ON', 'street sign')
-('view', 'of a', 'building')
-('view', 'beautiful')
+('cost', 'displayed in front of', 'banana')

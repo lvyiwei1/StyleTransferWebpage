@@ -1,0 +1,4 @@
+Original Sentence: 
+Marshall McLuhan you should have been there at that hour
+Additional Information: 
+('hour', 'black')

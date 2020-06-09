@@ -1,0 +1,4 @@
+Original Sentence: 
+This is n't a distress sale
+Additional Information: 
+('sale', 'ON', 'window')

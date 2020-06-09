@@ -1,15 +1,4 @@
 Original Sentence: 
-The government built ports bridges highways schools hospitals and railways
+Warnaco also owns Warners another major intimate apparel maker
 Additional Information: 
-('port', 'ON', 'wall')
-('port', 'usb')
-('bridge', 'behind', 'man')
-('bridge', 'metal')
-('highway', 'IN', 'distance')
-('highway', 'busy')
-('school', 'second', 'buses')
-('school', 'word')
-('hospital', 'sponser', 'match')
-('hospital', 'mental')
-('railway', 'under', 'train')
-('railway', 'red')
+('apparel', 'ski')

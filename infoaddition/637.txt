@@ -1,7 +1,4 @@
 Original Sentence: 
-And taxpayer groups are urging legislation in many other states
+We are prepared to support those changes said Mr. Mosbacher
 Additional Information: 
-('group', 'OF', 'people')
-('group', 'large')
-('state', 'ON', 'hood')
-('state', 'Penn ')
+('change', 'ON', 'table')

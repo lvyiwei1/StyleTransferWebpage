@@ -1,5 +1,4 @@
 Original Sentence: 
-Pressed on the matter he is more specific
+GAF faces potential fines of 500,000 for each count
 Additional Information: 
-('matter', 'ON', 'grass')
-('matter', 'green')
+('fine', 'legal')

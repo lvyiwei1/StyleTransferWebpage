@@ -1,5 +1,4 @@
 Original Sentence: 
-A few drops in circulation are of no consequence
+The minimum unit is 100,000
 Additional Information: 
-('drop', 'OF', 'water')
-('drop', 'water')
+('unit', 'ON', 'building')

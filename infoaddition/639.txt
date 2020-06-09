@@ -1,5 +1,4 @@
 Original Sentence: 
-Money helped too
+Things are beginning to settle down
 Additional Information: 
-('money', 'ON', 'floor')
-('money', 'paper')
+('thing', 'ON', 'bus')

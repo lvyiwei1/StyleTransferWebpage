@@ -1,5 +1,4 @@
 Original Sentence: 
-Previously it had proposed seven years of 5.5 % increases
+But says Mr. Bock It was a close call
 Additional Information: 
-('year', 'ON', 'side')
-('year', 'white')
+('call', 'here')

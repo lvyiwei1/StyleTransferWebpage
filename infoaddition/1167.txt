@@ -1,5 +1,4 @@
 Original Sentence: 
-A unified system of taxation should be introduced rapidly
+Two steps are necessary to translate this idea into action
 Additional Information: 
-('system', 'IN', 'room')
-('system', 'black')
+('action', 'IN', 'action')

@@ -1,7 +1,4 @@
 Original Sentence: 
-But most investors were seeking share prices and other information
+For longer-term CDs yields were up
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
-('information', 'ON', 'desk')
-('information', 'yellow')
+('yield', 'on', 'sign')

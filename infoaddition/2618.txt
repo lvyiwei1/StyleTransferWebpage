@@ -1,0 +1,4 @@
+Original Sentence: 
+And the merchandise was well fake
+Additional Information: 
+('merchandise', 'fragile')

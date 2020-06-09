@@ -1,5 +1,4 @@
 Original Sentence: 
-That is the key to the current national disease
+But Ms. McCraw says the magazine is fighting back
 Additional Information: 
-('key', 'part of', 'keyboard')
-('key', 'black')
+('magazine', 'open')

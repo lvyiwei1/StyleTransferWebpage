@@ -1,6 +1,4 @@
 Original Sentence: 
-Security costs are also quite high
+It also licenses optically based data storage and retrieval devices
 Additional Information: 
-('security', 'ON', 'court')
-('security', 'standing')
-('cost', 'displayed in front of', 'banana')
+('data', 'green')

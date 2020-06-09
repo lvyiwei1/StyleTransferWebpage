@@ -1,5 +1,4 @@
 Original Sentence: 
-But to Hong Kong China is n't purely business
+The company has been manufacturing carpet since 1967
 Additional Information: 
-('business', 'has', 'entrance')
-('business', 'here')
+('carpet', 'beneath', 'plate')

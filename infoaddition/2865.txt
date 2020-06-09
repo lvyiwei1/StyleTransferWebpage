@@ -1,0 +1,4 @@
+Original Sentence: 
+The government built ports bridges highways schools hospitals and railways
+Additional Information: 
+('school', 'word')

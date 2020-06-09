@@ -1,5 +1,4 @@
 Original Sentence: 
-An analyst cited weaker capital spending and exports
+In the year-earlier quarter the tax credit was 3.3 million
 Additional Information: 
-('capital', 'building in washington', 'dc')
-('capital', 'a')
+('credit', 'artist')

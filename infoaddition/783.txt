@@ -1,5 +1,4 @@
 Original Sentence: 
-But retail energy prices declined 0.9 % in September
+They lost the entertainment crown and they needed one
 Additional Information: 
-('price', 'for', 'bananas')
-('price', 'written')
+('one', 'blue and white wing on', 'bird')

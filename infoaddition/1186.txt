@@ -1,7 +1,4 @@
 Original Sentence: 
-Foreign traders say the company is strapped for cash
+It said it would purchase the stock at market price
 Additional Information: 
-('company', 'ON', 'building')
-('company', 'name')
-('cash', 'inside', 'purse')
-('cash', 'Two round pieces  ')
+('market', 'outdoor')

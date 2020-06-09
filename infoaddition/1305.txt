@@ -1,7 +1,4 @@
 Original Sentence: 
-The 942,000 purchase raised his holdings to 74,000 shares
+Bond prices fell after the Chicago report was released
 Additional Information: 
-('woman', 'wants to', 'purchase')
-('purchase', 'Levy Restaurant')
-('holding', 'umbrella', 'handle')
-('holding', 'wooden')
+('report', 'ON', 'green paper')

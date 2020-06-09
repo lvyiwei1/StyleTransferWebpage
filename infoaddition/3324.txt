@@ -1,0 +1,4 @@
+Original Sentence: 
+Eight years I 've had it
+Additional Information: 
+('year', 'ON', 'side')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Three gambling casinos have opened in Poland
+Hand-holding is becoming an investment-banking job requirement
 Additional Information: 
-('casino', 'in a', 'casino')
-('casino', 'bright')
+('job', 'decorative')

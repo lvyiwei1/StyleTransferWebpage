@@ -1,0 +1,4 @@
+Original Sentence: 
+She added however It is not robust by any means
+Additional Information: 
+('mean', 'WEARING', 'red shirt')

@@ -1,4 +1,4 @@
 Original Sentence: 
-It should read Have You Anything Left
+But wait a second
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('second', 'black')

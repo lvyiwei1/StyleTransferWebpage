@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Ahmad 's lawyer said he would appeal
+The program traders were in there too of course
 Additional Information: 
-('lawyer', 'showing a', 'paper')
+('course', 'green')

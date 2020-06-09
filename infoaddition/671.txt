@@ -1,7 +1,4 @@
 Original Sentence: 
-Gene-splicing now is an integral part of the drug business
+Long-term CDs declined just a fraction
 Additional Information: 
-('part', 'OF', 'food')
-('part', 'small')
-('business', 'ON', 'corner')
-('business', 'here')
+('cd', 'near', 'mouse')

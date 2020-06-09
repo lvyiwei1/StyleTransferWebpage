@@ -1,5 +1,4 @@
 Original Sentence: 
-Do n't say it 's a gold ceiling
+The second time he says they left the shovel
 Additional Information: 
-('ceiling', 'has', 'vent')
-('ceiling', 'white')
+('shovel', 'metal')

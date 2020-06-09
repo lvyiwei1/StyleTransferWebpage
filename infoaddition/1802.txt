@@ -1,0 +1,4 @@
+Original Sentence: 
+The Polish rat will eat well this winter
+Additional Information: 
+('winter', 'sun', 'sky')

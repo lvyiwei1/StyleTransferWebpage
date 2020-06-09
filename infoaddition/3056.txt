@@ -1,0 +1,4 @@
+Original Sentence: 
+The metaphor of theater is not entirely coincidental
+Additional Information: 
+('theater', 'has', 'ceiling')

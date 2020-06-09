@@ -1,0 +1,4 @@
+Original Sentence: 
+SENIOR CITIZENS have long received cheap air fares
+Additional Information: 
+('air', 'mid')

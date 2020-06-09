@@ -1,0 +1,4 @@
+Original Sentence: 
+Sale of Saatchi Unit Close
+Additional Information: 
+('sale', 'red')

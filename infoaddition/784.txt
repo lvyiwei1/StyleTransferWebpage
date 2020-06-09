@@ -1,5 +1,4 @@
 Original Sentence: 
-Interest will be paid semi-annually
+They lost the entertainment crown and they needed one
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
+('one', 'white')

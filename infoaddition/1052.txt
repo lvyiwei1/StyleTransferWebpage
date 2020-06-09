@@ -1,5 +1,4 @@
 Original Sentence: 
-Columbia Laboratories Inc. Miami began trading with the symbol COB
+It also sells single-premium annuities to individuals
 Additional Information: 
-('symbol', 'ON', 'road')
-('symbol', 'white')
+('individual', 'smiling')

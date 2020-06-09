@@ -1,5 +1,4 @@
 Original Sentence: 
-THE PANHANDLER approaches makes his pitch
+She did n't have hot water for five days
 Additional Information: 
-('pitch', 'has', 'white lines')
-('pitch', 'green')
+('day', 'within', 'lake')

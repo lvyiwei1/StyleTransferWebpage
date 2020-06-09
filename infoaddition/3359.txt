@@ -1,0 +1,4 @@
+Original Sentence: 
+We had a lot of problems Mr. Sinyard says
+Additional Information: 
+('lot', 'behind', 'players')

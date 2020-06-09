@@ -1,5 +1,4 @@
 Original Sentence: 
-Some U.S. entrepreneurs operate on a smaller scale
+And you ca n't cut this chain with bolt cutters
 Additional Information: 
-('scale', 'IN', 'bathroom')
-('scale', 'white')
+('cutter', 'has', 'handle')

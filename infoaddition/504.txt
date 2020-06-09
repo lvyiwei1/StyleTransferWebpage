@@ -1,7 +1,4 @@
 Original Sentence: 
-Unlike 1987 interest rates have been falling this year
+Volume totaled 14,580,000 shares
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
-('year', 'ON', 'bench')
-('year', 'white')
+('volume', '3')

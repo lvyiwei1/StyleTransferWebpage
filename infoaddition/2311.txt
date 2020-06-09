@@ -1,0 +1,4 @@
+Original Sentence: 
+For now defense attorneys are tight-lipped about their plans
+Additional Information: 
+('plan', 'ON', 'tarmac')

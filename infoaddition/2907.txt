@@ -1,0 +1,4 @@
+Original Sentence: 
+Indeed the competition is n't greatly concerned
+Additional Information: 
+('skiers', 'in a', 'competition')

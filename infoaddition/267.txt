@@ -1,5 +1,4 @@
 Original Sentence: 
-WHY BE A MIDDLEMAN for charitable gifts a retiree asks
+Among other things the brief cited insufficient evidence
 Additional Information: 
-('gift', 'under', 'tree')
-('gift', 'wrapped')
+('thing', 'under', 'airplane')

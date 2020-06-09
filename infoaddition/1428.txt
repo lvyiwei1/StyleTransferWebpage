@@ -1,0 +1,4 @@
+Original Sentence: 
+His hands sit farther apart on the keyboard
+Additional Information: 
+('keyboard', 'black')

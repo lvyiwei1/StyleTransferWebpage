@@ -1,0 +1,4 @@
+Original Sentence: 
+Some apply it to gouty joints
+Additional Information: 
+('joint', 'white')

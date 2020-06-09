@@ -1,5 +1,4 @@
 Original Sentence: 
-In essence we run the show
+Businessmen took their cue from the engineers
 Additional Information: 
-('show', 'ON', 'television')
-('show', 'kite')
+('engineer', 'exiting', 'train')

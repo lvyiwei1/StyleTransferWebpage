@@ -1,5 +1,4 @@
 Original Sentence: 
-The stock fell 75 cents
+The Republicans show no sign of relenting
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
+('sign', 'ON', 'post')

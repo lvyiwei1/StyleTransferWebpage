@@ -1,0 +1,4 @@
+Original Sentence: 
+Tandem 's pricing is just as aggressive
+Additional Information: 
+('pricing', 'hand written')

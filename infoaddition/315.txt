@@ -1,4 +1,4 @@
 Original Sentence: 
-She was in her most radiant expressive voice
+Much of the family 's mystique remained
 Additional Information: 
-('voice', 'written', 'on it')
+('family', 'skiing', 'snow')

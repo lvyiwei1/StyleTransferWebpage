@@ -1,0 +1,4 @@
+Original Sentence: 
+People have been very respectful of each other
+Additional Information: 
+('people', 'ON', 'highway')

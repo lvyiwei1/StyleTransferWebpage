@@ -1,0 +1,4 @@
+Original Sentence: 
+Their powerful members manage them
+Additional Information: 
+('member', 'several')

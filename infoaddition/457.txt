@@ -1,5 +1,4 @@
 Original Sentence: 
-But these wide swings scare them to death
+The company did n't break out its fourth-quarter results
 Additional Information: 
-('swing', 'ON', 'rope')
-('swing', 'wooden')
+('company', 'has', 'advertisement')

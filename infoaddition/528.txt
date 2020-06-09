@@ -1,5 +1,4 @@
 Original Sentence: 
-Critics also say American companies charge too much
+His appointment expands the board to 13 members
 Additional Information: 
-('company', 'ON', 'box')
-('company', 'name')
+('member', 'watching', 'game')

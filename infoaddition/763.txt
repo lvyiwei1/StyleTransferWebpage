@@ -1,7 +1,4 @@
 Original Sentence: 
-The heart of the case official oppression remains intact
+The order is the biggest in the company 's history
 Additional Information: 
-('heart', 'ON', 'collar')
-('heart', 'red')
-('case', 'inside of black', 'bag')
-('case', 'black')
+('company', 'that owns', 'bus')

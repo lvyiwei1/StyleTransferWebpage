@@ -1,0 +1,4 @@
+Original Sentence: 
+But others said pico should proceed
+Additional Information: 
+('others', 'IN', 'background')

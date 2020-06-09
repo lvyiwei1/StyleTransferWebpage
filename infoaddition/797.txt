@@ -1,4 +1,4 @@
 Original Sentence: 
-The close was the highest since August 3
+Among the leading products is a flu shot for horses
 Additional Information: 
-('close', 'up view of an apple', 'tree')
+('shot', 'OF', 'broccoli')

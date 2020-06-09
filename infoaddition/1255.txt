@@ -1,5 +1,4 @@
 Original Sentence: 
-He left a message accusing Mr. Darman of selling out
+And in some neighborhoods rents have merely hit a plateau
 Additional Information: 
-('message', 'ON', 'bed')
-('message', 'white')
+('neighborhood', 'near', 'tracks')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We 're not rushing into anything
+Understandably smaller growth stocks have n't been in favor recently
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('growth', 'green')

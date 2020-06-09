@@ -1,6 +1,4 @@
 Original Sentence: 
-PaineWebber considered an even harder sell recommending specific stocks
+I see it as a sewage treatment plant he says
 Additional Information: 
-('pies', 'for', 'sell')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('treatment', 'wooden')

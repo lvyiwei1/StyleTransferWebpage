@@ -1,5 +1,4 @@
 Original Sentence: 
-But those would require pilots ' cooperation
+Every major maker offers computers with color displays
 Additional Information: 
-('pilot', 'ON', 'airplane')
-('pilot', 'walking')
+('color', 'red')

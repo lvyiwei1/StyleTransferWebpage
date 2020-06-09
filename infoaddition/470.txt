@@ -1,8 +1,4 @@
 Original Sentence: 
-And in some neighborhoods rents have merely hit a plateau
+As a critique of middle-class mores the story is heavy-handed
 Additional Information: 
-('neighborhood', 'near', 'tracks')
-('neighborhood', 'residential')
-('rent', 'tent cover', 'at beach')
-('plateau', 'IN', 'distance')
-('plateau', 'background')
+('story', 'ON', 'church')

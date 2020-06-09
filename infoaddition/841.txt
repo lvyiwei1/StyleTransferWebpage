@@ -1,5 +1,4 @@
 Original Sentence: 
-But the strategy is n't helping much this time
+But the steam may never reach the engine room
 Additional Information: 
-('time', 'on', 'iphone')
-('time', 'displayed')
+('steam', 'coming from a', 'train')

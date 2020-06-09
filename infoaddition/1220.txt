@@ -1,9 +1,4 @@
 Original Sentence: 
-The farmer at the next truck shouts Wheat
+Copper futures prices failed to extend Friday 's rally
 Additional Information: 
-('farmer', 'pulling', 'blue plow')
-('farmer', 'holding')
-('truck', 'has', 'dodge logo')
-('truck', 'white')
-('wheat', 'by', 'giraffe')
-('wheat', 'growing')
+('people', 'demonstrating in political', 'rally')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Volume totaled 11,820,000 shares
+The pound strengthened to 1.5795 from 1.5765
 Additional Information: 
-('volume', 'ON', 'keyboard')
-('volume', '3')
+('pound', 'here')

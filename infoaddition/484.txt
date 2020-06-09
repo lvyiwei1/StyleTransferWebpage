@@ -1,5 +1,4 @@
 Original Sentence: 
-It 's like squeezing a balloon Dr. Bailit said
+Japanese companies have a caveat competitor attitude
 Additional Information: 
-('balloon', 'IN', 'sky')
-('balloon', 'blue')
+('company', 'ON', 'bus')

@@ -1,8 +1,4 @@
 Original Sentence: 
-The laws take effect next month
+But what about all those non-duck ducks flapping over Washington
 Additional Information: 
-('drivers', 'are obeying', 'law')
-('effect', 'ON', 'clock tower')
-('effect', 'yellow')
-('month', 'around', 'face')
-('month', 'ninth')
+('duck', 'white')

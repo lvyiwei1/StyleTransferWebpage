@@ -1,6 +1,4 @@
 Original Sentence: 
-The increased demand would normalize trading and stabilize prices
+Every major maker offers computers with color displays
 Additional Information: 
-('red t', 'IN', 'trading')
-('price', 'ON', 'bike')
-('price', 'written')
+('computer', 'ON', 'table')

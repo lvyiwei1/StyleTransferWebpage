@@ -1,5 +1,4 @@
 Original Sentence: 
-Nor does it cover the entire portfolio
+Every major maker offers computers with color displays
 Additional Information: 
-('portfolio', 'ON', 'desk')
-('portfolio', 'black')
+('maker', 'coffee')

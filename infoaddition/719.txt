@@ -1,9 +1,4 @@
 Original Sentence: 
-They 're really fashion items wrapped up in little jars
+Offices of the city 's Rent Board were destroyed
 Additional Information: 
-('fashion', 'on a', 'lady')
-('fashion', 'floral print')
-('item', 'on top of', 'refrigerator')
-('item', 'red')
-('jar', 'OF', 'jam')
-('jar', 'glass')
+('office', 'small')

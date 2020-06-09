@@ -1,0 +1,4 @@
+Original Sentence: 
+Retailers could get a boost this year from the calendar
+Additional Information: 
+('calendar', 'white')

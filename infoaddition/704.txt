@@ -1,5 +1,4 @@
 Original Sentence: 
-The experiment was stopped briefly to change an instrument
+WHY BE A MIDDLEMAN for charitable gifts a retiree asks
 Additional Information: 
-('instrument', 'ON', 'mantle')
-('instrument', 'musical')
+('gift', 'under', 'tree')

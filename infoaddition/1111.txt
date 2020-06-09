@@ -1,6 +1,4 @@
 Original Sentence: 
-It is the stuff of dreams but also of traumas
+He started building the files that helped him gain power
 Additional Information: 
-('stuff', 'around a', 'bike')
-('stuff', 'white')
-('dream', 'capital letters')
+('file', 'large')

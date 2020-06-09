@@ -1,0 +1,4 @@
+Original Sentence: 
+BellSouth 's back-end protection was flawed previously
+Additional Information: 
+('protection', 'for', 'eyes')

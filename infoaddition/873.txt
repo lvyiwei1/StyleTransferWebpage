@@ -1,7 +1,4 @@
 Original Sentence: 
-In Los Angeles in our lean years we gave parties
+Nevertheless the device has been successful in other ways
 Additional Information: 
-('year', 'ON', 'building')
-('year', 'white')
-('party', 'IN', 'scene')
-('party', 'birthday')
+('way', 'to', 'house')

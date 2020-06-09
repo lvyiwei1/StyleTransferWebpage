@@ -1,6 +1,4 @@
 Original Sentence: 
-There is no recovery period it 's go go go
+We have the money to buy
 Additional Information: 
-('recovery', 'ON', 'truck')
-('period', 'ON', 'sign')
-('period', 'red')
+('money', 'paper')

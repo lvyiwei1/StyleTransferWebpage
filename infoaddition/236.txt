@@ -1,4 +1,4 @@
 Original Sentence: 
-That should happen by today he said
+Mr. Jones calls the ranch the Pentagon of Sportdom
 Additional Information: 
-('sign', 'reads', 'today')
+('ranch', 'behind', 'cow')

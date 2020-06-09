@@ -1,5 +1,4 @@
 Original Sentence: 
-The core rate is not really out of line
+Even so his bill is given little chance of passage
 Additional Information: 
-('line', 'IN', 'court')
-('line', 'white')
+('passage', 'ON', 'left')

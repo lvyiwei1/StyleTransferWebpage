@@ -1,5 +1,4 @@
 Original Sentence: 
-The CD seemed like a great deal
+It 's all part of a new command center
 Additional Information: 
-('deal', 'OF', 'bananas')
-('deal', 'great')
+('part', 'small')

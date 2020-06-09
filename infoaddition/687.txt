@@ -1,7 +1,4 @@
 Original Sentence: 
-Names are resigning at an even faster pace this year
+Jeff Rowe contributed to this article
 Additional Information: 
-('name', 'on', 'building')
-('name', 'white')
-('year', 'ON', 'guard')
-('year', 'white')
+('article', 'IN', 'magazine')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Two segments posted lower earnings for the quarter
+Take heart sports fans he wrote
 Additional Information: 
-('segment', 'OF', 'leaves')
-('segment', 'of citrus fruit')
-('quarter', 'lying on', 'shelf')
-('quarter', 'silver')
+('fan', 'behind', 'pizza')

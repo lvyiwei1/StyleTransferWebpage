@@ -1,0 +1,4 @@
+Original Sentence: 
+There 's no feed he says
+Additional Information: 
+('feed', 'in a', 'feeding trough')

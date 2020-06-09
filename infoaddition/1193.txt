@@ -1,5 +1,4 @@
 Original Sentence: 
-Her instincts were capitalistic despite her background
+Every major maker offers computers with color displays
 Additional Information: 
-('background', 'behind', 'man')
-('background', 'white')
+('maker', 'on', 'surface')

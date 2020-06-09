@@ -1,5 +1,4 @@
 Original Sentence: 
-Not everyone is worried however
+The company is a Mexico Mo. maker of refractory products
 Additional Information: 
-('everyone', 'use', 'umbrellas')
-('everyone', 'smiling')
+('product', 'bathroom')

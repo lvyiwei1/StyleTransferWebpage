@@ -1,5 +1,4 @@
 Original Sentence: 
-Yet some funds have pulled in their horns
+People in the phone business call this technology 900 click
 Additional Information: 
-('horn', 'ON', 'bull')
-('horn', 'black')
+('business', 'ON', 'side walk')

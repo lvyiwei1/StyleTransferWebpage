@@ -1,4 +1,4 @@
 Original Sentence: 
-And that they say will be good for bonds
+They will have to throw their hat in the ring
 Additional Information: 
-('bond', 'black ')
+('hat', 'black')

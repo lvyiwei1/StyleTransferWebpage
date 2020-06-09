@@ -1,0 +1,4 @@
+Original Sentence: 
+For one thing credit-card loans are unsecured
+Additional Information: 
+('thing', 'black')

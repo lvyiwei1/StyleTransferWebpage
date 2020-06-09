@@ -1,7 +1,4 @@
 Original Sentence: 
-They want late-night shuttles to the biology labs
+Some hotels in the hurricane-stricken Caribbean promise money-back guarantees
 Additional Information: 
-('shuttle', 'ON', 'airplane')
-('shuttle', 'white')
-('lab', 'sitting on', 'grass')
-('lab', 'yellow')
+('hotel', 'displays', 'name')

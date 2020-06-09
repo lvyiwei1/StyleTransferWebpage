@@ -1,10 +1,4 @@
 Original Sentence: 
-The company also makes optical character recognition equipment
+Characters complain ceaselessly about food queues prices and corruption
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
-('character', 'ON', 'table')
-('character', 'foreign')
-('plaque', 'for', 'recognition')
-('equipment', 'with', 'equipment')
-('equipment', 'electronic')
+('price', 'ON', 'sign')

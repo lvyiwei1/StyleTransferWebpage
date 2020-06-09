@@ -1,5 +1,4 @@
 Original Sentence: 
-The earnings drop had been expected
+Grain milk and meat come next
 Additional Information: 
-('drop', 'ON', 'window')
-('drop', 'water')
+('milk', 'white')

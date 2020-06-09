@@ -1,0 +1,4 @@
+Original Sentence: 
+We 're talking real money
+Additional Information: 
+('money', 'ON', 'table')

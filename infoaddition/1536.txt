@@ -1,0 +1,4 @@
+Original Sentence: 
+An excellent environmental actor he is
+Additional Information: 
+('actor', 'riding', 'horse')

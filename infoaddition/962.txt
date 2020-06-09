@@ -1,5 +1,4 @@
 Original Sentence: 
-But gay rights advocates are angry too
+The rest is of course history
 Additional Information: 
-('right', 'wheel of computer', 'chair')
-('right', 'far')
+('rest', 'arm')

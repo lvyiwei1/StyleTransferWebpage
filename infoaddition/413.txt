@@ -1,5 +1,4 @@
 Original Sentence: 
-The financial-services industry was battered by the 1987 crash
+In peak periods that load may include 4,000 pieces
 Additional Information: 
-('crash', 'OF', 'wave')
-('crash', 'white')
+('period', 'red')

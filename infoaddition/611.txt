@@ -1,7 +1,4 @@
 Original Sentence: 
-Retailers could get a boost this year from the calendar
+Among other changes the White House wants to
 Additional Information: 
-('year', 'IN', 'corner')
-('year', 'white')
-('calendar', 'ON', 'wall')
-('calendar', 'white')
+('change', 'loose')

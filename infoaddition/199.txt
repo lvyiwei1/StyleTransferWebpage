@@ -1,5 +1,4 @@
 Original Sentence: 
-Winners outnumbered losers 645-293 with 186 issues unchanged
+The lists total 654.5 million
 Additional Information: 
-('winner', 'standing on', 'box')
-('winner', '2nd place')
+('list', 'champagne ')

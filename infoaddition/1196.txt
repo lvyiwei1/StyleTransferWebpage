@@ -1,9 +1,4 @@
 Original Sentence: 
-Leaseway provides transportation services for manufacturers distributors and retailers
+Every major maker offers computers with color displays
 Additional Information: 
-('woman', 'standing in front of', 'transportation')
-('transportation', 'public')
-('service', 'ON', 'sign')
-('service', 'gone')
-('manufacturer', 'OF', 'truck')
-('manufacturer', 'hidden')
+('computer', 'laptop')

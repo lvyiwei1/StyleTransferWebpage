@@ -1,0 +1,4 @@
+Original Sentence: 
+In essence we run the show
+Additional Information: 
+('show', 'kite')

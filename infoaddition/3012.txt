@@ -1,0 +1,4 @@
+Original Sentence: 
+Defining combat aircraft is even tougher
+Additional Information: 
+('aircraft', 'small')

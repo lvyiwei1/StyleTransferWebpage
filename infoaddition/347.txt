@@ -1,5 +1,4 @@
 Original Sentence: 
-The executive branch bears the first responsibility for timidity
+We are not trying to encourage everyone
 Additional Information: 
-('branch', 'sticking out of', 'truck')
-('branch', 'brown')
+('everyone', 'ON', 'sidewalk')

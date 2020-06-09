@@ -1,5 +1,4 @@
 Original Sentence: 
-These figures are n't seasonally adjusted
+But for photofinishers developing costs for black-and-white film are higher
 Additional Information: 
-('figure', 'ON', 'clock')
-('figure', 'green')
+('film', 'has', 'surfers')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Investors pulled back from bond funds in September too
+A three is 10 times 10 again and so on
 Additional Information: 
-('bond', 'black ')
+('time', 'ON', 'laptop')

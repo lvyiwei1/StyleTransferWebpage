@@ -1,5 +1,4 @@
 Original Sentence: 
-The pharmaceuticals maker had traded over-the-counter
+Kia is reportedly also considering such a plan
 Additional Information: 
-('maker', 'ON', 'countertop')
-('maker', 'coffee')
+('plan', 'behind', 'guy')

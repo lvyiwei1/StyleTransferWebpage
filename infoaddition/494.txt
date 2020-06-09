@@ -1,8 +1,4 @@
 Original Sentence: 
-The government is funding several projects to push PC use
+Sometimes says his wife we 're happy about that
 Additional Information: 
-('sidewalk', 'among', 'project')
-('project', 'sewing')
-('pc', 'has', 'pc')
-('pc', 'black')
-('use', 'hiding in', 'corner')
+('wife', 'cutting', 'cake')

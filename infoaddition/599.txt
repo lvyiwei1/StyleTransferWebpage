@@ -1,5 +1,4 @@
 Original Sentence: 
-BankAmerica 's profit jumped 34 % in the third quarter
+The board increased by one to 26 members
 Additional Information: 
-('quarter', 'OF', 'train')
-('quarter', 'silver')
+('member', 'several')

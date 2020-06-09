@@ -1,4 +1,4 @@
 Original Sentence: 
-The FASB had its initial meeting on March 28 1973
+The dispute pits two groups of claimants against each other
 Additional Information: 
-('meeting', 'has', 'folder')
+('group', 'ON', 'beach')

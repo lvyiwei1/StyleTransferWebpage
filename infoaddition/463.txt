@@ -1,5 +1,4 @@
 Original Sentence: 
-Some economists found the mixture ominous
+Signed by 25 students
 Additional Information: 
-('mixture', 'IN', 'compartment')
-('mixture', 'pink')
+('student', 'working on', 'laptop')

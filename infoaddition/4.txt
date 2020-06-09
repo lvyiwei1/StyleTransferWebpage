@@ -1,9 +1,4 @@
 Original Sentence: 
-Take heart sports fans he wrote
+The name of the game is to move goods
 Additional Information: 
-('heart', 'ON', 'picture')
-('heart', 'red')
-('sport', 'played', 'intensely')
-('sport', 'popular')
-('fan', 'behind', 'pizza')
-('fan', 'white')
+('game', 'baseball')

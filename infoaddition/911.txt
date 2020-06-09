@@ -1,5 +1,4 @@
 Original Sentence: 
-Lloyd 's is moving forward on some fronts though
+People in Glass houses tend to look stoned
 Additional Information: 
-('front', 'OF', 'airplane')
-('front', 'yellow')
+('house', 'with', 'windows')

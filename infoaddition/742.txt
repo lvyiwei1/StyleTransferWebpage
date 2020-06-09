@@ -1,5 +1,4 @@
 Original Sentence: 
-Richard L. Sherman 42 will advise midsized businesses
+Security costs are also quite high
 Additional Information: 
-('business', 'has', 'door')
-('business', 'here')
+('cost', 'displayed in front of', 'banana')

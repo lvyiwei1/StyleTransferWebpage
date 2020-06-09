@@ -1,5 +1,4 @@
 Original Sentence: 
-Cable & Wireless PLC of Britain won the other license
+The order is the biggest in the company 's history
 Additional Information: 
-('license', 'of front', 'bus')
-('license', 'white')
+('order', 'ready')

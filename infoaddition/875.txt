@@ -1,6 +1,4 @@
 Original Sentence: 
-But trading risk stems from credit risk
+He had been vice president in that office
 Additional Information: 
-('red t', 'IN', 'trading')
-('credit', 'card', 'cardlogos')
-('credit', 'artist')
+('handle', 'ON', 'vice')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Craig Torres and Anne Newman contributed to this article
+Yet some funds have pulled in their horns
 Additional Information: 
-('article', 'ON', 'chair')
-('article', 'newspaper')
+('horn', 'ON', 'bull')

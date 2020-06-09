@@ -1,5 +1,4 @@
 Original Sentence: 
-Asked about that the other day he replied Anti-Semitic
+The dam caused the water level to drop in Zalubice
 Additional Information: 
-('day', 'within', 'lake')
-('day', 'sunny')
+('dam', 'against', 'bridge')

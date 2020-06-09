@@ -1,5 +1,4 @@
 Original Sentence: 
-It has three U.S. branches
+Some economists found the mixture ominous
 Additional Information: 
-('branch', 'IN', 'tree')
-('branch', 'brown')
+('mixture', 'IN', 'compartment')

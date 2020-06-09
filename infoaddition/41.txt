@@ -1,5 +1,4 @@
 Original Sentence: 
-The Socialists held 184 seats going into the balloting
+Or is triskaidekaphobia fear of the number 13 justified
 Additional Information: 
-('seat', 'OF', 'toilet')
-('seat', 'black')
+('number', 'black')

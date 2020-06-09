@@ -1,0 +1,4 @@
+Original Sentence: 
+He is ogling the curtains rippling above the ventilation ducts
+Additional Information: 
+('ventilation', 'black')

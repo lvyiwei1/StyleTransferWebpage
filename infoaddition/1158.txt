@@ -1,4 +1,4 @@
 Original Sentence: 
-The truth is Washington understands politics better than economics
+Northeast Utilities ' plan proposes 5.5 % annual increases
 Additional Information: 
-('letters', 'about', 'politics')
+('plan', 'air')

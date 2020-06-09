@@ -1,0 +1,4 @@
+Original Sentence: 
+The company also has a stock-repurchase plan
+Additional Information: 
+('company', 'name')

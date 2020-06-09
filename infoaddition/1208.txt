@@ -1,5 +1,4 @@
 Original Sentence: 
-This conclusion he said restored the credibility of Tokyo stocks
+In 1987 such selling contributed to a snowball effect
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('effect', 'yellow')

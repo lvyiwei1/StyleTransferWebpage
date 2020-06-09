@@ -1,7 +1,4 @@
 Original Sentence: 
-South African gold stocks closed firmer
+It has a similar project for 200,000 cars a year
 Additional Information: 
-('gold', 'high', 'heel')
-('gold', 'brown')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('year', 'ON', 'building')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales rose 2.9 % to 827.9 million from 804.3 million
+Sales rose 6 % to 2.77 billion from 2.61 billion
 Additional Information: 
-('sale', 'ON', 'banner')
 ('sale', 'red')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The harvest delays however are expected to be temporary
+Additional Information: 
+('harvest', 'gathered')

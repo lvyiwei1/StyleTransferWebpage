@@ -1,5 +1,4 @@
 Original Sentence: 
-Those Metropolitan Life ads were bad enough
+WHY BE A MIDDLEMAN for charitable gifts a retiree asks
 Additional Information: 
-('ad', 'on side of', 'court')
-('ad', 'white')
+('gift', 'wrapped')

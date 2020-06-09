@@ -1,4 +1,4 @@
 Original Sentence: 
-The companion tax-exempt funds add 71 billion
+Young & Rubicam has pleaded innocent to the charges
 Additional Information: 
-('companion', 'walking', 'beach')
+('charge', 'can', 'charge')

@@ -1,6 +1,4 @@
 Original Sentence: 
-But when stocks held steady Treasury bonds later retreated
+Accepted theories of asset pricing offer a perfectly legitimate explanation
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('bond', 'black ')
+('explanation', 'OF', 'display')

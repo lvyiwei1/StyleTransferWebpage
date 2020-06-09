@@ -1,7 +1,4 @@
 Original Sentence: 
-This pattern was particularly evident among more highly educated couples
+McCaw 's bid also has a similar clause
 Additional Information: 
-('pattern', 'ON', 'tail')
-('pattern', 'white')
-('couple', 'wearing', 'hats')
-('couple', 'walking')
+('bid', 'metal')

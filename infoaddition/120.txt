@@ -1,5 +1,4 @@
 Original Sentence: 
-Indeed institutions already are taking note
+He bought at share prices ranging from 9.375 to 9.625
 Additional Information: 
-('note', 'ON', 'monitor')
-('note', 'yellow')
+('price', 'written')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Now stock prices seem to be in a general retreat
+Additional Information: 
+('price', 'ON', 'sign')

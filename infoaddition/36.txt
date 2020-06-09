@@ -1,7 +1,4 @@
 Original Sentence: 
-Big withdrawals from the junk funds have continued this month
+But Ms. McCraw says the magazine is fighting back
 Additional Information: 
-('junk', 'IN', 'junkyard')
-('junk', 'lots')
-('month', 'OF', 'picture')
-('month', 'ninth')
+('magazine', 'IS ON THE', 'bench')

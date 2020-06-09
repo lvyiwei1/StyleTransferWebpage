@@ -1,5 +1,4 @@
 Original Sentence: 
-His boss complained about neglect of other chores
+The reason was not high interest rates or labor costs
 Additional Information: 
-('stand', 'with', 'bos')
-('bos', 'green')
+('interest', 'great')

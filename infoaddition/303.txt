@@ -1,5 +1,4 @@
 Original Sentence: 
-Accepted bids ranged from 8.328 % to 8.347 %
+The channel reaches 6.5 million homes a Penney spokesman said
 Additional Information: 
-('bid', 'ON', 'shoulder')
-('bid', 'metal')
+('channel', 'has', 'logo')

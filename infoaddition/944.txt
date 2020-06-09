@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Whittle Friday said several more advertisers have been added
+The market was caught totally the wrong way
 Additional Information: 
-('advertiser', 'ON', 'train')
+('way', 'scrapped on', 'bus')

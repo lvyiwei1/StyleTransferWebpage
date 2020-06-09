@@ -1,0 +1,4 @@
+Original Sentence: 
+That has n't yet captured traders ' attention he added
+Additional Information: 
+('people', 'paying', 'attention')

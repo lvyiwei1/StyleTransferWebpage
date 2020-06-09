@@ -1,5 +1,4 @@
 Original Sentence: 
-Volume totaled 8,930,000 shares
+Not all funds have raised cash levels of course
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
+('level', 'upper')

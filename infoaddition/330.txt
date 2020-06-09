@@ -1,9 +1,4 @@
 Original Sentence: 
-He had been vice president in that office
+Some have raised their cash positions to record levels
 Additional Information: 
-('handle', 'ON', 'vice')
-('vice', 'blue')
-('president', 'ON', 'television')
-('president', ' United States')
-('office', 'seen', 'here')
-('office', 'small')
+('position', 'upright')

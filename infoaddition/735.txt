@@ -1,5 +1,4 @@
 Original Sentence: 
-For one thing credit-card loans are unsecured
+They will be available in minimum denominations of 10,000
 Additional Information: 
-('thing', 'ON', 'suitcase')
-('thing', 'black')
+('denomination', 'American dollar bill ')

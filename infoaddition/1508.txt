@@ -1,0 +1,4 @@
+Original Sentence: 
+For the prior year deposits exceeded withdrawals by 8.8 billion
+Additional Information: 
+('year', 'IN', 'left corner')

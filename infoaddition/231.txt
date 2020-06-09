@@ -1,5 +1,4 @@
 Original Sentence: 
-Among other changes the White House wants to
+But it 's just one of those things that happened
 Additional Information: 
-('change', 'goes into', 'parking meter')
-('change', 'loose')
+('thing', 'black')

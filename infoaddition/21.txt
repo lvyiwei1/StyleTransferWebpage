@@ -1,5 +1,4 @@
 Original Sentence: 
-The turnover in both issues was roughly normal
+Yet abortion-rights forces remain bitterly critical
 Additional Information: 
-('turnover', 'ON', 'paper')
-('turnover', 'apple')
+('force', 'black')

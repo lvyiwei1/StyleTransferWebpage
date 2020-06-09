@@ -1,0 +1,4 @@
+Original Sentence: 
+The cost of competition has become extremely high he says
+Additional Information: 
+('competition', 'horse')

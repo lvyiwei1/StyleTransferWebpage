@@ -1,5 +1,4 @@
 Original Sentence: 
-There was tremendous public enthusiasm for stock mutual funds
+That is the way the system works
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
+('way', 'to', 'house')

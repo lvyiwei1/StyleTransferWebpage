@@ -1,6 +1,4 @@
 Original Sentence: 
-Prospective competition is one problem
+But it 's like kicking your father in the pants
 Additional Information: 
-('horse', 'jumpimg', 'competition')
-('competition', 'horse')
-('plane', 'has', 'problem')
+('pant', 'has', 'dirt')

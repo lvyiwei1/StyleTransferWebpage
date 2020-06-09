@@ -1,5 +1,4 @@
 Original Sentence: 
-Rally officials were n't available to comment late yesterday
+Moscow and Kabul must have found that information useful
 Additional Information: 
-('official', 'ON', 'court')
-('official', 'tennis')
+('information', 'yellow')

@@ -1,5 +1,4 @@
 Original Sentence: 
-I said Somebody come get me
+In the end politics got in the way
 Additional Information: 
-('somebody', 'using', 'computer')
-('somebody', 'here')
+('end', 'OF', 'train')

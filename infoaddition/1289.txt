@@ -1,9 +1,4 @@
 Original Sentence: 
-Others preach the gospel of buying only blue-chip growth stocks
+I see it as a sewage treatment plant he says
 Additional Information: 
-('others', 'at', 'beach')
-('others', 'three')
-('growth', 'ON', 'tree branches')
-('growth', 'green')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('plant', 'green')

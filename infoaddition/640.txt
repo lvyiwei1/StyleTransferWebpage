@@ -1,7 +1,4 @@
 Original Sentence: 
-He expects Citicorp to take a similar step this year
+Things are beginning to settle down
 Additional Information: 
-('step', 'leading to', 'entrance')
-('step', 'concrete')
-('year', 'ON', 'picture')
-('year', 'white')
+('thing', 'black')

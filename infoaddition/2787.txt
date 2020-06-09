@@ -1,0 +1,4 @@
+Original Sentence: 
+The citation was misstated in Friday 's edition
+Additional Information: 
+('edition', 'word')

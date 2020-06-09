@@ -1,0 +1,4 @@
+Original Sentence: 
+The mayor said the Quayle visit was a publicity stunt
+Additional Information: 
+('stunt', 'IN', 'person')

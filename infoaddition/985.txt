@@ -1,5 +1,4 @@
 Original Sentence: 
-November gasoline slipped slightly
+Pretend Nothing Happened
 Additional Information: 
-('truck', 'OF', 'gasoline')
-('gasoline', 'offered')
+('nothing', 'IN', 'sky')

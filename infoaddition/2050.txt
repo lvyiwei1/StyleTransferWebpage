@@ -1,0 +1,4 @@
+Original Sentence: 
+Tokyo 's Nikkei index fell 84.15 points to 35442.40
+Additional Information: 
+('index', 'finger', 'cutting donut')

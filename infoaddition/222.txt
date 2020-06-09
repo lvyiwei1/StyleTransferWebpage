@@ -1,5 +1,4 @@
 Original Sentence: 
-It was succeeded in the group by Fuqua Industries Inc
+The company also reassigned several executive responsibilities
 Additional Information: 
-('group', 'OF', 'trees')
-('group', 'large')
+('executive', 'in white')

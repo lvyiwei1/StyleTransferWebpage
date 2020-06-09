@@ -1,6 +1,4 @@
 Original Sentence: 
-That means huge travel bills
+Scientists felt differently
 Additional Information: 
-('travel', 'guide', 'book')
-('bill', 'of', 'bird')
-('bill', 'orange')
+('scientist', 'experimenting with', 'three birds')

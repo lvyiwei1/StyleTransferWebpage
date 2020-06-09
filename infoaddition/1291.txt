@@ -1,6 +1,4 @@
 Original Sentence: 
-A private farmer never wastes anything
+Related Roommates Trim Hospital Bills
 Additional Information: 
-('farmer', 'beside', 'body')
-('farmer', 'holding')
-('part', 'of a speaker not connected to', 'anything')
+('roommate', 'IN', 'room')

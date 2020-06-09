@@ -1,7 +1,4 @@
 Original Sentence: 
-There 's nothing on the other side
+Third-quarter earnings at both companies were below analysts ' forecasts
 Additional Information: 
-('nothing', 'to', 'write')
-('nothing', 'clear')
-('side', 'ON', 'zebras')
-('side', 'white')
+('forecast', 'here')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The issue includes 100 million of insured senior lien bonds
+For Vietnamese these are tricky often treacherous times
 Additional Information: 
-('lien', 'part')
-('bond', 'black ')
+('time', 'IN', 'clock')

@@ -1,5 +1,4 @@
 Original Sentence: 
-This avoids knocking down prices further
+Sales were 348.2 million compared with 307.2 a year earlier
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
+('year', 'OF', 'picture')

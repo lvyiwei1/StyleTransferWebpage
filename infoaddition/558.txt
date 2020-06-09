@@ -1,8 +1,4 @@
 Original Sentence: 
-Friday brings the final count on October auto sales
+Sales increased 5.5 % to 9.81 billion from 9.3 billion
 Additional Information: 
-('man', 'IN', 'count')
-('auto', 'on', 'road')
-('auto', 'SMALL')
-('sale', 'at', 'company')
-('sale', 'red')
+('sale', 'ON', 'window')

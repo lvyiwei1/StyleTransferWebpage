@@ -1,5 +1,4 @@
 Original Sentence: 
-The good news is it 's not your fault
+Why should I be part of that problem
 Additional Information: 
-('news', 'ON', 'bus')
-('news', 'word')
+('part', 'small')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Still there is money to be made
+Additional Information: 
+('money', 'IN', 'wallet')

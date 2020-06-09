@@ -1,5 +1,4 @@
 Original Sentence: 
-NESB is also the parent of Omnibank
+His appointment expands the board to 13 members
 Additional Information: 
-('parent', 'holding', 'poles')
-('parent', 'chaperoning')
+('member', 'several')

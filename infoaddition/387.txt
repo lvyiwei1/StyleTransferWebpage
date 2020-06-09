@@ -1,5 +1,4 @@
 Original Sentence: 
-He says his son has n't paid for the shares
+FOR YEARS costume jewelry makers fought a losing battle
 Additional Information: 
-('son', 'written on', 'large truck')
-('son', 'young')
+('year', 'ON', 'bench')

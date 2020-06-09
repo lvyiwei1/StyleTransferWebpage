@@ -1,0 +1,4 @@
+Original Sentence: 
+There was little turnover and nothing to stimulate the market
+Additional Information: 
+('nothing', 'IN', 'sky')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The crowd remained good natured even bemused
+Two segments posted lower earnings for the quarter
 Additional Information: 
-('crowd', 'ON', 'street')
-('crowd', 'watching')
+('segment', 'OF', 'leaves')

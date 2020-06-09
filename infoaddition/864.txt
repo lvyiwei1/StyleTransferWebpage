@@ -1,5 +1,4 @@
 Original Sentence: 
-The December contract fell 3.85 cents a pound to 1.1960
+Junk bonds also recovered somewhat though trading remained stalled
 Additional Information: 
-('pound', 'has a', 'ten')
-('pound', 'here')
+('red t', 'IN', 'trading')

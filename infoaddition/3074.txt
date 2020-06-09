@@ -1,0 +1,4 @@
+Original Sentence: 
+With that authority of course goes an unambiguous accountability
+Additional Information: 
+('course', 'with', 'bunker')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Coors with its large beer-distribution network could penetrate more markets
+It shows a boy hurling rocks at a street lamp
 Additional Information: 
-('market', 'has', 'fruit')
-('market', 'outdoor')
+('lamp', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+They lost the entertainment crown and they needed one
 Additional Information: 
-('term', 'house of david')
+('entertainment', 'light brown entertainment ')

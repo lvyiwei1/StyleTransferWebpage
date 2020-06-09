@@ -1,5 +1,4 @@
 Original Sentence: 
-Completion of the project is expected by mid-1992
+Bach 's Air followed
 Additional Information: 
-('sidewalk', 'among', 'project')
-('project', 'sewing')
+('air', 'mid')

@@ -1,6 +1,4 @@
 Original Sentence: 
-The test may come today
+And you ca n't cut this chain with bolt cutters
 Additional Information: 
-('test', 'sitting in', 'aircraft')
-('test', 'filled out')
-('sign', 'reads', 'today')
+('chain', 'metal')

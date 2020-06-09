@@ -1,9 +1,4 @@
 Original Sentence: 
-The dam caused the water level to drop in Zalubice
+On some days the Nucor plant does n't produce anything
 Additional Information: 
-('dam', 'against', 'bridge')
-('dam', 'concrete')
-('water', 'ON', 'table')
-('water', 'blue')
-('level', 'has', 'light')
-('level', 'upper')
+('part', 'of a speaker not connected to', 'anything')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Closely held Automax has annual sales of about 10 million
+Additional Information: 
+('sale', 'red')

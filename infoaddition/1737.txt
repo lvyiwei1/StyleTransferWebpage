@@ -1,0 +1,4 @@
+Original Sentence: 
+Panic frequently results in irrational behavior
+Additional Information: 
+('panic', 'gold')

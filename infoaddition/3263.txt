@@ -1,0 +1,4 @@
+Original Sentence: 
+In over-the-counter trading Friday Weisfield 's gained 9.50 to 39
+Additional Information: 
+('red t', 'IN', 'trading')

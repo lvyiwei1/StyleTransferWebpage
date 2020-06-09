@@ -1,4 +1,4 @@
 Original Sentence: 
-Since then deliveries have slumped
+But the shortages also spawned rampant speculation and spiraling prices
 Additional Information: 
-('van', 'for', 'delivery')
+('price', 'ON', 'sign')

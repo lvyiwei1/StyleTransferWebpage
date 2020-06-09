@@ -1,5 +1,4 @@
 Original Sentence: 
-The letter was dated Oct. 6
+The dispute pits two groups of claimants against each other
 Additional Information: 
-('letter', 'ON', 'page')
-('letter', 'white')
+('group', 'large')

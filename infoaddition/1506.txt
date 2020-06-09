@@ -1,0 +1,4 @@
+Original Sentence: 
+Bush and Deng are hoping that cooler heads prevail
+Additional Information: 
+('head', 'OF', 'giraffe')

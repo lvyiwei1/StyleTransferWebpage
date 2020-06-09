@@ -1,6 +1,4 @@
 Original Sentence: 
-Auto insurance rates are soaring
+The Socialists held 184 seats going into the balloting
 Additional Information: 
-('auto', 'written on', 'alarm clock')
-('auto', 'SMALL')
-('advertisement', 'for', 'insurance')
+('seat', 'OF', 'toilet')

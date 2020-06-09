@@ -1,4 +1,4 @@
 Original Sentence: 
-Old Environmentalism involved microbe hunters and sanitationists
+Prices of high-yield high-risk corporate securities ended unchanged
 Additional Information: 
-('hunter', 'holding', 'bird')
+('price', 'written')

@@ -1,7 +1,4 @@
 Original Sentence: 
-NEATNESS does count at least in the grocery store
+But Middle East supplies were growing in importance
 Additional Information: 
-('grocery', 'ON', 'sign')
-('grocery', 'red')
-('store', 'has', 'front')
-('store', 'red')
+('supply', 'on', 'table')

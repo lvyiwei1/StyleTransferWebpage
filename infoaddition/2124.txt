@@ -1,0 +1,4 @@
+Original Sentence: 
+Ms. Kolber said the committee had received other bids
+Additional Information: 
+('bid', 'metal')

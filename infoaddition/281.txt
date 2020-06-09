@@ -1,4 +1,4 @@
 Original Sentence: 
-They will be available in minimum denominations of 10,000
+Investment-grade corporate municipal and mortgage-backed securities also fell
 Additional Information: 
-('denomination', 'American dollar bill ')
+('security', 'standing')

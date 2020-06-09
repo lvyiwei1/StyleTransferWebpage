@@ -1,5 +1,4 @@
 Original Sentence: 
-My style is less informal Mr. Brawer says
+Bond prices rallied
 Additional Information: 
-('style', 'ON', 'ceiling')
-('style', 'old')
+('price', 'ON', 'sign')

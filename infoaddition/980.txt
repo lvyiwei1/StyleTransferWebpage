@@ -1,8 +1,4 @@
 Original Sentence: 
-The fund invests mainly in gold and silver bullion
+Housing Developers Try Brand-Name Buildings
 Additional Information: 
-('gold', 'IN', 'background')
-('gold', 'brown')
-('silver', 'power', 'line')
-('silver', 'silver')
-('bullion', 'green')
+('building', 'white')

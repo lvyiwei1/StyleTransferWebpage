@@ -1,5 +1,4 @@
 Original Sentence: 
-The software conversion costs would dwarf any savings
+Accepted bids were all at 7.962 %
 Additional Information: 
-('software', 'blue')
-('cost', 'displayed in front of', 'banana')
+('bid', 'metal')

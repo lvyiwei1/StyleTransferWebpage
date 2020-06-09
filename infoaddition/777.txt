@@ -1,7 +1,4 @@
 Original Sentence: 
-They both called it a welcome home gathering
+Their reaction was to do nothing and ride it out
 Additional Information: 
-('home', 'has', 'window')
-('home', 'white')
-('gathering', 'OF', 'people')
-('gathering', 'social')
+('nothing', 'IN', 'sky')

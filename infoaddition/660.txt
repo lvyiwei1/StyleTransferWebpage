@@ -1,7 +1,4 @@
 Original Sentence: 
-Most other states have enacted similar bans
+But Burger King operators independently confirm using Michael 's product
 Additional Information: 
-('state', 'ON', 'shirt')
-('state', 'Penn ')
-('table', 'has', 'ban')
-('ban', 'baked')
+('product', 'bathroom')

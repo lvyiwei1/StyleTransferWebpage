@@ -1,5 +1,4 @@
 Original Sentence: 
-The new company is capitalized at about 3.5 million
+The anthers in these plants are difficult to clip off
 Additional Information: 
-('company', 'ON', 'box')
-('company', 'name')
+('plant', 'in a', 'vase')

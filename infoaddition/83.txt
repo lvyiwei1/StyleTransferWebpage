@@ -1,7 +1,4 @@
 Original Sentence: 
-The company also reassigned several executive responsibilities
+Marcus W. Brauchli contributed to this article
 Additional Information: 
-('company', 'ON', 'train')
-('company', 'name')
-('executive', 'ON', 'signs')
-('executive', 'in white')
+('article', 'newspaper')

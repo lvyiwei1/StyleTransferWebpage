@@ -1,8 +1,4 @@
 Original Sentence: 
-The zero-coupon subordinated notes have no periodic interest payments
+Even so his bill is given little chance of passage
 Additional Information: 
-('note', 'IN', 'bowl')
-('note', 'yellow')
-('people', 'showing', 'interest')
-('interest', 'great')
-('payment', 'for', 'produce')
+('bill', 'ON', 'player')

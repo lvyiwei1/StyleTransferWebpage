@@ -1,5 +1,4 @@
 Original Sentence: 
-Jeffrey Peter and Joseph Jr. are brothers
+The financial-services industry was battered by the 1987 crash
 Additional Information: 
-('brother', 'ON', 'bench')
-('brother', 'playing')
+('crash', 'white')

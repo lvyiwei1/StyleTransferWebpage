@@ -1,7 +1,4 @@
 Original Sentence: 
-The second time he says they left the shovel
+The offering used at-market pricing
 Additional Information: 
-('time', 'ON', 'clock')
-('time', 'displayed')
-('shovel', 'IN', 'snow')
-('shovel', 'metal')
+('sign', 'has', 'pricing')

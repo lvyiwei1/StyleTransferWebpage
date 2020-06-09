@@ -1,0 +1,4 @@
+Original Sentence: 
+Even claims against individuals and companies face significant roadblocks
+Additional Information: 
+('company', 'took', 'photo')

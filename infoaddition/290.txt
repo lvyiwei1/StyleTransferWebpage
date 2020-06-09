@@ -1,9 +1,4 @@
 Original Sentence: 
-Outside I spotted two young men lugging blocks of concrete
+Auto insurance rates are soaring
 Additional Information: 
-('men', 'standing on', 'stage')
-('men', 'standing')
-('block', 'ON', 'wall')
-('block', 'cement')
-('concrete', 'touching', 'lane')
-('concrete', 'grey')
+('auto', 'SMALL')

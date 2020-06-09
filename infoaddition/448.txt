@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales fell 20 % to 3.7 billion from 4.6 billion
+The position of chief operating officer is new
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('officer', 'ON', 'motorcycle')

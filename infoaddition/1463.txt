@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Sheinberg remains as executive vice president
+Additional Information: 
+('president', 'ON', 'television')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Motorola is fighting back against junk mail
+But Japanese bonds ended weaker
 Additional Information: 
-('junk', 'piled near', 'fence')
-('junk', 'lots')
-('mail', 'ON', 'desk')
-('mail', 'white')
+('bond', 'black ')

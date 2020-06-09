@@ -1,5 +1,4 @@
 Original Sentence: 
-That 's not what our fathers had in mind
+Oddly enough this presents a problem for the stock
 Additional Information: 
-('father', 'teaches', 'boy')
-('father', 'smiling')
+('stock', 'OF', 'broccoli')

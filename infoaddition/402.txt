@@ -1,7 +1,4 @@
 Original Sentence: 
-Warnaco also owns Warners another major intimate apparel maker
+Computer-generated videos help
 Additional Information: 
-('child', 'IN', 'apparel')
-('apparel', 'ski')
-('maker', 'for', 'coffee')
-('maker', 'coffee')
+('video', 'halfway')

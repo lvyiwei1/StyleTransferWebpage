@@ -1,5 +1,4 @@
 Original Sentence: 
-He has two more years at Texas A&M
+Joann S. Lublin contributed to this article
 Additional Information: 
-('year', 'ON', 'picture')
-('year', 'white')
+('article', 'OF', 'clothing')

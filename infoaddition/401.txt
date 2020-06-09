@@ -1,5 +1,4 @@
 Original Sentence: 
-People hate to write he says
+Computer-generated videos help
 Additional Information: 
-('people', 'WEARING', 'shirt')
-('people', 'standing')
+('video', 'playing on', 'television')

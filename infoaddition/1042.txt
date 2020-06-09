@@ -1,5 +1,4 @@
 Original Sentence: 
-But the U.S. companies are redoubling their efforts
+They want late-night shuttles to the biology labs
 Additional Information: 
-('company', 'ON', 'photo')
-('company', 'name')
+('lab', 'yellow')

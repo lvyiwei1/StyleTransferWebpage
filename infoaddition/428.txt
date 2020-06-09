@@ -1,7 +1,4 @@
 Original Sentence: 
-PRODUCTS DON'T have to be first to be winners
+The reality is that Bank finances are rock solid
 Additional Information: 
-('product', 'ON', 'display')
-('product', 'bathroom')
-('winner', 'standing on', 'box')
-('winner', '2nd place')
+('rock', 'behind', 'zebra')

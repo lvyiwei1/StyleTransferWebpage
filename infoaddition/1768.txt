@@ -1,0 +1,4 @@
+Original Sentence: 
+Making computers smaller often means sacrificing memory
+Additional Information: 
+('computer', 'laptop')

@@ -1,6 +1,4 @@
 Original Sentence: 
-Most public-health measures were handled at the local level
+American Express card charge volume rose 12 %
 Additional Information: 
-('measure', 'black')
-('level', 'has', 'light')
-('level', 'upper')
+('card', 'white')

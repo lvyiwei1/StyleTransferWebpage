@@ -1,7 +1,4 @@
 Original Sentence: 
-Nevertheless the device has been successful in other ways
+Some have raised their cash positions to record levels
 Additional Information: 
-('device', 'IN', 'black backpack')
-('device', 'electronic')
-('way', 'to', 'house')
-('way', 'walk')
+('catcher', 'IN', 'position')

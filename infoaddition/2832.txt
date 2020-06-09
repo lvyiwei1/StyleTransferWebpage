@@ -1,0 +1,4 @@
+Original Sentence: 
+Giveaways just give people the wrong image said Mr. Heinemann
+Additional Information: 
+('people', 'standing in', 'hall')

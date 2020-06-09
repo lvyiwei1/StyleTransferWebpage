@@ -1,0 +1,4 @@
+Original Sentence: 
+Pockets exploded with one-yen coins
+Additional Information: 
+('coin', 'gold')

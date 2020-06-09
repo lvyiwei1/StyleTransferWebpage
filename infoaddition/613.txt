@@ -1,6 +1,4 @@
 Original Sentence: 
-The dollar rose modestly against most major currencies
+It has a similar project for 200,000 cars a year
 Additional Information: 
-('dollar', 'ON', 'table')
-('dollar', 'twenty')
-('currency', 'by', 'luggage')
+('project', 'sewing')

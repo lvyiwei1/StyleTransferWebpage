@@ -1,5 +1,4 @@
 Original Sentence: 
-The IRS hopes to fill the new positions soon
+Junk bonds also recovered somewhat though trading remained stalled
 Additional Information: 
-('catcher', 'IN', 'position')
-('position', 'upright')
+('bond', 'black ')

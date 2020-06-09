@@ -1,0 +1,4 @@
+Original Sentence: 
+Asked about that the other day he replied Anti-Semitic
+Additional Information: 
+('day', 'sunny')

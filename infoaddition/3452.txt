@@ -1,0 +1,4 @@
+Original Sentence: 
+THANKS TO modern medicine more couples are growing old together
+Additional Information: 
+('couple', 'holding', 'hands')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Innocent bystanders often are the victims
+Additional Information: 
+('racket', 'OF', 'victim')

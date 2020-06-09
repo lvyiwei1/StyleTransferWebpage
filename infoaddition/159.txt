@@ -1,5 +1,4 @@
 Original Sentence: 
-They say the broker took them out for lunch frequently
+Volume was 959.3 million shares more than triple recent levels
 Additional Information: 
-('lunch', 'wrapped in', 'foil')
-('lunch', 'healthy')
+('volume', 'ON', 'keyboard')

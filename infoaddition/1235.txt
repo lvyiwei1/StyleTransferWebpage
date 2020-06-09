@@ -1,5 +1,4 @@
 Original Sentence: 
-There 's no feed he says
+It 's a real dog
 Additional Information: 
-('feed', 'in a', 'feeding trough')
-('feed', 'black')
+('dog', 'white')

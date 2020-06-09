@@ -1,5 +1,4 @@
 Original Sentence: 
-In 1982 he started a factory in Greece
+And in some neighborhoods rents have merely hit a plateau
 Additional Information: 
-('factory', 'IN', 'bay')
-('factory', 'large')
+('rent', 'tent cover', 'at beach')

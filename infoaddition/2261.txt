@@ -1,0 +1,4 @@
+Original Sentence: 
+A hundred billion dollars in stock was subject to it
+Additional Information: 
+('stock', 'OF', 'broccoli')

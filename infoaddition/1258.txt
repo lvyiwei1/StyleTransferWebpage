@@ -1,5 +1,4 @@
 Original Sentence: 
-If you 're a technician you obey the signals
+And in some neighborhoods rents have merely hit a plateau
 Additional Information: 
-('signal', 'i', 'water')
-('signal', 'traffic')
+('plateau', 'IN', 'distance')

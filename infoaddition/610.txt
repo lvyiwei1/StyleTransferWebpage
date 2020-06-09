@@ -1,4 +1,4 @@
 Original Sentence: 
-Morgenzon has long been a special domain of Afrikanerdom
+Among other changes the White House wants to
 Additional Information: 
-('domain', 'displayed', 'pic')
+('change', 'goes into', 'parking meter')

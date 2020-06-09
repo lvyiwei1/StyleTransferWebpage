@@ -1,0 +1,4 @@
+Original Sentence: 
+The percentage change is since year-end
+Additional Information: 
+('change', 'ON', 'machine')

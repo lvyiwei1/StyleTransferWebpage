@@ -1,7 +1,4 @@
 Original Sentence: 
-Is this the wrong time to open a store
+In the end politics got in the way
 Additional Information: 
-('time', 'ON', 'phone')
-('time', 'displayed')
-('store', 'sells', 'furniture')
-('store', 'red')
+('way', 'scrapped on', 'bus')

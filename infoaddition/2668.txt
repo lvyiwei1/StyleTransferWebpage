@@ -1,0 +1,4 @@
+Original Sentence: 
+These errata do not affect business programs he said
+Additional Information: 
+('business', 'sign on', 'building')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Now because of various difficulties the product has been scrapped
+Additional Information: 
+('product', 'selling on', 'show')

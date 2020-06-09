@@ -1,7 +1,4 @@
 Original Sentence: 
-It 's part of our style too
+AN EARTHQUAKE STRUCK Northern California killing more than 50 people
 Additional Information: 
-('part', 'OF', 'water')
-('part', 'small')
-('style', 'ON', 'ceiling')
-('style', 'old')
+('people', 'standing')

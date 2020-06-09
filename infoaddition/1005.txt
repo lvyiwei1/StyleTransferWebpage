@@ -1,5 +1,4 @@
 Original Sentence: 
-But not every company expects to report increased earnings
+But they never materialized and IMA completed the purchase yesterday
 Additional Information: 
-('company', 'has', 'label')
-('company', 'name')
+('woman', 'wants to', 'purchase')

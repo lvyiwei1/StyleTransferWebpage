@@ -1,4 +1,4 @@
 Original Sentence: 
-Individual prosperity inevitably would result
+Sierra Tucson operates an addiction treatment center
 Additional Information: 
-('sign', 'reads', 'prosperity')
+('center', 'yellow')

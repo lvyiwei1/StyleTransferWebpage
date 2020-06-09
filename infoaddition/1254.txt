@@ -1,4 +1,4 @@
 Original Sentence: 
-This is panic buying
+The interview did not touch on Singapore 's domestic affairs
 Additional Information: 
-('panic', 'gold')
+('interview', 'media')

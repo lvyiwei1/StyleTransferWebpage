@@ -1,5 +1,4 @@
 Original Sentence: 
-The figures are seasonally adjusted
+Not everyone is worried however
 Additional Information: 
-('figure', 'on', 'sign board')
-('figure', 'green')
+('everyone', 'use', 'umbrellas')

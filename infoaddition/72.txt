@@ -1,7 +1,4 @@
 Original Sentence: 
-The heightened competition will hit IBM at a difficult time
+In a great restaurant do n't deprive yourself
 Additional Information: 
-('horse', 'jumpimg', 'competition')
-('competition', 'horse')
-('time', 'OF', 'clock')
-('time', 'displayed')
+('restaurant', 'busy')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Male scandal victims invariably fare better
+Additional Information: 
+('racket', 'OF', 'victim')

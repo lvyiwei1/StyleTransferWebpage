@@ -1,0 +1,4 @@
+Original Sentence: 
+Still Time 's move is being received well once again
+Additional Information: 
+('mechanism', 'makes it', 'move')

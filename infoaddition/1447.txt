@@ -1,0 +1,4 @@
+Original Sentence: 
+NESB is also the parent of Omnibank
+Additional Information: 
+('parent', 'chaperoning')

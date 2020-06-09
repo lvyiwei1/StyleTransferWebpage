@@ -1,0 +1,4 @@
+Original Sentence: 
+Men would crawl in the sand looking for shiny stones
+Additional Information: 
+('stone', 'large')

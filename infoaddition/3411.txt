@@ -1,0 +1,4 @@
+Original Sentence: 
+Still the split is there
+Additional Information: 
+('split', 'IN', 'tree trunk')

@@ -1,0 +1,4 @@
+Original Sentence: 
+But the U.S. companies are redoubling their efforts
+Additional Information: 
+('company', 'ON', 'photo')

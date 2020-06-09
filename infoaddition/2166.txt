@@ -1,0 +1,4 @@
+Original Sentence: 
+JURY 'S CRIMINAL CONVICTION under Superfund law is a first
+Additional Information: 
+('drivers', 'are obeying', 'law')

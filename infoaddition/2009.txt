@@ -1,0 +1,4 @@
+Original Sentence: 
+I played very transparently with the tip of the bow
+Additional Information: 
+('bow', 'around', 'bear')

@@ -1,0 +1,4 @@
+Original Sentence: 
+There are die-hard bodies of course
+Additional Information: 
+('course', 'green')

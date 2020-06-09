@@ -1,5 +1,4 @@
 Original Sentence: 
-But so-called outer month contracts finished higher
+Mr. Roman appears custom-made for the American Express job
 Additional Information: 
-('month', 'OF', 'picture')
-('month', 'ninth')
+('job', 'ON', 'bus')

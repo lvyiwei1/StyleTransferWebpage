@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Pound responded It 's a deal
+Smaller projects swell the figure to at least 2.5 billion
 Additional Information: 
-('deal', 'OF', 'bananas')
-('deal', 'great')
+('figure', 'green')

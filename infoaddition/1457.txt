@@ -1,0 +1,4 @@
+Original Sentence: 
+That 's not what our fathers had in mind
+Additional Information: 
+('father', 'smiling')

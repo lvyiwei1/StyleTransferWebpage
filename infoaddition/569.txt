@@ -1,7 +1,4 @@
 Original Sentence: 
-Even claims against individuals and companies face significant roadblocks
+The flight was rescheduled for today
 Additional Information: 
-('individual', 'rides', 'bikes')
-('individual', 'smiling')
-('company', 'took', 'photo')
-('company', 'name')
+('flight', 'of metal stairs')

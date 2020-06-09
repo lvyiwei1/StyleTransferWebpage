@@ -1,4 +1,4 @@
 Original Sentence: 
-And You Are There sort of
+The issue includes 100 million of insured senior lien bonds
 Additional Information: 
-('sort', 'OF', 'tracks')
+('lien', 'part')

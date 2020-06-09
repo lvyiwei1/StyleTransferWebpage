@@ -1,0 +1,4 @@
+Original Sentence: 
+Tendered shares not purchased will be returned to holders
+Additional Information: 
+('holder', 'silver')

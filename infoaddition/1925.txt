@@ -1,0 +1,4 @@
+Original Sentence: 
+Los Angeles Creates A Courthouse for Kids
+Additional Information: 
+('kid', 'WEARING', 'shirt')

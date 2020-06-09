@@ -1,4 +1,4 @@
 Original Sentence: 
-Such problems may not be over
+Sound stages echo
 Additional Information: 
-('plane', 'has', 'problem')
+('stage', 'black')

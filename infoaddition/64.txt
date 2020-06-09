@@ -1,5 +1,4 @@
 Original Sentence: 
-He throws something
+Tom Herman contributed to this article
 Additional Information: 
-('something', 'plugged into', 'electrical outlet')
-('something', 'red')
+('article', 'newspaper')

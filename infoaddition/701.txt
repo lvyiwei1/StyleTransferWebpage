@@ -1,5 +1,4 @@
 Original Sentence: 
-Meritor has headed the list since May
+They gleefully await the dream season in 1990
 Additional Information: 
-('list', 'ON', 'bus')
-('list', 'champagne ')
+('season', 'fall')

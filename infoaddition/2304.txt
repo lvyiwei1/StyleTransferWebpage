@@ -1,0 +1,4 @@
+Original Sentence: 
+Lloyd 's has lost control of the situation he says
+Additional Information: 
+('control', 'ON', 'table')

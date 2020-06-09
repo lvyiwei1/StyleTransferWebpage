@@ -1,5 +1,4 @@
 Original Sentence: 
-For the Giuliani forces it 's a conundrum
+Prices on the Frankfurt Stock Exchange tumbled in heavy trading
 Additional Information: 
-('force', 'ON', 'plane')
-('force', 'black')
+('red t', 'IN', 'trading')

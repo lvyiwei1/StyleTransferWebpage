@@ -1,7 +1,4 @@
 Original Sentence: 
-And the winners will be the colleges not either network
+Jewelry Makers Copy Cosmetics Sales Ploys
 Additional Information: 
-('winner', 'seen', 'left leg')
-('winner', '2nd place')
-('college', 'written on', 'bus')
-('college', 'Tennis')
+('sale', 'red')

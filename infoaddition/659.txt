@@ -1,4 +1,4 @@
 Original Sentence: 
-Petrolane is the second-largest propane distributor in the U.S.
+But Burger King operators independently confirm using Michael 's product
 Additional Information: 
-('propane', 'for', 'oven')
+('product', 'IN', 'box')

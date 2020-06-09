@@ -1,4 +1,4 @@
 Original Sentence: 
-The two are also signing a trade agreement
+It has a similar project for 200,000 cars a year
 Additional Information: 
-('company name', 'says', 'trade')
+('car', 'parked')

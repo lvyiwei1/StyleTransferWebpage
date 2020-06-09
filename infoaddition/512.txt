@@ -1,7 +1,4 @@
 Original Sentence: 
-Our customers watch us for the hidden message he said
+The company has been manufacturing carpet since 1967
 Additional Information: 
-('customer', 'WEARING', 'shirt')
-('customer', 'waiting')
-('message', 'ON', 'heart')
-('message', 'white')
+('carpet', 'brown')

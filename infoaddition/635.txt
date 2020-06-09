@@ -1,4 +1,4 @@
 Original Sentence: 
-Then he unleashed his own unstoppable attack
+We think this is a superior deal to McCaw 's
 Additional Information: 
-('attack', 'are', 'attack')
+('deal', 'great')

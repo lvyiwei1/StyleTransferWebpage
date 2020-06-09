@@ -1,7 +1,4 @@
 Original Sentence: 
-Company officials could n't be reached
+Most people said they exercise both for health and enjoyment
 Additional Information: 
-('company', 'made', 'fire hydrant')
-('company', 'name')
-('official', 'sitting in', 'chair')
-('official', 'tennis')
+('people', 'standing')

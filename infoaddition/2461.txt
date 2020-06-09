@@ -1,0 +1,4 @@
+Original Sentence: 
+Lloyd 's is moving forward on some fronts though
+Additional Information: 
+('front', 'yellow')

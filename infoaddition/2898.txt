@@ -1,0 +1,4 @@
+Original Sentence: 
+When the computer says switch Renaissance switches
+Additional Information: 
+('computer', 'ON', 'ground')

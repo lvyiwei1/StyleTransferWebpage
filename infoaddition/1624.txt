@@ -1,0 +1,4 @@
+Original Sentence: 
+Some nights he slept under his desk
+Additional Information: 
+('night', 'at', 'marina')

@@ -1,6 +1,4 @@
 Original Sentence: 
-But while index options are convenient they have several disadvantages
+The crowd remained good natured even bemused
 Additional Information: 
-('index', 'a fingerhas', 'baby')
-('index', 'is a finger')
-('option', 'ON', 'phone')
+('crowd', 'watching')

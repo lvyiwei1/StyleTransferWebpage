@@ -1,5 +1,4 @@
 Original Sentence: 
-People had died
+Local bankers and accountants help applicants fill out forms
 Additional Information: 
-('people', 'riding on', 'horses')
-('people', 'standing')
+('form', 'ON', 'table top')

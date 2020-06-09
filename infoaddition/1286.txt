@@ -1,7 +1,4 @@
 Original Sentence: 
-It 's expected to produce about 62,000 barrels per day
+I see it as a sewage treatment plant he says
 Additional Information: 
-('barrel', 'ON', 'sidewalk')
-('barrel', 'blue')
-('day', 'above', 'city')
-('day', 'sunny')
+('sewage', 'opening on', 'sidewalk')

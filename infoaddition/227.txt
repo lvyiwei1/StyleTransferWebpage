@@ -1,5 +1,4 @@
 Original Sentence: 
-The Republicans show no sign of relenting
+An announcement is more likely next week though
 Additional Information: 
-('sign', 'ON', 'post')
-('sign', 'white')
+('day', 'OF', 'week')

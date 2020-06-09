@@ -1,5 +1,4 @@
 Original Sentence: 
-The fundamentals do n't change in an hour he says
+It shows a boy hurling rocks at a street lamp
 Additional Information: 
-('hour', 'hand', '5')
-('hour', 'black')
+('street', 'paved')

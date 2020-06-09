@@ -1,5 +1,4 @@
 Original Sentence: 
-They were a sleeper
+The price can not be less than 7,000
 Additional Information: 
-('sleeper', 'ON', 'baby')
-('sleeper', 'wooden')
+('price', 'tag', 'roll')

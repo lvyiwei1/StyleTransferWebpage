@@ -1,0 +1,4 @@
+Original Sentence: 
+Heating oil and gasoline futures ended higher as well
+Additional Information: 
+('oil', 'hot')

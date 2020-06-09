@@ -1,0 +1,4 @@
+Original Sentence: 
+In January Mr. Salvatori sold the unit
+Additional Information: 
+('unit', 'sitting on', 'roof')

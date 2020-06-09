@@ -1,4 +1,4 @@
 Original Sentence: 
-This limits his financial exposure he says
+Auto insurance rates are soaring
 Additional Information: 
-('exposure', 'translucent')
+('auto', 'written on', 'alarm clock')

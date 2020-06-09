@@ -1,5 +1,4 @@
 Original Sentence: 
-Pretend Nothing Happened
+There 's nothing like skin to skin
 Additional Information: 
-('nothing', 'IN', 'sky')
 ('nothing', 'clear')

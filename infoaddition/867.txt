@@ -1,7 +1,4 @@
 Original Sentence: 
-Gasoline terminals were also largely unhurt they said
+Artists and draftsmen need harder leads
 Additional Information: 
-('truck', 'OF', 'gasoline')
-('gasoline', 'offered')
-('terminal', 'has', 'roof')
-('terminal', 'airport')
+('artist', 'signature', 'tag')

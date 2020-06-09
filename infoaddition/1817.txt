@@ -1,0 +1,4 @@
+Original Sentence: 
+Major European auction houses are turning increasingly to specialized sales
+Additional Information: 
+('house', 'IN', 'neighborhood')

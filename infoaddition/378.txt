@@ -1,5 +1,4 @@
 Original Sentence: 
-Profits improved across Hess 's businesses
+Yet some funds have pulled in their horns
 Additional Information: 
-('business', 'along', 'road')
-('business', 'here')
+('horn', 'black')

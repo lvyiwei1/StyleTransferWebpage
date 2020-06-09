@@ -1,5 +1,4 @@
 Original Sentence: 
-This is a very personal ethnic style Mr. Carew says
+LDI leases and sells data-processing telecommunications and other high-tech equipment
 Additional Information: 
-('style', 'ON', 'ceiling')
-('style', 'old')
+('equipment', 'with', 'equipment')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The device was replaced
+Additional Information: 
+('device', 'electronic')

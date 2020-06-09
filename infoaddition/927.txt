@@ -1,5 +1,4 @@
 Original Sentence: 
-The price was n't disclosed
+Customized baskets of fewer stocks will also be available
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
+('stock', 'green')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The other half we may have before long
+Coopers uses the Coopers & Lybrand name world-wide
 Additional Information: 
-('half', 'of a sub', 'sandwich')
-('half', 'bottom')
+('name', 'OF', 'dish')

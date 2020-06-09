@@ -1,4 +1,4 @@
 Original Sentence: 
-If Sex Is Involved All Bets Are Off
+I 'm talking about landing in a canal
 Additional Information: 
-('sex', 'on a', 'sign')
+('canal', 'calm')

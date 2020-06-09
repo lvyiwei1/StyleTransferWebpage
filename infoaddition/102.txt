@@ -1,6 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+Big withdrawals from the junk funds have continued this month
 Additional Information: 
-('coupon', 'has', 'percentage')
-('change', 'ON', 'red')
-('change', 'loose')
+('junk', 'lots')

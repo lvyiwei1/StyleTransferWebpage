@@ -1,0 +1,4 @@
+Original Sentence: 
+The naczelnik averts his eyes
+Additional Information: 
+('eye', 'ON', 'head')

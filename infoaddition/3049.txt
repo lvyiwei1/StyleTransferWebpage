@@ -1,0 +1,4 @@
+Original Sentence: 
+Yesterday it provided the details
+Additional Information: 
+('detail', 'red')

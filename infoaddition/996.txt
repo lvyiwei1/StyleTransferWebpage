@@ -1,4 +1,4 @@
 Original Sentence: 
-Other trips were more productive
+Characters complain ceaselessly about food queues prices and corruption
 Additional Information: 
-('man and women', 'going on', 'trip')
+('food', 'IN', 'background')

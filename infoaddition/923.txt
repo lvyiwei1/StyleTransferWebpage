@@ -1,7 +1,4 @@
 Original Sentence: 
-Pockets exploded with one-yen coins
+The executive branch bears the first responsibility for timidity
 Additional Information: 
-('pocket', 'ON', 'cargo pants')
-('pocket', 'white')
-('coin', 'lying in', 'collection')
-('coin', 'gold')
+('branch', 'brown')

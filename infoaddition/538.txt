@@ -1,5 +1,4 @@
 Original Sentence: 
-Not everyone is so pessimistic
+WCRS has been in discussions with Eurocom for several months
 Additional Information: 
-('everyone', 'ON', 'sidewalk')
-('everyone', 'smiling')
+('month', 'around', 'face')

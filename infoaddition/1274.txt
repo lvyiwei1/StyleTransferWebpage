@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms of the agreement were n't disclosed
+Flight Attendants Lag Before Jets Even Land
 Additional Information: 
-('term', 'house of david')
+('attendant', 'assisting')

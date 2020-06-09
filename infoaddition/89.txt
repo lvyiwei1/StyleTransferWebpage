@@ -1,5 +1,4 @@
 Original Sentence: 
-Hand-holding is becoming an investment-banking job requirement
+That facility should reopen today
 Additional Information: 
-('job', 'ON', 'bus')
-('job', 'decorative')
+('sign', 'reads', 'today')

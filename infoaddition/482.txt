@@ -1,7 +1,4 @@
 Original Sentence: 
-Bond prices fell after the Chicago report was released
+The buyer was n't identified
 Additional Information: 
-('bond', 'black ')
-('price', 'tag', 'roll')
-('price', 'written')
-('report', 'ON', 'green paper')
+('buyer', 'looking at', 'goods')

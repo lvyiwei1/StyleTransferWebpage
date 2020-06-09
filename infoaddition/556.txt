@@ -1,5 +1,4 @@
 Original Sentence: 
-Volume totaled 10,450,000 shares
+It would n't discuss a price
 Additional Information: 
-('volume', 'ON', 'keyboard')
-('volume', '3')
+('price', 'OF', 'fruit')

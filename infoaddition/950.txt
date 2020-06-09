@@ -1,5 +1,4 @@
 Original Sentence: 
-I do n't like the sound of that
+Mr. Zafris thinks rates are heading down helping small companies
 Additional Information: 
-('button', 'for', 'sound')
-('sound', 'button')
+('company', 'name')

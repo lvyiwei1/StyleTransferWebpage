@@ -1,6 +1,4 @@
 Original Sentence: 
-But the lack of lines became painfully apparent
+Which makes the chase car necessary
 Additional Information: 
-('lack', 'in front', 'hills')
-('line', 'ON', 'road')
-('line', 'white')
+('chase', 'ON', 'building')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Both features appealed most to buyers under 45
+Joann S. Lublin contributed to this article
 Additional Information: 
-('feature', 'IN', 'park')
-('feature', 'suppressor ')
-('buyer', 'looking at', 'goods')
-('buyer', 'prospective')
+('article', 'newspaper')

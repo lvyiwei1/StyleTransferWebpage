@@ -1,5 +1,4 @@
 Original Sentence: 
-The Norfolk Va. company has 172.2 million shares outstanding
+I mean it is a normal adult relationship
 Additional Information: 
-('company', 'has', 'advertisement')
-('company', 'name')
+('adult', 'young')

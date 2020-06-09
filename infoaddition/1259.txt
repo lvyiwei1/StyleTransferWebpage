@@ -1,7 +1,4 @@
 Original Sentence: 
-In this case the Members outdid themselves
+And in some neighborhoods rents have merely hit a plateau
 Additional Information: 
-('case', 'ON', 'table')
-('case', 'black')
-('member', 'wearing a', 'jersey number')
-('member', 'several')
+('plateau', 'background')

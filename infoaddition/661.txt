@@ -1,7 +1,4 @@
 Original Sentence: 
-Urban is the company 's first telephone subsidiary in Wisconsin
+Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
-('telephone', 'a', 'pole')
-('telephone', 'black')
+('story', 'belonging to', 'building')

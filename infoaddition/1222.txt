@@ -1,5 +1,4 @@
 Original Sentence: 
-He probably has n't done it for the cash
+But these wide swings scare them to death
 Additional Information: 
-('cash', 'inside', 'purse')
-('cash', 'Two round pieces  ')
+('swing', 'ON', 'rope')

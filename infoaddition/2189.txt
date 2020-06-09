@@ -1,0 +1,4 @@
+Original Sentence: 
+Lindens need about 36 feet
+Additional Information: 
+('foot', 'bare')

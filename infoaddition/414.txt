@@ -1,5 +1,4 @@
 Original Sentence: 
-Why did he add the Value Fund to the list
+In peak periods that load may include 4,000 pieces
 Additional Information: 
-('list', 'ON', 'screen')
-('list', 'champagne ')
+('load', 'ON', 'truck')

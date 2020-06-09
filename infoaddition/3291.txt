@@ -1,0 +1,4 @@
+Original Sentence: 
+Once they are in the building they stay
+Additional Information: 
+('building', 'with', 'windows')

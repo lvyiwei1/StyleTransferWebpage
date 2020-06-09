@@ -1,0 +1,4 @@
+Original Sentence: 
+The latest rebate is good for all Beretta models
+Additional Information: 
+('model', 'WEARING', 'necklace')

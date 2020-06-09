@@ -1,5 +1,4 @@
 Original Sentence: 
-And the naczelnik shuts his door
+But the Americans are also to blame
 Additional Information: 
-('door', 'OF', 'oven')
-('door', 'white')
+('american', 'Waving ')

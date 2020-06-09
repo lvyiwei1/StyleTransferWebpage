@@ -1,5 +1,4 @@
 Original Sentence: 
-Adverse pressure on gross margins has subsided Mr. Sculley said
+But by comparison this fluffy comedy seems like a gem
 Additional Information: 
-('margin', 'separating', 'photo')
-('margin', 'thick')
+('gem', 'ON', 'hat')

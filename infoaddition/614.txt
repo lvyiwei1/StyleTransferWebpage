@@ -1,5 +1,4 @@
 Original Sentence: 
-It 's a tough thing when you ca n't
+It has a similar project for 200,000 cars a year
 Additional Information: 
-('thing', 'under', 'wiener')
-('thing', 'black')
+('car', '', 'parked')

@@ -1,7 +1,4 @@
 Original Sentence: 
-There are a lot of have and have-not markets
+No doubt he believes the place can be salvaged
 Additional Information: 
-('lot', 'to', 'park')
-('lot', 'parking')
-('market', 'has', 'fruit')
-('market', 'outdoor')
+('place', 'for', 'conductor')

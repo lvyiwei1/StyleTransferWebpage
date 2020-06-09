@@ -1,9 +1,4 @@
 Original Sentence: 
-Yesterday bank stocks lagged behind the overall OTC market
+Many other brokerage firms had similarly bullish views
 Additional Information: 
-('bank', 'OF', 'lights')
-('bank', 'grassy')
-('stock', 'of', 'stock')
-('stock', 'green')
-('market', 'IN', 'container')
-('market', 'outdoor')
+('view', 'OF', 'bulb')

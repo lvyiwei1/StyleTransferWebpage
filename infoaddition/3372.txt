@@ -1,0 +1,4 @@
+Original Sentence: 
+Last week many Jaguar shareholders took their money and ran
+Additional Information: 
+('day', 'OF', 'week')

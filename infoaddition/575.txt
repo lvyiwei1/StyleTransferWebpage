@@ -1,6 +1,4 @@
 Original Sentence: 
-The September figures are due to be released this week
+Most people ca n't even remember his name
 Additional Information: 
-('figure', 'ON', 'pedestal')
-('figure', 'green')
-('day', 'OF', 'week')
+('name', 'ON', 'phone')

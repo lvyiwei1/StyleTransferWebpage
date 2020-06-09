@@ -1,5 +1,4 @@
 Original Sentence: 
-He also said investment by businesses is falling off
+Ms. Parks 's mother also gets to cuff Mr. Alexander
 Additional Information: 
-('business', 'has', 'phone number')
-('business', 'here')
+('mother', 'standing')

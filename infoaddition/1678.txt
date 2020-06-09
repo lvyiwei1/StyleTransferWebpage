@@ -1,0 +1,4 @@
+Original Sentence: 
+The dollar rose modestly against most major currencies
+Additional Information: 
+('dollar', 'ON', 'table')

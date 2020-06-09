@@ -1,4 +1,4 @@
 Original Sentence: 
-They do n't have the votes to get it passed
+The rest he is confident can be raised
 Additional Information: 
-('vote', 'written on', 'sign')
+('rest', 'ON', 'sign')

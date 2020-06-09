@@ -1,5 +1,4 @@
 Original Sentence: 
-Lloyd 's has lost control of the situation he says
+The Treasury 's 30-year bond ended over 1\/4 point higher
 Additional Information: 
-('control', 'ON', 'table')
-('control', 'remote')
+('bond', 'black ')

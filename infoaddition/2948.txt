@@ -1,0 +1,4 @@
+Original Sentence: 
+Randy Delchamps retains his position as president
+Additional Information: 
+('president', 'ON', 'television')

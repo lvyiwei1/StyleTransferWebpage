@@ -1,0 +1,4 @@
+Original Sentence: 
+Urban is the company 's first telephone subsidiary in Wisconsin
+Additional Information: 
+('company', 'has', 'name')

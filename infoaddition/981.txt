@@ -1,5 +1,4 @@
 Original Sentence: 
-They want a 24-hour library
+The closely held company has n't disclosed sales
 Additional Information: 
-('library', 'OF', 'books')
-('library', 'white')
+('company', 'ON', 'bus')

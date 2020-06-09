@@ -1,4 +1,4 @@
 Original Sentence: 
-We have no further developments to report he said
+Analysts and competitors however doubt the numbers were that high
 Additional Information: 
-('development', 'yellow')
+('number', 'black')

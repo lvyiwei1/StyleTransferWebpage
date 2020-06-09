@@ -1,8 +1,4 @@
 Original Sentence: 
-In the end politics got in the way
+The channel reaches 6.5 million homes a Penney spokesman said
 Additional Information: 
-('end', 'OF', 'train')
-('end', 'black')
-('letters', 'about', 'politics')
-('way', 'scrapped on', 'bus')
-('way', 'walk')
+('home', 'behind', 'train')

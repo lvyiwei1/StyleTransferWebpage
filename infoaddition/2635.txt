@@ -1,0 +1,4 @@
+Original Sentence: 
+Corporate planners can plan again
+Additional Information: 
+('planner', 'black')

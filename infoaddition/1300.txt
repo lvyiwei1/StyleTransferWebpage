@@ -1,7 +1,4 @@
 Original Sentence: 
-The university is considering a settlement proposal made by Connaught
+For one thing Digital Maynard Mass. has sold fewer machines
 Additional Information: 
-('university', 'ON', 'sign')
-('university', 'name ')
-('settlement', 'OF', 'buildings')
-('settlement', 'SUBURBAN')
+('machine', 'ON', 'desk')

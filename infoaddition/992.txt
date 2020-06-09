@@ -1,7 +1,4 @@
 Original Sentence: 
-These errata do not affect business programs he said
+Needless to say it was an interesting first session
 Additional Information: 
-('business', 'sign on', 'building')
-('business', 'here')
-('program', 'ON', 'screen')
-('program', 'wedding')
+('screen', 'showing', 'session')

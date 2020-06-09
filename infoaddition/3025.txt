@@ -1,0 +1,4 @@
+Original Sentence: 
+Investors welcomed the move
+Additional Information: 
+('mechanism', 'makes it', 'move')

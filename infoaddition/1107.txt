@@ -1,4 +1,4 @@
 Original Sentence: 
-But again they may need the help of the machinists
+But for photofinishers developing costs for black-and-white film are higher
 Additional Information: 
-('poster', 'says', 'help')
+('film', 'black')

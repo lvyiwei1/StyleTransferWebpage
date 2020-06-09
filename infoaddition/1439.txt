@@ -1,0 +1,4 @@
+Original Sentence: 
+The company could command a good price in the market
+Additional Information: 
+('market', 'has', 'food')

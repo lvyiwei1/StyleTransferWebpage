@@ -1,4 +1,4 @@
 Original Sentence: 
-The worst-case scenario would be if the put expires worthless
+Sales increased 5.5 % to 9.81 billion from 9.3 billion
 Additional Information: 
-('people', 'IN', 'scenario')
+('sale', 'red')

@@ -1,5 +1,4 @@
 Original Sentence: 
-But wait a second
+The earnings drop had been expected
 Additional Information: 
-('second', 'floor', 'balcony')
-('second', 'black')
+('drop', 'water')

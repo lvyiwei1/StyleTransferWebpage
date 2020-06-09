@@ -1,7 +1,4 @@
 Original Sentence: 
-People were even hoarding bags he says
+The Treasury 's 30-year bond ended over 1\/4 point higher
 Additional Information: 
-('people', 'IN', 'top')
-('people', 'standing')
-('bag', 'IN', 'drawer')
-('bag', 'black')
+('point', 'ON', 'short hand')

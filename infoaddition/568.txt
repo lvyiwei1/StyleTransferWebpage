@@ -1,5 +1,4 @@
 Original Sentence: 
-The Dow Jones Industrial Average rose 39.55 points to 2683.20
+The flight was rescheduled for today
 Additional Information: 
-('point', 'OF', 'tower')
-('point', 'sharp')
+('flight', 'ON', 'building')

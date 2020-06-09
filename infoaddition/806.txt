@@ -1,5 +1,4 @@
 Original Sentence: 
-Beta figures are widely available and easy to interpret
+Piping in a waste-treatment plant needed immediate repairs
 Additional Information: 
-('figure', 'ON', 'mantle')
-('figure', 'green')
+('piping', 'under', 'seat')

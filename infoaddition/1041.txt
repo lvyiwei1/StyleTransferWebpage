@@ -1,9 +1,4 @@
 Original Sentence: 
-He is ogling the curtains rippling above the ventilation ducts
+They want late-night shuttles to the biology labs
 Additional Information: 
-('curtain', 'hangs in', 'background')
-('curtain', 'white')
-('ventilation', 'IN', 'tower')
-('ventilation', 'black')
-('duct', 'ON', 'wall')
-('duct', 'large ')
+('lab', 'sitting on', 'grass')

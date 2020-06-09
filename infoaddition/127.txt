@@ -1,11 +1,4 @@
 Original Sentence: 
-Some have raised their cash positions to record levels
+It showed the DJIA up 30 points
 Additional Information: 
-('cash', 'inside', 'purse')
-('cash', 'Two round pieces  ')
-('catcher', 'IN', 'position')
-('position', 'upright')
-('record', 'on top of', 'turntable')
-('record', 'black')
-('level', 'ON', 'bus')
-('level', 'upper')
+('point', 'OF', 'knife')

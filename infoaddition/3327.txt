@@ -1,0 +1,4 @@
+Original Sentence: 
+Sales were 12 billion off 13 % from 13.8 billion
+Additional Information: 
+('sale', 'red')

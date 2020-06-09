@@ -1,6 +1,4 @@
 Original Sentence: 
-As a critique of middle-class mores the story is heavy-handed
+The program traders were in there too of course
 Additional Information: 
-('more', 'OF', 'table')
-('story', 'ON', 'church')
-('story', 'second')
+('program', 'beside', 'table')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Names are resigning at an even faster pace this year
+Additional Information: 
+('year', 'white')

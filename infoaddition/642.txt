@@ -1,5 +1,4 @@
 Original Sentence: 
-But these are not the differences that make headlines
+The reason was not high interest rates or labor costs
 Additional Information: 
-('headline', 'ON', 'paper')
-('headline', 'white')
+('people', 'showing', 'interest')

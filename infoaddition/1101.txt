@@ -1,5 +1,4 @@
 Original Sentence: 
-The damage is already done
+And even though employees paid the bill taxpayers grumbled
 Additional Information: 
-('damage', 'on a', 'wall')
-('damage', 'moisture')
+('bill', 'orange')

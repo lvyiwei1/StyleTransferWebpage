@@ -1,0 +1,4 @@
+Original Sentence: 
+Before that he was an executive with a manufacturing concern
+Additional Information: 
+('executive', 'ON', 'signs')

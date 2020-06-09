@@ -1,5 +1,4 @@
 Original Sentence: 
-Volume totaled 14,560,000 shares
+Now producers hope prices have hit bottom
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
+('bottom', 'belonging to', 'airplane')

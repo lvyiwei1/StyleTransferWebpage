@@ -1,7 +1,4 @@
 Original Sentence: 
-But city officials say tax revenues are lagging
+Jewelry Makers Copy Cosmetics Sales Ploys
 Additional Information: 
-('city', 'IN', 'background')
-('city', 'large')
-('official', 'has', 'shirt')
-('official', 'tennis')
+('maker', 'for', 'coffee')

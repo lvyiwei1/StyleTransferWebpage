@@ -1,0 +1,4 @@
+Original Sentence: 
+But these are not the differences that make headlines
+Additional Information: 
+('headline', 'ON', 'paper')

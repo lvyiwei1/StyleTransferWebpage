@@ -1,7 +1,4 @@
 Original Sentence: 
-The media she says have distorted his personal life
+Neither disclosed details pending board meetings next month
 Additional Information: 
-('medium', 'gray', 'clouds')
-('medium', 'brick')
-('life', 'written on', 'life guard bench')
-('life', 'printed')
+('detail', 'red')

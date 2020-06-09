@@ -1,0 +1,4 @@
+Original Sentence: 
+Prospective competition is one problem
+Additional Information: 
+('horse', 'jumpimg', 'competition')

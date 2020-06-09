@@ -1,0 +1,4 @@
+Original Sentence: 
+Volume totaled 10,450,000 shares
+Additional Information: 
+('volume', '3')

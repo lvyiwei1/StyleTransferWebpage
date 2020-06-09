@@ -1,7 +1,4 @@
 Original Sentence: 
-It did n't provide details of setup costs
+People in the phone business call this technology 900 click
 Additional Information: 
-('detail', 'over', 'door')
-('detail', 'red')
-('setup', 'simple')
-('cost', 'displayed in front of', 'banana')
+('people', 'ON', 'bicycles')

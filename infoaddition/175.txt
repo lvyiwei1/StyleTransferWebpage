@@ -1,5 +1,4 @@
 Original Sentence: 
-I do n't want expensive machines
+The program traders were in there too of course
 Additional Information: 
-('machine', 'next to', 'oven')
-('machine', 'white')
+('program', 'wedding')

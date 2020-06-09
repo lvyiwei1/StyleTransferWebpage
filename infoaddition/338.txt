@@ -1,5 +1,4 @@
 Original Sentence: 
-The company reported a big third-quarter loss on Thursday
+The CFTC has 90 days to respond to such applications
 Additional Information: 
-('company', 'ON', 'wing')
-('company', 'name')
+('application', 'on a', 'cellphone')

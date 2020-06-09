@@ -1,5 +1,4 @@
 Original Sentence: 
-It could do damage to us
+Magazine editors did not take the criticisms lying down
 Additional Information: 
-('damage', 'IN', 'building')
-('damage', 'moisture')
+('magazine', 'open')

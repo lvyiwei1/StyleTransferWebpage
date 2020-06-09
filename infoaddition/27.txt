@@ -1,5 +1,4 @@
 Original Sentence: 
-But it 's in very early stages still
+TransCanada transports all gas that moves eastward from Alberta
 Additional Information: 
-('stage', 'inside of', 'canopy')
-('stage', 'black')
+('gas', 'invisible')

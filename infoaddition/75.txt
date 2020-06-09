@@ -1,6 +1,4 @@
 Original Sentence: 
-That hurts investors ' confidence in the economy and stocks
+The entire division employs about 850 workers
 Additional Information: 
-('economy', 'ON', 'train')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('worker', 'construction')

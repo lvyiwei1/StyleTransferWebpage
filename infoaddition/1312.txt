@@ -1,0 +1,4 @@
+Original Sentence: 
+Among other blue chips Exxon gained 1\/8 to 45 1\/2
+Additional Information: 
+('chip', 'chocolate')

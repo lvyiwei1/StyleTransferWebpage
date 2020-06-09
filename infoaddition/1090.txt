@@ -1,5 +1,4 @@
 Original Sentence: 
-There will be a lot of malice
+ESB directors warmly accepted but a whirlwind bidding match ensued
 Additional Information: 
-('lot', 'made of', 'grey brick pavers')
-('lot', 'parking')
+('match', 'OF', 'rugby')

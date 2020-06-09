@@ -1,5 +1,4 @@
 Original Sentence: 
-Markets usually get noticed because they soar or plunge
+Some people must drop names call it an irresistible impulse
 Additional Information: 
-('market', 'has', 'fruit')
-('market', 'outdoor')
+('people', 'walking on', 'stairs')

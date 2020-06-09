@@ -1,6 +1,4 @@
 Original Sentence: 
-Outokumpu is a mining trading and construction concern
+Junk bonds also recovered somewhat though trading remained stalled
 Additional Information: 
-('red t', 'IN', 'trading')
-('construction', 'ON', 'building')
-('construction', 'gate')
+('junk', 'lots')

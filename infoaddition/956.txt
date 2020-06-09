@@ -1,5 +1,4 @@
 Original Sentence: 
-Growth is slower
+Some state middlemen come to buy from me
 Additional Information: 
-('growth', 'IN', 'field')
-('growth', 'green')
+('state', 'ON', 'hood')

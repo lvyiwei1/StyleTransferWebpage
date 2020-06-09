@@ -1,0 +1,4 @@
+Original Sentence: 
+But advertisers would n't think of it she said
+Additional Information: 
+('advertiser', 'ON', 'train')

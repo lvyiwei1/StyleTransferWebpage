@@ -1,5 +1,4 @@
 Original Sentence: 
-Indeed the competition is n't greatly concerned
+TIMES SQUARE development opponents are dealt setback
 Additional Information: 
-('skiers', 'in a', 'competition')
-('competition', 'horse')
+('opponent', 'standing')

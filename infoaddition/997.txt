@@ -1,4 +1,4 @@
 Original Sentence: 
-The yield on the issue stood at 7.88 %
+Characters complain ceaselessly about food queues prices and corruption
 Additional Information: 
-('yield', 'on', 'sign')
+('food', 'green')

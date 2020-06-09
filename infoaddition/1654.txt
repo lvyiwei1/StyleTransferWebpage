@@ -1,0 +1,4 @@
+Original Sentence: 
+Either one likes it or one does n't
+Additional Information: 
+('one', 'man', 'talking')

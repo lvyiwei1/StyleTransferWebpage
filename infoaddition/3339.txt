@@ -1,0 +1,4 @@
+Original Sentence: 
+But Friday did n't help things says Mr. Schaefer
+Additional Information: 
+('poster', 'says', 'help')

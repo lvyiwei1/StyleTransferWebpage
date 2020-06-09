@@ -1,6 +1,4 @@
 Original Sentence: 
-Third-quarter earnings at both companies were below analysts ' forecasts
+Our commitment to manage these businesses profitably will continue
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
-('forecast', 'here')
+('business', 'along', 'road')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The judge wrote again
+Share prices fell in Milan Amsterdam Zurich Madrid and Stockholm
 Additional Information: 
-('judge', 'has', 'vest')
-('judge', 'tennis line')
+('price', 'written')

@@ -1,8 +1,4 @@
 Original Sentence: 
-A large number of those leaving are managers and professionals
+Artists and draftsmen need harder leads
 Additional Information: 
-('number', 'ON', 'sign')
-('number', 'black')
-('manager', 'sitting in', 'dugout')
-('manager', 'overlooking action')
-('professional', 'riding on ir', 'motorbike')
+('lead', 'ON', 'plant')

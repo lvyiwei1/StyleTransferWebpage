@@ -1,0 +1,4 @@
+Original Sentence: 
+It was a busy week for OTC stocks
+Additional Information: 
+('stock', 'green')

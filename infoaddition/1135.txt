@@ -1,5 +1,4 @@
 Original Sentence: 
-We tend to run a very tight book
+The advance felt more like a technical bounce he said
 Additional Information: 
-('book', 'ON', 'desk')
-('book', 'white')
+('bounce', 'green')

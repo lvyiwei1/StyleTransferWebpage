@@ -1,0 +1,4 @@
+Original Sentence: 
+Every witness receives a formal subpoena Rep. Gonzalez told him
+Additional Information: 
+('witness', 'black')

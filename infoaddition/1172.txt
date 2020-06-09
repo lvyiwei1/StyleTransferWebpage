@@ -1,6 +1,4 @@
 Original Sentence: 
-In Chicago for example size is the issue
+This being typed in a standing position
 Additional Information: 
-('example', 'lowercase')
-('size', 'ON', 'shirt')
-('size', 'XL')
+('position', 'upright')

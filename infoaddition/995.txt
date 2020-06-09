@@ -1,5 +1,4 @@
 Original Sentence: 
-Is such a view justified
+Characters complain ceaselessly about food queues prices and corruption
 Additional Information: 
-('view', 'OF', 'fruit')
-('view', 'beautiful')
+('character', 'foreign')

@@ -1,7 +1,4 @@
 Original Sentence: 
-October is a critical month for the privatization program
+Many law firms sponsor their own programs
 Additional Information: 
-('month', 'around', 'face')
-('month', 'ninth')
-('program', 'ON', 'monitor')
-('program', 'wedding')
+('drivers', 'are obeying', 'law')

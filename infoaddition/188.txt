@@ -1,5 +1,4 @@
 Original Sentence: 
-And the successful son wishes his embarrassing siblings dead
+Is somebody telling us something
 Additional Information: 
-('son', 'playing', 'game')
-('son', 'young')
+('something', 'buried', 'snow')

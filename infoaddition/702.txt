@@ -1,6 +1,4 @@
 Original Sentence: 
-Los Angeles Creates A Courthouse for Kids
+But he 's not so sure about everyone else
 Additional Information: 
-('building', 'on side of', 'courthouse')
-('kid', 'WEARING', 'shirt')
-('kid', 'little')
+('everyone', 'ON', 'motorcycle')

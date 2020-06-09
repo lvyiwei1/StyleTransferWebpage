@@ -1,0 +1,4 @@
+Original Sentence: 
+He left a message accusing Mr. Darman of selling out
+Additional Information: 
+('message', 'white')

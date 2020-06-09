@@ -1,4 +1,4 @@
 Original Sentence: 
-But he warned the currency will remain at risk
+Is somebody telling us something
 Additional Information: 
-('currency', 'by', 'luggage')
+('somebody', 'using', 'computer')

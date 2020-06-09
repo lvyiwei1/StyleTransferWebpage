@@ -1,0 +1,4 @@
+Original Sentence: 
+James A. White contributed to this article
+Additional Information: 
+('article', 'OF', 'clothing')

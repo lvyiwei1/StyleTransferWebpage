@@ -1,4 +1,4 @@
 Original Sentence: 
-Roe v. Wade pre-empted political debate so the extremes blossomed
+Many law firms sponsor their own programs
 Additional Information: 
-('panel', 'for', 'debate')
+('program', 'On screen', 'laptop computer')

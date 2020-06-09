@@ -1,7 +1,4 @@
 Original Sentence: 
-Bush administration officials say inflation is under control
+Other terms to be fixed Nov. 1
 Additional Information: 
-('official', 'STANDING BEHIND', 'court')
-('official', 'tennis')
-('control', 'ON', 'desk')
-('control', 'remote')
+('term', 'house of david')

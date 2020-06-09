@@ -1,9 +1,4 @@
 Original Sentence: 
-The interviews took place two years ago
+Outside I spotted two young men lugging blocks of concrete
 Additional Information: 
-('interview', 'IN', 'background')
-('interview', 'media')
-('place', 'made of', 'wood')
-('place', 'full')
-('year', 'ON', 'photograph')
-('year', 'white')
+('block', 'cement')

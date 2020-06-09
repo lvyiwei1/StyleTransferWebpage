@@ -1,5 +1,4 @@
 Original Sentence: 
-They stroll through the marble-encased corridors of the Atrium Court
+Volume totaled 8,930,000 shares
 Additional Information: 
-('corridor', 'has', 'floor')
-('corridor', 'long')
+('volume', 'ON', 'headphones')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Now there are many cars for every purse and purpose
+In the end politics got in the way
 Additional Information: 
-('car', 'has', 'side mirror')
-('car', 'parked')
-('purse', 'ON', 'shoulder')
-('purse', 'black')
+('way', 'walk')

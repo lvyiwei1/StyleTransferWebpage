@@ -1,5 +1,4 @@
 Original Sentence: 
-The failed bank had assets of about 129.6 million
+The dam caused the water level to drop in Zalubice
 Additional Information: 
-('bank', 'sponsoring', 'clock')
-('bank', 'grassy')
+('level', 'upper')

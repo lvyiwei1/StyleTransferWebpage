@@ -1,5 +1,4 @@
 Original Sentence: 
-Corporate planners can plan again
+Housing Developers Try Brand-Name Buildings
 Additional Information: 
-('planner', 'on top of', 'table')
-('planner', 'black')
+('housing', 'inside of', 'picture')

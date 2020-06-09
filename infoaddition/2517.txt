@@ -1,0 +1,4 @@
+Original Sentence: 
+It was only a matter of time
+Additional Information: 
+('time', 'displayed')

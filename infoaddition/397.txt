@@ -1,6 +1,4 @@
 Original Sentence: 
-Bond prices rallied
+On some days the Nucor plant does n't produce anything
 Additional Information: 
-('bond', 'black ')
-('price', 'ON', 'sign')
-('price', 'written')
+('day', 'sunny')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Construction is set to begin in early 1991
+That means huge travel bills
 Additional Information: 
-('construction', 'by', 'building')
-('construction', 'gate')
+('bill', 'orange')

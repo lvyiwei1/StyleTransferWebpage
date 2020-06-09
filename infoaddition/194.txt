@@ -1,4 +1,4 @@
 Original Sentence: 
-Expects to be fully operational early next week
+The heightened competition will hit IBM at a difficult time
 Additional Information: 
-('day', 'OF', 'week')
+('horse', 'jumpimg', 'competition')

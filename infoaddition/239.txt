@@ -1,5 +1,4 @@
 Original Sentence: 
-They looked at the miniature and saw a giant folly
+Smaller projects swell the figure to at least 2.5 billion
 Additional Information: 
-('miniature', 'rocking', 'chair')
-('miniature', 'manmade')
+('project', 'sewing')

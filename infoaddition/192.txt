@@ -1,5 +1,4 @@
 Original Sentence: 
-Sound stages echo
+But says Mr. Bock It was a close call
 Additional Information: 
-('stage', 'behind', 'children')
-('stage', 'black')
+('umpire', 'to make', 'call')

@@ -1,5 +1,4 @@
 Original Sentence: 
-As a result the company has suspended its quarterly dividend
+People wonder what 's going to happen next
 Additional Information: 
-('company', 'ON', 'building')
-('company', 'name')
+('people', 'standing')

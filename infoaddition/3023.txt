@@ -1,0 +1,4 @@
+Original Sentence: 
+Earnings of female workers were unchanged
+Additional Information: 
+('worker', 'ON', 'ground')

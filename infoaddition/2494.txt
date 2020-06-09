@@ -1,0 +1,4 @@
+Original Sentence: 
+Not all the scandal-tripped have enjoyed soft landings
+Additional Information: 
+('landing', 'gear and its', 'assembly')

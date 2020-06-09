@@ -1,5 +1,4 @@
 Original Sentence: 
-Computer-generated videos help
+Productivity in Japanese offices is relatively low
 Additional Information: 
-('video', 'playing on', 'television')
-('video', 'halfway')
+('office', 'small')

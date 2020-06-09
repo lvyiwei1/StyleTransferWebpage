@@ -1,0 +1,4 @@
+Original Sentence: 
+The numbers were adjusted for usual seasonal fluctuations
+Additional Information: 
+('number', 'ON', 'sign')

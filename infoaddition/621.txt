@@ -1,9 +1,4 @@
 Original Sentence: 
-They currently have large orders for cargo planes
+So does Mr. Friend and his law partner Nick Nichols
 Additional Information: 
-('order', 'OF', 'french fries')
-('order', 'ready')
-('cargo', 'ON', 'ground')
-('cargo', 'white')
-('plane', 'ON', 'runway')
-('plane', 'white')
+('partner', 'playing on', 'tennis court')

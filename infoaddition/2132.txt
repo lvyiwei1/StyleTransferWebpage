@@ -1,0 +1,4 @@
+Original Sentence: 
+Interest will be paid semi-annually
+Additional Information: 
+('people', 'showing', 'interest')

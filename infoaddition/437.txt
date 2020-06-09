@@ -1,5 +1,4 @@
 Original Sentence: 
-Local bankers and accountants help applicants fill out forms
+Others analyze the data
 Additional Information: 
-('form', 'ON', 'table top')
-('form', 'white')
+('data', 'green')

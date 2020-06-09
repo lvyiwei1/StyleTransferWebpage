@@ -1,0 +1,4 @@
+Original Sentence: 
+The FCC took three specific actions regarding AT&T
+Additional Information: 
+('action', 'MLB')

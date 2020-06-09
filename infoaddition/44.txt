@@ -1,5 +1,4 @@
 Original Sentence: 
-I 'm done in two minutes
+Two segments posted lower earnings for the quarter
 Additional Information: 
-('minute', 'hand on', 'clock')
-('minute', 'black')
+('quarter', 'lying on', 'shelf')

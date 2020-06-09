@@ -1,5 +1,4 @@
 Original Sentence: 
-But the man who built it has fallen
+Security costs are also quite high
 Additional Information: 
-('man', 'behind', 'plane')
-('man', 'standing')
+('security', 'standing')

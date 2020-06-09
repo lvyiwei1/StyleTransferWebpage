@@ -1,9 +1,4 @@
 Original Sentence: 
-Officials expect difficulty routing traffic through downtown San Francisco
+Neither disclosed details pending board meetings next month
 Additional Information: 
-('official', 'for', 'tennis')
-('official', 'tennis')
-('traffic', 'signal light', 'is green')
-('traffic', 'heavy')
-('downtown', 'city', 'street')
-('downtown', 'fancy')
+('month', 'around', 'face')

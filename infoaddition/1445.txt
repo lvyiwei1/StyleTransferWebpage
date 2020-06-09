@@ -1,0 +1,4 @@
+Original Sentence: 
+Critics also say American companies charge too much
+Additional Information: 
+('company', 'name')

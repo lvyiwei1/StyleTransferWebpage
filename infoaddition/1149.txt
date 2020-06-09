@@ -1,5 +1,4 @@
 Original Sentence: 
-On second thought make that just mom
+Lethal Weapon II was also a big hit
 Additional Information: 
-('mom', 'helping', 'cook')
-('mom', 'spray painted')
+('ball', 'being', 'hit')

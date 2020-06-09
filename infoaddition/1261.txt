@@ -1,6 +1,4 @@
 Original Sentence: 
-We had a lot of problems Mr. Sinyard says
+He 's a rare Democratic hawk
 Additional Information: 
-('lot', 'behind', 'players')
-('lot', 'parking')
-('plane', 'has', 'problem')
+('hawk', 'brown')

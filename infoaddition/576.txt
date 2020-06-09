@@ -1,6 +1,4 @@
 Original Sentence: 
-Trading volume was a moderately heavy 3.1 million shares
+Most people ca n't even remember his name
 Additional Information: 
-('red t', 'IN', 'trading')
-('volume', 'ON', 'headphones')
-('volume', '3')
+('name', 'white')

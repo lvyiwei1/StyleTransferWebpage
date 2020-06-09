@@ -1,0 +1,4 @@
+Original Sentence: 
+The suit seeks unspecified damages
+Additional Information: 
+('damage', 'on a', 'wall')

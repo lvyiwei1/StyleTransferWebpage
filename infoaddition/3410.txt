@@ -1,0 +1,4 @@
+Original Sentence: 
+Both moves are effective today
+Additional Information: 
+('sign', 'reads', 'today')

@@ -1,0 +1,4 @@
+Original Sentence: 
+And plays
+Additional Information: 
+('coaches', 'watching', 'play')

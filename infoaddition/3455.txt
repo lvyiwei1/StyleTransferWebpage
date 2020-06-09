@@ -1,0 +1,4 @@
+Original Sentence: 
+Put these together and you get programs about rape
+Additional Information: 
+('program', 'wedding')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Their powerful members manage them
+Chemical Securities Inc. is acting as agent for the seller
 Additional Information: 
-('member', 'watching', 'game')
-('member', 'several')
+('agent', 'at', 'airport')

@@ -1,0 +1,4 @@
+Original Sentence: 
+We got some exposure and pretty much good will
+Additional Information: 
+('will', 'white')

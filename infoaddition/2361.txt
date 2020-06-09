@@ -1,0 +1,4 @@
+Original Sentence: 
+Suddenly after about 45 minutes the U.S. markets rallied
+Additional Information: 
+('minute', 'black')

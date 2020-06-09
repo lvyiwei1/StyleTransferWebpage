@@ -1,0 +1,4 @@
+Original Sentence: 
+New York Stock Exchange volume swelled to 198,120,000 shares
+Additional Information: 
+('volume', '3')

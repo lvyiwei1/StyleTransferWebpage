@@ -1,7 +1,4 @@
 Original Sentence: 
-In five minutes the Dow industrials climbed almost 30 points
+The market was caught totally the wrong way
 Additional Information: 
-('minute', 'hand on', 'clock')
-('minute', 'black')
-('point', 'IN', 'snow')
-('point', 'sharp')
+('market', 'has', 'oranges')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Digital 's new line has been a long time coming
+Other details were n't available
 Additional Information: 
-('line', 'ON', 'board')
-('line', 'white')
-('time', 'ON', 'clock')
-('time', 'displayed')
+('detail', 'red')

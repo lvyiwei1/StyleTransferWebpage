@@ -1,5 +1,4 @@
 Original Sentence: 
-Upgrades to bigger models also will be costlier
+Winners outnumbered losers 645-293 with 186 issues unchanged
 Additional Information: 
-('model', 'denture teaching', 'aide')
-('model', 'red')
+('winner', 'standing on', 'box')

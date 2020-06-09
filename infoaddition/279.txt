@@ -1,5 +1,4 @@
 Original Sentence: 
-John R. Wilke contribued to this article
+The companies hope for a final agreement by year-end
 Additional Information: 
-('article', 'IN', 'magazine')
-('article', 'newspaper')
+('company', 'name')

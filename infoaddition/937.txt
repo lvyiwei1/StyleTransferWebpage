@@ -1,5 +1,4 @@
 Original Sentence: 
-Estimated volume was a moderate 3.5 million ounces
+My vision is to change human consciousness towards touch
 Additional Information: 
-('volume', 'ON', 'keyboard')
-('volume', '3')
+('vision', 'of fence', 'blurred')

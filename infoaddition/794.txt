@@ -1,6 +1,4 @@
 Original Sentence: 
-d Percentage change is greater than 999 %
+Accepted bids ranged from 8.328 % to 8.347 %
 Additional Information: 
-('coupon', 'has', 'percentage')
-('change', 'ON', 'red')
-('change', 'loose')
+('bid', 'metal')

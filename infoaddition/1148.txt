@@ -1,7 +1,4 @@
 Original Sentence: 
-With that authority of course goes an unambiguous accountability
+Their problem is one of inefficiency of an industrial economy
 Additional Information: 
-('authority', 'ON', 'building')
-('authority', 'brass')
-('course', 'with', 'bunker')
-('course', 'green')
+('economy', 'ON', 'train')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Tandem 's pricing is just as aggressive
+Sales were 348.2 million compared with 307.2 a year earlier
 Additional Information: 
-('sign', 'has', 'pricing')
-('pricing', 'hand written')
+('sale', 'ON', 'window')

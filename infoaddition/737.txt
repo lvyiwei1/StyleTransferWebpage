@@ -1,5 +1,4 @@
 Original Sentence: 
-I would n't say we 're out of the business
+He dedicated all these new forces to the Persian Gulf
 Additional Information: 
-('business', 'name', 'lab')
-('business', 'here')
+('force', 'black')

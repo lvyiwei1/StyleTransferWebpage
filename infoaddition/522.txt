@@ -1,7 +1,4 @@
 Original Sentence: 
-His hands sit farther apart on the keyboard
+Other companies figure they ca n't avoid the market
 Additional Information: 
-('hand', 'OF', 'he')
-('hand', 'black')
-('keyboard', 'with', 'keys')
-('keyboard', 'black')
+('market', 'OF', 'cucumbers')

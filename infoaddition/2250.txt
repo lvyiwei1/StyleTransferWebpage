@@ -1,0 +1,4 @@
+Original Sentence: 
+Both men were also relieved of their duties yesterday
+Additional Information: 
+('men', 'ON', 'water')

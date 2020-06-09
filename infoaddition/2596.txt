@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Morishita considers himself a connoisseur of art
+Additional Information: 
+('art', 'drawn on', 'wall')

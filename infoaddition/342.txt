@@ -1,7 +1,4 @@
 Original Sentence: 
-People in Glass houses tend to look stoned
+American Express card charge volume rose 12 %
 Additional Information: 
-('people', 'ON', 'bleachers')
-('people', 'standing')
-('house', 'with', 'windows')
-('house', 'white')
+('card', 'on', 'tabletop')

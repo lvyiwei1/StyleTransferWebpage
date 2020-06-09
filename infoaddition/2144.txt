@@ -1,0 +1,4 @@
+Original Sentence: 
+That is gilding the lily
+Additional Information: 
+('gilding', 'gold')

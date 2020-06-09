@@ -1,5 +1,4 @@
 Original Sentence: 
-I want to publish one that succeeds said Mr. Lang
+Here are two cases to illustrate
 Additional Information: 
-('one', 'blue', 'plate')
-('one', 'white')
+('case', 'black')

@@ -1,0 +1,4 @@
+Original Sentence: 
+In Chicago for example size is the issue
+Additional Information: 
+('size', 'ON', 'shirt')

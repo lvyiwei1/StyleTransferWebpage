@@ -1,0 +1,4 @@
+Original Sentence: 
+South African gold stocks closed firmer
+Additional Information: 
+('stock', 'green')

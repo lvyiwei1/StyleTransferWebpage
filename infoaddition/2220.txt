@@ -1,0 +1,4 @@
+Original Sentence: 
+We ca n't lose sight of that
+Additional Information: 
+('train', 'IN', 'sight')

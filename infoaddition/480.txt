@@ -1,5 +1,4 @@
 Original Sentence: 
-It has some of the highest costs in the league
+Sales rose 14 % to 715 million from 625.4 million
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
-('league', 'baseball', 'logo')
+('sale', 'at', 'company')

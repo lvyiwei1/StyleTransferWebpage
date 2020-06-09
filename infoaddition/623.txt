@@ -1,5 +1,4 @@
 Original Sentence: 
-In last week 's House vote 41 Republicans defected
+Three gambling casinos have opened in Poland
 Additional Information: 
-('day', 'OF', 'week')
-('vote', 'written on', 'sign')
+('casino', 'bright')

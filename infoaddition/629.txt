@@ -1,5 +1,4 @@
 Original Sentence: 
-Clearly the central figure in this process is Egon Krenz
+They looked at the miniature and saw a giant folly
 Additional Information: 
-('figure', 'ON', 'clock')
-('figure', 'green')
+('miniature', 'manmade')

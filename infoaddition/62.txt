@@ -1,5 +1,4 @@
 Original Sentence: 
-Craig Forman in London contributed to this article
+The turnover in both issues was roughly normal
 Additional Information: 
-('article', 'ON', 'screen')
-('article', 'newspaper')
+('turnover', 'apple')

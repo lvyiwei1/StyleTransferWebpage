@@ -1,7 +1,4 @@
 Original Sentence: 
-Ohbayashi is Japan 's second largest construction company
+Piping in a waste-treatment plant needed immediate repairs
 Additional Information: 
-('construction', 'ON', 'building')
-('construction', 'gate')
-('company', 'at', 'bottom')
-('company', 'name')
+('repair', 'reconstruction')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Cable & Wireless PLC of Britain won the other license
+Additional Information: 
+('license', 'of front', 'bus')

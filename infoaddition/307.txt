@@ -1,5 +1,4 @@
 Original Sentence: 
-The company paid five cents a share in April
+By this month it had more than doubled
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
+('month', 'around', 'face')

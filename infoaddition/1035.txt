@@ -1,7 +1,4 @@
 Original Sentence: 
-It will trade over the counter under the symbol CRAY
+The daily volume for Treasury Securities is about 110 billion
 Additional Information: 
-('counter', 'IN', 'bathroom')
-('counter', 'white')
-('symbol', 'ON', 'sign')
-('symbol', 'white')
+('volume', 'ON', 'keyboard')

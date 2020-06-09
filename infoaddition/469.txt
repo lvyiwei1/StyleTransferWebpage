@@ -1,5 +1,4 @@
 Original Sentence: 
-The interview did not touch on Singapore 's domestic affairs
+As a critique of middle-class mores the story is heavy-handed
 Additional Information: 
-('interview', 'IN', 'background')
-('interview', 'media')
+('more', 'OF', 'table')

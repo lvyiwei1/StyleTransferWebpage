@@ -1,5 +1,4 @@
 Original Sentence: 
-Citicorp posted a 9 % drop in quarterly profit
+He had been vice president in that office
 Additional Information: 
-('drop', 'ON', 'plate')
-('drop', 'water')
+('office', 'seen', 'here')

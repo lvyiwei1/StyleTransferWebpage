@@ -1,11 +1,4 @@
 Original Sentence: 
-Preparedness involves more than flashlights and fire alarms these days
+Sun also reported a record backlog of orders
 Additional Information: 
-('flashlight', 'on top of', 'bed')
-('flashlight', 'black')
-('fire', 'on', 'crosswalk')
-('fire', 'orange')
-('alarm', 'on a', 'tile wall')
-('alarm', 'red')
-('day', 'with', 'tower')
-('day', 'sunny')
+('record', 'sitting on', 'record player')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Wilfred closed its Massachusetts schools earlier this year
+Interest rates barely budged from Tuesday 's levels
 Additional Information: 
-('school', 'ON', 'grass')
-('school', 'word')
-('year', 'ON', 'side')
-('year', 'white')
+('people', 'showing', 'interest')

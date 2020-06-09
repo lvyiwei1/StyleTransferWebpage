@@ -1,7 +1,4 @@
 Original Sentence: 
-Either one likes it or one does n't
+In other words Get rid of all the pictures
 Additional Information: 
-('one', 'man', 'talking')
-('one', 'white')
-('one', 'slice', 'pizza')
-('one', 'white')
+('word', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Nursing Home Patients Apt to Be Private Payers
+Additional Information: 
+('payer', 'dressed')

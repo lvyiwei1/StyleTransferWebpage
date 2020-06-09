@@ -1,4 +1,4 @@
 Original Sentence: 
-It is a knock-out battle perhaps to the death
+She did n't have hot water for five days
 Additional Information: 
-('battle', 'close')
+('water', 'falling from', 'umbrella')

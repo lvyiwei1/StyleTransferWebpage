@@ -1,4 +1,4 @@
 Original Sentence: 
-That wo n't be an easy task
+The envelope arrives in the mail
 Additional Information: 
-('eye', 'concentrating on', 'task')
+('mail', 'ON', 'table')

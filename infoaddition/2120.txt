@@ -1,0 +1,4 @@
+Original Sentence: 
+They both called it a welcome home gathering
+Additional Information: 
+('gathering', 'social')

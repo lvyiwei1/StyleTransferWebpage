@@ -1,7 +1,4 @@
 Original Sentence: 
-For one thing Digital Maynard Mass. has sold fewer machines
+Sales rose 14 % to 715 million from 625.4 million
 Additional Information: 
-('thing', 'under', 'airplane')
-('thing', 'black')
-('machine', 'ON', 'desk')
-('machine', 'white')
+('sale', 'red')

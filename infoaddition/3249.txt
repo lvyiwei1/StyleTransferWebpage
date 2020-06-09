@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Ehrlich will continue as a director and a consultant
+Additional Information: 
+('vest', 'ON', 'director')

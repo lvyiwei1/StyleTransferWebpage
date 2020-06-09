@@ -1,0 +1,4 @@
+Original Sentence: 
+Most dealers can not continue to absorb this supply
+Additional Information: 
+('dealer', 'female')

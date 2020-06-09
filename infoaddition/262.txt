@@ -1,5 +1,4 @@
 Original Sentence: 
-The shift wo n't affect operations
+It was considered South Africa 's largest opposition rally
 Additional Information: 
-('shift', 'ON', 'keyboard')
-('shift', 'black')
+('man', 'IN', 'rally')

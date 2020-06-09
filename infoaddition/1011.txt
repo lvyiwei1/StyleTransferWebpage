@@ -1,5 +1,4 @@
 Original Sentence: 
-Tendered shares not purchased will be returned to holders
+But we had a fairly active day yesterday
 Additional Information: 
-('holder', 'ON', 'shoe')
-('holder', 'silver')
+('day', 'bright and sunny', 'day')

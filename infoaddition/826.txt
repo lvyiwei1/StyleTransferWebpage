@@ -1,5 +1,4 @@
 Original Sentence: 
-The centers normally are closed through the weekend
+Third they offer high yields
 Additional Information: 
-('center', 'OF', 'flower')
-('center', 'yellow')
+('yield', 'on', 'sign')

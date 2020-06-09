@@ -1,0 +1,4 @@
+Original Sentence: 
+Hanson is a London producer of consumer and other goods
+Additional Information: 
+('good', 'on a', 'buffet')

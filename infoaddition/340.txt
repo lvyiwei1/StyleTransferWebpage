@@ -1,5 +1,4 @@
 Original Sentence: 
-CLUBBING A FAN was n't the Baltimore Orioles ' fault
+A simultaneous announcement was made in Moscow
 Additional Information: 
-('fan', 'IN', 'green shirt')
-('fan', 'white')
+('announcement', 'ON', 'table')

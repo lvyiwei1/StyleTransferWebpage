@@ -1,0 +1,4 @@
+Original Sentence: 
+Community involvement is an even worse idea
+Additional Information: 
+('community', 'ON', 'water')

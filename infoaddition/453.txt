@@ -1,5 +1,4 @@
 Original Sentence: 
-A three is 10 times 10 again and so on
+Jacobs Engineering officials could n't be reached for comment
 Additional Information: 
-('time', 'ON', 'laptop')
-('time', 'displayed')
+('official', 'tennis')

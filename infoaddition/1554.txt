@@ -1,0 +1,4 @@
+Original Sentence: 
+The city could lose some of its entrepreneurial flavor
+Additional Information: 
+('city', 'large')

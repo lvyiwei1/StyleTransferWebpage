@@ -1,0 +1,4 @@
+Original Sentence: 
+Comparable store sales for the quarter were up 7.3 %
+Additional Information: 
+('quarter', 'silver')

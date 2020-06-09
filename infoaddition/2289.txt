@@ -1,0 +1,4 @@
+Original Sentence: 
+NBC 's winning streak has been canceled
+Additional Information: 
+('streak', 'IN', 'sky')

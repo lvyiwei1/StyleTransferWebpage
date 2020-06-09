@@ -1,5 +1,4 @@
 Original Sentence: 
-Second-tier companies are receiving even less per ton
+Copper futures prices failed to extend Friday 's rally
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
+('copper', 'vase')

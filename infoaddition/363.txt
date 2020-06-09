@@ -1,5 +1,4 @@
 Original Sentence: 
-This is a very tenacious ghost Mr. Warren says darkly
+It did n't provide details of setup costs
 Additional Information: 
-('ghost', 'ON', 'shirt')
-('ghost', 'red')
+('detail', 'over', 'door')

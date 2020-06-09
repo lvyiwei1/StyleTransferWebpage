@@ -1,0 +1,4 @@
+Original Sentence: 
+Coors with its large beer-distribution network could penetrate more markets
+Additional Information: 
+('market', 'has', 'fruit')

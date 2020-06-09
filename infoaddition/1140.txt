@@ -1,5 +1,4 @@
 Original Sentence: 
-The 833.6 million figures includes the new acquisitions
+PRODUCTS DON'T have to be first to be winners
 Additional Information: 
-('figure', 'ON', 'cake')
-('figure', 'green')
+('product', 'bathroom')

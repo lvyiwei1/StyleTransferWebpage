@@ -1,0 +1,4 @@
+Original Sentence: 
+Her sister Cynthia wishes Toni had a different job
+Additional Information: 
+('sister', 'sitting')

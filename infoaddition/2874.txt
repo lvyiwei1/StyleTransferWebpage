@@ -1,0 +1,4 @@
+Original Sentence: 
+We do n't need cartoons anymore
+Additional Information: 
+('cartoon', 'ON', 'cabin door')

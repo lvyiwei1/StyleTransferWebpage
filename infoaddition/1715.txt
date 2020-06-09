@@ -1,0 +1,4 @@
+Original Sentence: 
+Bush administration officials say inflation is under control
+Additional Information: 
+('control', 'remote')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Looking ahead to commodity markets this week
+Additional Information: 
+('day', 'OF', 'week')

@@ -1,5 +1,4 @@
 Original Sentence: 
-An excellent environmental actor he is
+McCaw 's bid also has a similar clause
 Additional Information: 
-('actor', 'riding', 'horse')
-('actor', 'comedic')
+('bid', 'ON', 'shoulder')

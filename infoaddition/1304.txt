@@ -1,7 +1,4 @@
 Original Sentence: 
-Over the next few years I would advise caution
+Bond prices fell after the Chicago report was released
 Additional Information: 
-('year', 'ON', 'bench')
-('year', 'white')
-('caution', 'sign at a skate', 'park')
-('caution', 'written')
+('price', 'written')

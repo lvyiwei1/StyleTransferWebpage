@@ -1,5 +1,4 @@
 Original Sentence: 
-But the company declines to comment
+But it 's in very early stages still
 Additional Information: 
-('company', 'ON', 'lorry')
-('company', 'name')
+('stage', 'black')

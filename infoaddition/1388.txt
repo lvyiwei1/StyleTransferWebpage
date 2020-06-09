@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Gale is an assistant professor of economics at UCLA
+Additional Information: 
+('professor', 'napping')

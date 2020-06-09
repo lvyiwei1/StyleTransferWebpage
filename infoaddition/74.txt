@@ -1,5 +1,4 @@
 Original Sentence: 
-The ventilation here is great
+The entire division employs about 850 workers
 Additional Information: 
-('ventilation', 'ON', 'wall')
-('ventilation', 'black')
+('worker', 'IN', 'snow.')

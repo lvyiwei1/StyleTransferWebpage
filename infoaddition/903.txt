@@ -1,5 +1,4 @@
 Original Sentence: 
-This deal is like a Roach Motel he said
+Sun also reported a record backlog of orders
 Additional Information: 
-('deal', 'OF', 'bananas')
-('deal', 'great')
+('order', 'OF', 'french fries')

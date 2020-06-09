@@ -1,5 +1,4 @@
 Original Sentence: 
-But we had a fairly active day yesterday
+Jewelry Makers Copy Cosmetics Sales Ploys
 Additional Information: 
-('day', 'bright and sunny', 'day')
-('day', 'sunny')
+('maker', 'coffee')

@@ -1,6 +1,4 @@
 Original Sentence: 
-The market 's pessimism reflects the gloomy outlook in Detroit
+In peak periods that load may include 4,000 pieces
 Additional Information: 
-('market', 'for sale at', 'market')
-('market', 'outdoor')
-('outlook', 'ON', 'building')
+('peak', 'at top of', 'mountain')

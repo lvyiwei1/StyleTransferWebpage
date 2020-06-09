@@ -1,7 +1,4 @@
 Original Sentence: 
-The market was caught totally the wrong way
+Analysts and competitors however doubt the numbers were that high
 Additional Information: 
-('market', 'has', 'oranges')
-('market', 'outdoor')
-('way', 'scrapped on', 'bus')
-('way', 'walk')
+('competitor', 'here')

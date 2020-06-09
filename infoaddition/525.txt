@@ -1,9 +1,4 @@
 Original Sentence: 
-The company could command a good price in the market
+We have no in-office business
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
-('price', 'for', 'peppers')
-('price', 'written')
-('market', 'has', 'food')
-('market', 'outdoor')
+('business', 'here')

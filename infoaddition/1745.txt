@@ -1,0 +1,4 @@
+Original Sentence: 
+Money helped too
+Additional Information: 
+('money', 'ON', 'floor')

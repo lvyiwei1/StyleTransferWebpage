@@ -1,4 +1,4 @@
 Original Sentence: 
-But the problem clearly is widespread and persistent
+Public TV is in fantasy land he said
 Additional Information: 
-('plane', 'has', 'problem')
+('land', 'behind', 'water')

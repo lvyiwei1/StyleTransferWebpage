@@ -1,7 +1,4 @@
 Original Sentence: 
-Artists and draftsmen need harder leads
+Some have raised their cash positions to record levels
 Additional Information: 
-('artist', 'signature', 'tag')
-('artist', 'painting')
-('lead', 'ON', 'plant')
-('lead', 'green')
+('cash', 'Two round pieces  ')

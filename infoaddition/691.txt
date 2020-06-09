@@ -1,7 +1,4 @@
 Original Sentence: 
-Health-care companies should get healthier in the third quarter
+The supply of experienced civil engineers though is tighter
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
-('quarter', 'lying on', 'shelf')
-('quarter', 'silver')
+('supply', 'ON', 'table')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Dollar 141.65 yen off 0.45 1.8300 marks off 0.0100
+Additional Information: 
+('dollar', 'ON', 'table')

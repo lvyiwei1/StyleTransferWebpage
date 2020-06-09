@@ -1,0 +1,4 @@
+Original Sentence: 
+The painting is 10 feet wide seven feet high
+Additional Information: 
+('painting', 'framed')

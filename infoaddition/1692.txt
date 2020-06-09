@@ -1,0 +1,4 @@
+Original Sentence: 
+That will spur Tandem 's growth
+Additional Information: 
+('growth', 'IN', 'field')

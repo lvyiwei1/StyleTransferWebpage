@@ -1,5 +1,4 @@
 Original Sentence: 
-Still Mrs. Thatcher had once again gone against the grain
+Completion of the project is expected by mid-1992
 Additional Information: 
-('grain', 'ON', 'half')
-('grain', 'wood')
+('project', 'sewing')

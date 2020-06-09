@@ -1,0 +1,4 @@
+Original Sentence: 
+But the ballplayers disagree
+Additional Information: 
+('ballplayer', 'WEARING', 't-shirt')

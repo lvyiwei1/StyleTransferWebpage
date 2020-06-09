@@ -1,0 +1,4 @@
+Original Sentence: 
+Most are anchored by a K mart store
+Additional Information: 
+('store', 'red')

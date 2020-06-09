@@ -1,0 +1,4 @@
+Original Sentence: 
+Most other states have enacted similar bans
+Additional Information: 
+('table', 'has', 'ban')

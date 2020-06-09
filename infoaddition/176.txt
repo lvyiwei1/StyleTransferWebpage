@@ -1,8 +1,4 @@
 Original Sentence: 
-BAY AREA COMMUTERS BATTLED earthquake-related transportation snarls
+The program traders were in there too of course
 Additional Information: 
-('area', 'by', 'display stand')
-('area', 'grassy')
-('commuter', 'train letting passengers', 'off')
-('sign', 'directing people to another source of', 'transportation')
-('transportation', 'public')
+('course', 'with', 'bunker')

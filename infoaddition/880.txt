@@ -1,5 +1,4 @@
 Original Sentence: 
-James A. White contributed to this article
+He had been vice president in that office
 Additional Information: 
-('article', 'OF', 'clothing')
-('article', 'newspaper')
+('office', 'small')

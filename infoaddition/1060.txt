@@ -1,6 +1,4 @@
 Original Sentence: 
-The coin is their problem
+People hate to write he says
 Additional Information: 
-('coin', 'on a', 'table')
-('coin', 'gold')
-('plane', 'has', 'problem')
+('people', 'standing')

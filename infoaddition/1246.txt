@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales were 12 billion off 13 % from 13.8 billion
+Prices of high-yield high-risk corporate securities ended unchanged
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('security', 'standing')

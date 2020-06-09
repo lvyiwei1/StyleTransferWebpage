@@ -1,7 +1,4 @@
 Original Sentence: 
-The company sells image
+The hotel is scheduled to open in 1992
 Additional Information: 
-('company', 'OF', 'train')
-('company', 'name')
-('image', 'ON', 'glass')
-('image', 'white')
+('hotel', 'has', 'balcony')

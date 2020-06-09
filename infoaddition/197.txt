@@ -1,5 +1,4 @@
 Original Sentence: 
-We have no in-office business
+The heightened competition will hit IBM at a difficult time
 Additional Information: 
-('business', 'name', 'lab')
-('business', 'here')
+('time', 'displayed')

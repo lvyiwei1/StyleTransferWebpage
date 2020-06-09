@@ -1,7 +1,4 @@
 Original Sentence: 
-But quite a few money managers are n't buying it
+Some foodstuff shipments will probably resume Thursday he said
 Additional Information: 
-('money', 'IN', 'hand')
-('money', 'paper')
-('manager', 'sitting in', 'dugout')
-('manager', 'overlooking action')
+('shipment', 'ON', 'truck')

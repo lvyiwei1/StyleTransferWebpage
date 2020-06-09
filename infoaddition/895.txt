@@ -1,9 +1,4 @@
 Original Sentence: 
-In some cases competition has squeezed margins
+I refer essentially to petroleum electric power banking and newsprint
 Additional Information: 
-('case', 'HOUSING THE', 'pizza')
-('case', 'black')
-('man', 'watching', 'competition')
-('competition', 'horse')
-('margin', 'separating', 'photo')
-('margin', 'thick')
+('power', 'on')

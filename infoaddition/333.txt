@@ -1,5 +1,4 @@
 Original Sentence: 
-But Middle East supplies were growing in importance
+Some have raised their cash positions to record levels
 Additional Information: 
-('supply', 'on', 'table')
-('supply', 'all')
+('level', 'ON', 'bus')

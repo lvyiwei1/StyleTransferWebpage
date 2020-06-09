@@ -1,0 +1,4 @@
+Original Sentence: 
+The cafeteria remains closed
+Additional Information: 
+('cafeteria', 'filled with', 'girl')

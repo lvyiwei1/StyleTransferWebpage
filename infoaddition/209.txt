@@ -1,5 +1,4 @@
 Original Sentence: 
-Things have grown worse since June 4 Mr. Lai says
+The key word in that paragraph though is may
 Additional Information: 
-('thing', 'ON', 'suitcase')
-('thing', 'black')
+('paragraph', 'the last one')

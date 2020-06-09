@@ -1,0 +1,4 @@
+Original Sentence: 
+Size and weight considerations also have limited screen displays
+Additional Information: 
+('screen', 'on')

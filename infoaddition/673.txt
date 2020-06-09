@@ -1,7 +1,4 @@
 Original Sentence: 
-Most dealers can not continue to absorb this supply
+Long-term CDs declined just a fraction
 Additional Information: 
-('dealer', 'WEARING', 'glasses')
-('dealer', 'female')
-('supply', 'ON', 'table')
-('supply', 'all')
+('fraction', 'ON', 'border')

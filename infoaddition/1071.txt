@@ -1,4 +1,4 @@
 Original Sentence: 
-Some producers seem tentative about the technique squeamish even
+A man said he saw the upper rim undulate
 Additional Information: 
-('technique', 'for', 'hitting')
+('rim', 'silver')

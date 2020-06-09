@@ -1,5 +1,4 @@
 Original Sentence: 
-He intends to add to the litigation staff
+The company reported a big third-quarter loss on Thursday
 Additional Information: 
-('staff', 'IN', 'clothes')
-('staff', 'kitchen')
+('company', 'name')

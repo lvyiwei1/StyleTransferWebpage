@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Zafris thinks rates are heading down helping small companies
+The core rate is not really out of line
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
+('line', 'IN', 'court')

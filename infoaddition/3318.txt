@@ -1,0 +1,4 @@
+Original Sentence: 
+In national over-the-counter trading LIN closed at 104.75 down 2.75
+Additional Information: 
+('red t', 'IN', 'trading')

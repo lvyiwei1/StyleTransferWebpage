@@ -1,0 +1,4 @@
+Original Sentence: 
+In other words it was a better-than-average Manhattan commute
+Additional Information: 
+('word', 'white')

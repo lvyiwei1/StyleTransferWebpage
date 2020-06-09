@@ -1,0 +1,4 @@
+Original Sentence: 
+But when stocks held steady Treasury bonds later retreated
+Additional Information: 
+('stock', 'green')

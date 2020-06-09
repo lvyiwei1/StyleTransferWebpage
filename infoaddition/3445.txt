@@ -1,0 +1,4 @@
+Original Sentence: 
+A private farmer never wastes anything
+Additional Information: 
+('farmer', 'beside', 'body')

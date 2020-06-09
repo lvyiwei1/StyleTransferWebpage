@@ -1,7 +1,4 @@
 Original Sentence: 
-Dollar 141.65 yen off 0.45 1.8300 marks off 0.0100
+Magazine editors did not take the criticisms lying down
 Additional Information: 
-('dollar', 'ON', 'table')
-('dollar', 'twenty')
-('mark', 'ON', 'pavement')
-('mark', 'black')
+('magazine', 'ON', 'chair')

@@ -1,5 +1,4 @@
 Original Sentence: 
-People have been very respectful of each other
+Previously it had proposed seven years of 5.5 % increases
 Additional Information: 
-('people', 'ON', 'highway')
-('people', 'standing')
+('year', 'white')

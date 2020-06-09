@@ -1,5 +1,4 @@
 Original Sentence: 
-Ms. Parks 's mother also gets to cuff Mr. Alexander
+It also licenses optically based data storage and retrieval devices
 Additional Information: 
-('mother', 'carrying', 'baby')
-('mother', 'standing')
+('data', 'ON', 'monitor')

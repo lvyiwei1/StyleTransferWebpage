@@ -1,0 +1,4 @@
+Original Sentence: 
+An analyst cited weaker capital spending and exports
+Additional Information: 
+('capital', 'building in washington', 'dc')

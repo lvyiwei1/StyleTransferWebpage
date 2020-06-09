@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Dozen knows these problems firsthand
+That means huge travel bills
 Additional Information: 
-('plane', 'has', 'problem')
+('travel', 'guide', 'book')

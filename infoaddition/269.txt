@@ -1,5 +1,4 @@
 Original Sentence: 
-The cats are fine although nervous
+That was another reason the Street loved Santa Fe
 Additional Information: 
-('cat', 'sleeping on', 'window sill')
-('cat', 'black')
+('not', 'in mood right nowhold leg in air for no', 'reason')

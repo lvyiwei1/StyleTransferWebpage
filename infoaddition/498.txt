@@ -1,7 +1,4 @@
 Original Sentence: 
-SENIOR CITIZENS have long received cheap air fares
+But he warned the currency will remain at risk
 Additional Information: 
-('citizen', 'printed on', 'shirt')
-('air', 'ON', 'shadow')
-('air', 'mid')
-('sign', 'saying', 'fare')
+('currency', 'by', 'luggage')

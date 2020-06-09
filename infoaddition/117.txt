@@ -1,5 +1,4 @@
 Original Sentence: 
-Breeders are betting on the common folk
+I 'm done in two minutes
 Additional Information: 
-('breeder', 'with a', 'cow')
-('folk', 'gold')
+('minute', 'hand on', 'clock')

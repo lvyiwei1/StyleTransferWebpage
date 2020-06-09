@@ -1,5 +1,4 @@
 Original Sentence: 
-Who is going to carry the water
+The company would n't elaborate citing competitive reasons
 Additional Information: 
-('water', 'has', 'splashes')
-('water', 'blue')
+('company', 'name')

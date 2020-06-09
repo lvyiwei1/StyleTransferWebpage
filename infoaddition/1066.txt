@@ -1,9 +1,4 @@
 Original Sentence: 
-MANY AFFLUENT people place personal success and money above family
+Reagan Era Young Hold Liberal Views
 Additional Information: 
-('people', 'are far from', 'cap')
-('people', 'standing')
-('money', 'ON', 'table')
-('money', 'paper')
-('family', 'under', 'umbrella')
-('family', 'sitting')
+('view', 'of a', 'building')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The most likely winner will be the Marxist-dominated SWAPO rebels
+There are n't too many winners
 Additional Information: 
 ('winner', 'seen', 'left leg')
-('winner', '2nd place')

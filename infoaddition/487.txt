@@ -1,7 +1,4 @@
 Original Sentence: 
-The German stock index tumbled 26.29 to end at
+Japanese companies have a caveat competitor attitude
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('index', 'finger', 'cutting donut')
-('index', 'is a finger')
+('competitor', 'here')

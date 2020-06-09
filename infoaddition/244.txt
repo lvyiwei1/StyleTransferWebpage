@@ -1,5 +1,4 @@
 Original Sentence: 
-We are prepared to support those changes said Mr. Mosbacher
+THE IRS DELAYS several deadlines for Hugo 's victims
 Additional Information: 
-('change', 'ON', 'table')
-('change', 'loose')
+('racket', 'OF', 'victim')

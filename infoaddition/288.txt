@@ -1,7 +1,4 @@
 Original Sentence: 
-Now producers hope prices have hit bottom
+It also licenses optically based data storage and retrieval devices
 Additional Information: 
-('price', 'above', 'food')
-('price', 'written')
-('bottom', 'belonging to', 'airplane')
-('bottom', 'black')
+('device', 'electronic')

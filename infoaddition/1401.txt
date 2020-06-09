@@ -1,0 +1,4 @@
+Original Sentence: 
+But the new lens became the eye of a storm
+Additional Information: 
+('eye', 'OF', 'bear')

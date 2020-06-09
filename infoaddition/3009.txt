@@ -1,0 +1,4 @@
+Original Sentence: 
+And You Are There sort of
+Additional Information: 
+('sort', 'OF', 'tracks')

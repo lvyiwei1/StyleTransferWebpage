@@ -1,4 +1,4 @@
 Original Sentence: 
-Investors welcomed the move
+None of these chief executives were available for comment
 Additional Information: 
-('mechanism', 'makes it', 'move')
+('executive', 'in white')

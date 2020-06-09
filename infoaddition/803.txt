@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Goldberg is the sole general partner in Rose Partners
+In the end politics got in the way
 Additional Information: 
-('partner', 'playing on', 'tennis court')
+('letters', 'about', 'politics')

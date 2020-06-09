@@ -1,0 +1,4 @@
+Original Sentence: 
+Unlike 1987 interest rates have been falling this year
+Additional Information: 
+('year', 'ON', 'bench')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Everybody was still confident including most institutional investors
+That suit is pending
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
+('suit', 'ON', 'woman')

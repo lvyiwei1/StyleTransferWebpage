@@ -1,0 +1,4 @@
+Original Sentence: 
+The house just settled right down into the ground
+Additional Information: 
+('house', 'ON', 'hill')

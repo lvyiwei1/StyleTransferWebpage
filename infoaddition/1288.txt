@@ -1,5 +1,4 @@
 Original Sentence: 
-It will develop produce and market high-performance electronic parts
+I see it as a sewage treatment plant he says
 Additional Information: 
-('part', 'ON', 'zebra')
-('part', 'small')
+('plant', 'in a', 'pot')

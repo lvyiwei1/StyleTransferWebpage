@@ -1,0 +1,4 @@
+Original Sentence: 
+Bond prices were little changed in sluggish activity
+Additional Information: 
+('price', 'for', 'bananas')

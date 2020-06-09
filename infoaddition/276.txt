@@ -1,4 +1,4 @@
 Original Sentence: 
-The move is likely to anger traders
+Those portfolios are remarkably diversified
 Additional Information: 
-('mechanism', 'makes it', 'move')
+('portfolio', 'ON', 'desk')

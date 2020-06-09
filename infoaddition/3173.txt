@@ -1,0 +1,4 @@
+Original Sentence: 
+Many other factors played a part in yesterday 's comeback
+Additional Information: 
+('part', 'small')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The bank has a negative net worth they say
+It also licenses optically based data storage and retrieval devices
 Additional Information: 
-('bank', 'has', 'snow')
-('bank', 'grassy')
+('storage', 'underneath', 'oven')

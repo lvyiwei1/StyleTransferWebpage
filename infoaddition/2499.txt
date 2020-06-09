@@ -1,0 +1,4 @@
+Original Sentence: 
+The stock market reacted strongly to the news
+Additional Information: 
+('stock', 'green')

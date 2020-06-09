@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Patel also was placed on three years ' probation
+But by and large this company has only been profitable
 Additional Information: 
-('year', 'ON', 'side')
-('year', 'white')
+('company', 'name')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales dipped 3.6 % to 3.92 billion from 4.07 billion
+I wanted to be in business
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('business', 'sign on', 'building')

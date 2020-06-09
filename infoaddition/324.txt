@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms of the transaction were n't disclosed
+Seats currently are quoted at 400,000 bid 425,000 asked
 Additional Information: 
-('term', 'house of david')
+('bid', 'metal')

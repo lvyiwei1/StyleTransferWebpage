@@ -1,0 +1,4 @@
+Original Sentence: 
+The rest as they say is history
+Additional Information: 
+('rest', 'ON', 'couch')

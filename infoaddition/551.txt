@@ -1,5 +1,4 @@
 Original Sentence: 
-Bush and Deng are hoping that cooler heads prevail
+In Europe the dollar ended lower in dull trading
 Additional Information: 
-('head', 'OF', 'giraffe')
-('head', 'white')
+('red t', 'IN', 'trading')

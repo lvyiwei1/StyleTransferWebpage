@@ -1,0 +1,4 @@
+Original Sentence: 
+This means the returns can vary a great deal
+Additional Information: 
+('return', 'ON', 'street')

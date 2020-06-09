@@ -1,7 +1,4 @@
 Original Sentence: 
-In Chicago grain and soybean prices rose slightly
+Yet abortion-rights forces remain bitterly critical
 Additional Information: 
-('grain', 'ON', 'plate')
-('grain', 'wood')
-('price', 'for', 'nectarines')
-('price', 'written')
+('force', 'ON', 'plane')

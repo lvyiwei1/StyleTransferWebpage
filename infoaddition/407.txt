@@ -1,6 +1,4 @@
 Original Sentence: 
-TIMES SQUARE development opponents are dealt setback
+And the egg producers have done a pretty good job
 Additional Information: 
-('development', 'yellow')
-('opponent', 'wears', 'green')
-('opponent', 'standing')
+('egg', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The coin is their problem
+Additional Information: 
+('plane', 'has', 'problem')

@@ -1,5 +1,4 @@
 Original Sentence: 
-It was a jarring day for investors in Genetics Institute
+Soldiers and sailors are still measured in inches and pounds
 Additional Information: 
-('day', 'time', 'picture')
-('day', 'sunny')
+('soldier', 'lined up')

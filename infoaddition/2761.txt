@@ -1,0 +1,4 @@
+Original Sentence: 
+For employee and employer alike the worry is widespread
+Additional Information: 
+('employee', 'ON', 'ground')

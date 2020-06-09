@@ -1,4 +1,4 @@
 Original Sentence: 
-Creation of a new realistic U.S. policy is long overdue
+Any fool can publish a money-losing magazine
 Additional Information: 
-('creation', 'made', 'snow')
+('magazine', 'open')

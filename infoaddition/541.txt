@@ -1,5 +1,4 @@
 Original Sentence: 
-Other scandal survivors are sometimes the best source of solace
+Known as Easy Eggs the product has disappointed investors
 Additional Information: 
-('source', 'OF', 'water')
-('source', 'blue')
+('product', 'bathroom')

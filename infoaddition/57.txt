@@ -1,5 +1,4 @@
 Original Sentence: 
-But by and large this company has only been profitable
+In Chicago grain and soybean prices rose slightly
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
+('grain', 'ON', 'plate')

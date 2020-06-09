@@ -1,0 +1,4 @@
+Original Sentence: 
+There are no price wars no competition
+Additional Information: 
+('price', 'for', 'apple')

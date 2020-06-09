@@ -1,0 +1,4 @@
+Original Sentence: 
+Addison is no stranger to cans of worms either
+Additional Information: 
+('can', 'trash')

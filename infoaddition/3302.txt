@@ -1,0 +1,4 @@
+Original Sentence: 
+And the naczelnik shuts his door
+Additional Information: 
+('door', 'OF', 'oven')

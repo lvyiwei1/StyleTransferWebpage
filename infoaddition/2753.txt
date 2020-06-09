@@ -1,0 +1,4 @@
+Original Sentence: 
+And black-and-white photography classes are crowded with students
+Additional Information: 
+('class', 'OF', 'kids')

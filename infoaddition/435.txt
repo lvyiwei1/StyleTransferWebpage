@@ -1,4 +1,4 @@
 Original Sentence: 
-He begins his seven-year term Nov. 9 succeeding Kenan Evren
+Others analyze the data
 Additional Information: 
-('term', 'house of david')
+('others', 'three')

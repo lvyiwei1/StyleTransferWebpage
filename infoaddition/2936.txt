@@ -1,0 +1,4 @@
+Original Sentence: 
+Some couples continue to try
+Additional Information: 
+('couple', 'walking')

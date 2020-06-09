@@ -1,4 +1,4 @@
 Original Sentence: 
-The Senate did n't vote on six lesser charges
+His appointment expands the board to 13 members
 Additional Information: 
-('charge', 'can', 'charge')
+('board', 'white')

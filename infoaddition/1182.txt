@@ -1,5 +1,4 @@
 Original Sentence: 
-Every time he sees me he gets very nervous
+Essentially the critics of stock-index futures fall into two camps
 Additional Information: 
-('time', 'ON', 'clock')
-('time', 'displayed')
+('camp', 'green tented ')

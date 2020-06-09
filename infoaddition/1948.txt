@@ -1,0 +1,4 @@
+Original Sentence: 
+Most earn high ratings from credit agencies
+Additional Information: 
+('credit', 'for', 'image')

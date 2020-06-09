@@ -1,0 +1,4 @@
+Original Sentence: 
+In five minutes the Dow industrials climbed almost 30 points
+Additional Information: 
+('minute', 'hand on', 'clock')

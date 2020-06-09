@@ -1,6 +1,4 @@
 Original Sentence: 
-For that matter perhaps he fixed to the wrong currency
+It shows a boy hurling rocks at a street lamp
 Additional Information: 
-('matter', 'ON', 'grass')
-('matter', 'green')
-('currency', 'by', 'luggage')
+('lamp', 'has', 'shade')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Sales fell 1.2 % to 190.1 million from 192.5 million
+Additional Information: 
+('sale', 'at', 'company')

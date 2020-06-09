@@ -1,6 +1,4 @@
 Original Sentence: 
-All prices are as of Monday 's close
+Never in my life have I been so frightened
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
-('close', 'up view of an apple', 'tree')
+('life', 'printed')

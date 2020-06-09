@@ -1,6 +1,4 @@
 Original Sentence: 
-For now defense attorneys are tight-lipped about their plans
+The Treasury 's 30-year bond ended over 1\/4 point higher
 Additional Information: 
-('basketball player', 'playing', 'defense')
-('plan', 'ON', 'tarmac')
-('plan', 'air')
+('point', 'sharp')

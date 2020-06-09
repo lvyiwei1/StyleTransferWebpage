@@ -1,0 +1,4 @@
+Original Sentence: 
+Other trips were more productive
+Additional Information: 
+('man and women', 'going on', 'trip')

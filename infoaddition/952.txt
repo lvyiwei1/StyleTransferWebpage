@@ -1,5 +1,4 @@
 Original Sentence: 
-Increasingly the financial markets are reflecting the gloom
+The most important thing is that he have a chance
 Additional Information: 
-('market', 'IN', 'street')
-('market', 'outdoor')
+('thing', 'black')

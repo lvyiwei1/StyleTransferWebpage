@@ -1,5 +1,4 @@
 Original Sentence: 
-The timing for change was right
+This seems to be the season for revivals in Chicago
 Additional Information: 
-('change', 'ON', 'red')
-('change', 'loose')
+('season', 'fall')

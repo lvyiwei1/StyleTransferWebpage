@@ -1,0 +1,4 @@
+Original Sentence: 
+What does this mean for trade policy
+Additional Information: 
+('mean', 'WEARING', 'red shirt')

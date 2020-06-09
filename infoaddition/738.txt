@@ -1,4 +1,4 @@
 Original Sentence: 
-Georgia-Pacific closed down 2.50 at 50.875 in Big Board trading
+Ms. Parks 's mother also gets to cuff Mr. Alexander
 Additional Information: 
-('red t', 'IN', 'trading')
+('mother', 'carrying', 'baby')

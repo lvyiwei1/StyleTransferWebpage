@@ -1,0 +1,4 @@
+Original Sentence: 
+The report is to be released today
+Additional Information: 
+('report', 'ON', 'green paper')

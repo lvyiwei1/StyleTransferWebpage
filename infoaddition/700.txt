@@ -1,5 +1,4 @@
 Original Sentence: 
-This is a tough market
+They gleefully await the dream season in 1990
 Additional Information: 
-('market', 'has', 'fruit')
-('market', 'outdoor')
+('season', 'ON', 'stove')

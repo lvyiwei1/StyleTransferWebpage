@@ -1,0 +1,4 @@
+Original Sentence: 
+The company plans to be fully operational today
+Additional Information: 
+('company', 'made', 'snowboard')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The most likely winner will be the Marxist-dominated SWAPO rebels
+Additional Information: 
+('winner', 'seen', 'left leg')

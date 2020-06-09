@@ -1,0 +1,4 @@
+Original Sentence: 
+Debt-Burdened Doctors Seek Financial Security
+Additional Information: 
+('security', 'ON', 'wall')

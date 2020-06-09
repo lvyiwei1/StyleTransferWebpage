@@ -1,5 +1,4 @@
 Original Sentence: 
-They needed new crises to generate new grants and contracts
+That included capital gains that were passed along to customers
 Additional Information: 
-('sign', 'says', 'grant')
-('grant', 'typed 100 times!')
+('customer', 'waiting')

@@ -6,8 +6,8 @@ var idnumber = prompt("Please enter your assigned number", "1");
 
 <crowd-form>
     <script>
-        var idint = parseInt(idnumber) * 100 + 1;
-        for(i=0;i<100;i++){
+        var idint = parseInt(idnumber) * 200 + 1;
+        for(i=0;i<200;i++){
         var idi = idint + i;
         <!-- document.write("<div><object id=\"d"+i+"\" data=\"myfile.txt\"></object></div><script>document.getElementById(\"d"+i+"\").data = \"infoaddition/"+i+".txt\";</script><div>Your Answer:</div><crowd-text-area name="+idi+"></crowd-text-area>"); -->
         document.write("<div>____________</div><div><object id=\"d"+i+"\" data=\"myfile.txt\"></object></div>");
@@ -25,13 +25,22 @@ var idnumber = prompt("Please enter your assigned number", "1");
 
  
         <full-instructions header="Information Addition Instructions">
-            <p>In this sentence information addition task, you are given 100 sentences, each with a set of attributes or relations as "additional information". Your task is to rewrite each sentence incorporating additional information. Note that since the additional informations are extracted automatically from Visual Genome knowledge base, some attributes or relations in the given additional information may not fit the sentence. You are required to first select the attributes and relations that fit the sentence, and then rewrite the sentence using the attributes and relations you selected. If no additional information is appropriate or the rewrite is impossible, write capitalized "N/A" in the answer line. When you are done, click submit.</p>
+            <p>In this task, you are given 200 sentences and your goal is to add a specific piece of new information to each sentence. Each piece of information is either an attribute or a relation. An attribute is presented as a 2-tuple of words (object, attribute) such as ("sky","blue"). A relation is presented as a 3-tuple of words (object, relation, object) such as ("cup", "on", "table").</p>
+            <p>You are required to rewrite the sentence incorporating the additional information. Your rewritten sentence must be grammatical. If the adding the information is impossible or the additional information does not fit the content of the original sentence, write capitalized "N/A" as your answer.</p>
             <p>Note that the original sentences have all punctuations removed. Your rewritten sentences should have all punctuations removed too.</p>
-            <p>The golden rule for determining whether an attribute or relation fits a sentence is whether the sentence still makes sense after incoporating the information.</p>
-            <p>Here are some examples:</p>
+            <p>When you are done, click "submit" and copy the generated json text to the google form with link on the left side of the page.</p>
+            <b>Here are some examples:</b>
             <p>Original Sentence: The company has been manufacturing carpet since 1967</p>    
-            <p>Additional information: [(’company’, ’ON’, ’building’), (’company’, ’name’), (’carpet’, ’ON’, ’floor’), (’carpet’, ’brown’)]</p>
-            <p>Your answer: The company in the building has been manufacturing brown floor carpet since 1967</p>
+            <p>Additional information: [(’carpet’, ’brown’)]</p>
+            <p>Your answer: The company has been manufacturing <u>brown</u> carpet since 1967. </p>
+            <p>-</p>
+            <p>Original Sentence: The stock market crashed in 1929. </p>    
+            <p>Additional information: [('milk','in','stock')]</p>
+            <p>Your answer: N/A </p>
+            <p>-</p>
+            <p>Original Sentence: The car crashed into the girl next to the bar. </p>    
+            <p>Additional information: [('girl','wears','skirt')]</p>
+            <p>Your answer: The car crashed into the girl <u>in skirts</u> next to the bar. </p>
         </full-instructions>
   
 </crowd-form>

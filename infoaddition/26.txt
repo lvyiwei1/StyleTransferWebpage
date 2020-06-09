@@ -1,7 +1,4 @@
 Original Sentence: 
-He has a built-in constant longing for lower interest rates
+TransCanada transports all gas that moves eastward from Alberta
 Additional Information: 
-('built-in', 'microwave', 'oven')
-('built-in', 'Black ')
-('people', 'showing', 'interest')
-('interest', 'great')
+('gas', 'ON', 'road')

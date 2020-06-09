@@ -1,5 +1,4 @@
 Original Sentence: 
-Sometimes says his wife we 're happy about that
+The earnings drop had been expected
 Additional Information: 
-('wife', 'cutting', 'cake')
-('wife', 'superhero')
+('drop', 'ON', 'window')

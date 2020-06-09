@@ -1,0 +1,4 @@
+Original Sentence: 
+What does this mean for trade policy
+Additional Information: 
+('company name', 'says', 'trade')

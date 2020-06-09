@@ -1,5 +1,4 @@
 Original Sentence: 
-Sale of Saatchi Unit Close
+No non-competitive tenders will be accepted
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('tender', 'elephant')

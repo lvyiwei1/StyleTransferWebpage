@@ -1,5 +1,4 @@
 Original Sentence: 
-Glasnost has made celebrities of men like Mr. Korotich
+The company reported a big third-quarter loss on Thursday
 Additional Information: 
-('men', 'IN', 'dugout')
-('men', 'standing')
+('company', 'ON', 'wing')

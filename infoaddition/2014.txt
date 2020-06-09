@@ -1,0 +1,4 @@
+Original Sentence: 
+Working with lawyers she says I need it
+Additional Information: 
+('lawyer', 'showing a', 'paper')

@@ -1,6 +1,4 @@
 Original Sentence: 
-Results for the earlier quarter included a 100,000 restructuring charge
+People hate to write he says
 Additional Information: 
-('quarter', 'of a', 'pizza')
-('quarter', 'silver')
-('charge', 'can', 'charge')
+('people', 'WEARING', 'shirt')

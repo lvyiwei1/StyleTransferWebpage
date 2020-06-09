@@ -1,5 +1,4 @@
 Original Sentence: 
-You do n't know which way to punch
+Soldiers and sailors are still measured in inches and pounds
 Additional Information: 
-('way', 'to', 'house')
-('way', 'walk')
+('pound', 'here')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The company expects all branches to reopen today
+Additional Information: 
+('company', 'name')

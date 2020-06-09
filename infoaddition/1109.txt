@@ -1,5 +1,4 @@
 Original Sentence: 
-We 'll raise it through bank loans
+The companies are automotive-emissions-testing concerns
 Additional Information: 
-('bank', 'at', 'water')
-('bank', 'grassy')
+('company', 'name')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The Dow Jones Industrial Average rose 39.55 points to 2683.20
+Additional Information: 
+('point', 'sharp')

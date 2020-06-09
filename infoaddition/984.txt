@@ -1,7 +1,4 @@
 Original Sentence: 
-He earned a master 's degree in architecture from Yale
+The closely held company has n't disclosed sales
 Additional Information: 
-('dog', 'with', 'master')
-('master', 'his')
-('architecture', 'has a', 'clock')
-('architecture', 'decorative')
+('sale', 'red')

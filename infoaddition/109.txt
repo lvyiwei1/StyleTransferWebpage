@@ -1,4 +1,4 @@
 Original Sentence: 
-No charges were brought against her
+Sales rose 2.9 % to 827.9 million from 804.3 million
 Additional Information: 
-('charge', 'can', 'charge')
+('sale', 'red')

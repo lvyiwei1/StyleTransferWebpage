@@ -1,5 +1,4 @@
 Original Sentence: 
-That would be the lowest level since the early 1970s
+Craig Torres contributed to this article
 Additional Information: 
-('level', 'OF', 'tower')
-('level', 'upper')
+('article', 'newspaper')

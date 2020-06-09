@@ -1,0 +1,4 @@
+Original Sentence: 
+Foreign traders say the company is strapped for cash
+Additional Information: 
+('cash', 'inside', 'purse')

@@ -1,5 +1,4 @@
 Original Sentence: 
-For them it makes all kinds of sense
+Quest for Fire was the first time
 Additional Information: 
-('kind', 'ON', 'sidewalk')
-('phrase', 'makes no', 'sense')
+('time', 'ON', 'clock')

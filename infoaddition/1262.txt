@@ -1,5 +1,4 @@
 Original Sentence: 
-The expiration date had been Nov. 3
+It 's all part of a new command center
 Additional Information: 
-('date', 'below', 'name')
-('date', 'yellow')
+('part', 'of a', 'sign')

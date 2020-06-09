@@ -1,4 +1,4 @@
 Original Sentence: 
-He reset opening arguments for today
+The stock split four-for-one on Oct. 10
 Additional Information: 
-('sign', 'reads', 'today')
+('stock', 'of', 'stock')

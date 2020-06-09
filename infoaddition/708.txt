@@ -1,5 +1,4 @@
 Original Sentence: 
-Most are anchored by a K mart store
+The cats are fine although nervous
 Additional Information: 
-('store', 'Sells', 'bag')
-('store', 'red')
+('cat', 'black')

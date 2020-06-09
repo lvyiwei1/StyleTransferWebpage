@@ -1,4 +1,4 @@
 Original Sentence: 
-London shares closed moderately lower in thin trading
+He started building the files that helped him gain power
 Additional Information: 
-('red t', 'IN', 'trading')
+('power', 'lines over railroad', 'tracks')

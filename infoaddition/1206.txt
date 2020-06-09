@@ -1,4 +1,4 @@
 Original Sentence: 
-Deciding what constitutes terrorism can be a legalistic exercise
+In 1987 such selling contributed to a snowball effect
 Additional Information: 
-('guy', 'getting', 'exercise')
+('snowball', 'rolling down')

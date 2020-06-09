@@ -1,0 +1,4 @@
+Original Sentence: 
+The practice is however legal in most cases
+Additional Information: 
+('case', 'by a', 'bed')

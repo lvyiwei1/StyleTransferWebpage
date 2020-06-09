@@ -1,6 +1,4 @@
 Original Sentence: 
-There is n't a black worker in sight
+They looked at the miniature and saw a giant folly
 Additional Information: 
-('worker', 'makes', 'food')
-('worker', 'construction')
-('eyeglasses', 'for', 'sight')
+('miniature', 'rocking', 'chair')

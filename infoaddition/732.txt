@@ -1,5 +1,4 @@
 Original Sentence: 
-Many groups are n't waiting that long
+Sierra Tucson operates an addiction treatment center
 Additional Information: 
-('group', 'OF', 'woman')
-('group', 'large')
+('treatment', 'wooden')

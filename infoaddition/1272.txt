@@ -1,4 +1,4 @@
 Original Sentence: 
-I 've had no problems performing my duties and responsibilities
+Flight Attendants Lag Before Jets Even Land
 Additional Information: 
-('plane', 'has', 'problem')
+('flight', 'of metal stairs')

@@ -1,8 +1,4 @@
 Original Sentence: 
-And black-and-white photography classes are crowded with students
+They will have to throw their hat in the ring
 Additional Information: 
-('photography', 'has', 'copyright')
-('photography', 'cursive')
-('class', 'OF', 'kids')
-('student', 'with a', 'cell phone')
-('student', 'ethnic')
+('hat', 'on top of', 'head')

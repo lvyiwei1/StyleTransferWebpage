@@ -1,9 +1,4 @@
 Original Sentence: 
-Men would crawl in the sand looking for shiny stones
+Mr. Spielvogel said he would n't launch a hostile bid
 Additional Information: 
-('men', 'IN', 'dugout')
-('men', 'standing')
-('sand', 'at', 'beach')
-('sand', 'brown')
-('stone', 'IN', 'distance')
-('stone', 'large')
+('bid', 'metal')

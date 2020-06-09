@@ -1,6 +1,4 @@
 Original Sentence: 
-WCRS has been in discussions with Eurocom for several months
+That hurts investors ' confidence in the economy and stocks
 Additional Information: 
-('man', 'and woman engaged in', 'discussion')
-('month', 'around', 'face')
-('month', 'ninth')
+('economy', 'ON', 'train')

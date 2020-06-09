@@ -1,0 +1,4 @@
+Original Sentence: 
+Another agency issue came to market yesterday
+Additional Information: 
+('market', 'selling', 'fruit')

@@ -1,0 +1,4 @@
+Original Sentence: 
+UAL 's stock fell 6.25 to 191.75
+Additional Information: 
+('stock', 'OF', 'broccoli')

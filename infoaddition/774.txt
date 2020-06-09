@@ -1,5 +1,4 @@
 Original Sentence: 
-Earlier this month another effort to choose a commissioner failed
+Hotel-casino operators play down the possibility of a labor shortage
 Additional Information: 
-('month', 'around', 'face')
-('month', 'ninth')
+('operator', 'sitting', 'shed')

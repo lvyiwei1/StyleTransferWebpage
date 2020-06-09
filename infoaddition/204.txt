@@ -1,5 +1,4 @@
 Original Sentence: 
-There are n't too many winners
+That hurts investors ' confidence in the economy and stocks
 Additional Information: 
-('winner', 'seen', 'left leg')
-('winner', '2nd place')
+('stock', 'green')

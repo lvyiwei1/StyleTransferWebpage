@@ -1,0 +1,4 @@
+Original Sentence: 
+In last week 's House vote 41 Republicans defected
+Additional Information: 
+('day', 'OF', 'week')

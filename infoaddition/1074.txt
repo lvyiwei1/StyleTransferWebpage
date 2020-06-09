@@ -1,7 +1,4 @@
 Original Sentence: 
-The IRA portion of the Packwood-Roth plan is irresponsible
+Value of the properties and management interests was n't disclosed
 Additional Information: 
-('portion', 'of', 'face')
-('portion', 'white')
-('plan', 'ON', 'tarmac')
-('plan', 'air')
+('property', 'standing', 'chainlink fence')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The plant was evacuated and workers sent home
+Additional Information: 
+('plant', 'IN', 'vase')

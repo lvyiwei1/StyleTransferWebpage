@@ -1,7 +1,4 @@
 Original Sentence: 
-Value of the properties and management interests was n't disclosed
+And the egg producers have done a pretty good job
 Additional Information: 
-('property', 'standing', 'chainlink fence')
-('property', 'waterfront')
-('people', 'showing', 'interest')
-('interest', 'great')
+('egg', 'IN', 'carton')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We 've actually read the speech
+Which makes the chase car necessary
 Additional Information: 
-('man', 'giving', 'speech')
+('car', 'ON', 'street')

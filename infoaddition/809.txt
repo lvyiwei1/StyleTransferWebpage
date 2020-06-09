@@ -1,8 +1,4 @@
 Original Sentence: 
-There 's nothing rational about this kind of action
+Piping in a waste-treatment plant needed immediate repairs
 Additional Information: 
-('nothing', 'IN', 'sky')
-('nothing', 'clear')
-('kind', 'ON', 'sidewalk')
-('action', 'IN', 'action')
-('action', 'MLB')
+('plant', 'green')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Jacobs Engineering officials could n't be reached for comment
+But by comparison this fluffy comedy seems like a gem
 Additional Information: 
-('official', 'for', 'tennis')
-('official', 'tennis')
+('gem', 'blue')

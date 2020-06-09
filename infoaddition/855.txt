@@ -1,6 +1,4 @@
 Original Sentence: 
-Some companies are cutting costs and hoping for the best
+We can lose money on this he says
 Additional Information: 
-('company', 'at', 'bottom')
-('company', 'name')
-('cost', 'displayed in front of', 'banana')
+('money', 'paper')

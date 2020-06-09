@@ -1,5 +1,4 @@
 Original Sentence: 
-Any fool can publish a money-losing magazine
+A bid against Paribas could n't be ruled out
 Additional Information: 
-('magazine', 'IN', 'toilet')
-('magazine', 'open')
+('bid', 'ON', 'shoulder')

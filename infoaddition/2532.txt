@@ -1,0 +1,4 @@
+Original Sentence: 
+The difference is magnified by time too
+Additional Information: 
+('time', 'says', 'time')

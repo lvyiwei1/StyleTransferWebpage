@@ -1,5 +1,4 @@
 Original Sentence: 
-It 's a real dog
+He is negotiating a rich book contract to boot
 Additional Information: 
-('dog', 'has', 'ear')
-('dog', 'white')
+('boot', 'ON', 'foot')

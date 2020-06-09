@@ -1,5 +1,4 @@
 Original Sentence: 
-Thus the shadow jury was born
+October is a critical month for the privatization program
 Additional Information: 
-('shadow', 'ON', 'ground')
-('shadow', 'dark')
+('month', 'ninth')

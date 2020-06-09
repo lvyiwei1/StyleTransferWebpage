@@ -1,9 +1,4 @@
 Original Sentence: 
-The following month the company put itself up for sale
+Mr. Zafris thinks rates are heading down helping small companies
 Additional Information: 
-('month', 'OF', 'picture')
-('month', 'ninth')
-('company', 'at', 'bottom')
-('company', 'name')
-('sale', 'at', 'company')
-('sale', 'red')
+('company', 'has', 'name')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Others analyze the data
+Volume was 959.3 million shares more than triple recent levels
 Additional Information: 
-('others', 'at', 'beach')
-('others', 'three')
-('data', 'ON', 'monitor')
-('data', 'green')
+('volume', '3')

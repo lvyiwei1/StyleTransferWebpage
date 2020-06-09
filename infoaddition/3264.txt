@@ -1,0 +1,4 @@
+Original Sentence: 
+Second-tier companies are receiving even less per ton
+Additional Information: 
+('company', 'has', 'name')

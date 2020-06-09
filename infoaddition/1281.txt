@@ -1,5 +1,4 @@
 Original Sentence: 
-It 's bad soil he says
+Neither disclosed details pending board meetings next month
 Additional Information: 
-('soil', 'below', 'trees')
-('soil', 'brown')
+('meeting', 'has', 'folder')

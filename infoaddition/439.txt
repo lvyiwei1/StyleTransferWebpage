@@ -1,5 +1,4 @@
 Original Sentence: 
-Firms Walk Fine Line In Distributing Profits
+But junk bonds took more hits
 Additional Information: 
-('line', 'ON', 'vest')
-('line', 'white')
+('junk', 'lots')

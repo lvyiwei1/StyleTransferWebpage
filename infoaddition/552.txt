@@ -1,7 +1,4 @@
 Original Sentence: 
-For the prior year deposits exceeded withdrawals by 8.8 billion
+A more blue-collar panel became a second aim
 Additional Information: 
-('year', 'IN', 'left corner')
-('year', 'white')
-('deposit', 'ON', 'game')
-('deposit', 'metal')
+('panel', 'ON', 'cooker')

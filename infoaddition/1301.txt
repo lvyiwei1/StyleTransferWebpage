@@ -1,5 +1,4 @@
 Original Sentence: 
-We are having a regular day
+For one thing Digital Maynard Mass. has sold fewer machines
 Additional Information: 
-('day', 'with', 'tower')
-('day', 'sunny')
+('machine', 'white')

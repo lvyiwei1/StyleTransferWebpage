@@ -1,7 +1,4 @@
 Original Sentence: 
-The OTC market has only a handful of takeover-related stocks
+The market closed prior to Mr. Lawson 's announcement
 Additional Information: 
-('market', 'selling', 'fruit')
 ('market', 'outdoor')
-('stock', 'OF', 'broccoli')
-('stock', 'green')

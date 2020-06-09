@@ -1,0 +1,4 @@
+Original Sentence: 
+Bond prices rose
+Additional Information: 
+('price', 'OF', 'hot dog')

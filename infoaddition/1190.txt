@@ -1,7 +1,4 @@
 Original Sentence: 
-Which cars do Americans favor most these days
+Sales fell 20 % to 3.7 billion from 4.6 billion
 Additional Information: 
-('car', 'driving', 'road')
-('car', 'parked')
-('day', 'with', 'tower')
-('day', 'sunny')
+('sale', 'red')

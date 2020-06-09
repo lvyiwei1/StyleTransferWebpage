@@ -1,6 +1,4 @@
 Original Sentence: 
-But most lawyers accept that the marketplace has spoken
+The market 's pessimism reflects the gloomy outlook in Detroit
 Additional Information: 
-('lawyer', 'showing a', 'paper')
-('marketplace', 'on side of', 'buildings')
-('marketplace', 'outdoor')
+('outlook', 'ON', 'building')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Professional Crisco products are specially made for the foodservice industry
+Additional Information: 
+('product', 'bathroom')

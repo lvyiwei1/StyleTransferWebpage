@@ -1,5 +1,4 @@
 Original Sentence: 
-Many of us are suckers
+The FASB had its initial meeting on March 28 1973
 Additional Information: 
-('sucker', 'wrapped in', 'red paper')
-('sucker', 'green')
+('meeting', 'has', 'folder')

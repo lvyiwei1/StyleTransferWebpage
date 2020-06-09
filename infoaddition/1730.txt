@@ -1,0 +1,4 @@
+Original Sentence: 
+There 's lots of supply the New York trader said
+Additional Information: 
+('supply', 'ON', 'table')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The company had a tax credit of 1.4 million
+Additional Information: 
+('credit', 'artist')

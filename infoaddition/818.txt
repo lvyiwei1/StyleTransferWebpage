@@ -1,7 +1,4 @@
 Original Sentence: 
-Her story is becoming part of local folklore
+Other fund managers were similarly sanguine
 Additional Information: 
-('story', 'ON', 'church')
-('story', 'second')
-('part', 'OF', 'sandwich')
-('part', 'small')
+('manager', 'sitting in', 'dugout')

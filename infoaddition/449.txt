@@ -1,5 +1,4 @@
 Original Sentence: 
-John E. Yang contributed to this article
+The position of chief operating officer is new
 Additional Information: 
-('article', 'ON', 'chair')
-('article', 'newspaper')
+('officer', 'police')

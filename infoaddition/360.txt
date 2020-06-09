@@ -1,5 +1,4 @@
 Original Sentence: 
-The most important thing is that he have a chance
+The core rate is not really out of line
 Additional Information: 
-('thing', 'under', 'airplane')
-('thing', 'black')
+('line', 'white')

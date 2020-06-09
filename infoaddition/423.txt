@@ -1,7 +1,4 @@
 Original Sentence: 
-None of these chief executives were available for comment
+For Vietnamese these are tricky often treacherous times
 Additional Information: 
-('spoon', 'next to', 'chief')
-('chief', 'handker')
-('executive', 'ON', 'signs')
-('executive', 'in white')
+('time', 'displayed')

@@ -1,5 +1,4 @@
 Original Sentence: 
-We had to think about it ahead of time
+They want late-night shuttles to the biology labs
 Additional Information: 
-('time', 'ON', 'clock')
-('time', 'displayed')
+('shuttle', 'ON', 'airplane')

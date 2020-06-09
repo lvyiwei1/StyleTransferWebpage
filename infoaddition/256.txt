@@ -1,5 +1,4 @@
 Original Sentence: 
-That 's baseball
+Many of us are suckers
 Additional Information: 
-('baseball', 'laying on', 'ground')
-('baseball', 'white')
+('sucker', 'wrapped in', 'red paper')

@@ -1,8 +1,4 @@
 Original Sentence: 
-The Soviets have a world-leading space program the guests noted
+To reinforce employees ' dedication Mr. Smith pays well
 Additional Information: 
-('space', 'ON', 'shelf')
-('space', 'green')
-('program', 'running', 'laptop')
-('program', 'wedding')
-('guest', 'behind', 'fence')
+('employee', 'ON', 'tarmac')

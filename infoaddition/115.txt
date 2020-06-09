@@ -1,5 +1,4 @@
 Original Sentence: 
-I 'm encouraged by the action
+Proceeds from those sales will be used to reduce debt
 Additional Information: 
-('action', 'at', 'baseball field')
-('action', 'MLB')
+('sale', 'ON', 'window')

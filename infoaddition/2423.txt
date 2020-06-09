@@ -1,0 +1,4 @@
+Original Sentence: 
+In some cases competition has squeezed margins
+Additional Information: 
+('competition', 'horse')

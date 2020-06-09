@@ -1,7 +1,4 @@
 Original Sentence: 
-We found a market niche Mr. Mills boasts
+Japanese stock salesmen selling American bonds
 Additional Information: 
-('market', 'place for', 'christmas')
-('market', 'outdoor')
-('niche', 'IN', 'building')
-('niche', 'is')
+('bond', 'black ')

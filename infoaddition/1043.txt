@@ -1,6 +1,4 @@
 Original Sentence: 
-Management Co. manages entertainers and produces markets and finances entertainment
+I care very much for this post he says
 Additional Information: 
-('entertainer', 'has', 'hand')
-('center', 'for', 'entertainment')
-('entertainment', 'light brown entertainment ')
+('post', 'ON', 'fence')

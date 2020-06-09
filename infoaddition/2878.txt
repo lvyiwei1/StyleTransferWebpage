@@ -1,0 +1,4 @@
+Original Sentence: 
+MANY AFFLUENT people place personal success and money above family
+Additional Information: 
+('people', 'standing')

@@ -1,0 +1,4 @@
+Original Sentence: 
+We are only going to sell at the right price
+Additional Information: 
+('price', 'for', 'avocados')

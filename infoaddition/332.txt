@@ -1,5 +1,4 @@
 Original Sentence: 
-The price can not be less than 7,000
+Some have raised their cash positions to record levels
 Additional Information: 
-('price', 'tag', 'roll')
-('price', 'written')
+('record', 'black')

@@ -1,5 +1,4 @@
 Original Sentence: 
-New York Stock Exchange volume swelled to 198,120,000 shares
+The price can not be less than 7,000
 Additional Information: 
-('volume', 'ON', 'headphones')
-('volume', '3')
+('price', 'written')

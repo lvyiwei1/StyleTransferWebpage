@@ -1,5 +1,4 @@
 Original Sentence: 
-It must be accepted by the court
+Accepted theories of asset pricing offer a perfectly legitimate explanation
 Additional Information: 
-('court', 'has', 'lines')
-('court', 'green')
+('menu', 'with', 'pricing')

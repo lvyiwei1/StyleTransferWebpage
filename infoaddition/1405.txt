@@ -1,0 +1,4 @@
+Original Sentence: 
+Such problems may not be over
+Additional Information: 
+('plane', 'has', 'problem')

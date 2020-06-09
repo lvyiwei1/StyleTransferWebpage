@@ -1,5 +1,4 @@
 Original Sentence: 
-A simultaneous announcement was made in Moscow
+The suit seeks in excess of 350,000 in damages
 Additional Information: 
-('announcement', 'ON', 'table')
-('announcement', 'green')
+('suit', 'ON', 'man')

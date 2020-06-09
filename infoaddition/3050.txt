@@ -1,0 +1,4 @@
+Original Sentence: 
+But they need not be to do their jobs well
+Additional Information: 
+('job', 'ON', 'bus')

@@ -1,4 +1,4 @@
 Original Sentence: 
-It is scheduled for delivery in late 1991
+Soldiers and sailors are still measured in inches and pounds
 Additional Information: 
-('van', 'for', 'delivery')
+('sailor', 'on a', 'boat')

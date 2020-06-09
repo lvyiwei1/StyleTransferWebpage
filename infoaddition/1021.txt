@@ -1,5 +1,4 @@
 Original Sentence: 
-Like many sports buffs Mr. Engelken has turned cynic
+They will have to throw their hat in the ring
 Additional Information: 
-('sport', 'written on screen of', 'game')
-('sport', 'popular')
+('ring', 'worn around', 'finger')

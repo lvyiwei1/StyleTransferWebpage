@@ -1,4 +1,4 @@
 Original Sentence: 
-MiniScribe also has n't filed any financial statements for 1989
+Previously it had proposed seven years of 5.5 % increases
 Additional Information: 
-('statement', 'credit')
+('year', 'ON', 'side')

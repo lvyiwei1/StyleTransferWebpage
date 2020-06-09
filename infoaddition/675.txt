@@ -1,5 +1,4 @@
 Original Sentence: 
-Now the assault is on said one top trader
+But what about all those non-duck ducks flapping over Washington
 Additional Information: 
-('top', 'OF', 'vehicle')
-('top', 'white')
+('duck', 'has a', 'neck')

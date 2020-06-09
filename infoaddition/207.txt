@@ -1,6 +1,4 @@
 Original Sentence: 
-In Europe the dollar ended lower in dull trading
+The key word in that paragraph though is may
 Additional Information: 
-('dollar', 'IN', 'hand')
-('dollar', 'twenty')
-('red t', 'IN', 'trading')
+('word', 'white')

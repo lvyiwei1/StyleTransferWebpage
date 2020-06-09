@@ -1,0 +1,4 @@
+Original Sentence: 
+A lot of pent-up demand is gone
+Additional Information: 
+('lot', 'parking')

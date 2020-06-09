@@ -1,0 +1,4 @@
+Original Sentence: 
+New telephone lines posted healthy growth
+Additional Information: 
+('line', 'white')

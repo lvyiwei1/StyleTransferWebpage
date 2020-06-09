@@ -1,7 +1,4 @@
 Original Sentence: 
-Cathay is taking several steps to bolster business
+The company paid five cents a share in April
 Additional Information: 
-('step', 'underneath', 'door')
-('step', 'concrete')
-('business', 'IN', 'city')
-('business', 'here')
+('company', 'has', 'name')

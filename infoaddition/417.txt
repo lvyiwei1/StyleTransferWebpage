@@ -1,6 +1,4 @@
 Original Sentence: 
-But for photofinishers developing costs for black-and-white film are higher
+In peak periods that load may include 4,000 pieces
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
-('film', 'has', 'surfers')
-('film', 'black')
+('piece', 'small')

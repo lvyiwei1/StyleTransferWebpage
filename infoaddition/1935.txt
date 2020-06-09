@@ -1,0 +1,4 @@
+Original Sentence: 
+She retains her duties of human-resources director
+Additional Information: 
+('vest', 'ON', 'director')

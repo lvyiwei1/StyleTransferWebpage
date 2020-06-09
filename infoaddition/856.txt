@@ -1,5 +1,4 @@
 Original Sentence: 
-The report is to be released today
+Terms of the transaction were n't disclosed
 Additional Information: 
-('report', 'ON', 'green paper')
-('sign', 'reads', 'today')
+('term', 'house of david')

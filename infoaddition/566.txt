@@ -1,5 +1,4 @@
 Original Sentence: 
-In January Mr. Salvatori sold the unit
+Mortgage securities ended little changed after light dealings
 Additional Information: 
-('unit', 'sitting on', 'roof')
-('unit', 'white')
+('security', 'ON', 'court')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Productivity in Japanese offices is relatively low
+Japanese stock salesmen selling American bonds
 Additional Information: 
-('office', 'with', 'laptop')
-('office', 'small')
+('stock', 'OF', 'broccoli')

@@ -1,8 +1,4 @@
 Original Sentence: 
-Soldiers and sailors are still measured in inches and pounds
+Kia is reportedly also considering such a plan
 Additional Information: 
-('soldier', 'sits', 'outside')
-('soldier', 'lined up')
-('sailor', 'on a', 'boat')
-('pound', 'has a', 'ten')
-('pound', 'here')
+('plan', 'air')

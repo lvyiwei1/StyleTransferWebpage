@@ -1,5 +1,4 @@
 Original Sentence: 
-Mortgage securities ended little changed after light dealings
+But the company declines to comment
 Additional Information: 
-('security', 'ON', 'court')
-('security', 'standing')
+('company', 'ON', 'lorry')

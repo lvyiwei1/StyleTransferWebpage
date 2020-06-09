@@ -1,5 +1,4 @@
 Original Sentence: 
-Or is triskaidekaphobia fear of the number 13 justified
+Take heart sports fans he wrote
 Additional Information: 
-('number', 'ON', 'aircraft')
-('number', 'black')
+('sport', 'popular')

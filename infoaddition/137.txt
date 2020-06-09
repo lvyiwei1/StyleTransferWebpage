@@ -1,5 +1,4 @@
 Original Sentence: 
-Expenses are flat and that 's a good sign
+Even so his bill is given little chance of passage
 Additional Information: 
-('sign', 'ON', 'wall')
-('sign', 'white')
+('passage', 'gray')

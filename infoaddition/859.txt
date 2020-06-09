@@ -1,5 +1,4 @@
 Original Sentence: 
-People will learn to be more circumspect
+The second time he says they left the shovel
 Additional Information: 
-('people', 'sitting', 'bar')
-('people', 'standing')
+('shovel', 'IN', 'snow')

@@ -1,5 +1,4 @@
 Original Sentence: 
-It is a quick fix for a complex problem
+Sales rose 50 % to 2.1 billion from 1.4 billion
 Additional Information: 
-('fix', 'ON', 'wall')
-('plane', 'has', 'problem')
+('sale', 'red')

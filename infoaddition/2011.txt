@@ -1,0 +1,4 @@
+Original Sentence: 
+Individual prosperity inevitably would result
+Additional Information: 
+('sign', 'reads', 'prosperity')

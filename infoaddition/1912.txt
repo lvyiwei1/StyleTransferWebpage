@@ -1,0 +1,4 @@
+Original Sentence: 
+He will remain on the Banc One board
+Additional Information: 
+('board', 'against', 'wall')

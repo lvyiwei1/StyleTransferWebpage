@@ -1,0 +1,4 @@
+Original Sentence: 
+Some are even coming up with their own novel designs
+Additional Information: 
+('design', 'ON', 'cloth')

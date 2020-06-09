@@ -1,0 +1,4 @@
+Original Sentence: 
+It is the stuff of dreams but also of traumas
+Additional Information: 
+('dream', 'capital letters')

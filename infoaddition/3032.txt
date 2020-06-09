@@ -1,0 +1,4 @@
+Original Sentence: 
+Sales declined slightly to 5.17 billion
+Additional Information: 
+('sale', 'at', 'company')

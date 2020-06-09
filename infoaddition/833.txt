@@ -1,7 +1,4 @@
 Original Sentence: 
-And some fund groups said investors actually became net buyers
+That is the way the system works
 Additional Information: 
-('group', 'OF', 'building')
-('group', 'large')
-('buyer', 'looking at', 'goods')
-('buyer', 'prospective')
+('system', 'black')

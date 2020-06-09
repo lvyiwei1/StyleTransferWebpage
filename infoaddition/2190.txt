@@ -1,0 +1,4 @@
+Original Sentence: 
+When the pilots refused the company retracted it
+Additional Information: 
+('pilot', 'OF', 'airplane')

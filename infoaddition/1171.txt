@@ -1,5 +1,4 @@
 Original Sentence: 
-Other as yet unnamed cities will follow
+This being typed in a standing position
 Additional Information: 
-('city', 'with', 'vehicles')
-('city', 'large')
+('catcher', 'IN', 'position')

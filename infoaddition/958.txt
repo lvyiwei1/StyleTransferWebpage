@@ -1,8 +1,4 @@
 Original Sentence: 
-Canada is the world 's largest producer of market pulp
+This is a very tenacious ghost Mr. Warren says darkly
 Additional Information: 
-('world', 'on side of', 'airplane')
-('market', 'OF', 'fruit')
-('market', 'outdoor')
-('pulp', 'OF', 'orange')
-('pulp', 'orange')
+('ghost', 'ON', 'shirt')

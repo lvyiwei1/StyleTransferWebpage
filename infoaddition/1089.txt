@@ -1,5 +1,4 @@
 Original Sentence: 
-The industrial average ended at 2659.22 down 3.69 points
+ESB directors warmly accepted but a whirlwind bidding match ensued
 Additional Information: 
-('point', 'OF', 'scissors')
-('point', 'sharp')
+('director', 'caucasian')

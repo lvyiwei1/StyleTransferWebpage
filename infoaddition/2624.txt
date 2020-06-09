@@ -1,0 +1,4 @@
+Original Sentence: 
+Both features appealed most to buyers under 45
+Additional Information: 
+('feature', 'suppressor ')

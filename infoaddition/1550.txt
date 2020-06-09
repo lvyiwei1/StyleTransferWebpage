@@ -1,0 +1,4 @@
+Original Sentence: 
+It could do damage to us
+Additional Information: 
+('damage', 'moisture')

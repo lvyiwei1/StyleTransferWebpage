@@ -1,4 +1,4 @@
 Original Sentence: 
-We 're not rushing into anything
+Those percentages hardly changed from the previous year 's poll
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('poll', 'ON', 'ground')

@@ -1,6 +1,4 @@
 Original Sentence: 
-Massage also has an image problem to contend with
+In the year-earlier quarter the tax credit was 3.3 million
 Additional Information: 
-('image', 'ON', 'wall')
-('image', 'white')
-('plane', 'has', 'problem')
+('credit', 'ON', 'image')

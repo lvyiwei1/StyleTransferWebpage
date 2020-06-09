@@ -1,0 +1,4 @@
+Original Sentence: 
+Gerald F. Seib contributed to this article
+Additional Information: 
+('article', 'ON', 'chair')

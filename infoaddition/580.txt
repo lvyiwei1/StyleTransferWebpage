@@ -1,5 +1,4 @@
 Original Sentence: 
-Hanson is a London producer of consumer and other goods
+They said the price would be around 10 million
 Additional Information: 
-('good', 'on a', 'buffet')
-('good', 'baked')
+('price', 'ON', 'sign')

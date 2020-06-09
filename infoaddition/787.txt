@@ -1,7 +1,4 @@
 Original Sentence: 
-Step up to the plate and take the big swing
+The next level down did doors
 Additional Information: 
-('plate', 'on top of', 'table')
-('plate', 'white')
-('swing', 'ON', 'playground')
-('swing', 'wooden')
+('level', 'ON', 'bus')

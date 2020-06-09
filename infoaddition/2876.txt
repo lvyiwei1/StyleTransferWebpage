@@ -1,0 +1,4 @@
+Original Sentence: 
+A 35-nation environmental conference opened in Sofia Bulgaria
+Additional Information: 
+('people', 'are at a', 'conference')

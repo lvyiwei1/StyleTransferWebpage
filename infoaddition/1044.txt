@@ -1,5 +1,4 @@
 Original Sentence: 
-Paying players at SMU was no casual operation
+I care very much for this post he says
 Additional Information: 
-('player', 'has', 'helmet')
-('player', 'baseball')
+('post', 'wooden')

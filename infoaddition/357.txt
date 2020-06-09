@@ -1,5 +1,4 @@
 Original Sentence: 
-Compaq is already taking aim at Zenith 's market share
+Analysts and competitors however doubt the numbers were that high
 Additional Information: 
-('market', 'has', 'doors')
-('market', 'outdoor')
+('number', 'ON', 'sign')

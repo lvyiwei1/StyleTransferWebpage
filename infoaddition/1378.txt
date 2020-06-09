@@ -1,0 +1,4 @@
+Original Sentence: 
+I much prefer money I can put my hands on
+Additional Information: 
+('money', 'paper')

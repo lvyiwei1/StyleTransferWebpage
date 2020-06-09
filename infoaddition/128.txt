@@ -1,4 +1,4 @@
 Original Sentence: 
-Issues of insurance brokers were especially strong
+It showed the DJIA up 30 points
 Additional Information: 
-('advertisement', 'for', 'insurance')
+('point', 'sharp')

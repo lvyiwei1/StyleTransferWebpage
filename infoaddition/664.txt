@@ -1,5 +1,4 @@
 Original Sentence: 
-The Merksamer bankruptcy-law filing appears to supersede that agreement
+Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
 Additional Information: 
-('filing', 'cabinet with pull', 'drawers')
-('filing', 'red')
+('holiday', 'colorful')

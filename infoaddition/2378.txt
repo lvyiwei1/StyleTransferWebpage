@@ -1,0 +1,4 @@
+Original Sentence: 
+But a few new spots are opening
+Additional Information: 
+('spot', 'ON', 'lamb')

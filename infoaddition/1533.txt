@@ -1,0 +1,4 @@
+Original Sentence: 
+Friday brings the final count on October auto sales
+Additional Information: 
+('sale', 'at', 'company')

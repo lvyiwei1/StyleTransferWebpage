@@ -1,5 +1,4 @@
 Original Sentence: 
-Things had just gone too far
+The company sells image
 Additional Information: 
-('thing', 'ON', 'wall')
-('thing', 'black')
+('company', 'OF', 'train')

@@ -1,8 +1,4 @@
 Original Sentence: 
-Long dollar bonds were flat to up 3\/8 point
+After a while someone has to go over the side
 Additional Information: 
-('dollar', 'ON', 'bed')
-('dollar', 'twenty')
-('bond', 'black ')
-('point', 'ON', 'fence')
-('point', 'sharp')
+('side', 'OF', 'boat')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Now comes the pool flap
+Flight Attendants Lag Before Jets Even Land
 Additional Information: 
-('pool', 'in front of', 'building')
-('pool', 'blue')
-('flap', 'OF', 'bird')
-('flap', 'white')
+('flight', 'of', 'stairs')

@@ -1,0 +1,4 @@
+Original Sentence: 
+It is scheduled for delivery in late 1991
+Additional Information: 
+('van', 'for', 'delivery')

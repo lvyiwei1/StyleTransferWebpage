@@ -1,5 +1,4 @@
 Original Sentence: 
-Nekoosa ranked 11th with sales of 3.59 billion
+But the steam may never reach the engine room
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('steam', 'white')

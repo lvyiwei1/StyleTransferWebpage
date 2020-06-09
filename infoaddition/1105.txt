@@ -1,11 +1,4 @@
 Original Sentence: 
-Their machine tools are even bolted to the shop floor
+But for photofinishers developing costs for black-and-white film are higher
 Additional Information: 
-('machine', 'ON', 'truck')
-('machine', 'white')
-('tool', 'attached to', 'hydrant')
-('tool', 'metal')
-('shop', 'IN', 'lounge')
-('shop', 'street level')
-('floor', 'has', 'square pattern')
-('floor', 'brown')
+('cost', 'displayed in front of', 'banana')

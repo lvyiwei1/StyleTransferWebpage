@@ -1,9 +1,4 @@
 Original Sentence: 
-It has a similar project for 200,000 cars a year
+Sales rose 50 % to 2.1 billion from 1.4 billion
 Additional Information: 
-('he', 'discussing', 'project')
-('project', 'sewing')
-('car', '', 'parked')
-('car', 'parked')
-('year', 'ON', 'building')
-('year', 'white')
+('sale', 'at', 'company')

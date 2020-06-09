@@ -1,5 +1,4 @@
 Original Sentence: 
-In this case that 's about 250,000
+Marcus W. Brauchli contributed to this article
 Additional Information: 
-('case', 'has', 'lettering')
-('case', 'black')
+('article', 'ON', 'chair')

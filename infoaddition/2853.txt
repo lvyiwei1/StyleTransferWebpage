@@ -1,0 +1,4 @@
+Original Sentence: 
+The coin is their problem
+Additional Information: 
+('coin', 'on a', 'table')

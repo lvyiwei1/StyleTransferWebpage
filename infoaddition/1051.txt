@@ -1,7 +1,4 @@
 Original Sentence: 
-Giveaways just give people the wrong image said Mr. Heinemann
+It also sells single-premium annuities to individuals
 Additional Information: 
-('people', 'standing in', 'hall')
-('people', 'standing')
-('image', 'OF', 'kitchen')
-('image', 'white')
+('individual', 'holding', 'glass')

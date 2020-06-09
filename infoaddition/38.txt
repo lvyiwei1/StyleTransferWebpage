@@ -1,4 +1,4 @@
 Original Sentence: 
-Rising operating expenses are another problem
+Sales rose 6 % to 2.77 billion from 2.61 billion
 Additional Information: 
-('plane', 'has', 'problem')
+('sale', 'at', 'company')

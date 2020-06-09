@@ -1,5 +1,4 @@
 Original Sentence: 
-It was considered South Africa 's largest opposition rally
+Big withdrawals from the junk funds have continued this month
 Additional Information: 
-('man', 'IN', 'rally')
-('rally', 'black')
+('junk', 'IN', 'junkyard')

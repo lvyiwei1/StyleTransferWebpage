@@ -1,4 +1,4 @@
 Original Sentence: 
-In national over-the-counter trading MCI fell 2.625 to 42.375
+The closely held company has n't disclosed sales
 Additional Information: 
-('red t', 'IN', 'trading')
+('company', 'name')

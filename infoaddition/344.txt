@@ -1,5 +1,4 @@
 Original Sentence: 
-I wanted to be in business
+American Express card charge volume rose 12 %
 Additional Information: 
-('business', 'sign on', 'building')
-('business', 'here')
+('charge', 'can', 'charge')

@@ -1,5 +1,4 @@
 Original Sentence: 
-So far the bubbles have been few and far between
+People hold out and try to get a bargain
 Additional Information: 
-('bubble', 'on side of', 'pizza')
-('bubble', 'small')
+('people', 'behind', 'girl')

@@ -1,4 +1,4 @@
 Original Sentence: 
-A related editorial appears today
+October is a critical month for the privatization program
 Additional Information: 
-('cow', 'are laying down', 'today')
+('month', 'around', 'face')

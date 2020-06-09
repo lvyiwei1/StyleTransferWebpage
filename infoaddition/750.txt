@@ -1,7 +1,4 @@
 Original Sentence: 
-Many Law School Grads Find Classes Never End
+Now producers hope prices have hit bottom
 Additional Information: 
-('drivers', 'are obeying', 'law')
-('school', 'second', 'buses')
-('school', 'word')
-('class', 'OF', 'kids')
+('price', 'above', 'food')

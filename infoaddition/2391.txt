@@ -1,0 +1,4 @@
+Original Sentence: 
+They were a sleeper
+Additional Information: 
+('sleeper', 'wooden')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Now the question is Is Poland ready for it
+So what 's the catch
 Additional Information: 
-('question', 'black')
+('catch', 'throwing', 'ball')

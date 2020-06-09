@@ -1,7 +1,4 @@
 Original Sentence: 
-Mr. Gelbart also has fun with language
+Trading in Walt Disney Co. particularly caught traders ' eyes
 Additional Information: 
-('fun', 'on top of', 'circle container')
-('fun', 'great')
-('language', 'ON', 'sign')
-('language', 'foreign')
+('red t', 'IN', 'trading')

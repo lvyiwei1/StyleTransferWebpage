@@ -1,5 +1,4 @@
 Original Sentence: 
-But fund managers say they 're ready
+The dam caused the water level to drop in Zalubice
 Additional Information: 
-('manager', 'sitting in', 'dugout')
-('manager', 'overlooking action')
+('water', 'blue')

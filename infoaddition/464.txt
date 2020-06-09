@@ -1,4 +1,4 @@
 Original Sentence: 
-Changing the outcome of the trial is what really matters
+Signed by 25 students
 Additional Information: 
-('snow', 'has', 'trial')
+('student', 'ethnic')

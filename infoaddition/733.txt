@@ -1,7 +1,4 @@
 Original Sentence: 
-I played very transparently with the tip of the bow
+Sierra Tucson operates an addiction treatment center
 Additional Information: 
-('tip', 'OF', 'umbrella')
-('tip', 'black')
-('bow', 'around', 'bear')
-('bow', 'red')
+('center', 'OF', 'daisy')

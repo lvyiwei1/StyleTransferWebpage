@@ -1,0 +1,4 @@
+Original Sentence: 
+The incident occurred Saturday night
+Additional Information: 
+('night', 'hangs over', 'city')

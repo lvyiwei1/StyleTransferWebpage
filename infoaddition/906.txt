@@ -1,5 +1,4 @@
 Original Sentence: 
-It 's not a zero-sum game
+CLUBBING A FAN was n't the Baltimore Orioles ' fault
 Additional Information: 
-('game', 'ON', 'tv')
-('game', 'baseball')
+('fan', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Some U.S. entrepreneurs operate on a smaller scale
+Additional Information: 
+('scale', 'white')

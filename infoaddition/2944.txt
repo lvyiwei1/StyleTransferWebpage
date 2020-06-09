@@ -1,0 +1,4 @@
+Original Sentence: 
+We recognized the problem and took care of it
+Additional Information: 
+('fence', 'encloses', 'care')

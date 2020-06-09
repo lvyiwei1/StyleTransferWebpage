@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales declined slightly to 5.17 billion
+Soldiers and sailors are still measured in inches and pounds
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('soldier', 'sits', 'outside')

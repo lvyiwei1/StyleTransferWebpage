@@ -1,6 +1,4 @@
 Original Sentence: 
-That facility should reopen today
+Understandably smaller growth stocks have n't been in favor recently
 Additional Information: 
-('facility', 'for', 'giraffe')
-('facility', 'skateboarding')
-('sign', 'reads', 'today')
+('stock', 'green')

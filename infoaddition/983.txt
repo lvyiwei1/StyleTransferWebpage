@@ -1,6 +1,4 @@
 Original Sentence: 
-The plan lacked a withdrawal timetable
+The closely held company has n't disclosed sales
 Additional Information: 
-('plan', 'ON', 'ground')
-('plan', 'air')
-('timetable', 'listed')
+('sale', 'at', 'company')

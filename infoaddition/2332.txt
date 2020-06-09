@@ -1,0 +1,4 @@
+Original Sentence: 
+People will learn to be more circumspect
+Additional Information: 
+('people', 'standing')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Sales for the latest quarter were flat at 1.72 billion
+But Burger King operators independently confirm using Michael 's product
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
-('quarter', 'OF', 'train')
-('quarter', 'silver')
+('operator', 'Lift ')

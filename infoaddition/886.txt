@@ -1,5 +1,4 @@
 Original Sentence: 
-Oh yes the Atlantic was also pushed back 300 yards
+But Middle East supplies were growing in importance
 Additional Information: 
-('yard', 'near', 'sheep')
-('yard', 'green')
+('supply', 'all')

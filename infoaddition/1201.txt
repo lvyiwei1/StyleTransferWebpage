@@ -1,6 +1,4 @@
 Original Sentence: 
-This kind of theater was new to us
+I 'm talking about landing in a canal
 Additional Information: 
-('kind', 'ON', 'sidewalk')
-('theater', 'has', 'ceiling')
-('theater', 'movie ')
+('landing', 'gear', 'underneath')

@@ -1,5 +1,4 @@
 Original Sentence: 
-I mean it is a normal adult relationship
+Understandably smaller growth stocks have n't been in favor recently
 Additional Information: 
-('adult', 'with', 'skier')
-('adult', 'young')
+('stock', 'of', 'stock')

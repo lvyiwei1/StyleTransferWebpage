@@ -1,5 +1,4 @@
 Original Sentence: 
-Many other brokerage firms had similarly bullish views
+The company also reassigned several executive responsibilities
 Additional Information: 
-('view', 'OF', 'bulb')
-('view', 'beautiful')
+('company', 'ON', 'train')

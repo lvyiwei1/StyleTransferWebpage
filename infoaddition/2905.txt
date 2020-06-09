@@ -1,0 +1,4 @@
+Original Sentence: 
+In September 1988 that level was 9.5 %
+Additional Information: 
+('level', 'upper')

@@ -1,0 +1,4 @@
+Original Sentence: 
+He is going to pursue other interests Mr. Jahn said
+Additional Information: 
+('people', 'showing', 'interest')

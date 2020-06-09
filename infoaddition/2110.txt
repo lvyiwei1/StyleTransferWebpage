@@ -1,0 +1,4 @@
+Original Sentence: 
+He 's the director of the local Planned Parenthood chapter
+Additional Information: 
+('vest', 'ON', 'director')

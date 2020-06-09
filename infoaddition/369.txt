@@ -1,6 +1,4 @@
 Original Sentence: 
-Accepted theories of asset pricing offer a perfectly legitimate explanation
+It 's a very small shop
 Additional Information: 
-('menu', 'with', 'pricing')
-('pricing', 'hand written')
-('explanation', 'OF', 'display')
+('shop', 'IN', 'lounge')

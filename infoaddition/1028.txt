@@ -1,5 +1,4 @@
 Original Sentence: 
-The device was replaced
+Kyle manufactures electronic components
 Additional Information: 
-('device', 'IN', 'black backpack')
-('device', 'electronic')
+('component', 'blue')

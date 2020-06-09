@@ -1,0 +1,4 @@
+Original Sentence: 
+The Russians are talking peace
+Additional Information: 
+('peace', 'ON', 'pillow')

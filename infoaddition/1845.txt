@@ -1,0 +1,4 @@
+Original Sentence: 
+What is the way forward
+Additional Information: 
+('way', 'to', 'house')

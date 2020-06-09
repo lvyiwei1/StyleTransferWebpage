@@ -1,0 +1,4 @@
+Original Sentence: 
+On June 30 loss reserves stood at 108.3 million
+Additional Information: 
+('animals', 'in a', 'reserve')

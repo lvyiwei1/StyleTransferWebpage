@@ -1,5 +1,4 @@
 Original Sentence: 
-So what 's the catch
+Some have raised their cash positions to record levels
 Additional Information: 
-('catch', 'throwing', 'ball')
-('catch', 'FRISBEE')
+('cash', 'inside', 'purse')

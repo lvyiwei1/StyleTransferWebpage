@@ -1,5 +1,4 @@
 Original Sentence: 
-There is hope of change
+Volume totaled 14,580,000 shares
 Additional Information: 
-('change', 'in a', 'change')
-('change', 'loose')
+('volume', 'ON', 'keyboard')

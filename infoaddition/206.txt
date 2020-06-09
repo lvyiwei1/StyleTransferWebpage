@@ -1,5 +1,4 @@
 Original Sentence: 
-Share prices fell in Milan Amsterdam Zurich Madrid and Stockholm
+The key word in that paragraph though is may
 Additional Information: 
-('price', 'OF', 'fruit')
-('price', 'written')
+('word', 'ON', 'box')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Meanwhile the exchange has been trying to lower costs
+Additional Information: 
+('cost', 'displayed in front of', 'banana')

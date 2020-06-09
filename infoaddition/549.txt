@@ -1,4 +1,4 @@
 Original Sentence: 
-The death toll rose to 63
+In Europe the dollar ended lower in dull trading
 Additional Information: 
-('toll', 'by', 'car')
+('dollar', 'IN', 'hand')

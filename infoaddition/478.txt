@@ -1,4 +1,4 @@
 Original Sentence: 
-They wo n't do that very often today at all
+BAY AREA COMMUTERS BATTLED earthquake-related transportation snarls
 Additional Information: 
-('sign', 'reads', 'today')
+('transportation', 'public')

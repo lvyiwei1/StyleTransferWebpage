@@ -1,0 +1,4 @@
+Original Sentence: 
+We 're about to see if advertising works
+Additional Information: 
+('advertising', 'ON', 'bus')

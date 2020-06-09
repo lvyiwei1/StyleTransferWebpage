@@ -1,11 +1,4 @@
 Original Sentence: 
-The excess supply pushed gasoline prices down in that period
+None of these chief executives were available for comment
 Additional Information: 
-('supply', 'ON', 'table')
-('supply', 'all')
-('truck', 'OF', 'gasoline')
-('gasoline', 'offered')
-('price', 'ON', 'sign')
-('price', 'written')
-('period', 'against', 'background')
-('period', 'red')
+('spoon', 'next to', 'chief')

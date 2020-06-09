@@ -1,5 +1,4 @@
 Original Sentence: 
-Accord prices start at 12,345
+Roe v. Wade pre-empted political debate so the extremes blossomed
 Additional Information: 
-('price', 'OF', 'food')
-('price', 'written')
+('panel', 'for', 'debate')

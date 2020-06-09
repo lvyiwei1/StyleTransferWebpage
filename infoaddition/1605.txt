@@ -1,0 +1,4 @@
+Original Sentence: 
+The new exchange drew instant recognition from an unwelcome quarter
+Additional Information: 
+('two women', 'make', 'exchange')

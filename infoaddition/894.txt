@@ -1,6 +1,4 @@
 Original Sentence: 
-Texans Get Reasonable Car Rental Insurance
+I refer essentially to petroleum electric power banking and newsprint
 Additional Information: 
-('car', 'passes', 'crowd')
-('car', 'parked')
-('advertisement', 'for', 'insurance')
+('power', 'by', 'park')

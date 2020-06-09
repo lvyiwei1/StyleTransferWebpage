@@ -1,0 +1,4 @@
+Original Sentence: 
+Yet the state alone sells seeds and machines
+Additional Information: 
+('seed', 'ON', 'sandwich')

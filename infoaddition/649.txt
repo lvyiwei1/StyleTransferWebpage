@@ -1,5 +1,4 @@
 Original Sentence: 
-That has n't deterred plenty of companies
+They stroll through the marble-encased corridors of the Atrium Court
 Additional Information: 
-('company', 'ON', 'bus')
-('company', 'name')
+('corridor', 'has', 'floor')

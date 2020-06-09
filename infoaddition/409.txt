@@ -1,5 +1,4 @@
 Original Sentence: 
-The stock split four-for-one on Oct. 10
+And the egg producers have done a pretty good job
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
+('job', 'decorative')

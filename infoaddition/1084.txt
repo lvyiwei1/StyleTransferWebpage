@@ -1,5 +1,4 @@
 Original Sentence: 
-The government will penalize offenders but wo n't confiscate property
+The stock split four-for-one on Oct. 10
 Additional Information: 
-('property', 'has', 'ditch')
-('property', 'waterfront')
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-But Japanese bonds ended weaker
+It did n't provide details of setup costs
 Additional Information: 
-('bond', 'black ')
+('detail', 'red')

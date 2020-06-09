@@ -1,0 +1,4 @@
+Original Sentence: 
+The damage is already done
+Additional Information: 
+('damage', 'moisture')

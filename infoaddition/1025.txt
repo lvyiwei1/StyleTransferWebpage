@@ -1,5 +1,4 @@
 Original Sentence: 
-By 9:45 the industrial average had dropped 27 points
+He says his son has n't paid for the shares
 Additional Information: 
-('point', 'ON', 'tower')
-('point', 'sharp')
+('son', 'written on', 'large truck')

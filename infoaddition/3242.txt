@@ -1,0 +1,4 @@
+Original Sentence: 
+Some institutional traders loved the wild ride
+Additional Information: 
+('ride', 'ON', 'playground')

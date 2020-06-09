@@ -1,5 +1,4 @@
 Original Sentence: 
-Public TV is in fantasy land he said
+The Norfolk Va. company has 172.2 million shares outstanding
 Additional Information: 
-('land', 'behind', 'water')
-('land', 'flat')
+('company', 'has', 'advertisement')

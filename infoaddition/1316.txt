@@ -1,0 +1,4 @@
+Original Sentence: 
+China-bound freight streams through the territory 's port
+Additional Information: 
+('stream', 'small')

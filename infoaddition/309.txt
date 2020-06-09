@@ -1,5 +1,4 @@
 Original Sentence: 
-Other fund managers were similarly sanguine
+Indeed institutions already are taking note
 Additional Information: 
-('manager', 'sitting in', 'dugout')
-('manager', 'overlooking action')
+('note', 'ON', 'monitor')

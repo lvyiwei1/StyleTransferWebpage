@@ -1,5 +1,4 @@
 Original Sentence: 
-What we had was a real old-fashioned rally
+Needless to say it was an interesting first session
 Additional Information: 
-('man', 'IN', 'rally')
-('rally', 'black')
+('session', 'skype  ')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Coal earnings rose to 26 million from 21 million
+This seems to be the season for revivals in Chicago
 Additional Information: 
-('coal', 'stacked inside', 'car')
-('coal', 'black')
+('season', 'ON', 'spinach')

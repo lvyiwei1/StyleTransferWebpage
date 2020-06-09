@@ -1,5 +1,4 @@
 Original Sentence: 
-Those portfolios are remarkably diversified
+That is the key to the current national disease
 Additional Information: 
-('portfolio', 'ON', 'desk')
-('portfolio', 'black')
+('key', 'black')

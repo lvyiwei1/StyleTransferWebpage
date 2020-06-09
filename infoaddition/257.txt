@@ -1,7 +1,4 @@
 Original Sentence: 
-Long-term CDs declined just a fraction
+Many of us are suckers
 Additional Information: 
-('cd', 'near', 'mouse')
-('cd', 'silver')
-('fraction', 'ON', 'border')
-('fraction', 'here')
+('sucker', 'green')

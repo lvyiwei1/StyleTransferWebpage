@@ -1,5 +1,4 @@
 Original Sentence: 
-The last Taxpayer Compliance Measurement Program survey covered 1985 returns
+There are a lot of them and they have property
 Additional Information: 
-('return', 'ON', 'street')
-('return', 'black')
+('lot', 'parking')

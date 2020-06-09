@@ -1,9 +1,4 @@
 Original Sentence: 
-Copper prices fell sharply Friday afternoon
+Share prices fell in Milan Amsterdam Zurich Madrid and Stockholm
 Additional Information: 
-('copper', 'ON', 'table')
-('copper', 'vase')
-('price', 'ON', 'card')
-('price', 'written')
-('photo', 'taken in', 'afternoon')
-('afternoon', 'sunny')
+('price', 'OF', 'fruit')

@@ -1,0 +1,4 @@
+Original Sentence: 
+But trading risk stems from credit risk
+Additional Information: 
+('red t', 'IN', 'trading')

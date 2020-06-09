@@ -1,0 +1,4 @@
+Original Sentence: 
+But that 's not the only problem for stocks
+Additional Information: 
+('stock', 'green')

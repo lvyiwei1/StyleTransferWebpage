@@ -1,7 +1,4 @@
 Original Sentence: 
-South African gold stocks ended marginally firmer
+Tenneco Credit is a unit of Tenneco Inc
 Additional Information: 
-('gold', 'tail of', 'kite')
-('gold', 'brown')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('unit', 'white')

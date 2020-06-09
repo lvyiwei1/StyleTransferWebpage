@@ -1,6 +1,4 @@
 Original Sentence: 
-The index is intended to measure future economic performance
+For longer-term CDs yields were up
 Additional Information: 
-('index', 'a fingerhas', 'baby')
-('index', 'is a finger')
-('crowd', 'watching', 'performance')
+('cd', 'silver')

@@ -1,0 +1,4 @@
+Original Sentence: 
+A few drops in circulation are of no consequence
+Additional Information: 
+('drop', 'water')

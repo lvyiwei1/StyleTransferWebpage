@@ -1,5 +1,4 @@
 Original Sentence: 
-Please contribute what you can the ad said
+Oddly enough this presents a problem for the stock
 Additional Information: 
-('ad', 'with', 'ad')
-('ad', 'white')
+('plane', 'has', 'problem')

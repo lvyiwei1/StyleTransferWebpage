@@ -1,0 +1,4 @@
+Original Sentence: 
+Amgen rose 1 1\/2 to 50 3\/4 in heavy trading
+Additional Information: 
+('red t', 'IN', 'trading')

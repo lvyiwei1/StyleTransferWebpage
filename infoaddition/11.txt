@@ -1,5 +1,4 @@
 Original Sentence: 
-The dispute pits two groups of claimants against each other
+Take heart sports fans he wrote
 Additional Information: 
-('group', 'ON', 'beach')
-('group', 'large')
+('heart', 'ON', 'picture')

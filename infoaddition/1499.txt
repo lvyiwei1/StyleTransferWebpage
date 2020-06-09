@@ -1,0 +1,4 @@
+Original Sentence: 
+The death toll rose to 63
+Additional Information: 
+('toll', 'by', 'car')

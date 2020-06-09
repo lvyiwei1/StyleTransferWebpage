@@ -1,6 +1,4 @@
 Original Sentence: 
-Those activities generated 26.1 million in operating profit last year
+Among her OTC picks are Oshkosh B'Gosh and A&W Brands
 Additional Information: 
-('activity', 'IN', 'bathroom')
-('year', 'IN', 'corner')
-('year', 'white')
+('pick', 'IN', 'cookies')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Some nights he slept under his desk
+And you ca n't cut this chain with bolt cutters
 Additional Information: 
-('night', 'at', 'marina')
-('night', 'black')
-('desk', 'with', 'computer screen')
-('desk', 'wooden')
+('bolt', 'metal')

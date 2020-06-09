@@ -1,0 +1,4 @@
+Original Sentence: 
+The merged firm will carry Norris McLaughlin 's name
+Additional Information: 
+('name', 'white')

@@ -1,5 +1,4 @@
 Original Sentence: 
-People wonder what 's going to happen next
+A simultaneous announcement was made in Moscow
 Additional Information: 
-('people', 'at', 'exhibit')
-('people', 'standing')
+('announcement', 'green')

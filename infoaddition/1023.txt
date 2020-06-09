@@ -1,5 +1,4 @@
 Original Sentence: 
-For employee and employer alike the worry is widespread
+The software conversion costs would dwarf any savings
 Additional Information: 
-('employee', 'ON', 'ground')
-('employee', 'airport')
+('software', 'blue')

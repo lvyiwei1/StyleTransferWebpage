@@ -1,8 +1,4 @@
 Original Sentence: 
-Heating oil and gasoline futures ended higher as well
+Americans may not be so lucky the next time
 Additional Information: 
-('heating', 'and cooling', 'heating')
-('oil', 'IN', 'bottle')
-('oil', 'hot')
-('truck', 'OF', 'gasoline')
-('gasoline', 'offered')
+('time', 'displayed')

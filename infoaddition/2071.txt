@@ -1,0 +1,4 @@
+Original Sentence: 
+For nonunion workers the costs rose 1.4 %
+Additional Information: 
+('worker', 'WEARING', 'shirt')

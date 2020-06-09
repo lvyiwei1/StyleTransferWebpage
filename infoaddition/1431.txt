@@ -1,0 +1,4 @@
+Original Sentence: 
+Yesterday 's Centennial Journal misstated the company 's name
+Additional Information: 
+('company', 'that owns', 'bus')

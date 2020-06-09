@@ -1,4 +1,4 @@
 Original Sentence: 
-At first it seemed as if history might repeat itself
+Why did he add the Value Fund to the list
 Additional Information: 
-('the', 'word', 'history')
+('list', 'champagne ')

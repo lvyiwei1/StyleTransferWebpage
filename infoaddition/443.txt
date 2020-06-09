@@ -1,5 +1,4 @@
 Original Sentence: 
-Never in my life have I been so frightened
+Other Western Union securities were also lower
 Additional Information: 
-('life', 'ON', 'sign')
-('life', 'printed')
+('security', 'standing')

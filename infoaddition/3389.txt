@@ -1,0 +1,4 @@
+Original Sentence: 
+I 've had no problems performing my duties and responsibilities
+Additional Information: 
+('plane', 'has', 'problem')

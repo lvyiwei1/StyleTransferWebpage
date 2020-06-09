@@ -1,0 +1,4 @@
+Original Sentence: 
+This is a tough market
+Additional Information: 
+('market', 'has', 'fruit')

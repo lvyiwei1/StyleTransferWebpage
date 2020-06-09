@@ -1,5 +1,4 @@
 Original Sentence: 
-Some couples continue to try
+The Dow Jones industrials sank 26.23 points to 2662.91
 Additional Information: 
-('couple', 'ON', 'sidewalk')
-('couple', 'walking')
+('point', 'sharp')

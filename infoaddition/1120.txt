@@ -1,5 +1,4 @@
 Original Sentence: 
-But one recent day they became much closer
+Goya Concocts a Milk For Hispanic Tastes
 Additional Information: 
-('day', 'within', 'lake')
-('day', 'sunny')
+('taste', 'reads on', 'tractor trailer')

@@ -1,7 +1,4 @@
 Original Sentence: 
-There are die-hard bodies of course
+October is a critical month for the privatization program
 Additional Information: 
-('body', 'ON', 'sheep')
-('body', 'white')
-('course', 'built with', 'ramps')
-('course', 'green')
+('program', 'ON', 'monitor')

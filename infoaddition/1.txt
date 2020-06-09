@@ -2,8 +2,3 @@ Original Sentence:
 The name of the game is to move goods
 Additional Information: 
 ('name', 'ON', 'airplane')
-('name', 'white')
-('game', 'ON', 'screen')
-('game', 'baseball')
-('good', 'on a', 'buffet')
-('good', 'baked')

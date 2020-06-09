@@ -1,5 +1,4 @@
 Original Sentence: 
-But says Mr. Bock It was a close call
+In a great restaurant do n't deprive yourself
 Additional Information: 
-('umpire', 'to make', 'call')
-('call', 'here')
+('restaurant', 'has', 'door')

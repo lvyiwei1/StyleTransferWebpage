@@ -1,5 +1,4 @@
 Original Sentence: 
-Thus the leverage has amplified the funds ' portfolio losses
+He had been vice president in that office
 Additional Information: 
-('portfolio', 'ON', 'desk')
-('portfolio', 'black')
+('vice', 'blue')

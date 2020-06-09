@@ -1,0 +1,4 @@
+Original Sentence: 
+It will trade over the counter under the symbol CRAY
+Additional Information: 
+('counter', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+But the man who built it has fallen
+Additional Information: 
+('man', 'standing')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Manufacturers Hanover Trust Co. is redemption agent
+Additional Information: 
+('agent', 'at', 'airport')

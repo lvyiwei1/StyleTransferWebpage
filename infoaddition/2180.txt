@@ -1,0 +1,4 @@
+Original Sentence: 
+Is this the wrong time to open a store
+Additional Information: 
+('store', 'sells', 'furniture')

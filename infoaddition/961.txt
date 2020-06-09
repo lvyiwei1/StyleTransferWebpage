@@ -1,5 +1,4 @@
 Original Sentence: 
-The acquisition is subject to approval by Kennametal 's board
+The rest is of course history
 Additional Information: 
-('board', 'has', 'arm')
-('board', 'white')
+('rest', 'attached to', 'wall')

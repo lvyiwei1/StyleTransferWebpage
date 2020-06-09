@@ -1,0 +1,4 @@
+Original Sentence: 
+States are following suit
+Additional Information: 
+('suit', 'black')

@@ -1,0 +1,4 @@
+Original Sentence: 
+London shares closed moderately lower in thin trading
+Additional Information: 
+('red t', 'IN', 'trading')

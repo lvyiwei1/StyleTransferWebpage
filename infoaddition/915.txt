@@ -1,5 +1,4 @@
 Original Sentence: 
-The market during the start-up is estimated at 25,000 subscribers
+Most public-health measures were handled at the local level
 Additional Information: 
-('market', 'selling', 'fruit')
-('market', 'outdoor')
+('level', 'upper')

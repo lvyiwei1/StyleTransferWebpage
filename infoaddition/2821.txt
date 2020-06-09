@@ -1,0 +1,4 @@
+Original Sentence: 
+Sales fell 2.5 % to 1.54 billion from 1.58 billion
+Additional Information: 
+('sale', 'red')

@@ -1,7 +1,4 @@
 Original Sentence: 
-The position of chief operating officer is new
+A bid against Paribas could n't be ruled out
 Additional Information: 
-('catcher', 'IN', 'position')
-('position', 'upright')
-('officer', 'ON', 'motorcycle')
-('officer', 'police')
+('bid', 'metal')

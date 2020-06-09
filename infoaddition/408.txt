@@ -1,5 +1,4 @@
 Original Sentence: 
-And for Ms. Baker the ride was far from over
+And the egg producers have done a pretty good job
 Additional Information: 
-('ride', 'ON', 'dock')
-('ride', 'tall')
+('job', 'ON', 'bus')

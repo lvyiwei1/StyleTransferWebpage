@@ -1,5 +1,4 @@
 Original Sentence: 
-The rest he is confident can be raised
+But while index options are convenient they have several disadvantages
 Additional Information: 
-('rest', 'ON', 'sign')
-('rest', 'arm')
+('index', 'a fingerhas', 'baby')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Buy stocks on weakness for their long-term fundamentals he says
+So developers are saying they will look into distressed properties
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('property', 'has', 'ditch')

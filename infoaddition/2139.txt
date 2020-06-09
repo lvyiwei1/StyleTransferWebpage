@@ -1,0 +1,4 @@
+Original Sentence: 
+Step up to the plate and take the big swing
+Additional Information: 
+('plate', 'on top of', 'table')

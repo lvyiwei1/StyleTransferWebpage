@@ -1,5 +1,4 @@
 Original Sentence: 
-Closely held Automax has annual sales of about 10 million
+Every major maker offers computers with color displays
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('display', 'IN', 'fridge')

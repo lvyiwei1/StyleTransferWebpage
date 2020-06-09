@@ -1,5 +1,4 @@
 Original Sentence: 
-We think this is a superior deal to McCaw 's
+The dollar was mixed
 Additional Information: 
-('deal', 'OF', 'bananas')
-('deal', 'great')
+('dollar', 'ON', 'table')

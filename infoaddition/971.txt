@@ -1,5 +1,4 @@
 Original Sentence: 
-PENALTY OVERHAUL is still likely congressional sources say
+Those activities generated 26.1 million in operating profit last year
 Additional Information: 
-('source', 'OF', 'water')
-('source', 'blue')
+('year', 'white')

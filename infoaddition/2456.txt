@@ -1,0 +1,4 @@
+Original Sentence: 
+APARTHEID FOES STAGED a massive anti-government rally in South Africa
+Additional Information: 
+('people', 'demonstrating in political', 'rally')

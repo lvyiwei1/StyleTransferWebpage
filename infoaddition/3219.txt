@@ -1,0 +1,4 @@
+Original Sentence: 
+She only put her foot down twice he continues
+Additional Information: 
+('foot', 'ON', 'sheep')

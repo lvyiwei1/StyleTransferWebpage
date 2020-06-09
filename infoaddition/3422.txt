@@ -1,0 +1,4 @@
+Original Sentence: 
+The analysts say their gloomy forecasts have a flip side
+Additional Information: 
+('side', 'OF A', 'wall')

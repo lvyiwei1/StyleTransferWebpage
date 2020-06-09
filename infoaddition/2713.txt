@@ -1,0 +1,4 @@
+Original Sentence: 
+A further problem is razor-thin profits
+Additional Information: 
+('plane', 'has', 'problem')

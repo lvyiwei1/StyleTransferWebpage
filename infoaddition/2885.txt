@@ -1,0 +1,4 @@
+Original Sentence: 
+Falconbridge he says will continue operating in its current form
+Additional Information: 
+('form', 'OF', 'blurred woman')

@@ -1,5 +1,4 @@
 Original Sentence: 
-We do n't need cartoons anymore
+Warnaco also owns Warners another major intimate apparel maker
 Additional Information: 
-('cartoon', 'ON', 'cabin door')
-('cartoon', 'white')
+('maker', 'coffee')

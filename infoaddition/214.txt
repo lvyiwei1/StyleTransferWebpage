@@ -1,5 +1,4 @@
 Original Sentence: 
-Magazine editors did not take the criticisms lying down
+Some economists expect further declines in investment spending
 Additional Information: 
-('magazine', 'ON', 'chair')
-('magazine', 'open')
+('decline', ' of grass')

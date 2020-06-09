@@ -1,0 +1,4 @@
+Original Sentence: 
+Long dollar bonds were flat to up 3\/8 point
+Additional Information: 
+('dollar', 'ON', 'bed')

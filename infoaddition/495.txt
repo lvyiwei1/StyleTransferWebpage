@@ -1,4 +1,4 @@
 Original Sentence: 
-Unless he changes they lose said a Democratic leadership aide
+Sometimes says his wife we 're happy about that
 Additional Information: 
-('model', 'denture teaching', 'aide')
+('wife', 'superhero')

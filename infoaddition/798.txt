@@ -1,4 +1,4 @@
 Original Sentence: 
-JURY 'S CRIMINAL CONVICTION under Superfund law is a first
+Among the leading products is a flu shot for horses
 Additional Information: 
-('drivers', 'are obeying', 'law')
+('shot', 'old')

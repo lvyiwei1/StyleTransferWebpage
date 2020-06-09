@@ -1,6 +1,4 @@
 Original Sentence: 
-Even excluding the charge however net fell 5 %
+Outside I spotted two young men lugging blocks of concrete
 Additional Information: 
-('charge', 'can', 'charge')
-('net', 'ON', 'court')
-('net', 'black')
+('block', 'ON', 'wall')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Mitsubishi has a futuristic delivery truck called the Guppy
+Additional Information: 
+('truck', 'white')

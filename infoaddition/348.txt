@@ -1,7 +1,4 @@
 Original Sentence: 
-Customized baskets of fewer stocks will also be available
+We are not trying to encourage everyone
 Additional Information: 
-('basket', 'ON', 'ground')
-('basket', 'brown')
-('stock', 'of', 'stock')
-('stock', 'green')
+('everyone', 'smiling')

@@ -1,8 +1,4 @@
 Original Sentence: 
-The announcement came after the market 's close
+I 'm talking about landing in a canal
 Additional Information: 
-('announcement', 'ON', 'table')
-('announcement', 'green')
-('market', 'IN', 'container')
-('market', 'outdoor')
-('close', 'up', 'cheese')
+('canal', 'near', 'pathway')

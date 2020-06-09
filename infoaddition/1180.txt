@@ -1,7 +1,4 @@
 Original Sentence: 
-It seeks unspecified money damages
+Creation of a new realistic U.S. policy is long overdue
 Additional Information: 
-('money', 'IN', 'hand')
-('money', 'paper')
-('damage', 'ON', 'wall')
-('damage', 'moisture')
+('creation', 'made', 'snow')

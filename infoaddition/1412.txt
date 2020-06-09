@@ -1,0 +1,4 @@
+Original Sentence: 
+How can it make available funds for purchases
+Additional Information: 
+('purchase', 'Levy Restaurant')

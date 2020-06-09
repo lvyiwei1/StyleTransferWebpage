@@ -1,5 +1,4 @@
 Original Sentence: 
-UAL 's stock fell 6.25 to 191.75
+His appointment expands the board to 13 members
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('board', 'with a', 'girl')

@@ -1,5 +1,4 @@
 Original Sentence: 
-We do n't need the cash
+He 's a rare Democratic hawk
 Additional Information: 
-('cash', 'inside', 'purse')
-('cash', 'Two round pieces  ')
+('hawk', 'ON', 'shirt')

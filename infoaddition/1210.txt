@@ -1,5 +1,4 @@
 Original Sentence: 
-United Illuminating also amended its rate plan
+A three is 10 times 10 again and so on
 Additional Information: 
-('plan', 'ON', 'tarmac')
-('plan', 'air')
+('time', 'displayed')

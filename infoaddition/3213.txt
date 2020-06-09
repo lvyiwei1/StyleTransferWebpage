@@ -1,0 +1,4 @@
+Original Sentence: 
+Leaseway provides transportation services for manufacturers distributors and retailers
+Additional Information: 
+('woman', 'standing in front of', 'transportation')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Was not the title very clear
+And you ca n't cut this chain with bolt cutters
 Additional Information: 
-('title', 'of a', 'book')
-('title', 'movie')
+('chain', 'OF', 'bike')

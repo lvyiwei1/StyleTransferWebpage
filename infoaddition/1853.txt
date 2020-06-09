@@ -1,0 +1,4 @@
+Original Sentence: 
+Now the assault is on said one top trader
+Additional Information: 
+('top', 'OF', 'vehicle')

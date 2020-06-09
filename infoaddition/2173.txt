@@ -1,0 +1,4 @@
+Original Sentence: 
+I said Somebody come get me
+Additional Information: 
+('somebody', 'using', 'computer')

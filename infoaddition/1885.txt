@@ -1,0 +1,4 @@
+Original Sentence: 
+In the experiment mice with the defective gene were mated
+Additional Information: 
+('mouse', 'black')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Some found it on the screen of a personal computer
+Additional Information: 
+('screen', 'on')

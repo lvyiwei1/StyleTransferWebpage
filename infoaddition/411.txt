@@ -1,7 +1,4 @@
 Original Sentence: 
-ESB directors warmly accepted but a whirlwind bidding match ensued
+In peak periods that load may include 4,000 pieces
 Additional Information: 
-('vest', 'ON', 'director')
-('director', 'caucasian')
-('match', 'OF', 'rugby')
-('match', 'tennis')
+('peak', 'mountain')

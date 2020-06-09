@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales rose 2.2 % to 711.9 million from 696.1 million
+The dam caused the water level to drop in Zalubice
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('dam', 'concrete')

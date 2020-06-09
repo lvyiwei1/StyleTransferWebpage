@@ -1,0 +1,4 @@
+Original Sentence: 
+As a result the company has suspended its quarterly dividend
+Additional Information: 
+('company', 'name')

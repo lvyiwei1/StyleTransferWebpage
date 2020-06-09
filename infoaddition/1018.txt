@@ -1,7 +1,4 @@
 Original Sentence: 
-Later the judge went a step farther
+And the winners will be the colleges not either network
 Additional Information: 
-('judge', 'ON', 'tennis court')
-('judge', 'tennis line')
-('step', 'underneath', 'door')
-('step', 'concrete')
+('college', 'Tennis')

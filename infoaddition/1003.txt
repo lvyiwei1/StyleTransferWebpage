@@ -1,10 +1,4 @@
 Original Sentence: 
-Next year may see a drop of one percentage point
+Profits improved across Hess 's businesses
 Additional Information: 
-('year', 'ON', 'building')
-('year', 'white')
-('drop', 'ON', 'plate')
-('drop', 'water')
-('coupon', 'has', 'percentage')
-('point', 'mounted on', 'tower')
-('point', 'sharp')
+('business', 'here')

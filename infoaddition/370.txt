@@ -1,7 +1,4 @@
 Original Sentence: 
-Housing Developers Try Brand-Name Buildings
+It 's a very small shop
 Additional Information: 
-('housing', 'inside of', 'picture')
-('housing', 'black')
-('building', 'IN', 'background')
-('building', 'white')
+('shop', 'street level')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The new company is capitalized at about 3.5 million
+Additional Information: 
+('company', 'name')

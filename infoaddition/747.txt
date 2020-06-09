@@ -1,5 +1,4 @@
 Original Sentence: 
-The new pricing strategy is working the spokesman asserted
+Some people must drop names call it an irresistible impulse
 Additional Information: 
-('sign', 'has', 'pricing')
-('pricing', 'hand written')
+('name', 'on back of', 'shirt')

@@ -1,5 +1,4 @@
 Original Sentence: 
-In September 1988 that level was 9.5 %
+TIMES SQUARE development opponents are dealt setback
 Additional Information: 
-('level', 'OF', 'truck')
-('level', 'upper')
+('development', 'yellow')

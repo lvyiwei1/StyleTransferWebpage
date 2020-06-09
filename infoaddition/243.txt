@@ -1,4 +1,4 @@
 Original Sentence: 
-I think we 're making progress
+The dollar was mixed
 Additional Information: 
-('a', 'baseball game in', 'progress')
+('dollar', 'twenty')

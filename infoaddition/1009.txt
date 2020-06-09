@@ -1,5 +1,4 @@
 Original Sentence: 
-Our competitors say we overbid them
+But city officials say tax revenues are lagging
 Additional Information: 
-('competitor', 'holding', 'pole')
-('competitor', 'here')
+('official', 'has', 'shirt')

@@ -1,6 +1,4 @@
 Original Sentence: 
-But that 's not the only problem for stocks
+And you ca n't cut this chain with bolt cutters
 Additional Information: 
-('plane', 'has', 'problem')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('bolt', 'ON', 'scissors')

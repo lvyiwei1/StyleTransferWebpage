@@ -1,9 +1,4 @@
 Original Sentence: 
-It said it would purchase the stock at market price
+The position of chief operating officer is new
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('market', 'IN', 'street')
-('market', 'outdoor')
-('price', 'OF', 'fruit')
-('price', 'written')
+('position', 'upright')

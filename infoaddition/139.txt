@@ -1,5 +1,4 @@
 Original Sentence: 
-Among her OTC picks are Oshkosh B'Gosh and A&W Brands
+People in the phone business call this technology 900 click
 Additional Information: 
-('pick', 'IN', 'cookies')
-('pick', 'tooth')
+('people', 'standing')

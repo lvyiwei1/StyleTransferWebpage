@@ -1,0 +1,4 @@
+Original Sentence: 
+The price was n't disclosed
+Additional Information: 
+('price', 'OF', 'hot dog')

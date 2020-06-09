@@ -1,5 +1,4 @@
 Original Sentence: 
-Tenneco Credit is a unit of Tenneco Inc
+The zero-coupon subordinated notes have no periodic interest payments
 Additional Information: 
-('unit', 'ON', 'bus')
-('unit', 'white')
+('interest', 'great')

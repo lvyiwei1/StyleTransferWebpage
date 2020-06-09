@@ -1,0 +1,4 @@
+Original Sentence: 
+But retail energy prices declined 0.9 % in September
+Additional Information: 
+('price', 'written')

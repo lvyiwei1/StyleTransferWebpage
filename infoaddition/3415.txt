@@ -1,0 +1,4 @@
+Original Sentence: 
+Officials expect difficulty routing traffic through downtown San Francisco
+Additional Information: 
+('official', 'for', 'tennis')

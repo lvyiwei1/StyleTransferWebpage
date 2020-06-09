@@ -1,0 +1,4 @@
+Original Sentence: 
+The announcement came after the market 's close
+Additional Information: 
+('announcement', 'ON', 'table')

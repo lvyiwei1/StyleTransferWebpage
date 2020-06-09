@@ -1,7 +1,4 @@
 Original Sentence: 
-This being typed in a standing position
+But junk bonds took more hits
 Additional Information: 
-('standing', 'in a', 'shirt')
-('standing', 'standing')
-('catcher', 'IN', 'position')
-('position', 'upright')
+('batter', 'readyto', 'hit')

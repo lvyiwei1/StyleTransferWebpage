@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales fell 1.2 % to 190.1 million from 192.5 million
+Ford has signaled it might acquire a majority interest later
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('interest', 'great')

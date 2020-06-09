@@ -1,5 +1,4 @@
 Original Sentence: 
-What is that point
+The letter was dated Oct. 6
 Additional Information: 
-('point', 'OF', 'board')
-('point', 'sharp')
+('letter', 'ON', 'page')

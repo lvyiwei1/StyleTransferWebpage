@@ -1,0 +1,4 @@
+Original Sentence: 
+Some funds are posting yields far higher than the average
+Additional Information: 
+('yield', 'on', 'sign')

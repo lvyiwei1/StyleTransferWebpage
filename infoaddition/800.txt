@@ -1,7 +1,4 @@
 Original Sentence: 
-We must find any way to get business
+Among the leading products is a flu shot for horses
 Additional Information: 
-('way', 'scrapped on', 'bus')
-('way', 'walk')
-('business', 'along', 'road')
-('business', 'here')
+('horse', 'brown')

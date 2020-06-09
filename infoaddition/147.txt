@@ -1,8 +1,4 @@
 Original Sentence: 
-On some days the Nucor plant does n't produce anything
+Productivity in Japanese offices is relatively low
 Additional Information: 
-('day', 'at', 'beach')
-('day', 'sunny')
-('plant', 'next to', 'people')
-('plant', 'green')
-('part', 'of a speaker not connected to', 'anything')
+('office', 'with', 'laptop')

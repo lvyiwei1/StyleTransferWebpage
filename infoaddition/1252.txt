@@ -1,5 +1,4 @@
 Original Sentence: 
-The shares are redeemable after the end of 1994
+The union though has called the offer insulting
 Additional Information: 
-('end', 'OF', 'tail')
-('end', 'black')
+('union', 'word')

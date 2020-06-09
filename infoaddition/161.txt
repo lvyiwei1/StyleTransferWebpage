@@ -1,7 +1,4 @@
 Original Sentence: 
-But junk bonds took more hits
+Volume was 959.3 million shares more than triple recent levels
 Additional Information: 
-('junk', 'IN', 'picture')
-('junk', 'lots')
-('bond', 'black ')
-('batter', 'readyto', 'hit')
+('level', 'has', 'light')

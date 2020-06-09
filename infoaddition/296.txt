@@ -1,5 +1,4 @@
 Original Sentence: 
-Hotel-casino operators play down the possibility of a labor shortage
+But while index options are convenient they have several disadvantages
 Additional Information: 
-('operator', 'sitting', 'shed')
-('operator', 'Lift ')
+('index', 'is a finger')

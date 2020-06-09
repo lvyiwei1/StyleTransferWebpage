@@ -1,5 +1,4 @@
 Original Sentence: 
-But he added interest-rate-sensitive stocks in general are stalled
+That included capital gains that were passed along to customers
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
+('capital', 'building in washington', 'dc')

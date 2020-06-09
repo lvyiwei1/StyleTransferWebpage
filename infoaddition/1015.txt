@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+And the winners will be the colleges not either network
 Additional Information: 
-('term', 'house of david')
+('winner', 'seen', 'left leg')

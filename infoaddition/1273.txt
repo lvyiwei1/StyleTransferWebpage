@@ -1,7 +1,4 @@
 Original Sentence: 
-Viroqua serves about 3,000 access lines in western Wisconsin
+Flight Attendants Lag Before Jets Even Land
 Additional Information: 
-('access', 'ramp for', 'passengers')
-('access', 'sloped')
-('line', 'ON', 'court')
-('line', 'white')
+('attendant', 'talking to', 'visitor')

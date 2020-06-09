@@ -1,5 +1,4 @@
 Original Sentence: 
-The pound strengthened to 1.5795 from 1.5765
+But even that goal may prove optimistic
 Additional Information: 
-('pound', 'has a', 'ten')
-('pound', 'here')
+('goal', 'white')

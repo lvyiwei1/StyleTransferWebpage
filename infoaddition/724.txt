@@ -1,7 +1,4 @@
 Original Sentence: 
-Seats currently are quoted at 353,500 bid 405,000 asked
+The move is likely to anger traders
 Additional Information: 
-('seat', 'ON', 'bicycle')
-('seat', 'black')
-('bid', 'ON', 'shoulder')
-('bid', 'metal')
+('mechanism', 'makes it', 'move')

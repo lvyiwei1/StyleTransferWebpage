@@ -1,4 +1,4 @@
 Original Sentence: 
-Working with lawyers she says I need it
+He dedicated all these new forces to the Persian Gulf
 Additional Information: 
-('lawyer', 'showing a', 'paper')
+('force', 'ON', 'plane')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Goldberg is the sole general partner in Rose Partners
+Additional Information: 
+('partner', 'playing on', 'tennis court')

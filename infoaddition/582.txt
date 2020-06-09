@@ -1,6 +1,4 @@
 Original Sentence: 
-Trading also was heavy in the over-the-counter market
+It was succeeded in the group by Fuqua Industries Inc
 Additional Information: 
-('red t', 'IN', 'trading')
-('market', 'filled with', 'green peppers')
-('market', 'outdoor')
+('group', 'OF', 'trees')

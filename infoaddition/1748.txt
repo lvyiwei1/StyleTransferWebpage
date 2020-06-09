@@ -1,0 +1,4 @@
+Original Sentence: 
+He expects Citicorp to take a similar step this year
+Additional Information: 
+('step', 'concrete')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Some people think the search for liquidity is fruitless
+The gene thus can prevent a plant from fertilizing itself
 Additional Information: 
-('people', 'ON', 'boat')
-('people', 'standing')
+('plant', 'growing next to', 'zebra')

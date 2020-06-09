@@ -1,5 +1,4 @@
 Original Sentence: 
-Per-share net rose to 20.48 yen from 19.51 yen
+The market was caught totally the wrong way
 Additional Information: 
-('net', 'with', 'white edging')
-('net', 'black')
+('way', 'walk')

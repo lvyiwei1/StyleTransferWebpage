@@ -1,0 +1,4 @@
+Original Sentence: 
+Tangible capital will be about 115 million
+Additional Information: 
+('capital', 'a')

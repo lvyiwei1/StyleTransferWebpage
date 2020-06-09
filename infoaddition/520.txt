@@ -1,5 +1,4 @@
 Original Sentence: 
-You do n't have a right to practice
+Other companies figure they ca n't avoid the market
 Additional Information: 
-('right', 'hanging', 'lights')
-('right', 'far')
+('company', 'has', 'label')

@@ -1,0 +1,4 @@
+Original Sentence: 
+That 's the path of reasoning leading to growth stocks
+Additional Information: 
+('path', 'IN', 'park')

@@ -1,8 +1,4 @@
 Original Sentence: 
-Addison is no stranger to cans of worms either
+California Thefts Make Travel Agents Jittery
 Additional Information: 
-('stranger', 'happy')
-('can', 'ON', 'sidewalk')
-('can', 'trash')
-('worm', 'held in', 'beak')
-('worm', 'green')
+('travel', 'guide', 'book')

@@ -1,5 +1,4 @@
 Original Sentence: 
-So why even consider stacking freeways now
+Smaller projects swell the figure to at least 2.5 billion
 Additional Information: 
-('freeway', 'IN', 'background')
-('freeway', 'curved')
+('sidewalk', 'among', 'project')

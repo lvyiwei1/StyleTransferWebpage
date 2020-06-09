@@ -1,5 +1,4 @@
 Original Sentence: 
-It 's very worrying that these markets ca n't cope
+And for Ms. Baker the ride was far from over
 Additional Information: 
-('market', 'filled with', 'green peppers')
-('market', 'outdoor')
+('ride', 'ON', 'dock')

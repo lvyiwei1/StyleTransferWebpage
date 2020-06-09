@@ -1,5 +1,4 @@
 Original Sentence: 
-The 6 3\/4 % notes yield 6.25 %
+We were coming down straight into their canal
 Additional Information: 
-('note', 'on a', 'cork board')
-('note', 'yellow')
+('canal', 'full of', 'water')

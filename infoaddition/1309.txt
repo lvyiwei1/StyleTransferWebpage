@@ -1,5 +1,4 @@
 Original Sentence: 
-Other RJR securities also closed higher
+It 's like squeezing a balloon Dr. Bailit said
 Additional Information: 
-('security', 'ON', 'wall')
-('security', 'standing')
+('balloon', 'IN', 'sky')

@@ -1,8 +1,4 @@
 Original Sentence: 
-But a flurry of late trading yesterday beefed up prices
+Certain details of the restructured facilities remain to be negotiated
 Additional Information: 
-('flurry', 'OF', 'snow')
-('flurry', 'big')
-('red t', 'IN', 'trading')
-('price', 'tag', 'roll')
-('price', 'written')
+('facility', 'skateboarding')

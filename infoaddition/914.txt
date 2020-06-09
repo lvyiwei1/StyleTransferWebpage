@@ -1,7 +1,4 @@
 Original Sentence: 
-Police detained more than 350 people
+Most public-health measures were handled at the local level
 Additional Information: 
-('police', 'ON', 'windscreen')
-('police', 'riding')
-('people', 'are enjoying', 'outdoors')
-('people', 'standing')
+('level', 'has', 'light')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Both men were also relieved of their duties yesterday
+Mr. Roman appears custom-made for the American Express job
 Additional Information: 
-('men', 'ON', 'water')
-('men', 'standing')
+('job', 'decorative')

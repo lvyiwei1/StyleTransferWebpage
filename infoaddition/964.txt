@@ -1,5 +1,4 @@
 Original Sentence: 
-Every witness receives a formal subpoena Rep. Gonzalez told him
+The rest is of course history
 Additional Information: 
-('boy', 'has', 'witness')
-('witness', 'black')
+('course', 'green')

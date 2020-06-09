@@ -1,5 +1,4 @@
 Original Sentence: 
-Lindens need about 36 feet
+Piping in a waste-treatment plant needed immediate repairs
 Additional Information: 
-('foot', 'ON', 'plush')
-('foot', 'bare')
+('piping', 'silver')

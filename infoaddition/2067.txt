@@ -1,0 +1,4 @@
+Original Sentence: 
+The interviews took place two years ago
+Additional Information: 
+('place', 'made of', 'wood')

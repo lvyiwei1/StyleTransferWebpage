@@ -1,9 +1,4 @@
 Original Sentence: 
-Not all funds have raised cash levels of course
+People hold out and try to get a bargain
 Additional Information: 
-('cash', 'ON', 'sign')
-('cash', 'Two round pieces  ')
-('level', 'ON', 'bus')
-('level', 'upper')
-('course', 'OF', 'skate park')
-('course', 'green')
+('people', 'standing')

@@ -1,7 +1,4 @@
 Original Sentence: 
-The board expanded to 17 seats
+Things have grown worse since June 4 Mr. Lai says
 Additional Information: 
-('board', 'on a', 'bench')
-('board', 'white')
-('seat', 'OF', 'toilet')
-('seat', 'black')
+('thing', 'black')

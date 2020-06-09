@@ -1,5 +1,4 @@
 Original Sentence: 
-APARTHEID FOES STAGED a massive anti-government rally in South Africa
+People in Glass houses tend to look stoned
 Additional Information: 
-('people', 'demonstrating in political', 'rally')
-('rally', 'black')
+('people', 'ON', 'bleachers')

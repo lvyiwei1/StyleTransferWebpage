@@ -1,9 +1,4 @@
 Original Sentence: 
-The plant was evacuated and workers sent home
+This being typed in a standing position
 Additional Information: 
-('plant', 'IN', 'vase')
-('plant', 'green')
-('worker', 'next to', 'cash register')
-('worker', 'construction')
-('home', 'ON', 'hilltop')
-('home', 'white')
+('standing', 'in a', 'shirt')

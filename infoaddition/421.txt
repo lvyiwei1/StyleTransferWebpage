@@ -1,6 +1,4 @@
 Original Sentence: 
-Goya Concocts a Milk For Hispanic Tastes
+For Vietnamese these are tricky often treacherous times
 Additional Information: 
-('milk', 'IN', 'cups')
-('milk', 'white')
-('taste', 'reads on', 'tractor trailer')
+('vietnamese', 'white')

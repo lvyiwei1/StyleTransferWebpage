@@ -1,0 +1,4 @@
+Original Sentence: 
+My younger daughter and I are fine
+Additional Information: 
+('daughter', 'small')

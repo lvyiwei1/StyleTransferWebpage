@@ -1,0 +1,4 @@
+Original Sentence: 
+Subsequent margins set by agreement between NatWest and Merrill
+Additional Information: 
+('margin', 'separating', 'photo')

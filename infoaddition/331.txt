@@ -1,5 +1,4 @@
 Original Sentence: 
-Craig Torres contributed to this article
+Some have raised their cash positions to record levels
 Additional Information: 
-('article', 'ON', 'chair')
-('article', 'newspaper')
+('record', 'on top of', 'turntable')

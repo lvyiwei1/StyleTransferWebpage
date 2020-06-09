@@ -1,0 +1,4 @@
+Original Sentence: 
+Mrs. Marcos 's trial is expected to begin in March
+Additional Information: 
+('snow', 'has', 'trial')

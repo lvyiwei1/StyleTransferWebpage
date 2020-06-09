@@ -1,5 +1,4 @@
 Original Sentence: 
-The advance felt more like a technical bounce he said
+Mr. Patel also was placed on three years ' probation
 Additional Information: 
-('bounce', 'behind', 'boy')
-('bounce', 'green')
+('year', 'ON', 'side')

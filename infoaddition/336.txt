@@ -1,5 +1,4 @@
 Original Sentence: 
-This sets things way back
+The CFTC has 90 days to respond to such applications
 Additional Information: 
-('thing', 'behind', 'fence')
-('thing', 'black')
+('day', 'full of', 'day')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The index gained 527.39 Tuesday
+Additional Information: 
+('index', 'is a finger')

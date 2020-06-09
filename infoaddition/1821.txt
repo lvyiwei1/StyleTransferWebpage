@@ -1,0 +1,4 @@
+Original Sentence: 
+Bostic posted 1988 sales of 255 million
+Additional Information: 
+('sale', 'at', 'company')

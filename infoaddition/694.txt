@@ -1,5 +1,4 @@
 Original Sentence: 
-The index gained 527.39 Tuesday
+The supply of experienced civil engineers though is tighter
 Additional Information: 
-('index', 'finger', 'cutting donut')
-('index', 'is a finger')
+('engineer', 'train')

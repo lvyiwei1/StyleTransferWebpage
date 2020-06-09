@@ -1,4 +1,4 @@
 Original Sentence: 
-The outlook for corporate earnings is fairly bleak
+On some days the Nucor plant does n't produce anything
 Additional Information: 
-('outlook', 'ON', 'building')
+('day', 'at', 'beach')

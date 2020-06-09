@@ -1,5 +1,4 @@
 Original Sentence: 
-After cooling the coins are then rewrapped
+There are a lot of them and they have property
 Additional Information: 
-('coin', 'ON', 'back')
-('coin', 'gold')
+('property', 'has', 'ditch')

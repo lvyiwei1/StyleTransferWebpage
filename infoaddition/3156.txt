@@ -1,0 +1,4 @@
+Original Sentence: 
+All prices are as of Monday 's close
+Additional Information: 
+('price', 'written')

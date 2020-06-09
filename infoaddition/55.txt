@@ -1,5 +1,4 @@
 Original Sentence: 
-The price was 3.6 billion yen 25 million
+Japanese stock salesmen selling American bonds
 Additional Information: 
-('price', 'ON', 'tag')
-('price', 'written')
+('stock', 'green')

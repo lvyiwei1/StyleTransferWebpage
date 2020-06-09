@@ -1,0 +1,4 @@
+Original Sentence: 
+The shares are redeemable after the end of 1994
+Additional Information: 
+('end', 'OF', 'tail')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Markets usually get noticed because they soar or plunge
+Additional Information: 
+('market', 'outdoor')

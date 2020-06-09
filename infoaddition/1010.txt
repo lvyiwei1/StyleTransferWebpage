@@ -1,5 +1,4 @@
 Original Sentence: 
-Still there is money to be made
+But city officials say tax revenues are lagging
 Additional Information: 
-('money', 'IN', 'wallet')
-('money', 'paper')
+('official', 'tennis')

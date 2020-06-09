@@ -1,7 +1,4 @@
 Original Sentence: 
-Debt-Burdened Doctors Seek Financial Security
+Outside I spotted two young men lugging blocks of concrete
 Additional Information: 
-('doctor', 'touching', 'equipment')
-('doctor', 'watching')
-('security', 'ON', 'wall')
-('security', 'standing')
+('concrete', 'grey')

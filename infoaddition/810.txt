@@ -1,4 +1,4 @@
 Original Sentence: 
-Everybody was rubber-necking
+Piping in a waste-treatment plant needed immediate repairs
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
+('repair', 'ON', 'wall')

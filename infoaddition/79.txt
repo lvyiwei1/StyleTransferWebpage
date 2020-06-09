@@ -1,5 +1,4 @@
 Original Sentence: 
-That money also would have to be borrowed
+He has a built-in constant longing for lower interest rates
 Additional Information: 
-('money', 'IN', 'wallet')
-('money', 'paper')
+('interest', 'great')

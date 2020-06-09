@@ -1,6 +1,4 @@
 Original Sentence: 
-The flight was rescheduled for today
+But the company declines to comment
 Additional Information: 
-('flight', 'ON', 'building')
-('flight', 'of metal stairs')
-('cow', 'are laying down', 'today')
+('company', 'name')

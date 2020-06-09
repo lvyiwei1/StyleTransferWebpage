@@ -1,5 +1,4 @@
 Original Sentence: 
-They stopped short of resuming diplomatic ties severed in 1979
+The next level down did doors
 Additional Information: 
-('tie', 'around', 'tops')
-('tie', 'black')
+('door', 'white')

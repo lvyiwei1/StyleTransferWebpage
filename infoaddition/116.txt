@@ -1,4 +1,4 @@
 Original Sentence: 
-The IMF has several reasons for requesting the increase
+Proceeds from those sales will be used to reduce debt
 Additional Information: 
-('not', 'in mood right nowhold leg in air for no', 'reason')
+('sale', 'red')

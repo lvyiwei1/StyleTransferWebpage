@@ -1,0 +1,4 @@
+Original Sentence: 
+Evaluating asset-backed securities poses another problem
+Additional Information: 
+('security', 'walking in', 'orange vests')

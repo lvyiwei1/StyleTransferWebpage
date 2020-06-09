@@ -1,5 +1,4 @@
 Original Sentence: 
-They said the price would be around 10 million
+The company also reassigned several executive responsibilities
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
+('executive', 'ON', 'signs')

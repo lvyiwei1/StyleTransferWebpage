@@ -1,7 +1,4 @@
 Original Sentence: 
-Suddenly after about 45 minutes the U.S. markets rallied
+Artists and draftsmen need harder leads
 Additional Information: 
-('minute', 'hand on', 'clock')
-('minute', 'black')
-('market', 'ON', 'sidewalk')
-('market', 'outdoor')
+('lead', 'green')

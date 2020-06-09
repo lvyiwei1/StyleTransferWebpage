@@ -1,4 +1,4 @@
 Original Sentence: 
-Health-insurance costs soared
+He does n't just walk off the mound and weep
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('mound', 'ON', 'field')

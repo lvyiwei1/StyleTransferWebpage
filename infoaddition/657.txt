@@ -1,7 +1,4 @@
 Original Sentence: 
-The Polish rat will eat well this winter
+But Burger King operators independently confirm using Michael 's product
 Additional Information: 
-('rat', 'ON', 'surfboard')
-('rat', 'white')
-('winter', 'sun', 'sky')
-('winter', 'season')
+('operator', 'sitting', 'shed')

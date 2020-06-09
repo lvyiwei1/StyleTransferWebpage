@@ -1,4 +1,4 @@
 Original Sentence: 
-There was no cost estimate for the second phase
+The price was 3.6 billion yen 25 million
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('price', 'ON', 'tag')

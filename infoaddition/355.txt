@@ -1,5 +1,4 @@
 Original Sentence: 
-But the shortages also spawned rampant speculation and spiraling prices
+Analysts and competitors however doubt the numbers were that high
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
+('competitor', 'number', '693')

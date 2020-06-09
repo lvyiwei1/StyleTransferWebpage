@@ -1,5 +1,4 @@
 Original Sentence: 
-But they never materialized and IMA completed the purchase yesterday
+Jewelry Makers Copy Cosmetics Sales Ploys
 Additional Information: 
-('woman', 'wants to', 'purchase')
-('purchase', 'Levy Restaurant')
+('jewelry', 'silver')

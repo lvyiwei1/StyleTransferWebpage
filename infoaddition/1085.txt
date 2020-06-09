@@ -1,5 +1,4 @@
 Original Sentence: 
-Macy acquired those three businesses in May 1988
+The market 's pessimism reflects the gloomy outlook in Detroit
 Additional Information: 
-('business', 'has', 'sign')
-('business', 'here')
+('market', 'for sale at', 'market')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Professional Crisco products are specially made for the foodservice industry
+We have the money to buy
 Additional Information: 
-('product', 'selling on', 'show')
-('product', 'bathroom')
+('money', 'ON', 'table')

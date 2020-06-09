@@ -1,0 +1,4 @@
+Original Sentence: 
+But so-called outer month contracts finished higher
+Additional Information: 
+('month', 'OF', 'picture')

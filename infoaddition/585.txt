@@ -1,7 +1,4 @@
 Original Sentence: 
-The new exchange drew instant recognition from an unwelcome quarter
+Which makes the chase car necessary
 Additional Information: 
-('two women', 'make', 'exchange')
-('plaque', 'for', 'recognition')
-('quarter', 'lying on', 'shelf')
-('quarter', 'silver')
+('chase', 'word')

@@ -1,10 +1,4 @@
 Original Sentence: 
-FOR YEARS costume jewelry makers fought a losing battle
+People in the phone business call this technology 900 click
 Additional Information: 
-('year', 'ON', 'bench')
-('year', 'white')
-('jewelry', 'ON', 'neck')
-('jewelry', 'silver')
-('maker', 'ON', 'countertop')
-('maker', 'coffee')
-('battle', 'close')
+('technology', 'silver')

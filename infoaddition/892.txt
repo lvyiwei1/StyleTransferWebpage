@@ -1,5 +1,4 @@
 Original Sentence: 
-Thus an acquisition may prove the necessary course
+This sets things way back
 Additional Information: 
-('course', 'has a', 'flag')
-('course', 'green')
+('thing', 'behind', 'fence')

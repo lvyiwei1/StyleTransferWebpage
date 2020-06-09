@@ -1,0 +1,4 @@
+Original Sentence: 
+The farmer stands to go
+Additional Information: 
+('farmer', 'beside', 'body')

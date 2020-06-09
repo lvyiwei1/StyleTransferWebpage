@@ -1,9 +1,4 @@
 Original Sentence: 
-Formerly president and treasurer Mr. Lang remains chief executive officer
+In Europe the dollar ended lower in dull trading
 Additional Information: 
-('president', 'at', 'table')
-('president', ' United States')
-('executive', 'ON', 'signs')
-('executive', 'in white')
-('officer', 'ON', 'motorcycle')
-('officer', 'police')
+('dollar', 'twenty')

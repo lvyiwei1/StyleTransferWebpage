@@ -1,5 +1,4 @@
 Original Sentence: 
-I would like to issue a challenge to corporate America
+Now producers hope prices have hit bottom
 Additional Information: 
-('challenge', 'ON', 'truck')
-('challenge', 'word')
+('bottom', 'black')

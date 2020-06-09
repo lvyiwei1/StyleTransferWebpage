@@ -1,0 +1,4 @@
+Original Sentence: 
+For starters some people call Ed and Lorraine Warren
+Additional Information: 
+('starter', 'motorcycle kick')

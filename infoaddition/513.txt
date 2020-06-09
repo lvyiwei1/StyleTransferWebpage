@@ -1,9 +1,4 @@
 Original Sentence: 
-But the new lens became the eye of a storm
+Sound stages echo
 Additional Information: 
-('lens', 'ON', 'goggles')
-('lens', 'black')
-('eye', 'OF', 'bear')
-('eye', 'black')
-('storm', 'IN', 'background')
-('storm', 'coming')
+('stage', 'behind', 'children')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Another contradictory message comes from Businessland Inc. a computer retailer
+Japanese Firms Push Posh Car Showrooms
 Additional Information: 
-('message', 'ON', 'step')
-('message', 'white')
-('computer', 'on top of', 'desk')
-('computer', 'laptop')
+('car', 'ON', 'runway')

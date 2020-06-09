@@ -1,5 +1,4 @@
 Original Sentence: 
-She only put her foot down twice he continues
+Every major maker offers computers with color displays
 Additional Information: 
-('foot', 'ON', 'sheep')
-('foot', 'bare')
+('color', 'ON', 'television')

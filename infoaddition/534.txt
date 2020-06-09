@@ -1,6 +1,4 @@
 Original Sentence: 
-To date scientists have fingered two of these cancer-suppressors
+Oddly enough this presents a problem for the stock
 Additional Information: 
-('date', 'ON', 'picture')
-('date', 'yellow')
-('scientist', 'experimenting with', 'three birds')
+('stock', 'green')

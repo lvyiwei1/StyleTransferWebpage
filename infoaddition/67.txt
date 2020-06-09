@@ -1,6 +1,4 @@
 Original Sentence: 
-Many law firms sponsor their own programs
+Grain milk and meat come next
 Additional Information: 
-('drivers', 'are obeying', 'law')
-('program', 'On screen', 'laptop computer')
-('program', 'wedding')
+('milk', 'in a', 'bottle')

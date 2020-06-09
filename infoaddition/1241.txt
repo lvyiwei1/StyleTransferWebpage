@@ -1,4 +1,4 @@
 Original Sentence: 
-In national over-the-counter trading LIN closed at 104.75 down 2.75
+For them it makes all kinds of sense
 Additional Information: 
-('red t', 'IN', 'trading')
+('kind', 'ON', 'sidewalk')

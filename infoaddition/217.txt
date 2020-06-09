@@ -1,5 +1,4 @@
 Original Sentence: 
-Jeff Rowe contributed to this article
+In this case that 's about 250,000
 Additional Information: 
-('article', 'OF', 'clothing')
-('article', 'newspaper')
+('case', 'has', 'lettering')

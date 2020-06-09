@@ -1,0 +1,4 @@
+Original Sentence: 
+But quite a few money managers are n't buying it
+Additional Information: 
+('money', 'IN', 'hand')

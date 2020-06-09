@@ -1,0 +1,4 @@
+Original Sentence: 
+Long-term Treasury bonds ended slightly higher
+Additional Information: 
+('bond', 'black ')

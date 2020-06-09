@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Morishita considers himself a connoisseur of art
+The rest is of course history
 Additional Information: 
-('art', 'drawn on', 'wall')
-('art', 'framed')
+('course', 'with', 'bunker')

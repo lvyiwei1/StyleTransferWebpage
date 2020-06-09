@@ -1,0 +1,4 @@
+Original Sentence: 
+Japanese department stores are also wary of attracting negative publicity
+Additional Information: 
+('store', 'red')

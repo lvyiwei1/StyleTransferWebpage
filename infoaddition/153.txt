@@ -1,5 +1,4 @@
 Original Sentence: 
-The computer 's miscalculation has been painful for Renaissance
+We found a market niche Mr. Mills boasts
 Additional Information: 
-('computer', 'has a', 'keyboard')
-('computer', 'laptop')
+('niche', 'IN', 'building')

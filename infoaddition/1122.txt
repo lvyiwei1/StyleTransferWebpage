@@ -1,6 +1,4 @@
 Original Sentence: 
-Defining combat aircraft is even tougher
+The issue includes 100 million of insured senior lien bonds
 Additional Information: 
-('combat', 'ON', 'train')
-('aircraft', 'IN', 'air')
-('aircraft', 'small')
+('bond', 'black ')

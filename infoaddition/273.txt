@@ -1,7 +1,4 @@
 Original Sentence: 
-After a while someone has to go over the side
+The company is a Mexico Mo. maker of refractory products
 Additional Information: 
-('someone', 'holding', 'cellphone')
-('someone', 'standing')
-('side', 'OF', 'boat')
-('side', 'white')
+('maker', 'coffee')

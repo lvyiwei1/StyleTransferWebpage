@@ -1,6 +1,4 @@
 Original Sentence: 
-CNBC is available to 13 million cable households
+ESB directors warmly accepted but a whirlwind bidding match ensued
 Additional Information: 
-('cable', 'ON', 'desk top')
-('cable', 'black')
-('toothbrushes', 'IN', 'household')
+('vest', 'ON', 'director')

@@ -1,0 +1,4 @@
+Original Sentence: 
+They currently have large orders for cargo planes
+Additional Information: 
+('cargo', 'white')

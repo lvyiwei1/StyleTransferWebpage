@@ -1,5 +1,4 @@
 Original Sentence: 
-Rainbow 's stock dropped 2 to 14 1\/4
+The gene thus can prevent a plant from fertilizing itself
 Additional Information: 
-('stock', 'ON', 'engine')
-('stock', 'green')
+('plant', 'green')

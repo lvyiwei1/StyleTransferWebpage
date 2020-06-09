@@ -1,5 +1,4 @@
 Original Sentence: 
-Dentsu has U.S. subsidiaries but they keep low profiles
+Certain details of the restructured facilities remain to be negotiated
 Additional Information: 
-('profile', 'OF', 'elephant')
-('profile', 'side')
+('facility', 'near', 'river')

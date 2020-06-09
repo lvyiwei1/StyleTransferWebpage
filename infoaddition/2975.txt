@@ -1,0 +1,4 @@
+Original Sentence: 
+But again they may need the help of the machinists
+Additional Information: 
+('poster', 'says', 'help')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Many brokerage house officials also are optimistic
+Additional Information: 
+('house', 'white')

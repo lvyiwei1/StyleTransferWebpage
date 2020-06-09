@@ -1,0 +1,4 @@
+Original Sentence: 
+These are the raw materials used in making plastics
+Additional Information: 
+('plastic', 'ON', 'desk')

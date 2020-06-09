@@ -1,11 +1,4 @@
 Original Sentence: 
-Jewelry displays in department stores were often cluttered and uninspired
+Characters complain ceaselessly about food queues prices and corruption
 Additional Information: 
-('jewelry', 'IN', 'case')
-('jewelry', 'silver')
-('display', 'ON', 'bus')
-('display', 'digital')
-('horse', 'used', 'department')
-('department', 'British police ')
-('store', 'OF', 'wine')
-('store', 'red')
+('price', 'written')

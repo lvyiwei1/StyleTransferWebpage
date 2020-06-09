@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Bandow is a Cato Institute fellow
+Long-term CDs declined just a fraction
 Additional Information: 
-('fellow', 'has', 'hair')
-('fellow', 'dressed nicely')
+('fraction', 'here')

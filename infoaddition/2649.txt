@@ -1,0 +1,4 @@
+Original Sentence: 
+The plan lacked a withdrawal timetable
+Additional Information: 
+('plan', 'air')

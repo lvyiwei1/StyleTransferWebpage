@@ -1,0 +1,4 @@
+Original Sentence: 
+This deal is like a Roach Motel he said
+Additional Information: 
+('deal', 'great')

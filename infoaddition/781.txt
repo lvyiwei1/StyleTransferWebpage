@@ -1,5 +1,4 @@
 Original Sentence: 
-Currently the company has about six million common shares outstanding
+They lost the entertainment crown and they needed one
 Additional Information: 
-('company', 'calls', 'flowering mills')
-('company', 'name')
+('crown', 'drawn on', 'tower')

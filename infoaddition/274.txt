@@ -1,7 +1,4 @@
 Original Sentence: 
-Offices of the city 's Rent Board were destroyed
+The company is a Mexico Mo. maker of refractory products
 Additional Information: 
-('office', 'with', 'computers')
-('office', 'small')
-('city', 'standing', 'plane')
-('city', 'large')
+('product', 'IN', 'box')

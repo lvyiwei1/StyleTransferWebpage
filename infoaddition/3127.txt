@@ -1,0 +1,4 @@
+Original Sentence: 
+Advertisers are showing interest
+Additional Information: 
+('people', 'showing', 'interest')

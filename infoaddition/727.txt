@@ -1,6 +1,4 @@
 Original Sentence: 
-The year was misstated in Friday 's editions
+And that naturally exacerbates price movements
 Additional Information: 
-('year', 'OF', 'picture')
-('year', 'white')
-('edition', 'word')
+('movement', 'of pointed lines over', 'dots')

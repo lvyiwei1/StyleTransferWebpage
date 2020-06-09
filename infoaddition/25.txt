@@ -1,6 +1,4 @@
 Original Sentence: 
-The entire division employs about 850 workers
+Some forms of private property would be sanctioned
 Additional Information: 
-('division', 'between', 'train cars')
-('worker', 'IN', 'snow.')
-('worker', 'construction')
+('property', 'waterfront')

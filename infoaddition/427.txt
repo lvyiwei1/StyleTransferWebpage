@@ -1,6 +1,4 @@
 Original Sentence: 
-The comic strip has a magical everlasting quality about it
+Mr. Patel also was placed on three years ' probation
 Additional Information: 
-('strip', 'separating', 'lane')
-('strip', 'white')
-('photo', 'has', 'quality')
+('year', 'white')

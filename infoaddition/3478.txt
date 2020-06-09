@@ -1,0 +1,4 @@
+Original Sentence: 
+Over the next few years I would advise caution
+Additional Information: 
+('caution', 'sign at a skate', 'park')

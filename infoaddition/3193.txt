@@ -1,0 +1,4 @@
+Original Sentence: 
+Which cars do Americans favor most these days
+Additional Information: 
+('car', 'parked')

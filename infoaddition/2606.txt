@@ -1,0 +1,4 @@
+Original Sentence: 
+Who is going to carry the water
+Additional Information: 
+('water', 'has', 'splashes')

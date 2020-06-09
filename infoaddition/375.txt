@@ -1,5 +1,4 @@
 Original Sentence: 
-Needless to say it was an interesting first session
+There 's nothing like skin to skin
 Additional Information: 
-('screen', 'showing', 'session')
-('session', 'skype  ')
+('skin', 'ON', 'fruit')

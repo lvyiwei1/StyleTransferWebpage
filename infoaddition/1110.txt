@@ -1,6 +1,4 @@
 Original Sentence: 
-The company plans to be fully operational today
+He started building the files that helped him gain power
 Additional Information: 
-('company', 'made', 'snowboard')
-('company', 'name')
-('cow', 'are laying down', 'today')
+('file', 'open on', 'laptop')

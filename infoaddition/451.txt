@@ -1,7 +1,4 @@
 Original Sentence: 
-I 'm talking about landing in a canal
+Adverse pressure on gross margins has subsided Mr. Sculley said
 Additional Information: 
-('landing', 'gear', 'underneath')
-('landing', 'gear')
-('canal', 'near', 'pathway')
-('canal', 'calm')
+('margin', 'thick')

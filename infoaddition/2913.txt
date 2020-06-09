@@ -1,0 +1,4 @@
+Original Sentence: 
+December delivery gold fell 1.80 an ounce to 370.60
+Additional Information: 
+('gold', 'brown')

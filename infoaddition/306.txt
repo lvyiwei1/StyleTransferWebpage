@@ -1,9 +1,4 @@
 Original Sentence: 
-Piping in a waste-treatment plant needed immediate repairs
+The channel reaches 6.5 million homes a Penney spokesman said
 Additional Information: 
-('piping', 'under', 'seat')
-('piping', 'silver')
-('plant', 'next to', 'bookcase')
-('plant', 'green')
-('repair', 'ON', 'wall')
-('repair', 'reconstruction')
+('home', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The market during the start-up is estimated at 25,000 subscribers
+Additional Information: 
+('market', 'selling', 'fruit')

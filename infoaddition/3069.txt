@@ -1,0 +1,4 @@
+Original Sentence: 
+The stock was trading at 69 just two weeks ago
+Additional Information: 
+('stock', 'OF', 'broccoli')

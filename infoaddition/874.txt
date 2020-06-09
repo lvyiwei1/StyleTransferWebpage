@@ -1,4 +1,4 @@
 Original Sentence: 
-Last week CBS Inc. canceled The People Next Door
+Nevertheless the device has been successful in other ways
 Additional Information: 
-('day', 'OF', 'week')
+('way', 'walk')

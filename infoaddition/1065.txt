@@ -1,4 +1,4 @@
 Original Sentence: 
-A 35-nation environmental conference opened in Sofia Bulgaria
+Reagan Era Young Hold Liberal Views
 Additional Information: 
-('people', 'are at a', 'conference')
+('young', 'ON', 'street sign')

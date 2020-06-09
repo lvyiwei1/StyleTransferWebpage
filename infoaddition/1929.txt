@@ -1,0 +1,4 @@
+Original Sentence: 
+The experiment was stopped briefly to change an instrument
+Additional Information: 
+('instrument', 'ON', 'mantle')

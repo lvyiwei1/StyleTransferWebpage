@@ -1,0 +1,4 @@
+Original Sentence: 
+The investment is worth about 130 today
+Additional Information: 
+('sign', 'reads', 'today')

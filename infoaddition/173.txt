@@ -1,5 +1,4 @@
 Original Sentence: 
-Mrs. Allen is a senior editor of Insight magazine
+He throws something
 Additional Information: 
-('magazine', 'ON', 'wall')
-('magazine', 'open')
+('something', 'red')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Gelbart also has fun with language
+Additional Information: 
+('language', 'ON', 'sign')

@@ -1,6 +1,4 @@
 Original Sentence: 
-But not everybody was making money
+The anthers in these plants are difficult to clip off
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
-('money', 'ON', 'table')
-('money', 'paper')
+('plant', 'green')

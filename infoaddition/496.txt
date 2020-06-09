@@ -1,11 +1,4 @@
 Original Sentence: 
-Figgie is a fire protection electronics and industrial products concern
+But wait a second
 Additional Information: 
-('fire', 'inside', 'pizza oven')
-('fire', 'orange')
-('protection', 'for', 'eyes')
-('protection', 'black')
-('electronics', 'below', 'tv')
-('electronics', 'black')
-('product', 'on top of', 'counter')
-('product', 'bathroom')
+('second', 'floor', 'balcony')

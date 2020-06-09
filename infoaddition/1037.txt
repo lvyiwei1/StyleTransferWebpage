@@ -1,5 +1,4 @@
 Original Sentence: 
-The Bakersfield Supermarket went out of business last May
+Brokers agreed with the two-tier price theory
 Additional Information: 
-('business', 'IN', 'city')
-('business', 'here')
+('price', 'ON', 'sign')

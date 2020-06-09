@@ -1,5 +1,4 @@
 Original Sentence: 
-Noriega managed the whole thing
+The second time he says they left the shovel
 Additional Information: 
-('thing', 'next to', 'sofa')
-('thing', 'black')
+('time', 'ON', 'clock')

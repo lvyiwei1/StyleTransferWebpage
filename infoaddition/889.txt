@@ -1,7 +1,4 @@
 Original Sentence: 
-Further staff cuts are likely the spokesman indicated
+That included capital gains that were passed along to customers
 Additional Information: 
-('staff', 'IN', 'clothes')
-('staff', 'kitchen')
-('cut', 'ON', 'elbow')
-('cut', 'small')
+('customer', 'waiting to buy', 'seafood')

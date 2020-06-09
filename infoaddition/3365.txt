@@ -1,0 +1,4 @@
+Original Sentence: 
+The CD seemed like a great deal
+Additional Information: 
+('deal', 'great')

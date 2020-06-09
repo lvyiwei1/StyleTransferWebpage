@@ -1,5 +1,4 @@
 Original Sentence: 
-But the ballplayers disagree
+The billion-dollar question is How much are those benefits worth
 Additional Information: 
-('ballplayer', 'WEARING', 't-shirt')
-('ballplayer', 'waiting')
+('question', 'black')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Making computers smaller often means sacrificing memory
+Moscow and Kabul must have found that information useful
 Additional Information: 
-('computer', 'ON', 'desk')
-('computer', 'laptop')
+('information', 'ON', 'bottom')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Put these together and you get programs about rape
+Related Roommates Trim Hospital Bills
 Additional Information: 
-('program', 'On screen', 'laptop computer')
-('program', 'wedding')
+('bill', 'on front of', 'hat')

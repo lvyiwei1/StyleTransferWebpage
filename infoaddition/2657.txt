@@ -1,0 +1,4 @@
+Original Sentence: 
+Why did East Bloc participants unanimously endorse market-based pollution approaches
+Additional Information: 
+('participant', 'at top of', 'ramp')

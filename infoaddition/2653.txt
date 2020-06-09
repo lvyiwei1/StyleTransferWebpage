@@ -1,0 +1,4 @@
+Original Sentence: 
+He earned a master 's degree in architecture from Yale
+Additional Information: 
+('architecture', 'has a', 'clock')

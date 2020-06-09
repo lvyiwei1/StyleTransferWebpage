@@ -1,5 +1,4 @@
 Original Sentence: 
-It reduces the baseline by 169 billion
+She was the child of relative privilege
 Additional Information: 
-('baseline', 'ON', 'grass')
-('baseline', 'white')
+('child', 'standing at', 'ocean')

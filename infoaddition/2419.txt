@@ -1,0 +1,4 @@
+Original Sentence: 
+Texans Get Reasonable Car Rental Insurance
+Additional Information: 
+('advertisement', 'for', 'insurance')

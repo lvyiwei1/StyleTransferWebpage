@@ -1,5 +1,4 @@
 Original Sentence: 
-Revenue doubled from two years ago
+Changing the outcome of the trial is what really matters
 Additional Information: 
-('year', 'IN', 'corner')
-('year', 'white')
+('snow', 'has', 'trial')

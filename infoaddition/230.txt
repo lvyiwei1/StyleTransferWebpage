@@ -1,5 +1,4 @@
 Original Sentence: 
-No doubt he believes the place can be salvaged
+But it 's just one of those things that happened
 Additional Information: 
-('place', 'for', 'conductor')
-('place', 'full')
+('thing', 'stuck on', 'refrigerator')

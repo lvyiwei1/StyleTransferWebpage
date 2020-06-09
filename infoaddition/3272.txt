@@ -1,0 +1,4 @@
+Original Sentence: 
+The farmer at the next truck shouts Wheat
+Additional Information: 
+('truck', 'has', 'dodge logo')

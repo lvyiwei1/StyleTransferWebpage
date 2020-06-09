@@ -1,7 +1,4 @@
 Original Sentence: 
-The closely held company has n't disclosed sales
+There 's nothing like skin to skin
 Additional Information: 
-('company', 'ON', 'bus')
-('company', 'name')
-('sale', 'at', 'company')
-('sale', 'red')
+('nothing', 'to', 'write')

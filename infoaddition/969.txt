@@ -1,9 +1,4 @@
 Original Sentence: 
-Wisconsin Toy has 71 retail stores primarily in discount settings
+Those activities generated 26.1 million in operating profit last year
 Additional Information: 
-('store', 'has', 'presents')
-('store', 'red')
-('discount', 'ON', 'window')
-('discount', 'written')
-('setting', 'OF', 'silverware')
-('setting', 'urban')
+('activity', 'IN', 'bathroom')

@@ -1,0 +1,4 @@
+Original Sentence: 
+In the 1988 quarter the bank earned 1.1 million
+Additional Information: 
+('quarter', 'silver')

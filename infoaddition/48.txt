@@ -1,5 +1,4 @@
 Original Sentence: 
-Last year 45,000 went
+Most investment-grade bonds fell 3\/8 to 1\/2 point
 Additional Information: 
-('year', 'OF', 'picture')
-('year', 'white')
+('bond', 'black ')

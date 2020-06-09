@@ -1,0 +1,4 @@
+Original Sentence: 
+People had died
+Additional Information: 
+('people', 'riding on', 'horses')

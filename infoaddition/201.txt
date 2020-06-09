@@ -1,5 +1,4 @@
 Original Sentence: 
-It is the New Journalism come to television
+The ventilation here is great
 Additional Information: 
-('television', 'has', 'large screen')
-('television', 'black')
+('ventilation', 'black')

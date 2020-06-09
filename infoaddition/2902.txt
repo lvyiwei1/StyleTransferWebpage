@@ -1,0 +1,4 @@
+Original Sentence: 
+But the shift has also been fueled by necessity
+Additional Information: 
+('shift', 'ON', 'keyboard')

@@ -1,5 +1,4 @@
 Original Sentence: 
-He bought at share prices ranging from 9.375 to 9.625
+Two segments posted lower earnings for the quarter
 Additional Information: 
-('price', 'ON', 'tag')
-('price', 'written')
+('quarter', 'silver')

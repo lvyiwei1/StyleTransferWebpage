@@ -1,5 +1,4 @@
 Original Sentence: 
-Earnings of female workers were unchanged
+None of these chief executives were available for comment
 Additional Information: 
-('worker', 'ON', 'ground')
-('worker', 'construction')
+('executive', 'ON', 'signs')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Among other things the brief cited insufficient evidence
+Big withdrawals from the junk funds have continued this month
 Additional Information: 
-('thing', 'under', 'airplane')
-('thing', 'black')
+('month', 'OF', 'picture')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Some economists expect further declines in investment spending
+But it 's in very early stages still
 Additional Information: 
-('decline', ' of grass')
+('stage', 'inside of', 'canopy')

@@ -1,0 +1,4 @@
+Original Sentence: 
+But the problem clearly is widespread and persistent
+Additional Information: 
+('plane', 'has', 'problem')

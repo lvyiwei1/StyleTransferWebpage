@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Spielvogel said he would n't launch a hostile bid
+The company is a Mexico Mo. maker of refractory products
 Additional Information: 
-('bid', 'ON', 'shoulder')
-('bid', 'metal')
+('company', 'ON', 'building')

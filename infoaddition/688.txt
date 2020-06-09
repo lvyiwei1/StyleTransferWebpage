@@ -1,5 +1,4 @@
 Original Sentence: 
-The jokes are n't just on the Japanese though
+Jeff Rowe contributed to this article
 Additional Information: 
-('joke', 'spray painted on', 'entertainment system')
-('joke', 'vulgar')
+('article', 'newspaper')

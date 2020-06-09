@@ -1,5 +1,4 @@
 Original Sentence: 
-Joann S. Lublin contributed to this article
+Among her OTC picks are Oshkosh B'Gosh and A&W Brands
 Additional Information: 
-('article', 'OF', 'clothing')
-('article', 'newspaper')
+('pick', 'tooth')

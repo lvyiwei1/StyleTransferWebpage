@@ -1,9 +1,4 @@
 Original Sentence: 
-That 's the path of reasoning leading to growth stocks
+They stroll through the marble-encased corridors of the Atrium Court
 Additional Information: 
-('path', 'IN', 'park')
-('path', 'dirt')
-('growth', 'on', 'branches')
-('growth', 'green')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('corridor', 'long')

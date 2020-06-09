@@ -1,0 +1,4 @@
+Original Sentence: 
+The notes can be redeemed starting in July 1991
+Additional Information: 
+('note', 'yellow')

@@ -1,5 +1,4 @@
 Original Sentence: 
-She retains her duties of human-resources director
+The cats are fine although nervous
 Additional Information: 
-('vest', 'ON', 'director')
-('director', 'caucasian')
+('cat', 'sleeping on', 'window sill')

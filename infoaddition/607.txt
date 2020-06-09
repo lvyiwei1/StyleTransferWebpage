@@ -1,7 +1,4 @@
 Original Sentence: 
-UNIFIRST Corp. declared a 2-for-1 stock split
+In other words Get rid of all the pictures
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('split', 'ON', 'tracks')
-('split', 'long')
+('picture', 'framed')

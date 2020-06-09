@@ -1,5 +1,4 @@
 Original Sentence: 
-It all adds up to a cold winter here
+Seats currently are quoted at 400,000 bid 425,000 asked
 Additional Information: 
-('winter', 'trees', 'background')
-('winter', 'season')
+('seat', 'ON', 'bicycle')

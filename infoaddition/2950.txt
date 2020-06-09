@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Smith angered Federal 's pilots too
+Additional Information: 
+('pilot', 'OF', 'fighter')

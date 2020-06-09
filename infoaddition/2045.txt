@@ -1,0 +1,4 @@
+Original Sentence: 
+What is the mission of the financial community
+Additional Information: 
+('community', 'here')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The company also makes optical character recognition equipment
+Additional Information: 
+('character', 'foreign')

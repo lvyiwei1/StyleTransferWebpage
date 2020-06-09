@@ -1,7 +1,4 @@
 Original Sentence: 
-The envelope arrives in the mail
+The percentage change is since year-end
 Additional Information: 
-('envelope', 'ON', 'wall')
-('envelope', 'white')
-('mail', 'ON', 'table')
-('mail', 'white')
+('coupon', 'has', 'percentage')

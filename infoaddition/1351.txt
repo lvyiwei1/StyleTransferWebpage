@@ -1,0 +1,4 @@
+Original Sentence: 
+It should read Have You Anything Left
+Additional Information: 
+('part', 'of a speaker not connected to', 'anything')

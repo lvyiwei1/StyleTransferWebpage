@@ -1,7 +1,4 @@
 Original Sentence: 
-Randy Delchamps retains his position as president
+And even though employees paid the bill taxpayers grumbled
 Additional Information: 
-('man', 'IN', 'position')
-('position', 'upright')
-('president', 'ON', 'television')
-('president', ' United States')
+('employee', 'airport')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Interest rates barely budged from Tuesday 's levels
+By this month it had more than doubled
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
-('level', 'has', 'light')
-('level', 'upper')
+('month', 'ninth')

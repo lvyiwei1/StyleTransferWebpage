@@ -1,0 +1,4 @@
+Original Sentence: 
+Then he unleashed his own unstoppable attack
+Additional Information: 
+('attack', 'are', 'attack')

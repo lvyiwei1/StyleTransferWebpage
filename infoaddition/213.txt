@@ -1,5 +1,4 @@
 Original Sentence: 
-But funds generally are better prepared this time around
+That money also would have to be borrowed
 Additional Information: 
-('time', 'ON', 'microwave')
-('time', 'displayed')
+('money', 'paper')

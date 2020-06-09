@@ -1,5 +1,4 @@
 Original Sentence: 
-That will spur Tandem 's growth
+It is a quick fix for a complex problem
 Additional Information: 
-('growth', 'IN', 'field')
-('growth', 'green')
+('plane', 'has', 'problem')

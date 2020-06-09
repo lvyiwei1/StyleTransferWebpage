@@ -1,0 +1,4 @@
+Original Sentence: 
+The jokes are n't just on the Japanese though
+Additional Information: 
+('joke', 'vulgar')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Still fund groups are n't taking any chances
+The daily volume for Treasury Securities is about 110 billion
 Additional Information: 
-('group', 'OF', 'zebras')
-('group', 'large')
+('volume', '3')

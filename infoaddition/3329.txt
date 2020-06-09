@@ -1,0 +1,4 @@
+Original Sentence: 
+The last Taxpayer Compliance Measurement Program survey covered 1985 returns
+Additional Information: 
+('return', 'ON', 'street')

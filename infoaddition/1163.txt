@@ -1,7 +1,4 @@
 Original Sentence: 
-It is also planning another night of original series
+Firms Walk Fine Line In Distributing Profits
 Additional Information: 
-('night', 'black', 'sky')
-('night', 'black')
-('series', 'of posted American', 'flags')
-('series', 'of ski gates')
+('line', 'ON', 'vest')

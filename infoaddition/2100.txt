@@ -1,0 +1,4 @@
+Original Sentence: 
+A foul-smelling demon supposedly plagued a house in Mannington Ky
+Additional Information: 
+('demon', 'on a', 'magazine')

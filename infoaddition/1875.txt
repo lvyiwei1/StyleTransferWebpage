@@ -1,0 +1,4 @@
+Original Sentence: 
+The fundamentals do n't change in an hour he says
+Additional Information: 
+('hour', 'hand', '5')

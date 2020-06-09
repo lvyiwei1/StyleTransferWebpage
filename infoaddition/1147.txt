@@ -1,6 +1,4 @@
 Original Sentence: 
-The stock was trading at 69 just two weeks ago
+Their problem is one of inefficiency of an industrial economy
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('day', 'OF', 'week')
+('plane', 'has', 'problem')

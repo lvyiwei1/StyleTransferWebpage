@@ -1,7 +1,4 @@
 Original Sentence: 
-Seats currently are quoted at 400,000 bid 425,000 asked
+Last year 45,000 went
 Additional Information: 
-('seat', 'ON', 'bicycle')
-('seat', 'black')
-('bid', 'ON', 'shoulder')
-('bid', 'metal')
+('year', 'OF', 'picture')

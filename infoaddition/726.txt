@@ -1,5 +1,4 @@
 Original Sentence: 
-The system also provides course-correction advisories
+And that naturally exacerbates price movements
 Additional Information: 
-('system', 'ON', 'table')
-('system', 'black')
+('price', 'written')

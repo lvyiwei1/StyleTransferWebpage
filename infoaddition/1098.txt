@@ -1,6 +1,4 @@
 Original Sentence: 
-We recognized the problem and took care of it
+And even though employees paid the bill taxpayers grumbled
 Additional Information: 
-('plane', 'has', 'problem')
-('fence', 'encloses', 'care')
-('care', 'red')
+('employee', 'sets', 'table')

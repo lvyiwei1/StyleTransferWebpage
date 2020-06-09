@@ -1,0 +1,4 @@
+Original Sentence: 
+Conner already is shipping its new drives
+Additional Information: 
+('drive', 'white')

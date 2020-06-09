@@ -1,0 +1,4 @@
+Original Sentence: 
+The worst-case scenario would be if the put expires worthless
+Additional Information: 
+('people', 'IN', 'scenario')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Read my lips said Mr. Smith
+Additional Information: 
+('lip', 'of a', 'giraffe')

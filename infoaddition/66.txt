@@ -1,6 +1,4 @@
 Original Sentence: 
-Bond prices also edged higher
+Grain milk and meat come next
 Additional Information: 
-('bond', 'black ')
-('price', 'ON', 'sign')
-('price', 'written')
+('grain', 'wood')

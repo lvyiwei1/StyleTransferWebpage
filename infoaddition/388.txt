@@ -1,5 +1,4 @@
 Original Sentence: 
-Kyle manufactures electronic components
+FOR YEARS costume jewelry makers fought a losing battle
 Additional Information: 
-('component', 'in a', 'bowl')
-('component', 'blue')
+('year', 'white')

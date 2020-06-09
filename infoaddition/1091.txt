@@ -1,4 +1,4 @@
 Original Sentence: 
-The Russians are talking peace
+ESB directors warmly accepted but a whirlwind bidding match ensued
 Additional Information: 
-('peace', 'ON', 'pillow')
+('match', 'tennis')

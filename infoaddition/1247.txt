@@ -1,4 +1,4 @@
 Original Sentence: 
-In some industries like pharmaceuticals acquisitions make sense
+There are a lot of them and they have property
 Additional Information: 
-('phrase', 'makes no', 'sense')
+('lot', 'made of', 'grey brick pavers')

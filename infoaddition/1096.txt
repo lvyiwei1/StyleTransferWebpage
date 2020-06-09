@@ -1,4 +1,4 @@
 Original Sentence: 
-At last report Enfield had about 44.5 million shares outstanding
+Why did he add the Value Fund to the list
 Additional Information: 
-('report', 'ON', 'green paper')
+('list', 'ON', 'screen')

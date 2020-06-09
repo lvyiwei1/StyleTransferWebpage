@@ -1,0 +1,4 @@
+Original Sentence: 
+Now the question is Is Poland ready for it
+Additional Information: 
+('question', 'black')

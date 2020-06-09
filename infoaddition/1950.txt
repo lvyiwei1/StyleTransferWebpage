@@ -1,0 +1,4 @@
+Original Sentence: 
+The other element includes consolidating BethForge 's press-forge operations
+Additional Information: 
+('element', 'next to', 'decorative round')

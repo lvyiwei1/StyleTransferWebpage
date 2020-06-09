@@ -1,5 +1,4 @@
 Original Sentence: 
-They allowed this country to be credible
+American Express card charge volume rose 12 %
 Additional Information: 
-('country', 'ON', 'skateboard')
-('country', 'foreign')
+('volume', 'ON', 'headphones')

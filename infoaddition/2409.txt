@@ -1,0 +1,4 @@
+Original Sentence: 
+They needed new crises to generate new grants and contracts
+Additional Information: 
+('sign', 'says', 'grant')

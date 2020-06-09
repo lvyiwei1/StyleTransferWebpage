@@ -1,0 +1,4 @@
+Original Sentence: 
+At least it has a little dash
+Additional Information: 
+('dash', 'ON', 'road')

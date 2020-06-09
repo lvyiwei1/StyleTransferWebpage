@@ -1,4 +1,4 @@
 Original Sentence: 
-Third they offer high yields
+We want it to be a '90s kind of image
 Additional Information: 
-('yield', 'on', 'sign')
+('image', 'ON', 'monitor')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Mothers of young AIDS patients expressed somber satisfaction
+The mask cuts to the quick
 Additional Information: 
-('mother', 'WEARING', 'shirt')
-('mother', 'standing')
-('patient', 'ON', 'table')
-('patient', 'nurse')
+('mask', 'ON', 'catcher')

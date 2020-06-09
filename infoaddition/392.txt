@@ -1,5 +1,4 @@
 Original Sentence: 
-The daily volume for Treasury Securities is about 110 billion
+FOR YEARS costume jewelry makers fought a losing battle
 Additional Information: 
-('volume', 'ON', 'keyboard')
-('volume', '3')
+('maker', 'coffee')

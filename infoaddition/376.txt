@@ -1,9 +1,4 @@
 Original Sentence: 
-Characters complain ceaselessly about food queues prices and corruption
+There 's nothing like skin to skin
 Additional Information: 
-('character', 'on', 'sign')
-('character', 'foreign')
-('food', 'IN', 'background')
-('food', 'green')
-('price', 'ON', 'sign')
-('price', 'written')
+('skin', 'wrinkled')

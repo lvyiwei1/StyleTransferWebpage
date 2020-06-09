@@ -1,9 +1,4 @@
 Original Sentence: 
-Yet the state alone sells seeds and machines
+The company paid five cents a share in April
 Additional Information: 
-('state', 'ON', 'hood')
-('state', 'Penn ')
-('seed', 'ON', 'sandwich')
-('seed', 'black')
-('machine', 'IN', 'corner')
-('machine', 'white')
+('company', 'name')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The price was n't disclosed
+It 's a real dog
 Additional Information: 
-('price', 'OF', 'hot dog')
-('price', 'written')
+('dog', 'has', 'ear')

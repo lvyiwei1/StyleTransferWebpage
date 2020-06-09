@@ -1,7 +1,4 @@
 Original Sentence: 
-LUTHER BURBANK CROSS-BRED PLANTS to produce the billion-dollar Idaho potato
+Not all funds have raised cash levels of course
 Additional Information: 
-('plant', 'against', 'wall')
-('plant', 'green')
-('potato', 'with', 'cheese')
-('potato', 'fried')
+('level', 'ON', 'bus')

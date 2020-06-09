@@ -1,5 +1,4 @@
 Original Sentence: 
-How can it make available funds for purchases
+We 'd like to do business in America he says
 Additional Information: 
-('woman', 'wants to', 'purchase')
-('purchase', 'Levy Restaurant')
+('business', 'has', 'awning')

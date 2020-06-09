@@ -1,0 +1,4 @@
+Original Sentence: 
+Police detained more than 350 people
+Additional Information: 
+('police', 'ON', 'windscreen')

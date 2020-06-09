@@ -1,5 +1,4 @@
 Original Sentence: 
-It 's nothing dramatic just a routine sell-off
+It shows a boy hurling rocks at a street lamp
 Additional Information: 
-('nothing', 'IN', 'sky')
-('nothing', 'clear')
+('rock', 'large')

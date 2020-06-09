@@ -1,7 +1,4 @@
 Original Sentence: 
-For starters some people call Ed and Lorraine Warren
+He begins his seven-year term Nov. 9 succeeding Kenan Evren
 Additional Information: 
-('starter', 'ON', 'table')
-('starter', 'motorcycle kick')
-('people', 'IN', 'market')
-('people', 'standing')
+('term', 'house of david')

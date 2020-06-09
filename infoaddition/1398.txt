@@ -1,0 +1,4 @@
+Original Sentence: 
+Our customers watch us for the hidden message he said
+Additional Information: 
+('message', 'white')

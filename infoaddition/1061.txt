@@ -1,5 +1,4 @@
 Original Sentence: 
-Read my lips said Mr. Smith
+Warnaco also owns Warners another major intimate apparel maker
 Additional Information: 
-('lip', 'of a', 'giraffe')
-('lip', 'pink')
+('child', 'IN', 'apparel')

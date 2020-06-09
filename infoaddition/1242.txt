@@ -1,5 +1,4 @@
 Original Sentence: 
-Liquidity is not a service
+For them it makes all kinds of sense
 Additional Information: 
-('service', 'ON', 'sign')
-('service', 'gone')
+('phrase', 'makes no', 'sense')

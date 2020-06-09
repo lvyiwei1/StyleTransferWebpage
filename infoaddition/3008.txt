@@ -1,0 +1,4 @@
+Original Sentence: 
+But one recent day they became much closer
+Additional Information: 
+('day', 'sunny')

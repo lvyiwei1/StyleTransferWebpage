@@ -1,0 +1,4 @@
+Original Sentence: 
+And before last Friday they were actually making modest progress
+Additional Information: 
+('a', 'baseball game in', 'progress')

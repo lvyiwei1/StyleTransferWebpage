@@ -1,0 +1,4 @@
+Original Sentence: 
+Lloyd 's has endured decades of genteel decline
+Additional Information: 
+('decline', ' of grass')

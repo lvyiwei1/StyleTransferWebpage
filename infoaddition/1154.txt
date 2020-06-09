@@ -1,7 +1,4 @@
 Original Sentence: 
-The place costs nearly 2 million a year to maintain
+Japanese Firms Push Posh Car Showrooms
 Additional Information: 
-('place', 'full of', 'snow')
-('place', 'full')
-('year', 'ON', 'building')
-('year', 'white')
+('showroom', 'has white', 'carpet')

@@ -1,0 +1,4 @@
+Original Sentence: 
+New Jersey Bell awaits state clearance
+Additional Information: 
+('state', 'park', 'sign')

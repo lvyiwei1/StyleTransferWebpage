@@ -1,0 +1,4 @@
+Original Sentence: 
+The figures are seasonally adjusted
+Additional Information: 
+('figure', 'on', 'sign board')

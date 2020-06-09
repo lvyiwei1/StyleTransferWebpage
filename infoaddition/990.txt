@@ -1,5 +1,4 @@
 Original Sentence: 
-But others said pico should proceed
+She did n't have hot water for five days
 Additional Information: 
-('others', 'IN', 'background')
-('others', 'three')
+('day', 'sunny')

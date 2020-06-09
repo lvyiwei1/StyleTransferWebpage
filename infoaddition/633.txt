@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales were flat at 7.88 billion
+Mr. Pound responded It 's a deal
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('deal', 'great')

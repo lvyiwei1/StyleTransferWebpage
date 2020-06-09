@@ -1,5 +1,4 @@
 Original Sentence: 
-But by comparison this fluffy comedy seems like a gem
+The turnover in both issues was roughly normal
 Additional Information: 
-('gem', 'ON', 'hat')
-('gem', 'blue')
+('turnover', 'ON', 'paper')

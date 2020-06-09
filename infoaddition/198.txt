@@ -1,7 +1,4 @@
 Original Sentence: 
-His appointment expands the board to 13 members
+The lists total 654.5 million
 Additional Information: 
-('board', 'with a', 'girl')
-('board', 'white')
-('member', 'watching', 'game')
-('member', 'several')
+('list', 'hanging on', 'wall')

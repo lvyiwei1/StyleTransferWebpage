@@ -1,7 +1,4 @@
 Original Sentence: 
-Junk bonds also recovered somewhat though trading remained stalled
+The offering used at-market pricing
 Additional Information: 
-('junk', 'ON', 'bed')
-('junk', 'lots')
-('bond', 'black ')
-('red t', 'IN', 'trading')
+('pricing', 'hand written')

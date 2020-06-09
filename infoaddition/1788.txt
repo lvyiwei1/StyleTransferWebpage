@@ -1,0 +1,4 @@
+Original Sentence: 
+The successors would be nominated by the independent directors
+Additional Information: 
+('director', 'caucasian')

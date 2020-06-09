@@ -1,5 +1,4 @@
 Original Sentence: 
-You think you can go out and turn things around
+Nevertheless the device has been successful in other ways
 Additional Information: 
-('thing', 'ON', 'table')
-('thing', 'black')
+('device', 'electronic')

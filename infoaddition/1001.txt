@@ -1,5 +1,4 @@
 Original Sentence: 
-Kennametal is a carbide-products and cutting-tools company
+Craig Torres and Anne Newman contributed to this article
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
+('article', 'newspaper')

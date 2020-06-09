@@ -1,5 +1,4 @@
 Original Sentence: 
-Gerald F. Seib contributed to this article
+The comic strip has a magical everlasting quality about it
 Additional Information: 
-('article', 'ON', 'chair')
-('article', 'newspaper')
+('strip', 'white')

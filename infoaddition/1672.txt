@@ -1,0 +1,4 @@
+Original Sentence: 
+Morgenzon has long been a special domain of Afrikanerdom
+Additional Information: 
+('domain', 'displayed', 'pic')

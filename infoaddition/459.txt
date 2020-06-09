@@ -1,8 +1,4 @@
 Original Sentence: 
-Those percentages hardly changed from the previous year 's poll
+He is negotiating a rich book contract to boot
 Additional Information: 
-('coupon', 'has', 'percentage')
-('year', 'ON', 'wine')
-('year', 'white')
-('poll', 'ON', 'ground')
-('poll', 'white')
+('book', 'has', 'cover')

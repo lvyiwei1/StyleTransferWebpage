@@ -1,0 +1,4 @@
+Original Sentence: 
+His boss complained about neglect of other chores
+Additional Information: 
+('bos', 'green')

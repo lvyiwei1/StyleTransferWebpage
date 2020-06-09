@@ -1,0 +1,4 @@
+Original Sentence: 
+But the strategy is n't helping much this time
+Additional Information: 
+('time', 'displayed')

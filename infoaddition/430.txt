@@ -1,5 +1,4 @@
 Original Sentence: 
-He does n't just walk off the mound and weep
+This is raising eyebrows
 Additional Information: 
-('mound', 'ON', 'field')
-('mound', 'dirt')
+('eyebrow', 'OF', 'zebra')

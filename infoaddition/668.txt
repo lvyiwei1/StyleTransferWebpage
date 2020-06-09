@@ -1,7 +1,4 @@
 Original Sentence: 
-If you are born to give parties you give parties
+Darkness fell
 Additional Information: 
-('party', 'at a', 'house')
-('party', 'birthday')
-('party', 'at a', 'house')
-('party', 'birthday')
+('darkness', 'above water')

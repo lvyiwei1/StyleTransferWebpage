@@ -1,5 +1,4 @@
 Original Sentence: 
-Some laggard food issues attracted bargain-hunters traders said
+The company sells image
 Additional Information: 
-('food', 'ON', 'paper')
-('food', 'green')
+('company', 'name')

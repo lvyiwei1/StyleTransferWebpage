@@ -1,7 +1,4 @@
 Original Sentence: 
-Her sister Cynthia wishes Toni had a different job
+Certain details of the restructured facilities remain to be negotiated
 Additional Information: 
-('boy', 'looking at', 'sister')
-('sister', 'sitting')
-('job', 'ON', 'bus')
-('job', 'decorative')
+('detail', 'red')

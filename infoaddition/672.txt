@@ -1,5 +1,4 @@
 Original Sentence: 
-What is the way forward
+Long-term CDs declined just a fraction
 Additional Information: 
-('way', 'to', 'house')
-('way', 'walk')
+('cd', 'silver')

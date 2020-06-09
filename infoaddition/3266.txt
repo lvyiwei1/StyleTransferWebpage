@@ -1,0 +1,4 @@
+Original Sentence: 
+The estimate includes the results of new stores
+Additional Information: 
+('store', 'has', 'glass')

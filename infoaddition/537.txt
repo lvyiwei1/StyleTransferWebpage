@@ -1,9 +1,4 @@
 Original Sentence: 
-The ambitious Warsaw project still awaits approval by city officials
+WCRS has been in discussions with Eurocom for several months
 Additional Information: 
-('sidewalk', 'among', 'project')
-('project', 'sewing')
-('city', 'of london in', 'distance')
-('city', 'large')
-('official', 'has', 'shirt')
-('official', 'tennis')
+('man', 'and woman engaged in', 'discussion')

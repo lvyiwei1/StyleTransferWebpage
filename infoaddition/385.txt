@@ -1,7 +1,4 @@
 Original Sentence: 
-They will have to throw their hat in the ring
+Accepted bids were all at 7.962 %
 Additional Information: 
-('hat', 'on top of', 'head')
-('hat', 'black')
-('ring', 'worn around', 'finger')
-('ring', 'silver')
+('bid', 'ON', 'shoulder')

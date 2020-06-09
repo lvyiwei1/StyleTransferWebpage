@@ -1,4 +1,4 @@
 Original Sentence: 
-Other terms to be fixed Nov. 1
+Mr. Jones calls the ranch the Pentagon of Sportdom
 Additional Information: 
-('term', 'house of david')
+('ranch', 'large')

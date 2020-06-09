@@ -1,5 +1,4 @@
 Original Sentence: 
-This is not a major crash she said
+The letter was dated Oct. 6
 Additional Information: 
-('crash', 'of an', 'airplane')
-('crash', 'white')
+('letter', 'white')

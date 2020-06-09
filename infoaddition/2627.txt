@@ -1,0 +1,4 @@
+Original Sentence: 
+It must be accepted by the court
+Additional Information: 
+('court', 'has', 'lines')

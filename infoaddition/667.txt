@@ -1,4 +1,4 @@
 Original Sentence: 
-Male scandal victims invariably fare better
+Darkness fell
 Additional Information: 
-('racket', 'OF', 'victim')
+('darkness', 'behind', 'cats')

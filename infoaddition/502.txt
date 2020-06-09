@@ -1,5 +1,4 @@
 Original Sentence: 
-Closer to home the negotiators were more generous
+And the successful son wishes his embarrassing siblings dead
 Additional Information: 
-('home', 'parked in', 'lot')
-('home', 'white')
+('son', 'young')

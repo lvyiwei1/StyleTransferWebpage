@@ -1,5 +1,4 @@
 Original Sentence: 
-Computer Sciences said its work will improve mail-processing efficiency
+We can lose money on this he says
 Additional Information: 
-('work', 'beside', 'paw')
-('work', 'iron')
+('money', 'under', 'card')

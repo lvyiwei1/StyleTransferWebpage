@@ -1,0 +1,4 @@
+Original Sentence: 
+We had to think about it ahead of time
+Additional Information: 
+('time', 'ON', 'clock')

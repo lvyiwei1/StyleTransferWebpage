@@ -1,7 +1,4 @@
 Original Sentence: 
-When the pilots refused the company retracted it
+Piping in a waste-treatment plant needed immediate repairs
 Additional Information: 
-('pilot', 'OF', 'airplane')
-('pilot', 'walking')
-('company', 'ON', 'photo')
-('company', 'name')
+('plant', 'next to', 'bookcase')

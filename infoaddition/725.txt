@@ -1,6 +1,4 @@
 Original Sentence: 
-But there are no scientific data on this question
+And that naturally exacerbates price movements
 Additional Information: 
-('data', 'ON', 'monitor')
-('data', 'green')
-('question', 'black')
+('price', 'ON', 'bike')

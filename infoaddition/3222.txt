@@ -1,0 +1,4 @@
+Original Sentence: 
+But those would require pilots ' cooperation
+Additional Information: 
+('pilot', 'walking')

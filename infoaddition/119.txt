@@ -1,5 +1,4 @@
 Original Sentence: 
-By this month it had more than doubled
+He bought at share prices ranging from 9.375 to 9.625
 Additional Information: 
-('month', 'around', 'face')
-('month', 'ninth')
+('price', 'ON', 'tag')

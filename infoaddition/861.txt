@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr Pyszkiewicz smiles and his brow furrows
+Junk bonds also recovered somewhat though trading remained stalled
 Additional Information: 
-('brow', 'ON', 'face')
-('brow', 'furrowed')
+('junk', 'ON', 'bed')

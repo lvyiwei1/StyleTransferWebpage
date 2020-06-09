@@ -1,5 +1,4 @@
 Original Sentence: 
-So developers are saying they will look into distressed properties
+We want it to be a '90s kind of image
 Additional Information: 
-('property', 'has', 'ditch')
-('property', 'waterfront')
+('kind', 'ON', 'sidewalk')

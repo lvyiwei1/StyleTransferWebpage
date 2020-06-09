@@ -1,5 +1,4 @@
 Original Sentence: 
-Other details were n't available
+I am aware we have real budgetary problems
 Additional Information: 
-('detail', 'adorning', 'building')
-('detail', 'red')
+('plane', 'has', 'problem')

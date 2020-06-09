@@ -1,5 +1,4 @@
 Original Sentence: 
-We 're about to see if advertising works
+Soldiers and sailors are still measured in inches and pounds
 Additional Information: 
-('advertising', 'ON', 'bus')
-('advertising', 'white')
+('pound', 'has a', 'ten')

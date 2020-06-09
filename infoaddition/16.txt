@@ -1,5 +1,4 @@
 Original Sentence: 
-Stock prices rose
+Take heart sports fans he wrote
 Additional Information: 
-('price', 'for', 'peppers')
-('price', 'written')
+('fan', 'white')

@@ -1,5 +1,4 @@
 Original Sentence: 
-LDI leases and sells data-processing telecommunications and other high-tech equipment
+Smaller projects swell the figure to at least 2.5 billion
 Additional Information: 
-('equipment', 'with', 'equipment')
-('equipment', 'electronic')
+('figure', 'ON', 'sign')

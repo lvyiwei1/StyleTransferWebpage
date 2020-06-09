@@ -1,5 +1,4 @@
 Original Sentence: 
-Big business Mr. Pawlowski snorts in English
+We think this is a superior deal to McCaw 's
 Additional Information: 
-('business', 'has', 'lights')
-('business', 'here')
+('deal', 'OF', 'bananas')

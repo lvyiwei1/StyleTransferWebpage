@@ -1,0 +1,4 @@
+Original Sentence: 
+The Chosen Soren and the JSP immediately denied the report
+Additional Information: 
+('report', 'ON', 'green paper')

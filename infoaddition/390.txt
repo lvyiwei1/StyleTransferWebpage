@@ -1,5 +1,4 @@
 Original Sentence: 
-Ford has signaled it might acquire a majority interest later
+FOR YEARS costume jewelry makers fought a losing battle
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
+('jewelry', 'silver')

@@ -1,7 +1,4 @@
 Original Sentence: 
-The supply of experienced civil engineers though is tighter
+It was considered South Africa 's largest opposition rally
 Additional Information: 
-('supply', 'ON', 'table')
-('supply', 'all')
-('engineer', 'inside', 'train')
-('engineer', 'train')
+('rally', 'black')

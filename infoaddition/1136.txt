@@ -1,5 +1,4 @@
 Original Sentence: 
-She made money but spent more
+The comic strip has a magical everlasting quality about it
 Additional Information: 
-('money', 'ON', 'machine')
-('money', 'paper')
+('strip', 'separating', 'lane')

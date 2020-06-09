@@ -1,5 +1,4 @@
 Original Sentence: 
-I could n't afford to hire 16 whites
+The rest is of course history
 Additional Information: 
-('white', 'toilet', 'brush')
-('white', 'white')
+('the', 'word', 'history')

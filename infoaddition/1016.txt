@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales increased 36 % to 683 million from 502 million
+And the winners will be the colleges not either network
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('winner', '2nd place')

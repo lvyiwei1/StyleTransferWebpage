@@ -1,0 +1,4 @@
+Original Sentence: 
+But the FHA program is hemorrhaging bad loans
+Additional Information: 
+('program', 'ON', 'screen')

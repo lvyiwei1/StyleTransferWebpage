@@ -1,0 +1,4 @@
+Original Sentence: 
+Those Metropolitan Life ads were bad enough
+Additional Information: 
+('ad', 'on side of', 'court')

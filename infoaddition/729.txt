@@ -1,5 +1,4 @@
 Original Sentence: 
-We do n't have passive readers
+He is a mechanical engineer not an atmospheric chemist
 Additional Information: 
-('reader', 'OF', 'meter')
-('reader', 'e')
+('engineer', 'train')

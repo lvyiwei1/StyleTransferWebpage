@@ -1,0 +1,4 @@
+Original Sentence: 
+But most investors were seeking share prices and other information
+Additional Information: 
+('price', 'written')

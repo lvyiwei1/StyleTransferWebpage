@@ -1,0 +1,4 @@
+Original Sentence: 
+Still Mrs. Thatcher had once again gone against the grain
+Additional Information: 
+('grain', 'ON', 'half')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Some hotels in the hurricane-stricken Caribbean promise money-back guarantees
+People in the phone business call this technology 900 click
 Additional Information: 
-('hotel', 'displays', 'name')
-('hotel', 'large')
+('click', 'ON', 'plane')

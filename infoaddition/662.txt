@@ -1,7 +1,4 @@
 Original Sentence: 
-Major European auction houses are turning increasingly to specialized sales
+Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
 Additional Information: 
-('house', 'IN', 'neighborhood')
-('house', 'white')
-('sale', 'at', 'company')
-('sale', 'red')
+('story', 'second')

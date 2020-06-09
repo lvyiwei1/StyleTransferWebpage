@@ -1,5 +1,4 @@
 Original Sentence: 
-The successors would be nominated by the independent directors
+Certain details of the restructured facilities remain to be negotiated
 Additional Information: 
-('vest', 'ON', 'director')
-('director', 'caucasian')
+('detail', 'on side of', 'detail')

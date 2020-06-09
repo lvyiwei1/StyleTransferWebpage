@@ -1,6 +1,4 @@
 Original Sentence: 
-The company does n't expect any shipping delays
+Customized baskets of fewer stocks will also be available
 Additional Information: 
-('company', 'ON', 'corner')
-('company', 'name')
-('container', 'for', 'shipping')
+('basket', 'brown')

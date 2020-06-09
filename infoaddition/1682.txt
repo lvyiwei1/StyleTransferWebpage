@@ -1,0 +1,4 @@
+Original Sentence: 
+It 's a tough thing when you ca n't
+Additional Information: 
+('thing', 'black')

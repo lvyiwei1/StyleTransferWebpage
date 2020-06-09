@@ -1,7 +1,4 @@
 Original Sentence: 
-The program traders were in there too of course
+Grain milk and meat come next
 Additional Information: 
-('program', 'beside', 'table')
-('program', 'wedding')
-('course', 'with', 'bunker')
-('course', 'green')
+('grain', 'IN', 'wood floor')

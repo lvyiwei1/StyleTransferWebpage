@@ -1,5 +1,4 @@
 Original Sentence: 
-I decided to brave the storm
+Other companies figure they ca n't avoid the market
 Additional Information: 
-('storm', 'ON', 'pavement')
-('storm', 'coming')
+('market', 'outdoor')

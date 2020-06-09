@@ -1,5 +1,4 @@
 Original Sentence: 
-The hotel is scheduled to open in 1992
+Grain milk and meat come next
 Additional Information: 
-('hotel', 'has', 'balcony')
-('hotel', 'large')
+('meat', 'brown')

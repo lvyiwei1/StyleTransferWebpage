@@ -1,0 +1,4 @@
+Original Sentence: 
+Buy stocks on weakness for their long-term fundamentals he says
+Additional Information: 
+('stock', 'green')

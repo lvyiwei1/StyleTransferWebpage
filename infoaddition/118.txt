@@ -1,7 +1,4 @@
 Original Sentence: 
-The channel reaches 6.5 million homes a Penney spokesman said
+I 'm done in two minutes
 Additional Information: 
-('channel', 'has', 'logo')
-('channel', 'here')
-('home', 'behind', 'train')
-('home', 'white')
+('minute', 'black')

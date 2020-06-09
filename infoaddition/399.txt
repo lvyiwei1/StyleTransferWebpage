@@ -1,5 +1,4 @@
 Original Sentence: 
-It also sells single-premium annuities to individuals
+On some days the Nucor plant does n't produce anything
 Additional Information: 
-('individual', 'holding', 'glass')
-('individual', 'smiling')
+('plant', 'green')

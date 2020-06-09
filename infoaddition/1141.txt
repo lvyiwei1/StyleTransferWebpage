@@ -1,5 +1,4 @@
 Original Sentence: 
-A disciplined program will work the best Mr. Boesel says
+PRODUCTS DON'T have to be first to be winners
 Additional Information: 
-('program', 'On screen', 'laptop computer')
-('program', 'wedding')
+('winner', 'standing on', 'box')

@@ -1,6 +1,4 @@
 Original Sentence: 
-Japanese stock salesmen selling American bonds
+We are almost left out of campus social activities
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('bond', 'black ')
+('activity', 'IN', 'bathroom')

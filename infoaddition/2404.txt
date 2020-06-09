@@ -1,0 +1,4 @@
+Original Sentence: 
+Companies will continue to war over standards
+Additional Information: 
+('standard', 'size white', 'toilet')

@@ -1,4 +1,4 @@
 Original Sentence: 
-They are coming to publishers looking for ideas
+People in Glass houses tend to look stoned
 Additional Information: 
-('publisher', 'ON', 'book')
+('house', 'white')

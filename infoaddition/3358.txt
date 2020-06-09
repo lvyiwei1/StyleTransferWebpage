@@ -1,0 +1,4 @@
+Original Sentence: 
+We do n't need the cash
+Additional Information: 
+('cash', 'Two round pieces  ')

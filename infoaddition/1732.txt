@@ -1,0 +1,4 @@
+Original Sentence: 
+Sales were flat at 7.88 billion
+Additional Information: 
+('sale', 'ON', 'window')

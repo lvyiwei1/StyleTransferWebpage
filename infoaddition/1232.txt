@@ -1,6 +1,4 @@
 Original Sentence: 
-Mr. Falco continues to rank the stock a longterm buy
+But the Americans are also to blame
 Additional Information: 
-('stock', 'ON', 'engine')
-('stock', 'green')
-('buy', 'large')
+('american', 'flag', 'american')

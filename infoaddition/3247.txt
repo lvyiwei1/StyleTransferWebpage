@@ -1,0 +1,4 @@
+Original Sentence: 
+United Illuminating also amended its rate plan
+Additional Information: 
+('plan', 'ON', 'tarmac')

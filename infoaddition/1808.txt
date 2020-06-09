@@ -1,0 +1,4 @@
+Original Sentence: 
+Petrolane is the second-largest propane distributor in the U.S.
+Additional Information: 
+('propane', 'for', 'oven')

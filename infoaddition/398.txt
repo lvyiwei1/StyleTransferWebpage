@@ -1,5 +1,4 @@
 Original Sentence: 
-SELL WHISPER STOCKS
+On some days the Nucor plant does n't produce anything
 Additional Information: 
-('stock', 'of', 'stock')
-('stock', 'green')
+('plant', 'next to', 'people')

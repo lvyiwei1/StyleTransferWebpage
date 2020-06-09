@@ -1,0 +1,4 @@
+Original Sentence: 
+One handout promises Pedigrees parties post times parimutuels and pageantry
+Additional Information: 
+('party', 'at a', 'house')

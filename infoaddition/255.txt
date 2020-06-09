@@ -1,5 +1,4 @@
 Original Sentence: 
-Darkness fell
+Times have changed
 Additional Information: 
-('darkness', 'behind', 'cats')
-('darkness', 'above water')
+('time', 'displayed')

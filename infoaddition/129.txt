@@ -1,7 +1,4 @@
 Original Sentence: 
-The CFTC has 90 days to respond to such applications
+I 'm pretty confident I 'm catching everything he says
 Additional Information: 
-('day', 'full of', 'day')
-('day', 'sunny')
-('application', 'on a', 'cellphone')
-('application', 'loaded')
+('leafy bushes', 'below', 'everything')

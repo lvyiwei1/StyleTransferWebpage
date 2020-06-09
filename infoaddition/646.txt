@@ -1,7 +1,4 @@
 Original Sentence: 
-States are following suit
+That suit is pending
 Additional Information: 
-('state', 'ON', 'sign')
-('state', 'Penn ')
-('suit', 'IN', 'snow')
 ('suit', 'black')

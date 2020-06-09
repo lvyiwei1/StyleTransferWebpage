@@ -1,0 +1,4 @@
+Original Sentence: 
+The board expanded to 17 seats
+Additional Information: 
+('seat', 'black')

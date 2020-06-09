@@ -1,5 +1,4 @@
 Original Sentence: 
-GAF faces potential fines of 500,000 for each count
+But even that goal may prove optimistic
 Additional Information: 
-('fine', 'legal')
-('man', 'IN', 'count')
+('goal', 'has', 'basket')

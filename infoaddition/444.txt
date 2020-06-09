@@ -1,6 +1,4 @@
 Original Sentence: 
-Why should I be part of that problem
+Any fool can publish a money-losing magazine
 Additional Information: 
-('part', 'OF', 'umbrella')
-('part', 'small')
-('plane', 'has', 'problem')
+('magazine', 'IN', 'toilet')

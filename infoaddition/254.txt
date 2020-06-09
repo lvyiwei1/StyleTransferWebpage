@@ -1,5 +1,4 @@
 Original Sentence: 
-California Thefts Make Travel Agents Jittery
+Times have changed
 Additional Information: 
-('travel', 'guide', 'book')
-('agent', 'at', 'airport')
+('time', 'ON', 'screen')

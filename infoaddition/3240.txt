@@ -1,0 +1,4 @@
+Original Sentence: 
+It made my shoelaces dance with terror
+Additional Information: 
+('shoelace', 'white')

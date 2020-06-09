@@ -1,0 +1,4 @@
+Original Sentence: 
+Supporting banks will sign a Texas Declaration of Independents
+Additional Information: 
+('bank', 'OF', 'river')

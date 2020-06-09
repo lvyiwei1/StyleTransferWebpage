@@ -1,5 +1,4 @@
 Original Sentence: 
-We were reassured they would stand behind the company
+The name of the game is to move goods
 Additional Information: 
-('company', 'ON', 'photo')
-('company', 'name')
+('game', 'ON', 'screen')

@@ -1,6 +1,4 @@
 Original Sentence: 
-These are long-term Richter readings on American capitalism
+The company would n't elaborate citing competitive reasons
 Additional Information: 
-('reading', 'on', 'clock')
-('reading', 'white')
-('capitalism', 'written on', 'sign')
+('not', 'in mood right nowhold leg in air for no', 'reason')

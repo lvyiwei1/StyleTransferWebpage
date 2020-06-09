@@ -1,7 +1,4 @@
 Original Sentence: 
-The board increased by one to 26 members
+An announcement is more likely next week though
 Additional Information: 
-('board', 'ON', 'tracks')
-('board', 'white')
-('member', 'WEARING', 'shirt')
-('member', 'several')
+('announcement', 'green')

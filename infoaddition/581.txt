@@ -1,5 +1,4 @@
 Original Sentence: 
-And for every champion there are plenty of nags
+They said the price would be around 10 million
 Additional Information: 
-('sweatshirt', 'with', 'champion')
-('champion', 'sports')
+('price', 'written')

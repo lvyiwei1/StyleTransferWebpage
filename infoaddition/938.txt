@@ -1,4 +1,4 @@
 Original Sentence: 
-Neither testified at the previous trials
+My vision is to change human consciousness towards touch
 Additional Information: 
-('snow', 'has', 'trial')
+('touch', 'OF', 'laptop')

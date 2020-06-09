@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales rose 50 % to 2.1 billion from 1.4 billion
+That facility should reopen today
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('facility', 'skateboarding')

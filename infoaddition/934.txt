@@ -1,9 +1,4 @@
 Original Sentence: 
-New telephone lines posted healthy growth
+Thursday 's edition misstated the narrowing
 Additional Information: 
-('telephone', 'on', 'wall')
-('telephone', 'black')
-('line', 'ON', 'board')
-('line', 'white')
-('growth', 'IN', 'field')
-('growth', 'green')
+('edition', 'word')

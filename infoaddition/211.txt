@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales increased 5.5 % to 9.81 billion from 9.3 billion
+Sales increased 6 % to 5.58 billion from 5.27 billion
 Additional Information: 
-('sale', 'ON', 'window')
 ('sale', 'red')

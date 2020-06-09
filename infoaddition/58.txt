@@ -1,5 +1,4 @@
 Original Sentence: 
-Not all those who wrote oppose the changes
+In Chicago grain and soybean prices rose slightly
 Additional Information: 
-('change', 'ON', 'red')
-('change', 'loose')
+('grain', 'wood')

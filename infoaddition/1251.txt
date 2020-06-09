@@ -1,5 +1,4 @@
 Original Sentence: 
-By 1982 he was selling thousands of tires
+The union though has called the offer insulting
 Additional Information: 
-('tire', 'ON', 'cart')
-('tire', 'black')
+('union', 'station', 'engraved')

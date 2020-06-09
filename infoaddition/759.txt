@@ -1,6 +1,4 @@
 Original Sentence: 
-For nonunion workers the costs rose 1.4 %
+Outside I spotted two young men lugging blocks of concrete
 Additional Information: 
-('worker', 'WEARING', 'shirt')
-('worker', 'construction')
-('cost', 'displayed in front of', 'banana')
+('concrete', 'touching', 'lane')

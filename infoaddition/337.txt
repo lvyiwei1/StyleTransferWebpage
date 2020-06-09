@@ -1,8 +1,4 @@
 Original Sentence: 
-I refer essentially to petroleum electric power banking and newsprint
+The CFTC has 90 days to respond to such applications
 Additional Information: 
-('power', 'by', 'park')
-('power', 'on')
-('mud', 'ON', 'banking')
-('banking', 'grassy')
-('newsprint', 'has', 'words')
+('day', 'sunny')

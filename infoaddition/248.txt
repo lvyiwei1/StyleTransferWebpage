@@ -1,5 +1,4 @@
 Original Sentence: 
-Moscow and Kabul must have found that information useful
+LUTHER BURBANK CROSS-BRED PLANTS to produce the billion-dollar Idaho potato
 Additional Information: 
-('information', 'ON', 'bottom')
-('information', 'yellow')
+('potato', 'fried')

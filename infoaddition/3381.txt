@@ -1,0 +1,4 @@
+Original Sentence: 
+Massage also has an image problem to contend with
+Additional Information: 
+('image', 'white')

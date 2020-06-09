@@ -1,5 +1,4 @@
 Original Sentence: 
-That trend could increase demand for hot-dipped galvanized sheet
+That 's baseball
 Additional Information: 
-('sheet', 'ON', 'bed')
-('sheet', 'white')
+('baseball', 'white')

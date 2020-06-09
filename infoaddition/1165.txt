@@ -1,5 +1,4 @@
 Original Sentence: 
-Neither man achieved perfection
+Two steps are necessary to translate this idea into action
 Additional Information: 
-('man', 'WEARING', 'business suit')
-('man', 'standing')
+('step', 'to', 'train')

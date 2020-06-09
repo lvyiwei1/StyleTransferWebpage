@@ -1,0 +1,4 @@
+Original Sentence: 
+Other as yet unnamed cities will follow
+Additional Information: 
+('city', 'with', 'vehicles')

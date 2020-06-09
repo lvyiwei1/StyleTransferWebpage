@@ -1,7 +1,4 @@
 Original Sentence: 
-In other words Get rid of all the pictures
+The Norfolk Va. company has 172.2 million shares outstanding
 Additional Information: 
-('word', 'ON', 'sign')
-('word', 'white')
-('picture', 'taken', 'outdoors')
-('picture', 'framed')
+('company', 'name')

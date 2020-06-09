@@ -1,5 +1,4 @@
 Original Sentence: 
-So does Mr. Friend and his law partner Nick Nichols
+Hand-holding is becoming an investment-banking job requirement
 Additional Information: 
-('drivers', 'are obeying', 'law')
-('partner', 'playing on', 'tennis court')
+('job', 'ON', 'bus')

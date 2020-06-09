@@ -1,4 +1,4 @@
 Original Sentence: 
-The yield rose to 5.38 %
+The zero-coupon subordinated notes have no periodic interest payments
 Additional Information: 
-('yield', 'on', 'sign')
+('note', 'IN', 'bowl')

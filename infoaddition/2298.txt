@@ -1,0 +1,4 @@
+Original Sentence: 
+And he has attached himself to the Lincoln story tenaciously
+Additional Information: 
+('story', 'second')

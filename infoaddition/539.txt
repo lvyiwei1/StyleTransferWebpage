@@ -1,5 +1,4 @@
 Original Sentence: 
-Those days are gone
+WCRS has been in discussions with Eurocom for several months
 Additional Information: 
-('day', 'above', 'city')
-('day', 'sunny')
+('month', 'ninth')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Growth is slower
+Additional Information: 
+('growth', 'green')

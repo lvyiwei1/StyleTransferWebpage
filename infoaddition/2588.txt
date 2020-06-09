@@ -1,0 +1,4 @@
+Original Sentence: 
+Motorola is fighting back against junk mail
+Additional Information: 
+('junk', 'piled near', 'fence')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The companies hope for a final agreement by year-end
+Rising operating expenses are another problem
 Additional Information: 
-('company', 'ON', 'wing')
-('company', 'name')
+('plane', 'has', 'problem')

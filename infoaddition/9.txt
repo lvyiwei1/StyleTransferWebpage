@@ -1,7 +1,4 @@
 Original Sentence: 
-Understandably smaller growth stocks have n't been in favor recently
+We were reassured they would stand behind the company
 Additional Information: 
-('growth', 'near', 'shore')
-('growth', 'green')
-('stock', 'of', 'stock')
-('stock', 'green')
+('company', 'ON', 'photo')

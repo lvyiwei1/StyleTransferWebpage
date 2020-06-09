@@ -1,0 +1,4 @@
+Original Sentence: 
+Noriega managed the whole thing
+Additional Information: 
+('thing', 'black')

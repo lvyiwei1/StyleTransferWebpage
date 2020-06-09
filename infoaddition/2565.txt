@@ -1,0 +1,4 @@
+Original Sentence: 
+Increasingly the financial markets are reflecting the gloom
+Additional Information: 
+('market', 'outdoor')

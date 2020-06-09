@@ -1,5 +1,4 @@
 Original Sentence: 
-To reinforce employees ' dedication Mr. Smith pays well
+But junk bonds took more hits
 Additional Information: 
-('employee', 'ON', 'tarmac')
-('employee', 'airport')
+('junk', 'IN', 'picture')

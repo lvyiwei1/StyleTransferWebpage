@@ -1,0 +1,4 @@
+Original Sentence: 
+The 6 3\/4 % notes yield 6.25 %
+Additional Information: 
+('note', 'yellow')

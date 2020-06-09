@@ -1,0 +1,4 @@
+Original Sentence: 
+South African gold stocks ended marginally firmer
+Additional Information: 
+('gold', 'brown')

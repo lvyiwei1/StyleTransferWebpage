@@ -1,5 +1,4 @@
 Original Sentence: 
-The numbers were adjusted for usual seasonal fluctuations
+Copper futures prices failed to extend Friday 's rally
 Additional Information: 
-('number', 'ON', 'sign')
-('number', 'black')
+('rally', 'black')

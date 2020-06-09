@@ -1,7 +1,4 @@
 Original Sentence: 
-Is somebody telling us something
+Grain milk and meat come next
 Additional Information: 
-('somebody', 'using', 'computer')
-('somebody', 'here')
-('something', 'buried', 'snow')
-('something', 'red')
+('meat', 'on inside of', 'burger')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The German stock index tumbled 26.29 to end at
+Additional Information: 
+('stock', 'green')

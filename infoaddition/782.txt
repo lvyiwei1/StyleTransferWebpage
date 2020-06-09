@@ -1,5 +1,4 @@
 Original Sentence: 
-This bias is in no way deliberate
+They lost the entertainment crown and they needed one
 Additional Information: 
-('way', 'scrapped on', 'bus')
-('way', 'walk')
+('crown', 'blue')

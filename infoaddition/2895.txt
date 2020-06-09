@@ -1,0 +1,4 @@
+Original Sentence: 
+The IRA portion of the Packwood-Roth plan is irresponsible
+Additional Information: 
+('portion', 'white')

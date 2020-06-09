@@ -1,4 +1,4 @@
 Original Sentence: 
-And before last Friday they were actually making modest progress
+It has some of the highest costs in the league
 Additional Information: 
-('a', 'baseball game in', 'progress')
+('league', 'baseball', 'logo')

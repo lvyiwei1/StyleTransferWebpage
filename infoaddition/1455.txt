@@ -1,0 +1,4 @@
+Original Sentence: 
+Please contribute what you can the ad said
+Additional Information: 
+('ad', 'white')

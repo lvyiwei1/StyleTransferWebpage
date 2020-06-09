@@ -1,0 +1,4 @@
+Original Sentence: 
+Apparently the commission did not really believe in this ideal
+Additional Information: 
+('ideal', 'dark')

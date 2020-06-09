@@ -1,0 +1,4 @@
+Original Sentence: 
+Ski promotions have traditionally avoided the touchy issue of safety
+Additional Information: 
+('safety', 'orange')

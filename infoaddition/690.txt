@@ -1,5 +1,4 @@
 Original Sentence: 
-But it has n't worked out that way
+The shift wo n't affect operations
 Additional Information: 
-('way', 'scrapped on', 'bus')
-('way', 'walk')
+('shift', 'black')

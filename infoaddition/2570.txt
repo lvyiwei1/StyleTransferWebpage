@@ -1,0 +1,4 @@
+Original Sentence: 
+The index is intended to measure future economic performance
+Additional Information: 
+('crowd', 'watching', 'performance')

@@ -1,5 +1,4 @@
 Original Sentence: 
-But such spots can be too soft
+Is he a victim of Gramm-Rudman cuts
 Additional Information: 
-('spot', 'by', 'bench')
-('spot', 'brown')
+('cut', 'IN', 'rock')

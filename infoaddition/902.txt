@@ -1,6 +1,4 @@
 Original Sentence: 
-Mitsubishi has a futuristic delivery truck called the Guppy
+Sun also reported a record backlog of orders
 Additional Information: 
-('van', 'for', 'delivery')
-('truck', 'ON', 'road')
-('truck', 'white')
+('record', 'black')

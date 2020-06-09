@@ -1,6 +1,4 @@
 Original Sentence: 
-MCA strongly opposed the Drabinsky group 's move
+Not all funds have raised cash levels of course
 Additional Information: 
-('group', 'OF', 'people')
-('group', 'large')
-('mechanism', 'makes it', 'move')
+('course', 'OF', 'skate park')

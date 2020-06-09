@@ -1,0 +1,4 @@
+Original Sentence: 
+They do n't have the votes to get it passed
+Additional Information: 
+('vote', 'written on', 'sign')

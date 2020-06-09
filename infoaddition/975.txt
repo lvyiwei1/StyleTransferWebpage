@@ -1,5 +1,4 @@
 Original Sentence: 
-It 's very revealing and soul baring said Ms. Volokh
+Accepted theories of asset pricing offer a perfectly legitimate explanation
 Additional Information: 
-('shoe', 'with', 'soul')
-('soul', 'black')
+('pricing', 'hand written')

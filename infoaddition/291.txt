@@ -1,8 +1,4 @@
 Original Sentence: 
-The order is the biggest in the company 's history
+Auto insurance rates are soaring
 Additional Information: 
-('order', 'OF', 'french fries')
-('order', 'ready')
-('company', 'that owns', 'bus')
-('company', 'name')
-('the', 'word', 'history')
+('advertisement', 'for', 'insurance')

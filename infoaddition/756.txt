@@ -1,10 +1,4 @@
 Original Sentence: 
-By the end of the day bond prices were mixed
+Outside I spotted two young men lugging blocks of concrete
 Additional Information: 
-('end', 'OF', 'tail')
-('end', 'black')
-('day', 'at', 'park')
-('day', 'sunny')
-('bond', 'black ')
-('price', 'for', 'apple')
-('price', 'written')
+('men', 'standing')

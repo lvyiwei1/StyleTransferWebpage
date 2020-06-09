@@ -1,0 +1,4 @@
+Original Sentence: 
+we 're in for a lot of turbulence
+Additional Information: 
+('lot', 'parking')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Introducing pool argued Councilwoman Riley Reinker would be dangerous
+The dam caused the water level to drop in Zalubice
 Additional Information: 
-('pool', 'OF', 'water')
-('pool', 'blue')
+('level', 'has', 'light')

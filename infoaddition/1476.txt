@@ -1,0 +1,4 @@
+Original Sentence: 
+Those days are gone
+Additional Information: 
+('day', 'sunny')

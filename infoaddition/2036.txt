@@ -1,0 +1,4 @@
+Original Sentence: 
+Such armor crushes the soldier
+Additional Information: 
+('armor', 'ON', 'person')

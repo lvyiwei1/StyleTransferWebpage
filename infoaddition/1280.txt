@@ -1,5 +1,4 @@
 Original Sentence: 
-Still the split is there
+Neither disclosed details pending board meetings next month
 Additional Information: 
-('split', 'IN', 'tree trunk')
-('split', 'long')
+('board', 'white')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Eight years I 've had it
+Prices of high-yield high-risk corporate securities ended unchanged
 Additional Information: 
-('year', 'ON', 'side')
-('year', 'white')
+('security', 'ON', 'airport')

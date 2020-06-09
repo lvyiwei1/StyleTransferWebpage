@@ -1,5 +1,4 @@
 Original Sentence: 
-Their reaction was to do nothing and ride it out
+I 'm encouraged by the action
 Additional Information: 
-('nothing', 'IN', 'sky')
-('nothing', 'clear')
+('action', 'at', 'baseball field')

@@ -1,5 +1,4 @@
 Original Sentence: 
-But they need not be to do their jobs well
+PRODUCTS DON'T have to be first to be winners
 Additional Information: 
-('job', 'ON', 'bus')
-('job', 'decorative')
+('product', 'ON', 'display')

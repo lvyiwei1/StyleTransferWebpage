@@ -1,5 +1,4 @@
 Original Sentence: 
-Another agency issue came to market yesterday
+Sam Ramirez and his men are late
 Additional Information: 
-('market', 'selling', 'fruit')
-('market', 'outdoor')
+('men', 'standing')

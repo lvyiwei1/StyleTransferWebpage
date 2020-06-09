@@ -1,4 +1,4 @@
 Original Sentence: 
-Then they identified snags in the process
+It also licenses optically based data storage and retrieval devices
 Additional Information: 
-('snag', 'in bed', 'spread')
+('device', 'IN', 'black backpack')

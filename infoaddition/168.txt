@@ -1,4 +1,4 @@
 Original Sentence: 
-This leads to a very special sense of urgency
+Craig Forman in London contributed to this article
 Additional Information: 
-('phrase', 'makes no', 'sense')
+('article', 'newspaper')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The gene thus can prevent a plant from fertilizing itself
+BAY AREA COMMUTERS BATTLED earthquake-related transportation snarls
 Additional Information: 
-('plant', 'growing next to', 'zebra')
-('plant', 'green')
+('commuter', 'train letting passengers', 'off')

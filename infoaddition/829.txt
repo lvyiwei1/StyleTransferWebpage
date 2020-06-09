@@ -1,6 +1,4 @@
 Original Sentence: 
-There are n't any such listings for asset-backed securities
+She was in her most radiant expressive voice
 Additional Information: 
-('listing', 'of daily specials')
-('security', 'walking in', 'orange vests')
-('security', 'standing')
+('voice', 'written', 'on it')

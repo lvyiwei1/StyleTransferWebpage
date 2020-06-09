@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales rose 8 % to 368.5 million from 340.7 million
+GAF faces potential fines of 500,000 for each count
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('man', 'IN', 'count')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The markets are returning to normalcy
+Housing Developers Try Brand-Name Buildings
 Additional Information: 
-('market', 'filled with', 'green peppers')
-('market', 'outdoor')
+('housing', 'black')

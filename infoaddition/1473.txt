@@ -1,0 +1,4 @@
+Original Sentence: 
+Not everyone is so pessimistic
+Additional Information: 
+('everyone', 'ON', 'sidewalk')

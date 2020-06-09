@@ -1,5 +1,4 @@
 Original Sentence: 
-We have the money to buy
+Indeed institutions already are taking note
 Additional Information: 
-('money', 'ON', 'table')
-('money', 'paper')
+('note', 'yellow')

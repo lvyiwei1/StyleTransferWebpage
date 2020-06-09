@@ -1,0 +1,4 @@
+Original Sentence: 
+But it has n't worked out that way
+Additional Information: 
+('way', 'walk')

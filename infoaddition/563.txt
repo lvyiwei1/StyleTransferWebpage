@@ -1,5 +1,4 @@
 Original Sentence: 
-He 's sharp as a tack
+But funds generally are better prepared this time around
 Additional Information: 
-('tack', 'holding', 'paper')
-('tack', 'black')
+('time', 'displayed')

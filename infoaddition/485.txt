@@ -1,5 +1,4 @@
 Original Sentence: 
-Among other blue chips Exxon gained 1\/8 to 45 1\/2
+Japanese companies have a caveat competitor attitude
 Additional Information: 
-('chip', 'ON', 'plate')
-('chip', 'chocolate')
+('company', 'name')

@@ -1,6 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+Tom Herman contributed to this article
 Additional Information: 
-('coupon', 'has', 'percentage')
-('change', 'ON', 'red')
-('change', 'loose')
+('article', 'OF', 'clothing')

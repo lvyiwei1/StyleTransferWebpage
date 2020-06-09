@@ -1,5 +1,4 @@
 Original Sentence: 
-Who that winner will be is highly uncertain
+Some state middlemen come to buy from me
 Additional Information: 
-('winner', 'standing on', 'box')
-('winner', '2nd place')
+('state', 'Penn ')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales rose 8.4 % to 27.95 billion from 25.78 billion
+And you ca n't cut this chain with bolt cutters
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('cutter', 'silver')

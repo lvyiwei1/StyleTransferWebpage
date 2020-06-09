@@ -1,5 +1,4 @@
 Original Sentence: 
-Generally regulators have n't announced enforcement actions in the past
+Bond prices fell after the Chicago report was released
 Additional Information: 
-('action', 'IN', 'action')
-('action', 'MLB')
+('bond', 'black ')

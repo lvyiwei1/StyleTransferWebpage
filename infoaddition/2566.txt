@@ -1,0 +1,4 @@
+Original Sentence: 
+But they are also talking about new magazines
+Additional Information: 
+('magazine', 'IN', 'door rack')

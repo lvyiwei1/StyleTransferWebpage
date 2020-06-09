@@ -1,5 +1,4 @@
 Original Sentence: 
-AN EARTHQUAKE STRUCK Northern California killing more than 50 people
+Other Western Union securities were also lower
 Additional Information: 
-('people', 'standing in front of', 'building')
-('people', 'standing')
+('security', 'walking in', 'orange vests')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Japanese companies have a caveat competitor attitude
+Bond prices also edged higher
 Additional Information: 
-('company', 'ON', 'bus')
-('company', 'name')
-('competitor', 'number', '693')
-('competitor', 'here')
+('price', 'written')

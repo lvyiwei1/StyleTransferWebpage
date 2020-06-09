@@ -1,5 +1,4 @@
 Original Sentence: 
-The practice is however legal in most cases
+SELL WHISPER STOCKS
 Additional Information: 
-('case', 'by a', 'bed')
-('case', 'black')
+('stock', 'green')

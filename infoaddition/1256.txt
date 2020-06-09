@@ -1,7 +1,4 @@
 Original Sentence: 
-Seats are quoted at 430,000 bid and 525,000 asked
+And in some neighborhoods rents have merely hit a plateau
 Additional Information: 
-('seat', 'next to', 'person')
-('seat', 'black')
-('bid', 'ON', 'shoulder')
-('bid', 'metal')
+('neighborhood', 'residential')

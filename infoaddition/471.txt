@@ -1,5 +1,4 @@
 Original Sentence: 
-He 's a rare Democratic hawk
+As a critique of middle-class mores the story is heavy-handed
 Additional Information: 
-('hawk', 'ON', 'shirt')
-('hawk', 'brown')
+('story', 'second')

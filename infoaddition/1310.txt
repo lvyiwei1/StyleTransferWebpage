@@ -1,0 +1,4 @@
+Original Sentence: 
+It 's like squeezing a balloon Dr. Bailit said
+Additional Information: 
+('balloon', 'blue')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Kia is reportedly also considering such a plan
+But by and large this company has only been profitable
 Additional Information: 
-('plan', 'behind', 'guy')
-('plan', 'air')
+('company', 'has', 'name')

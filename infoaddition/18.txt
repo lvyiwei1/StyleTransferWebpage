@@ -1,6 +1,4 @@
 Original Sentence: 
-Japanese government bonds showed little change
+We are almost left out of campus social activities
 Additional Information: 
-('bond', 'black ')
-('change', 'goes into', 'parking meter')
-('change', 'loose')
+('campus', 'college')

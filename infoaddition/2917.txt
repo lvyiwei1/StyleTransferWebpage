@@ -1,0 +1,4 @@
+Original Sentence: 
+Macy acquired those three businesses in May 1988
+Additional Information: 
+('business', 'has', 'sign')

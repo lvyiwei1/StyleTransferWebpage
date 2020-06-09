@@ -1,4 +1,4 @@
 Original Sentence: 
-Still Time 's move is being received well once again
+Outside I spotted two young men lugging blocks of concrete
 Additional Information: 
-('mechanism', 'makes it', 'move')
+('men', 'standing on', 'stage')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Jones calls the ranch the Pentagon of Sportdom
+So far the bubbles have been few and far between
 Additional Information: 
-('ranch', 'behind', 'cow')
-('ranch', 'large')
+('bubble', 'on side of', 'pizza')

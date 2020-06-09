@@ -1,5 +1,4 @@
 Original Sentence: 
-Both products were immensely popular
+Seats currently are quoted at 400,000 bid 425,000 asked
 Additional Information: 
-('product', 'ON', 'shelf')
-('product', 'bathroom')
+('seat', 'black')

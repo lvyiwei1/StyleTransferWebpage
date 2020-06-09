@@ -1,6 +1,4 @@
 Original Sentence: 
-My vision is to change human consciousness towards touch
+The zero-coupon subordinated notes have no periodic interest payments
 Additional Information: 
-('vision', 'of fence', 'blurred')
-('touch', 'OF', 'laptop')
-('touch', 'gray')
+('payment', 'for', 'produce')

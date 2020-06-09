@@ -1,5 +1,4 @@
 Original Sentence: 
-Poverty remains far more widespread among blacks than other Americans
+The rest he is confident can be raised
 Additional Information: 
-('black', 'train', 'car')
-('black', 'black')
+('rest', 'arm')

@@ -1,0 +1,4 @@
+Original Sentence: 
+There 's nothing rational about this kind of action
+Additional Information: 
+('nothing', 'clear')

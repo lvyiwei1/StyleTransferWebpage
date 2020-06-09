@@ -1,5 +1,4 @@
 Original Sentence: 
-We are seeing such exercises today in fact
+Now we 're going to sell to men
 Additional Information: 
-('guy', 'getting', 'exercise')
-('sign', 'reads', 'today')
+('men', 'standing')

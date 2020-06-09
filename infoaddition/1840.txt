@@ -1,0 +1,4 @@
+Original Sentence: 
+That trend could increase demand for hot-dipped galvanized sheet
+Additional Information: 
+('sheet', 'white')

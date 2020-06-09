@@ -1,5 +1,4 @@
 Original Sentence: 
-The announcement fueled speculation for future advances in the shares
+We were coming down straight into their canal
 Additional Information: 
-('announcement', 'ON', 'table')
-('announcement', 'green')
+('canal', 'calm')

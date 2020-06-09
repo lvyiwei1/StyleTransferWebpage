@@ -1,0 +1,4 @@
+Original Sentence: 
+The centers normally are closed through the weekend
+Additional Information: 
+('center', 'yellow')

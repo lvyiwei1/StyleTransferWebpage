@@ -1,6 +1,4 @@
 Original Sentence: 
-I 've got 70 kinds of apples
+Northeast Utilities ' plan proposes 5.5 % annual increases
 Additional Information: 
-('kind', 'ON', 'sidewalk')
-('apple', 'IN', 'container')
-('apple', 'red')
+('plan', 'ON', 'ground')

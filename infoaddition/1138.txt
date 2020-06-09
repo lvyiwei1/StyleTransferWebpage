@@ -1,5 +1,4 @@
 Original Sentence: 
-Yesterday it provided the details
+The comic strip has a magical everlasting quality about it
 Additional Information: 
-('detail', 'over', 'door')
-('detail', 'red')
+('photo', 'has', 'quality')

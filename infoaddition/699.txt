@@ -1,9 +1,4 @@
 Original Sentence: 
-It recently introduced a line for the home market
+They gleefully await the dream season in 1990
 Additional Information: 
-('line', 'ON', 'road')
-('line', 'white')
-('home', 'behind', 'tree')
-('home', 'white')
-('market', 'filled with', 'green peppers')
-('market', 'outdoor')
+('dream', 'capital letters')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The dollar was mixed
+Not all funds have raised cash levels of course
 Additional Information: 
-('dollar', 'ON', 'table')
-('dollar', 'twenty')
+('cash', 'ON', 'sign')

@@ -1,9 +1,4 @@
 Original Sentence: 
-There are no price wars no competition
+John E. Yang contributed to this article
 Additional Information: 
-('price', 'for', 'apple')
-('price', 'written')
-('war', 'ON', 'sign')
-('war', 'word')
-('crowd', 'watching', 'competition')
-('competition', 'horse')
+('article', 'newspaper')

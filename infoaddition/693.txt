@@ -1,5 +1,4 @@
 Original Sentence: 
-As a result of the sales he holds 6,727,042 shares
+The supply of experienced civil engineers though is tighter
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('engineer', 'inside', 'train')

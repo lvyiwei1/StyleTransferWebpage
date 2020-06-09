@@ -1,4 +1,4 @@
 Original Sentence: 
-The U.S. futures exchanges compete world-wide as never before
+Customized baskets of fewer stocks will also be available
 Additional Information: 
-('two women', 'make', 'exchange')
+('basket', 'ON', 'ground')

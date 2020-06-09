@@ -1,0 +1,4 @@
+Original Sentence: 
+U.S. buyers have already been lined up
+Additional Information: 
+('buyer', 'looking at', 'goods')

@@ -1,5 +1,4 @@
 Original Sentence: 
-NBC 's winning streak has been canceled
+Sales were 348.2 million compared with 307.2 a year earlier
 Additional Information: 
-('streak', 'IN', 'sky')
-('streak', 'white')
+('year', 'white')

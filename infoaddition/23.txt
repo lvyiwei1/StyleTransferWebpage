@@ -1,9 +1,4 @@
 Original Sentence: 
-Grain milk and meat come next
+Some forms of private property would be sanctioned
 Additional Information: 
-('grain', 'IN', 'wood floor')
-('grain', 'wood')
-('milk', 'in a', 'bottle')
-('milk', 'white')
-('meat', 'on inside of', 'burger')
-('meat', 'brown')
+('form', 'white')

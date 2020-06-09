@@ -1,5 +1,4 @@
 Original Sentence: 
-Contract details however have n't been made public
+The mask cuts to the quick
 Additional Information: 
-('detail', 'ON', 'stone column')
-('detail', 'red')
+('mask', 'black')

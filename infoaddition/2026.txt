@@ -1,0 +1,4 @@
+Original Sentence: 
+That is typically about a three-week window
+Additional Information: 
+('window', 'ON', 'plane')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The difference is magnified by time too
+My vision is to change human consciousness towards touch
 Additional Information: 
-('time', 'says', 'time')
-('time', 'displayed')
+('touch', 'gray')

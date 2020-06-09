@@ -1,7 +1,4 @@
 Original Sentence: 
-She did n't have hot water for five days
+There 's nothing like skin to skin
 Additional Information: 
-('water', 'falling from', 'umbrella')
-('water', 'blue')
-('day', 'within', 'lake')
-('day', 'sunny')
+('skin', 'ON', 'elephant')

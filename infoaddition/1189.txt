@@ -1,5 +1,4 @@
 Original Sentence: 
-Conner already is shipping its new drives
+Sales fell 20 % to 3.7 billion from 4.6 billion
 Additional Information: 
-('drive', 'IN', 'computer')
-('drive', 'white')
+('sale', 'at', 'company')

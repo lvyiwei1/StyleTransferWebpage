@@ -1,4 +1,4 @@
 Original Sentence: 
-Some abortion advocates have been asking themselves this very question
+SELL WHISPER STOCKS
 Additional Information: 
-('question', 'black')
+('stock', 'of', 'stock')

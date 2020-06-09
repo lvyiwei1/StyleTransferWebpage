@@ -1,6 +1,4 @@
 Original Sentence: 
-December delivery gold fell 1.80 an ounce to 370.60
+And for Ms. Baker the ride was far from over
 Additional Information: 
-('van', 'for', 'delivery')
-('gold', 'and', 'navy')
-('gold', 'brown')
+('ride', 'tall')

@@ -1,7 +1,4 @@
 Original Sentence: 
-The key word in that paragraph though is may
+He has a built-in constant longing for lower interest rates
 Additional Information: 
-('word', 'ON', 'box')
-('word', 'white')
-('paragraph', 'IN', 'book')
-('paragraph', 'the last one')
+('built-in', 'Black ')

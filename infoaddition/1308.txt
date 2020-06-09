@@ -1,5 +1,4 @@
 Original Sentence: 
-When selling is so frenzied prices fall steeply and fast
+Is he a victim of Gramm-Rudman cuts
 Additional Information: 
-('price', 'for', 'peppers')
-('price', 'written')
+('cut', 'small')

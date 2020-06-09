@@ -1,0 +1,4 @@
+Original Sentence: 
+Estimates suggest October 's figure may be even higher
+Additional Information: 
+('figure', 'green')

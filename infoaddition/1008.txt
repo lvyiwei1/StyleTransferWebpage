@@ -1,9 +1,4 @@
 Original Sentence: 
-The transaction represents Lynch 's entry into the telephone business
+But city officials say tax revenues are lagging
 Additional Information: 
-('entry', 'to', 'building')
-('entry', 'dark')
-('telephone', 'a', 'pole')
-('telephone', 'black')
-('business', 'ON', 'building')
-('business', 'here')
+('city', 'large')

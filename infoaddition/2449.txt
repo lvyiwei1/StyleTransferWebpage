@@ -1,0 +1,4 @@
+Original Sentence: 
+And that 's a problem
+Additional Information: 
+('plane', 'has', 'problem')

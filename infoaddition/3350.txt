@@ -1,0 +1,4 @@
+Original Sentence: 
+In 1982 he started a factory in Greece
+Additional Information: 
+('factory', 'large')

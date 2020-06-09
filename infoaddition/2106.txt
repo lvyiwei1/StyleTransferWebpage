@@ -1,0 +1,4 @@
+Original Sentence: 
+Poverty remains far more widespread among blacks than other Americans
+Additional Information: 
+('black', 'train', 'car')

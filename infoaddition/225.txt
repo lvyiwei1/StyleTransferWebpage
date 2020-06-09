@@ -1,9 +1,4 @@
 Original Sentence: 
-And you ca n't cut this chain with bolt cutters
+An announcement is more likely next week though
 Additional Information: 
-('chain', 'OF', 'bike')
-('chain', 'metal')
-('bolt', 'ON', 'scissors')
-('bolt', 'metal')
-('cutter', 'has', 'handle')
-('cutter', 'silver')
+('announcement', 'ON', 'table')

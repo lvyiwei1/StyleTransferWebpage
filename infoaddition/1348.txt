@@ -1,0 +1,4 @@
+Original Sentence: 
+Figgie is a fire protection electronics and industrial products concern
+Additional Information: 
+('electronics', 'black')

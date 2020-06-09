@@ -1,5 +1,4 @@
 Original Sentence: 
-A lot of pent-up demand is gone
+Now we 're going to sell to men
 Additional Information: 
-('lot', 'behind', 'players')
-('lot', 'parking')
+('men', 'have', 'helmets')

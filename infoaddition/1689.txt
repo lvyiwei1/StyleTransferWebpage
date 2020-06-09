@@ -1,0 +1,4 @@
+Original Sentence: 
+Two years later he opened one in West Germany
+Additional Information: 
+('year', 'white')

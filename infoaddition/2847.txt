@@ -1,0 +1,4 @@
+Original Sentence: 
+Introducing pool argued Councilwoman Riley Reinker would be dangerous
+Additional Information: 
+('pool', 'blue')

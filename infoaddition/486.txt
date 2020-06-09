@@ -1,11 +1,4 @@
 Original Sentence: 
-China-bound freight streams through the territory 's port
+Japanese companies have a caveat competitor attitude
 Additional Information: 
-('freight', 'being loaded in', 'distance')
-('freight', 'red')
-('stream', 'OF', 'water')
-('stream', 'small')
-('grass', 'IN', 'territory')
-('territory', 'foul')
-('port', 'ON', 'wall')
-('port', 'usb')
+('competitor', 'number', '693')

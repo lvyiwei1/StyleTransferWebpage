@@ -1,6 +1,4 @@
 Original Sentence: 
-These are curious times in South African politics
+It was succeeded in the group by Fuqua Industries Inc
 Additional Information: 
-('time', 'ON', 'microwave')
-('time', 'displayed')
-('letters', 'about', 'politics')
+('group', 'large')

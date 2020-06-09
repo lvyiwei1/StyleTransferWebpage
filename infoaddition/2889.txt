@@ -1,0 +1,4 @@
+Original Sentence: 
+Some producers seem tentative about the technique squeamish even
+Additional Information: 
+('technique', 'for', 'hitting')

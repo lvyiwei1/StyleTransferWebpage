@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales rose 13 % to 1.91 billion from 1.69 billion
+Essentially the critics of stock-index futures fall into two camps
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('camp', 'ON', 'image')

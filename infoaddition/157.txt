@@ -1,5 +1,4 @@
 Original Sentence: 
-The reality is that Bank finances are rock solid
+Not all those who wrote oppose the changes
 Additional Information: 
-('rock', 'behind', 'zebra')
-('rock', 'large')
+('change', 'ON', 'red')

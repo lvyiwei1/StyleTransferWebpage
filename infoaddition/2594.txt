@@ -1,0 +1,4 @@
+Original Sentence: 
+But gay rights advocates are angry too
+Additional Information: 
+('right', 'wheel of computer', 'chair')

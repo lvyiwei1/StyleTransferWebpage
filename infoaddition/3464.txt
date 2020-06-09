@@ -1,0 +1,4 @@
+Original Sentence: 
+This is not the case
+Additional Information: 
+('case', 'black')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The farmer stands to go
+After a while someone has to go over the side
 Additional Information: 
-('farmer', 'beside', 'body')
-('farmer', 'holding')
+('someone', 'standing')

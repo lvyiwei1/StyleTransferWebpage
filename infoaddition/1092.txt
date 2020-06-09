@@ -1,5 +1,4 @@
 Original Sentence: 
-The merged firm will carry Norris McLaughlin 's name
+The Dow Jones industrials sank 26.23 points to 2662.91
 Additional Information: 
-('name', 'IN', 'tennis net')
-('name', 'white')
+('point', 'ON', 'umbrella')

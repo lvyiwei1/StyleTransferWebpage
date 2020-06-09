@@ -1,0 +1,4 @@
+Original Sentence: 
+The minimum unit is 100,000
+Additional Information: 
+('unit', 'IN', 'window')

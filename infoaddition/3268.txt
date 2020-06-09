@@ -1,0 +1,4 @@
+Original Sentence: 
+Also most of the telecommunications equipment was out
+Additional Information: 
+('equipment', 'ON', 'legs')

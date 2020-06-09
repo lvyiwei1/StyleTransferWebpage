@@ -1,9 +1,4 @@
 Original Sentence: 
-Jewelry Makers Copy Cosmetics Sales Ploys
+People in the phone business call this technology 900 click
 Additional Information: 
-('jewelry', 'under', 'lip')
-('jewelry', 'silver')
-('maker', 'for', 'coffee')
-('maker', 'coffee')
-('sale', 'at', 'company')
-('sale', 'red')
+('business', 'here')

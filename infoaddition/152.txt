@@ -1,11 +1,4 @@
 Original Sentence: 
-In peak periods that load may include 4,000 pieces
+We found a market niche Mr. Mills boasts
 Additional Information: 
-('peak', 'at top of', 'mountain')
-('peak', 'mountain')
-('period', 'ON', 'sign')
-('period', 'red')
-('load', 'ON', 'truck')
-('load', 'large')
-('piece', 'OF', 'vegetable')
-('piece', 'small')
+('market', 'outdoor')

@@ -1,6 +1,4 @@
 Original Sentence: 
-THANKS TO modern medicine more couples are growing old together
+Related Roommates Trim Hospital Bills
 Additional Information: 
-('medicine', 'ON', 'table')
-('couple', 'holding', 'hands')
-('couple', 'walking')
+('hospital', 'mental')

@@ -1,0 +1,4 @@
+Original Sentence: 
+But analysts say Sansui is a special case
+Additional Information: 
+('case', 'black')

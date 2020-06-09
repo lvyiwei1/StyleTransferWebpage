@@ -1,0 +1,4 @@
+Original Sentence: 
+Since then deliveries have slumped
+Additional Information: 
+('van', 'for', 'delivery')

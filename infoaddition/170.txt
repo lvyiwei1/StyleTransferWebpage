@@ -1,7 +1,4 @@
 Original Sentence: 
-He is negotiating a rich book contract to boot
+The percentage change is since year-end
 Additional Information: 
-('book', 'has', 'cover')
-('book', 'white')
-('boot', 'ON', 'foot')
-('boot', 'black')
+('change', 'ON', 'red')

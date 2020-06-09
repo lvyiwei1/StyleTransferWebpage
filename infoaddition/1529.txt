@@ -1,0 +1,4 @@
+Original Sentence: 
+The company earned 6.6 million in the year-earlier quarter
+Additional Information: 
+('quarter', 'silver')

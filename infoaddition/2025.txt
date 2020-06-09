@@ -1,0 +1,4 @@
+Original Sentence: 
+Richard L. Sherman 42 will advise midsized businesses
+Additional Information: 
+('business', 'here')

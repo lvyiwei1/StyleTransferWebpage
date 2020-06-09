@@ -1,7 +1,4 @@
 Original Sentence: 
-Some people must drop names call it an irresistible impulse
+It also licenses optically based data storage and retrieval devices
 Additional Information: 
-('people', 'walking on', 'stairs')
-('people', 'standing')
-('name', 'on back of', 'shirt')
-('name', 'white')
+('storage', 'overhead')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Once they are in the building they stay
+Those percentages hardly changed from the previous year 's poll
 Additional Information: 
-('building', 'with', 'windows')
-('building', 'white')
+('coupon', 'has', 'percentage')

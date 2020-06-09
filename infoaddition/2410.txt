@@ -1,0 +1,4 @@
+Original Sentence: 
+They needed new crises to generate new grants and contracts
+Additional Information: 
+('grant', 'typed 100 times!')

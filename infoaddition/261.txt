@@ -1,5 +1,4 @@
 Original Sentence: 
-Jeff Rowe contributed to this article
+This is not a major crash she said
 Additional Information: 
-('article', 'IN', 'magazine')
-('article', 'newspaper')
+('crash', 'white')

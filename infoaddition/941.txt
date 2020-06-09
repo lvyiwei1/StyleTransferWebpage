@@ -1,6 +1,4 @@
 Original Sentence: 
-Long-term bonds have performed erratically this year
+But the shortages also spawned rampant speculation and spiraling prices
 Additional Information: 
-('bond', 'black ')
-('year', 'IN', 'corner')
-('year', 'white')
+('price', 'written')

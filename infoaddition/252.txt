@@ -1,7 +1,4 @@
 Original Sentence: 
-But Burger King operators independently confirm using Michael 's product
+MCA strongly opposed the Drabinsky group 's move
 Additional Information: 
-('operator', 'sitting', 'shed')
-('operator', 'Lift ')
-('product', 'IN', 'box')
-('product', 'bathroom')
+('group', 'large')

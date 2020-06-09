@@ -1,9 +1,4 @@
 Original Sentence: 
-Copper futures prices failed to extend Friday 's rally
+This leads to a very special sense of urgency
 Additional Information: 
-('copper', 'on top of', 'cake topper')
-('copper', 'vase')
-('price', 'ON', 'sign')
-('price', 'written')
-('people', 'demonstrating in political', 'rally')
-('rally', 'black')
+('phrase', 'makes no', 'sense')

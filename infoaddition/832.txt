@@ -1,7 +1,4 @@
 Original Sentence: 
-A hundred billion dollars in stock was subject to it
+That is the way the system works
 Additional Information: 
-('dollar', 'ON', 'table')
-('dollar', 'twenty')
-('stock', 'OF', 'broccoli')
-('stock', 'green')
+('system', 'under', 'train')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Quest for Fire was the first time
+He throws something
 Additional Information: 
-('time', 'ON', 'clock')
-('time', 'displayed')
+('something', 'plugged into', 'electrical outlet')

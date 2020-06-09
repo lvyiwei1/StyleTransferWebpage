@@ -1,5 +1,4 @@
 Original Sentence: 
-Sales rose 12 % to 249.5 million from 222.8 million
+Among the leading products is a flu shot for horses
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('horse', 'has a', 'mane')

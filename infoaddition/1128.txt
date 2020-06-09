@@ -1,7 +1,4 @@
 Original Sentence: 
-The house just settled right down into the ground
+The pharmaceuticals maker had traded over-the-counter
 Additional Information: 
-('house', 'ON', 'hill')
-('house', 'white')
-('ground', 'has', 'spots')
-('ground', 'brown')
+('maker', 'coffee')

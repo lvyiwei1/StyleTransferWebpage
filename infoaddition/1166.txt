@@ -1,6 +1,4 @@
 Original Sentence: 
-Advertisers are showing interest
+Two steps are necessary to translate this idea into action
 Additional Information: 
-('advertiser', 'ON', 'train')
-('people', 'showing', 'interest')
-('interest', 'great')
+('step', 'concrete')

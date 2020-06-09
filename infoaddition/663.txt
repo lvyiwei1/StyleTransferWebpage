@@ -1,5 +1,4 @@
 Original Sentence: 
-Bostic posted 1988 sales of 255 million
+Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
 Additional Information: 
-('sale', 'at', 'company')
-('sale', 'red')
+('printed', 'happy', 'holiday')

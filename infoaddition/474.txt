@@ -1,9 +1,4 @@
 Original Sentence: 
-Flight Attendants Lag Before Jets Even Land
+BAY AREA COMMUTERS BATTLED earthquake-related transportation snarls
 Additional Information: 
-('flight', 'of', 'stairs')
-('flight', 'of metal stairs')
-('attendant', 'talking to', 'visitor')
-('attendant', 'assisting')
-('jet', 'about to', 'land')
-('jet', 'white')
+('area', 'by', 'display stand')

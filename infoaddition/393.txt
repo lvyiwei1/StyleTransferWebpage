@@ -1,5 +1,4 @@
 Original Sentence: 
-Brokers agreed with the two-tier price theory
+FOR YEARS costume jewelry makers fought a losing battle
 Additional Information: 
-('price', 'ON', 'sign')
-('price', 'written')
+('battle', 'close')

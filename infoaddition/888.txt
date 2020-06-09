@@ -1,6 +1,4 @@
 Original Sentence: 
-Companies will continue to war over standards
+That included capital gains that were passed along to customers
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
-('standard', 'size white', 'toilet')
+('capital', 'a')

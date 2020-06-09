@@ -1,5 +1,4 @@
 Original Sentence: 
-Essentially the critics of stock-index futures fall into two camps
+The position of chief operating officer is new
 Additional Information: 
-('camp', 'ON', 'image')
-('camp', 'green tented ')
+('catcher', 'IN', 'position')

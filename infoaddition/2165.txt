@@ -1,0 +1,4 @@
+Original Sentence: 
+The close was the highest since August 3
+Additional Information: 
+('close', 'up view of an apple', 'tree')

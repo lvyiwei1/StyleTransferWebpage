@@ -1,0 +1,4 @@
+Original Sentence: 
+The company does n't expect any shipping delays
+Additional Information: 
+('company', 'name')

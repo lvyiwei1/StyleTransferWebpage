@@ -1,5 +1,4 @@
 Original Sentence: 
-The December contract rose 1.50 cents a pound to 1.2795
+Stock prices rose
 Additional Information: 
-('pound', 'has a', 'ten')
-('pound', 'here')
+('price', 'written')

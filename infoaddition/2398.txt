@@ -1,0 +1,4 @@
+Original Sentence: 
+Oh yes the Atlantic was also pushed back 300 yards
+Additional Information: 
+('yard', 'near', 'sheep')

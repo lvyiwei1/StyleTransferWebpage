@@ -1,4 +1,4 @@
 Original Sentence: 
-Lethal Weapon II was also a big hit
+They say the broker took them out for lunch frequently
 Additional Information: 
-('ball', 'being', 'hit')
+('lunch', 'wrapped in', 'foil')

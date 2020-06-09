@@ -1,7 +1,4 @@
 Original Sentence: 
-These are the raw materials used in making plastics
+It has some of the highest costs in the league
 Additional Information: 
-('material', 'ON', 'arm')
-('material', 'white')
-('plastic', 'ON', 'desk')
-('plastic', 'clear')
+('cost', 'displayed in front of', 'banana')

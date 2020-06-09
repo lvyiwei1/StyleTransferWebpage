@@ -1,4 +1,4 @@
 Original Sentence: 
-After that the layout had been easy
+The company also reassigned several executive responsibilities
 Additional Information: 
-('layout', 'brick')
+('company', 'name')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Details of credit enhancements vary widely from issue to issue
+Flight Attendants Lag Before Jets Even Land
 Additional Information: 
-('detail', 'IN', 'tower')
-('detail', 'red')
-('credit', 'IN', 'corner')
-('credit', 'artist')
+('jet', 'about to', 'land')

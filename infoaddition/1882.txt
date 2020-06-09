@@ -1,0 +1,4 @@
+Original Sentence: 
+It reduces the baseline by 169 billion
+Additional Information: 
+('baseline', 'ON', 'grass')

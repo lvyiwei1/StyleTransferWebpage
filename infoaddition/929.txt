@@ -1,7 +1,4 @@
 Original Sentence: 
-The suit seeks unspecified damages
+The yield rose to 5.38 %
 Additional Information: 
-('suit', 'OF', 'man')
-('suit', 'black')
-('damage', 'on a', 'wall')
-('damage', 'moisture')
+('yield', 'on', 'sign')

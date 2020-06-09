@@ -1,5 +1,4 @@
 Original Sentence: 
-4 Make your due-process system visible
+There are a lot of them and they have property
 Additional Information: 
-('system', 'ON', 'stand')
-('system', 'black')
+('property', 'waterfront')

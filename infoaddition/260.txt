@@ -1,5 +1,4 @@
 Original Sentence: 
-She was the child of relative privilege
+This is not a major crash she said
 Additional Information: 
-('child', 'standing at', 'ocean')
-('child', 'small')
+('crash', 'of an', 'airplane')

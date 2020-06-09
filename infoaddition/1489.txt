@@ -1,0 +1,4 @@
+Original Sentence: 
+Construction is set to begin in early 1991
+Additional Information: 
+('construction', 'by', 'building')

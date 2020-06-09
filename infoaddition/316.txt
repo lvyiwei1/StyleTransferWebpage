@@ -1,7 +1,4 @@
 Original Sentence: 
-That is the way the system works
+Much of the family 's mystique remained
 Additional Information: 
-('way', 'to', 'house')
-('way', 'walk')
-('system', 'under', 'train')
-('system', 'black')
+('family', 'sitting')

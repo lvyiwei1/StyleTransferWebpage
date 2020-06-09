@@ -1,6 +1,4 @@
 Original Sentence: 
-Evaluating asset-backed securities poses another problem
+It shows a boy hurling rocks at a street lamp
 Additional Information: 
-('security', 'walking in', 'orange vests')
-('security', 'standing')
-('plane', 'has', 'problem')
+('boy', 'ON', 'field')

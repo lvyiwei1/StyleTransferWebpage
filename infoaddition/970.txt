@@ -1,5 +1,4 @@
 Original Sentence: 
-And the merchandise was well fake
+Those activities generated 26.1 million in operating profit last year
 Additional Information: 
-('merchandise', 'next to', 'woman')
-('merchandise', 'fragile')
+('year', 'IN', 'corner')

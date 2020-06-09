@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+Mr. Spielvogel said he would n't launch a hostile bid
 Additional Information: 
-('term', 'house of david')
+('bid', 'ON', 'shoulder')

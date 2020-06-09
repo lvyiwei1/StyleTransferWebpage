@@ -1,5 +1,4 @@
 Original Sentence: 
-It made my shoelaces dance with terror
+In 1987 such selling contributed to a snowball effect
 Additional Information: 
-('shoelace', 'ON', 'shoe')
-('shoelace', 'white')
+('snowball', 'IN', 'hand')

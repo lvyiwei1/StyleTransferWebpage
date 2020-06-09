@@ -1,0 +1,4 @@
+Original Sentence: 
+A large number of those leaving are managers and professionals
+Additional Information: 
+('professional', 'riding on ir', 'motorbike')

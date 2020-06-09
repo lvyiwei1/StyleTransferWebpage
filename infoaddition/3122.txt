@@ -1,0 +1,4 @@
+Original Sentence: 
+The government 's action was unusual
+Additional Information: 
+('action', 'at', 'baseball field')

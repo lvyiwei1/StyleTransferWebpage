@@ -1,7 +1,4 @@
 Original Sentence: 
-The bill is expected to pass in Congress next month
+Winners outnumbered losers 645-293 with 186 issues unchanged
 Additional Information: 
-('bill', 'pick', 'frisbee')
-('bill', 'orange')
-('month', 'OF', 'picture')
-('month', 'ninth')
+('winner', '2nd place')

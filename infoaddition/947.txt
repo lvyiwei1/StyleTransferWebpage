@@ -1,5 +1,4 @@
 Original Sentence: 
-Then take the expected return and subtract one standard deviation
+Compaq is already taking aim at Zenith 's market share
 Additional Information: 
-('return', 'ON', 'street')
-('return', 'black')
+('market', 'outdoor')

@@ -1,0 +1,4 @@
+Original Sentence: 
+He describes a reporter as Miss First Amendment
+Additional Information: 
+('reporter', 'news reporter')

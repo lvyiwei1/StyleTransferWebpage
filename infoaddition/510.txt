@@ -1,7 +1,4 @@
 Original Sentence: 
-The playoff series had riveted the 12-year-old Giants fan
+The company has been manufacturing carpet since 1967
 Additional Information: 
-('series', 'of posted American', 'flags')
-('series', 'of ski gates')
-('fan', 'IN', 'first row')
-('fan', 'white')
+('company', 'name')

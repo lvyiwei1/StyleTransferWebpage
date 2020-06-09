@@ -1,6 +1,4 @@
 Original Sentence: 
-Prices on the Frankfurt Stock Exchange tumbled in heavy trading
+FOR YEARS costume jewelry makers fought a losing battle
 Additional Information: 
-('price', 'tag', 'roll')
-('price', 'written')
-('red t', 'IN', 'trading')
+('jewelry', 'ON', 'neck')

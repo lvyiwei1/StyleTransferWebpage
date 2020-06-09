@@ -1,4 +1,4 @@
 Original Sentence: 
-Nursing Home Patients Apt to Be Private Payers
+They want late-night shuttles to the biology labs
 Additional Information: 
-('payer', 'dressed')
+('shuttle', 'white')

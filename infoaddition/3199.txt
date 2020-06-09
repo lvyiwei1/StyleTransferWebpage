@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Smith 39 retains the title of chief financial officer
+Additional Information: 
+('officer', 'police')

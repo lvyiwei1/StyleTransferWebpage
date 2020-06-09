@@ -1,0 +1,4 @@
+Original Sentence: 
+This pattern was particularly evident among more highly educated couples
+Additional Information: 
+('pattern', 'white')

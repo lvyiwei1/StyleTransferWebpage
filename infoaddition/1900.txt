@@ -1,0 +1,4 @@
+Original Sentence: 
+This of course led to disaster in New York City
+Additional Information: 
+('course', 'green')

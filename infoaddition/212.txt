@@ -1,5 +1,4 @@
 Original Sentence: 
-McCaw 's bid also has a similar clause
+That money also would have to be borrowed
 Additional Information: 
-('bid', 'ON', 'shoulder')
-('bid', 'metal')
+('money', 'IN', 'wallet')

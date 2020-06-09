@@ -1,6 +1,4 @@
 Original Sentence: 
-The action came after the Senate approved the House-passed measure
+It said it would purchase the stock at market price
 Additional Information: 
-('action', 'IN', 'action')
-('action', 'MLB')
-('measure', 'black')
+('stock', 'green')

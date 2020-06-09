@@ -1,0 +1,4 @@
+Original Sentence: 
+Every time he sees me he gets very nervous
+Additional Information: 
+('time', 'displayed')

@@ -1,0 +1,4 @@
+Original Sentence: 
+We 've actually read the speech
+Additional Information: 
+('man', 'giving', 'speech')

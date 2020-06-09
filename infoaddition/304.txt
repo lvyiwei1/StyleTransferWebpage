@@ -1,9 +1,4 @@
 Original Sentence: 
-Among the leading products is a flu shot for horses
+The channel reaches 6.5 million homes a Penney spokesman said
 Additional Information: 
-('product', 'ON', 'display')
-('product', 'bathroom')
-('shot', 'OF', 'broccoli')
-('shot', 'old')
-('horse', 'has a', 'mane')
-('horse', 'brown')
+('channel', 'here')

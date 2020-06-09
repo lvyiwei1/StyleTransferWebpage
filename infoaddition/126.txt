@@ -1,5 +1,4 @@
 Original Sentence: 
-The offering used at-market pricing
+Last year 45,000 went
 Additional Information: 
-('sign', 'has', 'pricing')
-('pricing', 'hand written')
+('year', 'white')

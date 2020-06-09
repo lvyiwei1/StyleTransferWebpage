@@ -1,5 +1,4 @@
 Original Sentence: 
-But what about all those non-duck ducks flapping over Washington
+What is that point
 Additional Information: 
-('duck', 'has a', 'neck')
-('duck', 'white')
+('point', 'OF', 'board')

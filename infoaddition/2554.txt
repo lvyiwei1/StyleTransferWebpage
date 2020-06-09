@@ -1,0 +1,4 @@
+Original Sentence: 
+The following month the company put itself up for sale
+Additional Information: 
+('month', 'OF', 'picture')

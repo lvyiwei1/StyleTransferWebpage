@@ -1,4 +1,4 @@
 Original Sentence: 
-The billion-dollar question is How much are those benefits worth
+Issues of insurance brokers were especially strong
 Additional Information: 
-('question', 'black')
+('advertisement', 'for', 'insurance')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Our competitors say we overbid them
+Additional Information: 
+('competitor', 'here')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Last week CBS Inc. canceled The People Next Door
+Additional Information: 
+('day', 'OF', 'week')

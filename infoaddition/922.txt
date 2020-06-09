@@ -1,5 +1,4 @@
 Original Sentence: 
-We 're talking real money
+The executive branch bears the first responsibility for timidity
 Additional Information: 
-('money', 'ON', 'table')
-('money', 'paper')
+('branch', 'sticking out of', 'truck')

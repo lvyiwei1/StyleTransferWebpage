@@ -1,0 +1,4 @@
+Original Sentence: 
+There is hope of change
+Additional Information: 
+('change', 'in a', 'change')

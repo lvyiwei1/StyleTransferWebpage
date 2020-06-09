@@ -1,7 +1,4 @@
 Original Sentence: 
-The mayor said the Quayle visit was a publicity stunt
+That means huge travel bills
 Additional Information: 
-('mayor', 'IN', 'lettering')
-('bus', 'has', 'publicity')
-('stunt', 'IN', 'person')
-('stunt', 'aerial')
+('bill', 'of', 'bird')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The ratification follows a 23-day strike against the Philadelphia-based company
+Additional Information: 
+('company', 'name')

@@ -1,5 +1,4 @@
 Original Sentence: 
-The companies are automotive-emissions-testing concerns
+The computer 's miscalculation has been painful for Renaissance
 Additional Information: 
-('company', 'that owns', 'bus')
-('company', 'name')
+('computer', 'has a', 'keyboard')

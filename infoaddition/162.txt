@@ -1,5 +1,4 @@
 Original Sentence: 
-Other Western Union securities were also lower
+Volume was 959.3 million shares more than triple recent levels
 Additional Information: 
-('security', 'walking in', 'orange vests')
-('security', 'standing')
+('level', 'upper')

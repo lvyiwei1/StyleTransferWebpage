@@ -1,0 +1,4 @@
+Original Sentence: 
+Neither testified at the previous trials
+Additional Information: 
+('snow', 'has', 'trial')

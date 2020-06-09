@@ -1,7 +1,4 @@
 Original Sentence: 
-In the 1988 quarter the bank earned 1.1 million
+We 're after a little bigger niche he said
 Additional Information: 
-('quarter', 'ON', 'counter top')
-('quarter', 'silver')
-('bank', 'by', 'water')
-('bank', 'grassy')
+('niche', 'is')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Known as Easy Eggs the product has disappointed investors
+That hurts investors ' confidence in the economy and stocks
 Additional Information: 
-('product', 'selling on', 'show')
-('product', 'bathroom')
+('stock', 'OF', 'broccoli')

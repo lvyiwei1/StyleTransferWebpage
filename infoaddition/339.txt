@@ -1,7 +1,4 @@
 Original Sentence: 
-Sun also reported a record backlog of orders
+The CFTC has 90 days to respond to such applications
 Additional Information: 
-('record', 'sitting on', 'record player')
-('record', 'black')
-('order', 'OF', 'french fries')
-('order', 'ready')
+('application', 'loaded')

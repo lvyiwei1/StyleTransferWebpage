@@ -1,7 +1,4 @@
 Original Sentence: 
-The 282 members had paid 10,000 apiece for seats
+The board increased by one to 26 members
 Additional Information: 
-('member', 'WEARING', 'shirt')
-('member', 'several')
-('seat', 'OF', 'bicycle')
-('seat', 'black')
+('board', 'ON', 'tracks')

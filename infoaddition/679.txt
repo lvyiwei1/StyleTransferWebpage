@@ -1,5 +1,4 @@
 Original Sentence: 
-The December contract declined 1.85 cents a pound to 1.2645
+It shows a boy hurling rocks at a street lamp
 Additional Information: 
-('pound', 'has a', 'ten')
-('pound', 'here')
+('rock', 'IN', 'jar')

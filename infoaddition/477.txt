@@ -1,7 +1,4 @@
 Original Sentence: 
-I see it as a sewage treatment plant he says
+BAY AREA COMMUTERS BATTLED earthquake-related transportation snarls
 Additional Information: 
-('sewage', 'opening on', 'sidewalk')
-('treatment', 'wooden')
-('plant', 'in a', 'pot')
-('plant', 'green')
+('sign', 'directing people to another source of', 'transportation')

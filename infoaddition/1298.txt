@@ -1,5 +1,4 @@
 Original Sentence: 
-This is not the case
+For one thing Digital Maynard Mass. has sold fewer machines
 Additional Information: 
-('case', 'ON', 'cellphone')
-('case', 'black')
+('thing', 'under', 'airplane')

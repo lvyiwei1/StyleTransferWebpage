@@ -1,5 +1,4 @@
 Original Sentence: 
-It would n't discuss a price
+Sales increased 6 % to 5.58 billion from 5.27 billion
 Additional Information: 
-('price', 'OF', 'fruit')
-('price', 'written')
+('sale', 'at', 'company')

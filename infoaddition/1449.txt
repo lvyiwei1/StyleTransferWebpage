@@ -1,0 +1,4 @@
+Original Sentence: 
+Upgrades to bigger models also will be costlier
+Additional Information: 
+('model', 'red')

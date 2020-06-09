@@ -1,5 +1,4 @@
 Original Sentence: 
-The notes can be redeemed starting in July 1991
+Offices of the city 's Rent Board were destroyed
 Additional Information: 
-('note', 'on a', 'cork board')
-('note', 'yellow')
+('city', 'large')

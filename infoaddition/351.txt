@@ -1,7 +1,4 @@
 Original Sentence: 
-But it 's like kicking your father in the pants
+The zero-coupon subordinated notes have no periodic interest payments
 Additional Information: 
-('father', 'watching', 'tennis ball')
-('father', 'smiling')
-('pant', 'has', 'dirt')
-('pant', 'black')
+('note', 'yellow')

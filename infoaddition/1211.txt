@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Ehrlich will continue as a director and a consultant
+Third-quarter earnings at both companies were below analysts ' forecasts
 Additional Information: 
-('vest', 'ON', 'director')
-('director', 'caucasian')
+('company', 'that owns', 'bus')

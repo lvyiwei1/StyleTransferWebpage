@@ -1,0 +1,4 @@
+Original Sentence: 
+This was not a do-or-die deal she said
+Additional Information: 
+('deal', 'OF', 'bananas')

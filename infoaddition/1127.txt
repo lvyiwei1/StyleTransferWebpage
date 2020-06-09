@@ -1,5 +1,4 @@
 Original Sentence: 
-BellSouth 's back-end protection was flawed previously
+The pharmaceuticals maker had traded over-the-counter
 Additional Information: 
-('protection', 'for', 'eyes')
-('protection', 'black')
+('maker', 'ON', 'countertop')

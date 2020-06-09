@@ -1,6 +1,4 @@
 Original Sentence: 
-They gleefully await the dream season in 1990
+The percentage change is since year-end
 Additional Information: 
-('dream', 'capital letters')
-('season', 'ON', 'stove')
-('season', 'fall')
+('change', 'ON', 'red')

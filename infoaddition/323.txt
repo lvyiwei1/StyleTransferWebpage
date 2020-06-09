@@ -1,5 +1,4 @@
 Original Sentence: 
-We can lose money on this he says
+Seats currently are quoted at 400,000 bid 425,000 asked
 Additional Information: 
-('money', 'under', 'card')
-('money', 'paper')
+('bid', 'ON', 'shoulder')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Should the rest of the Series be played at all
+Goya Concocts a Milk For Hispanic Tastes
 Additional Information: 
-('rest', 'ON', 'chair')
-('rest', 'arm')
+('milk', 'white')

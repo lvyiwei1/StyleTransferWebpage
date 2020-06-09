@@ -1,5 +1,4 @@
 Original Sentence: 
-Ms. Kolber said the committee had received other bids
+They lost the entertainment crown and they needed one
 Additional Information: 
-('bid', 'ON', 'sheet')
-('bid', 'metal')
+('center', 'for', 'entertainment')

@@ -1,7 +1,4 @@
 Original Sentence: 
-Most people ca n't even remember his name
+In this case that 's about 250,000
 Additional Information: 
-('people', 'at', 'food market')
-('people', 'standing')
-('name', 'ON', 'phone')
-('name', 'white')
+('case', 'black')

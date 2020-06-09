@@ -1,0 +1,4 @@
+Original Sentence: 
+There 's nothing on the other side
+Additional Information: 
+('nothing', 'clear')

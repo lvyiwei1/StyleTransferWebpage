@@ -1,7 +1,4 @@
 Original Sentence: 
-Other companies figure they ca n't avoid the market
+The heightened competition will hit IBM at a difficult time
 Additional Information: 
-('company', 'has', 'label')
-('company', 'name')
-('market', 'OF', 'cucumbers')
-('market', 'outdoor')
+('time', 'OF', 'clock')

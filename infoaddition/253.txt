@@ -1,7 +1,4 @@
 Original Sentence: 
-Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
+MCA strongly opposed the Drabinsky group 's move
 Additional Information: 
-('story', 'belonging to', 'building')
-('story', 'second')
-('printed', 'happy', 'holiday')
-('holiday', 'colorful')
+('mechanism', 'makes it', 'move')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The accident was caused by faulty operation of a valve
+Additional Information: 
+('valve', 'on top of', 'fire hydrant')

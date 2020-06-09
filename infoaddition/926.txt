@@ -1,5 +1,4 @@
 Original Sentence: 
-Not all the scandal-tripped have enjoyed soft landings
+Customized baskets of fewer stocks will also be available
 Additional Information: 
-('landing', 'gear and its', 'assembly')
-('landing', 'gear')
+('stock', 'of', 'stock')

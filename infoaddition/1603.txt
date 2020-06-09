@@ -1,0 +1,4 @@
+Original Sentence: 
+But the lack of lines became painfully apparent
+Additional Information: 
+('line', 'ON', 'road')

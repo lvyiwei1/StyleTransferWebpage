@@ -1,6 +1,4 @@
 Original Sentence: 
-Wall Street is n't avoiding everything connected with paper
+In other words Get rid of all the pictures
 Additional Information: 
-('sky', 'above', 'everything')
-('paper', 'ON', 'ground')
-('paper', 'white')
+('picture', 'taken', 'outdoors')

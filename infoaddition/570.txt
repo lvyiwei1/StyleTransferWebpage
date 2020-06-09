@@ -1,6 +1,4 @@
 Original Sentence: 
-Would n't the Japanese like a piece of it
+The flight was rescheduled for today
 Additional Information: 
-('baner', 'IN', 'japanese')
-('piece', 'of sausage on a', 'pizza')
-('piece', 'small')
+('cow', 'are laying down', 'today')

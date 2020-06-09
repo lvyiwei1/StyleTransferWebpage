@@ -1,0 +1,4 @@
+Original Sentence: 
+The timing for change was right
+Additional Information: 
+('change', 'ON', 'red')

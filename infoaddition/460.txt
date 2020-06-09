@@ -1,5 +1,4 @@
 Original Sentence: 
-But the Americans are also to blame
+He is negotiating a rich book contract to boot
 Additional Information: 
-('american', 'flag', 'american')
-('american', 'Waving ')
+('book', 'white')

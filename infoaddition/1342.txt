@@ -1,0 +1,4 @@
+Original Sentence: 
+Unless he changes they lose said a Democratic leadership aide
+Additional Information: 
+('model', 'denture teaching', 'aide')

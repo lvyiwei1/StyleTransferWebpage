@@ -1,0 +1,4 @@
+Original Sentence: 
+Retail sales are plummeting while consumer prices still are rising
+Additional Information: 
+('sale', 'at', 'company')

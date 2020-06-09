@@ -1,5 +1,4 @@
 Original Sentence: 
-Mr. Roman appears custom-made for the American Express job
+We want it to be a '90s kind of image
 Additional Information: 
-('job', 'ON', 'bus')
-('job', 'decorative')
+('image', 'white')

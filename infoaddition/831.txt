@@ -1,5 +1,4 @@
 Original Sentence: 
-He is going to pursue other interests Mr. Jahn said
+That is the way the system works
 Additional Information: 
-('people', 'showing', 'interest')
-('interest', 'great')
+('way', 'walk')

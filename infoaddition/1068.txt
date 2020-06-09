@@ -1,5 +1,4 @@
 Original Sentence: 
-Falconbridge he says will continue operating in its current form
+A man said he saw the upper rim undulate
 Additional Information: 
-('form', 'OF', 'blurred woman')
-('form', 'white')
+('man', 'standing in', 'corner')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Before that he was an executive with a manufacturing concern
+Housing Developers Try Brand-Name Buildings
 Additional Information: 
-('executive', 'ON', 'signs')
-('executive', 'in white')
+('building', 'IN', 'background')

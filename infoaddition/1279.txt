@@ -1,5 +1,4 @@
 Original Sentence: 
-Both moves are effective today
+Neither disclosed details pending board meetings next month
 Additional Information: 
-('mechanism', 'makes it', 'move')
-('sign', 'reads', 'today')
+('board', 'with', 'lettering')

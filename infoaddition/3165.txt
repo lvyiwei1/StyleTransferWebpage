@@ -1,0 +1,4 @@
+Original Sentence: 
+It seeks unspecified money damages
+Additional Information: 
+('money', 'paper')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Per-share net rose to 62.04 yen from 51.50 yen
+The order is the biggest in the company 's history
 Additional Information: 
-('net', 'hanging on', 'fence')
-('net', 'black')
+('order', 'OF', 'french fries')

@@ -1,9 +1,4 @@
 Original Sentence: 
-The suit is still pending in Illinois state court
+A more blue-collar panel became a second aim
 Additional Information: 
-('suit', 'ON', 'man')
-('suit', 'black')
-('state', 'park', 'sign')
-('state', 'Penn ')
-('court', 'has', 'net')
-('court', 'green')
+('panel', 'white')

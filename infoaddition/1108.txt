@@ -1,9 +1,4 @@
 Original Sentence: 
-They want psyllium prices low for their purchases next year
+The companies are automotive-emissions-testing concerns
 Additional Information: 
-('price', 'OF', 'hot dog')
-('price', 'written')
-('woman', 'wants to', 'purchase')
-('purchase', 'Levy Restaurant')
-('year', 'ON', 'bench')
-('year', 'white')
+('company', 'that owns', 'bus')

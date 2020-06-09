@@ -1,5 +1,4 @@
 Original Sentence: 
-We have a major problem and that problem is volatility
+Coopers uses the Coopers & Lybrand name world-wide
 Additional Information: 
-('plane', 'has', 'problem')
-('plane', 'has', 'problem')
+('name', 'white')

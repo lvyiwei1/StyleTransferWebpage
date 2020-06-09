@@ -1,5 +1,4 @@
 Original Sentence: 
-What does this mean for trade policy
+Jeff Rowe contributed to this article
 Additional Information: 
-('mean', 'WEARING', 'red shirt')
-('company name', 'says', 'trade')
+('article', 'OF', 'clothing')

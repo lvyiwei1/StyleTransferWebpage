@@ -1,7 +1,4 @@
 Original Sentence: 
-The plant employs between 800 and 900 on three shifts
+Offices of the city 's Rent Board were destroyed
 Additional Information: 
-('plant', 'ON', 'floor')
-('plant', 'green')
-('shift', 'ON', 'keyboard')
-('shift', 'black')
+('office', 'with', 'computers')

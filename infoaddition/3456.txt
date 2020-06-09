@@ -1,0 +1,4 @@
+Original Sentence: 
+Then he jumped into the market
+Additional Information: 
+('market', 'for', 'people')

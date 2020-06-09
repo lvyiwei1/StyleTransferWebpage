@@ -1,0 +1,4 @@
+Original Sentence: 
+On second thought make that just mom
+Additional Information: 
+('mom', 'helping', 'cook')

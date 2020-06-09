@@ -1,0 +1,4 @@
+Original Sentence: 
+November gasoline slipped slightly
+Additional Information: 
+('truck', 'OF', 'gasoline')

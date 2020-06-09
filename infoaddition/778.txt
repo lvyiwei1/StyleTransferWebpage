@@ -1,5 +1,4 @@
 Original Sentence: 
-The latest rebate is good for all Beretta models
+Their reaction was to do nothing and ride it out
 Additional Information: 
-('model', 'WEARING', 'necklace')
-('model', 'red')
+('nothing', 'clear')

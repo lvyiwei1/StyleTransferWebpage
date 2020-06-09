@@ -1,8 +1,4 @@
 Original Sentence: 
-No reason was given in the filing for the sales
+The reason was not high interest rates or labor costs
 Additional Information: 
 ('not', 'in mood right nowhold leg in air for no', 'reason')
-('filing', 'cabinet with pull', 'drawers')
-('filing', 'red')
-('sale', 'ON', 'window')
-('sale', 'red')

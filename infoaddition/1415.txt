@@ -1,0 +1,4 @@
+Original Sentence: 
+Aldus Seattle makes computer software products
+Additional Information: 
+('software', 'blue')

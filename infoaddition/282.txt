@@ -1,5 +1,4 @@
 Original Sentence: 
-He dedicated all these new forces to the Persian Gulf
+No charges were brought against her
 Additional Information: 
-('force', 'ON', 'plane')
-('force', 'black')
+('charge', 'can', 'charge')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Thus the leverage has amplified the funds ' portfolio losses
+Additional Information: 
+('portfolio', 'black')

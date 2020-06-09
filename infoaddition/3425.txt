@@ -1,0 +1,4 @@
+Original Sentence: 
+Some people think the search for liquidity is fruitless
+Additional Information: 
+('people', 'standing')

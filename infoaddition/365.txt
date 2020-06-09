@@ -1,8 +1,4 @@
 Original Sentence: 
-The rest is of course history
+It did n't provide details of setup costs
 Additional Information: 
-('rest', 'attached to', 'wall')
-('rest', 'arm')
-('course', 'with', 'bunker')
-('course', 'green')
-('the', 'word', 'history')
+('setup', 'simple')

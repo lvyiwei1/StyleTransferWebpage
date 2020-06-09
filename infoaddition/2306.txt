@@ -1,0 +1,4 @@
+Original Sentence: 
+People were even hoarding bags he says
+Additional Information: 
+('people', 'IN', 'top')

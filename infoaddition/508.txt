@@ -1,9 +1,4 @@
 Original Sentence: 
-What market makers provide is immediacy a very valuable service
+The company sells image
 Additional Information: 
-('market', 'has', 'oranges')
-('market', 'outdoor')
-('maker', 'on', 'surface')
-('maker', 'coffee')
-('service', 'ON', 'sign')
-('service', 'gone')
+('image', 'white')

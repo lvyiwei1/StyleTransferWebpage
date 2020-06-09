@@ -1,7 +1,4 @@
 Original Sentence: 
-Bond prices were little changed in sluggish activity
+Artists and draftsmen need harder leads
 Additional Information: 
-('bond', 'black ')
-('price', 'for', 'bananas')
-('price', 'written')
-('activity', 'around', 'planes')
+('artist', 'painting')

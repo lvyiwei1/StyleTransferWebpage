@@ -1,5 +1,4 @@
 Original Sentence: 
-Czeslaw Pyszkiewicz owns 30 acres in 14 scattered scraps
+The bank has a negative net worth they say
 Additional Information: 
-('scrap', 'ON', 'floor')
-('scrap', 'white')
+('bank', 'grassy')

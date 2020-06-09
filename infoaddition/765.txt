@@ -1,5 +1,4 @@
 Original Sentence: 
-Marshall McLuhan you should have been there at that hour
+The order is the biggest in the company 's history
 Additional Information: 
-('hour', 'ON', 'box')
-('hour', 'black')
+('the', 'word', 'history')

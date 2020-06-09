@@ -1,0 +1,4 @@
+Original Sentence: 
+PaineWebber considered an even harder sell recommending specific stocks
+Additional Information: 
+('pies', 'for', 'sell')

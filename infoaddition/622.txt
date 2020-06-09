@@ -1,5 +1,4 @@
 Original Sentence: 
-And he nearly always bought and sold for cash
+Three gambling casinos have opened in Poland
 Additional Information: 
-('cash', 'inside', 'purse')
-('cash', 'Two round pieces  ')
+('casino', 'in a', 'casino')

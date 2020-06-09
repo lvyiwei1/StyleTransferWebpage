@@ -1,0 +1,4 @@
+Original Sentence: 
+We are seeing such exercises today in fact
+Additional Information: 
+('sign', 'reads', 'today')

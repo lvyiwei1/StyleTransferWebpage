@@ -1,7 +1,4 @@
 Original Sentence: 
-Telerate provides information about financial markets through an electronic network
+He does n't just walk off the mound and weep
 Additional Information: 
-('information', 'ON', 'toilet seat')
-('information', 'yellow')
-('market', 'OF', 'fruit')
-('market', 'outdoor')
+('mound', 'dirt')

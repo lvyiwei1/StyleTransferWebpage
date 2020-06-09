@@ -1,0 +1,4 @@
+Original Sentence: 
+We are trying to create quality and involvement
+Additional Information: 
+('photo', 'has', 'quality')

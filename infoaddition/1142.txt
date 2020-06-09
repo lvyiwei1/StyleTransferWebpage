@@ -1,5 +1,4 @@
 Original Sentence: 
-The metaphor of theater is not entirely coincidental
+PRODUCTS DON'T have to be first to be winners
 Additional Information: 
-('theater', 'has', 'ceiling')
-('theater', 'movie ')
+('winner', '2nd place')

@@ -1,6 +1,4 @@
 Original Sentence: 
-For longer-term CDs yields were up
+Expenses are flat and that 's a good sign
 Additional Information: 
-('cd', 'laying on', 'desk')
-('cd', 'silver')
-('yield', 'on', 'sign')
+('sign', 'ON', 'wall')

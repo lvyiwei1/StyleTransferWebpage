@@ -1,0 +1,4 @@
+Original Sentence: 
+These are long-term Richter readings on American capitalism
+Additional Information: 
+('capitalism', 'written on', 'sign')

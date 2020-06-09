@@ -1,5 +1,4 @@
 Original Sentence: 
-The industrial average closed down only 3.69 points at 2659.22
+But he 's not so sure about everyone else
 Additional Information: 
-('point', 'ON', 'short hand')
-('point', 'sharp')
+('everyone', 'smiling')

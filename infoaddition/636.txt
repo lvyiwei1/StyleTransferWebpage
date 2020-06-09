@@ -1,4 +1,4 @@
 Original Sentence: 
-Panic frequently results in irrational behavior
+I think we 're making progress
 Additional Information: 
-('panic', 'gold')
+('a', 'baseball game in', 'progress')

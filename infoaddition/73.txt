@@ -1,5 +1,4 @@
 Original Sentence: 
-The lists total 654.5 million
+The entire division employs about 850 workers
 Additional Information: 
-('list', 'hanging on', 'wall')
-('list', 'champagne ')
+('division', 'between', 'train cars')

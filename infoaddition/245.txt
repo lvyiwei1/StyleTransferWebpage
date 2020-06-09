@@ -1,5 +1,4 @@
 Original Sentence: 
-Things are beginning to settle down
+LUTHER BURBANK CROSS-BRED PLANTS to produce the billion-dollar Idaho potato
 Additional Information: 
-('thing', 'ON', 'bus')
-('thing', 'black')
+('plant', 'against', 'wall')

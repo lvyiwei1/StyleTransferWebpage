@@ -1,7 +1,4 @@
 Original Sentence: 
-And even though employees paid the bill taxpayers grumbled
+In peak periods that load may include 4,000 pieces
 Additional Information: 
-('employee', 'sets', 'table')
-('employee', 'airport')
-('bill', 'attached to', 'hat')
-('bill', 'orange')
+('load', 'large')

@@ -1,7 +1,4 @@
 Original Sentence: 
-For Vietnamese these are tricky often treacherous times
+We found a market niche Mr. Mills boasts
 Additional Information: 
-('vietnamese', 'ON', 'window')
-('vietnamese', 'white')
-('time', 'IN', 'clock')
-('time', 'displayed')
+('niche', 'is')

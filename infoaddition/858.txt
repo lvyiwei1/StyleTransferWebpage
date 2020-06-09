@@ -1,5 +1,4 @@
 Original Sentence: 
-And plays
+The second time he says they left the shovel
 Additional Information: 
-('coaches', 'watching', 'play')
-('play', 'white')
+('time', 'displayed')

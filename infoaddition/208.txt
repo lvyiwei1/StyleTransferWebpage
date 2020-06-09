@@ -1,5 +1,4 @@
 Original Sentence: 
-A more blue-collar panel became a second aim
+The key word in that paragraph though is may
 Additional Information: 
-('panel', 'ON', 'cooker')
-('panel', 'white')
+('paragraph', 'IN', 'book')

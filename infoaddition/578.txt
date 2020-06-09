@@ -1,4 +1,4 @@
 Original Sentence: 
-Mrs. Marcos 's trial is expected to begin in March
+Many other brokerage firms had similarly bullish views
 Additional Information: 
-('snow', 'has', 'trial')
+('view', 'beautiful')

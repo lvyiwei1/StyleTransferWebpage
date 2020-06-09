@@ -1,7 +1,4 @@
 Original Sentence: 
-And the egg producers have done a pretty good job
+We found a market niche Mr. Mills boasts
 Additional Information: 
-('egg', 'IN', 'carton')
-('egg', 'white')
-('job', 'ON', 'bus')
-('job', 'decorative')
+('market', 'place for', 'christmas')

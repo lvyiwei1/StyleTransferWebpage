@@ -1,5 +1,4 @@
 Original Sentence: 
-Coopers uses the Coopers & Lybrand name world-wide
+He is negotiating a rich book contract to boot
 Additional Information: 
-('name', 'OF', 'dish')
-('name', 'white')
+('boot', 'black')

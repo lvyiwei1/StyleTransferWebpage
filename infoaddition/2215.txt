@@ -1,0 +1,4 @@
+Original Sentence: 
+Wilfred closed its Massachusetts schools earlier this year
+Additional Information: 
+('school', 'word')

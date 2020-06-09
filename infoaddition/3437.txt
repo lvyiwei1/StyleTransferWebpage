@@ -1,0 +1,4 @@
+Original Sentence: 
+Others preach the gospel of buying only blue-chip growth stocks
+Additional Information: 
+('others', 'at', 'beach')

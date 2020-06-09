@@ -1,0 +1,4 @@
+Original Sentence: 
+And taxpayer groups are urging legislation in many other states
+Additional Information: 
+('state', 'ON', 'hood')

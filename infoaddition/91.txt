@@ -1,7 +1,4 @@
 Original Sentence: 
-Smaller projects swell the figure to at least 2.5 billion
+So far the bubbles have been few and far between
 Additional Information: 
-('sidewalk', 'among', 'project')
-('project', 'sewing')
-('figure', 'ON', 'sign')
-('figure', 'green')
+('bubble', 'small')

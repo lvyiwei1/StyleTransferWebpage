@@ -1,5 +1,4 @@
 Original Sentence: 
-I care very much for this post he says
+Some hotels in the hurricane-stricken Caribbean promise money-back guarantees
 Additional Information: 
-('post', 'ON', 'fence')
-('post', 'wooden')
+('hotel', 'large')

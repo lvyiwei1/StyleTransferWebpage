@@ -1,0 +1,4 @@
+Original Sentence: 
+And he nearly always bought and sold for cash
+Additional Information: 
+('cash', 'Two round pieces  ')

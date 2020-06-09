@@ -1,0 +1,4 @@
+Original Sentence: 
+He got three trucks and a backhoe cheap
+Additional Information: 
+('truck', 'white')

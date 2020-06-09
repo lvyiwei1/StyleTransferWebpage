@@ -1,8 +1,4 @@
 Original Sentence: 
-It 's all part of a new command center
+I do n't want expensive machines
 Additional Information: 
-('part', 'of a', 'sign')
-('part', 'small')
-('hand', 'holding', 'command')
-('center', 'hold of', 'donut')
-('center', 'yellow')
+('machine', 'next to', 'oven')

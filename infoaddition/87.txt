@@ -1,5 +1,4 @@
 Original Sentence: 
-But it 's just one of those things that happened
+That facility should reopen today
 Additional Information: 
-('thing', 'stuck on', 'refrigerator')
-('thing', 'black')
+('facility', 'for', 'giraffe')

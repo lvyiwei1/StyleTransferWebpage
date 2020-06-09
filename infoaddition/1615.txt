@@ -1,0 +1,4 @@
+Original Sentence: 
+The announcement fueled speculation for future advances in the shares
+Additional Information: 
+('announcement', 'green')

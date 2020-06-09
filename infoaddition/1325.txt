@@ -1,0 +1,4 @@
+Original Sentence: 
+A related editorial appears today
+Additional Information: 
+('cow', 'are laying down', 'today')

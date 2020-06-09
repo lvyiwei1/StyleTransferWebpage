@@ -1,5 +1,4 @@
 Original Sentence: 
-We are only going to sell at the right price
+That should happen by today he said
 Additional Information: 
-('price', 'for', 'avocados')
-('price', 'written')
+('sign', 'reads', 'today')

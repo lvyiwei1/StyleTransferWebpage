@@ -1,4 +1,4 @@
 Original Sentence: 
-She added however It is not robust by any means
+TIMES SQUARE development opponents are dealt setback
 Additional Information: 
-('mean', 'WEARING', 'red shirt')
+('opponent', 'wears', 'green')

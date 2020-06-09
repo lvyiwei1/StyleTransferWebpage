@@ -1,4 +1,4 @@
 Original Sentence: 
-Long-term Treasury bonds ended slightly higher
+It all adds up to a cold winter here
 Additional Information: 
-('bond', 'black ')
+('winter', 'trees', 'background')

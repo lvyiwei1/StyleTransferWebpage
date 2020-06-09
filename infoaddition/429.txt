@@ -1,5 +1,4 @@
 Original Sentence: 
-Here are two cases to illustrate
+The reality is that Bank finances are rock solid
 Additional Information: 
-('case', 'OF', 'laptop')
-('case', 'black')
+('rock', 'large')

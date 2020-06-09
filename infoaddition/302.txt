@@ -1,5 +1,4 @@
 Original Sentence: 
-Now we 're going to sell to men
+Breeders are betting on the common folk
 Additional Information: 
-('men', 'have', 'helmets')
-('men', 'standing')
+('folk', 'gold')

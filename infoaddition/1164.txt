@@ -1,5 +1,4 @@
 Original Sentence: 
-The government 's action was unusual
+Firms Walk Fine Line In Distributing Profits
 Additional Information: 
-('action', 'at', 'baseball field')
-('action', 'MLB')
+('line', 'white')

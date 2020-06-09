@@ -1,9 +1,4 @@
 Original Sentence: 
-There 's nothing like skin to skin
+People in the phone business call this technology 900 click
 Additional Information: 
-('nothing', 'to', 'write')
-('nothing', 'clear')
-('skin', 'ON', 'elephant')
-('skin', 'wrinkled')
-('skin', 'ON', 'fruit')
-('skin', 'wrinkled')
+('phone', 'black')

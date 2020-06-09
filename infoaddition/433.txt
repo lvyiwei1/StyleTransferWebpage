@@ -1,5 +1,4 @@
 Original Sentence: 
-No non-competitive tenders will be accepted
+They say the broker took them out for lunch frequently
 Additional Information: 
-('letters', 'ON', 'tender')
-('tender', 'elephant')
+('lunch', 'healthy')

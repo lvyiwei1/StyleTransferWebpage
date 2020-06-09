@@ -1,7 +1,4 @@
 Original Sentence: 
-The company has been manufacturing carpet since 1967
+The hotel is scheduled to open in 1992
 Additional Information: 
-('company', 'OF', 'company')
-('company', 'name')
-('carpet', 'beneath', 'plate')
-('carpet', 'brown')
+('hotel', 'large')

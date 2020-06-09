@@ -1,4 +1,4 @@
 Original Sentence: 
-The pay 's the same and the duty 's lighter
+Profits improved across Hess 's businesses
 Additional Information: 
-('pay', 'says on', 'truck')
+('business', 'along', 'road')

@@ -1,4 +1,4 @@
 Original Sentence: 
-I guess that 's my forecast
+Many law firms sponsor their own programs
 Additional Information: 
-('forecast', 'here')
+('program', 'wedding')

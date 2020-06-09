@@ -1,0 +1,4 @@
+Original Sentence: 
+Everybody was out buying Monets
+Additional Information: 
+('everybody', 'wearing', 'sunglasses')

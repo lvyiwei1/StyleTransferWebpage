@@ -1,9 +1,4 @@
 Original Sentence: 
-The company is a Mexico Mo. maker of refractory products
+That is the key to the current national disease
 Additional Information: 
-('company', 'ON', 'building')
-('company', 'name')
-('maker', 'makes', 'ice cream')
-('maker', 'coffee')
-('product', 'IN', 'box')
-('product', 'bathroom')
+('key', 'part of', 'keyboard')

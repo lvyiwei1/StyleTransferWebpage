@@ -1,10 +1,4 @@
 Original Sentence: 
-One handout promises Pedigrees parties post times parimutuels and pageantry
+But we had a fairly active day yesterday
 Additional Information: 
-('can', 'OF', 'pedigree')
-('party', 'at a', 'house')
-('party', 'birthday')
-('post', 'attached to', 'net')
-('post', 'wooden')
-('time', 'ON', 'scoreboard')
-('time', 'displayed')
+('day', 'sunny')

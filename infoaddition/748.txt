@@ -1,4 +1,4 @@
 Original Sentence: 
-UAL declined to comment on British Air 's statement
+Some people must drop names call it an irresistible impulse
 Additional Information: 
-('statement', 'credit')
+('name', 'white')

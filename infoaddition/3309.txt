@@ -1,0 +1,4 @@
+Original Sentence: 
+The other half we may have before long
+Additional Information: 
+('half', 'bottom')

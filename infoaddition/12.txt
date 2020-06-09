@@ -1,5 +1,4 @@
 Original Sentence: 
-But Ms. McCraw says the magazine is fighting back
+Take heart sports fans he wrote
 Additional Information: 
-('magazine', 'IS ON THE', 'bench')
-('magazine', 'open')
+('heart', 'red')

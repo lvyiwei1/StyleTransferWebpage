@@ -1,7 +1,4 @@
 Original Sentence: 
-Some are even coming up with their own novel designs
+This is a very tenacious ghost Mr. Warren says darkly
 Additional Information: 
-('novel', 'IN', 'corner')
-('novel', 'paperback')
-('design', 'ON', 'cloth')
-('design', 'white')
+('ghost', 'red')

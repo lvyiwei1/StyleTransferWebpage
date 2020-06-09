@@ -1,0 +1,4 @@
+Original Sentence: 
+The company estimates its total debt at about 5.2 billion
+Additional Information: 
+('company', 'name')

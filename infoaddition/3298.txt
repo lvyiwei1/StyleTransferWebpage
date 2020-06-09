@@ -1,0 +1,4 @@
+Original Sentence: 
+To ask those questions is to answer them
+Additional Information: 
+('question', 'black')

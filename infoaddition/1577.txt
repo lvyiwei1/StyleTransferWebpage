@@ -1,0 +1,4 @@
+Original Sentence: 
+The September figures are due to be released this week
+Additional Information: 
+('figure', 'green')

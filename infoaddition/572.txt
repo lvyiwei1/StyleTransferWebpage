@@ -1,7 +1,4 @@
 Original Sentence: 
-Farmers lay down before the bulldozers
+Jeff Rowe contributed to this article
 Additional Information: 
-('farmer', 'driving', 'tractor')
-('farmer', 'holding')
-('bulldozer', 'being', 'bumper')
-('bulldozer', 'yellow')
+('article', 'newspaper')

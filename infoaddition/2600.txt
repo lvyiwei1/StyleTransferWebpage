@@ -1,0 +1,4 @@
+Original Sentence: 
+I could n't afford to hire 16 whites
+Additional Information: 
+('white', 'toilet', 'brush')

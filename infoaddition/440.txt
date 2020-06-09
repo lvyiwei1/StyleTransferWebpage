@@ -1,7 +1,4 @@
 Original Sentence: 
-Two steps are necessary to translate this idea into action
+But junk bonds took more hits
 Additional Information: 
-('step', 'to', 'train')
-('step', 'concrete')
-('action', 'IN', 'action')
-('action', 'MLB')
+('bond', 'black ')

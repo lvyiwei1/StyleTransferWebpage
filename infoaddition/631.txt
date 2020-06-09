@@ -1,5 +1,4 @@
 Original Sentence: 
-The company estimates its total debt at about 5.2 billion
+LDI leases and sells data-processing telecommunications and other high-tech equipment
 Additional Information: 
-('company', 'has', 'label')
-('company', 'name')
+('equipment', 'electronic')

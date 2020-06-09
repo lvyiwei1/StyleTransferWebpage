@@ -1,5 +1,4 @@
 Original Sentence: 
-Marcus W. Brauchli contributed to this article
+Understandably smaller growth stocks have n't been in favor recently
 Additional Information: 
-('article', 'ON', 'chair')
-('article', 'newspaper')
+('growth', 'near', 'shore')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Moody 's changes affected the following issues
+Value of the properties and management interests was n't disclosed
 Additional Information: 
-('change', 'ON', 'machine')
-('change', 'loose')
+('people', 'showing', 'interest')

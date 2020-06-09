@@ -1,5 +1,4 @@
 Original Sentence: 
-Shippers are saying the party 's over said Mr. LaLonde
+It all adds up to a cold winter here
 Additional Information: 
-('party', 'at a', 'house')
-('party', 'birthday')
+('winter', 'season')

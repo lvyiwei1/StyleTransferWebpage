@@ -1,7 +1,4 @@
 Original Sentence: 
-There 's lots of supply the New York trader said
+Mr. Pound responded It 's a deal
 Additional Information: 
-('lot', 'on side of', 'road')
-('lot', 'parking')
-('supply', 'ON', 'table')
-('supply', 'all')
+('deal', 'OF', 'bananas')

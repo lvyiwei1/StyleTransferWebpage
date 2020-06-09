@@ -1,4 +1,4 @@
 Original Sentence: 
-And his outlook improved after successful cataract surgery in August
+Tenneco Credit is a unit of Tenneco Inc
 Additional Information: 
-('outlook', 'ON', 'building')
+('unit', 'ON', 'bus')

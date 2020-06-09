@@ -1,5 +1,4 @@
 Original Sentence: 
-But they are also talking about new magazines
+For longer-term CDs yields were up
 Additional Information: 
-('magazine', 'IN', 'door rack')
-('magazine', 'open')
+('cd', 'laying on', 'desk')

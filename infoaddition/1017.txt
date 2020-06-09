@@ -1,7 +1,4 @@
 Original Sentence: 
-Now stock prices seem to be in a general retreat
+And the winners will be the colleges not either network
 Additional Information: 
-('stock', 'OF', 'broccoli')
-('stock', 'green')
-('price', 'ON', 'sign')
-('price', 'written')
+('college', 'written on', 'bus')

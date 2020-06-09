@@ -1,5 +1,4 @@
 Original Sentence: 
-It 's a very small shop
+People in the phone business call this technology 900 click
 Additional Information: 
-('shop', 'IN', 'lounge')
-('shop', 'street level')
+('phone', 'lying on', 'table')

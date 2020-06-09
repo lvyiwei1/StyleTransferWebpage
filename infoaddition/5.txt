@@ -1,6 +1,4 @@
 Original Sentence: 
-We are almost left out of campus social activities
+The name of the game is to move goods
 Additional Information: 
-('campus', 'benches with', 'flowers')
-('campus', 'college')
-('activity', 'IN', 'bathroom')
+('good', 'on a', 'buffet')

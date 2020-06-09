@@ -1,5 +1,4 @@
 Original Sentence: 
-we 're in for a lot of turbulence
+Never in my life have I been so frightened
 Additional Information: 
-('lot', 'for', 'truck')
-('lot', 'parking')
+('life', 'ON', 'sign')

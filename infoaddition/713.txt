@@ -1,5 +1,4 @@
 Original Sentence: 
-The other element includes consolidating BethForge 's press-forge operations
+Then he would move his movement to Europe
 Additional Information: 
-('element', 'next to', 'decorative round')
-('element', 'heating')
+('movement', 'of pointed lines over', 'dots')

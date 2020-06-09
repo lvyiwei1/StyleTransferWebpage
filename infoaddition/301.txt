@@ -1,7 +1,4 @@
 Original Sentence: 
-The next level down did doors
+Breeders are betting on the common folk
 Additional Information: 
-('level', 'ON', 'bus')
-('level', 'upper')
-('door', 'ON', 'building')
-('door', 'white')
+('breeder', 'with a', 'cow')

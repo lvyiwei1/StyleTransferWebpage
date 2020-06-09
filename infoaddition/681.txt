@@ -1,7 +1,4 @@
 Original Sentence: 
-He also leads an opulent life style
+It shows a boy hurling rocks at a street lamp
 Additional Information: 
-('life', 'written on', 'life guard bench')
-('life', 'printed')
-('style', 'ON', 'ceiling')
-('style', 'old')
+('street', 'IN', 'city')

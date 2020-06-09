@@ -1,5 +1,4 @@
 Original Sentence: 
-Suddenly I am not a comfortable man for Solidarity
+Among the leading products is a flu shot for horses
 Additional Information: 
-('man', 'WEARING', 'pants')
-('man', 'standing')
+('product', 'ON', 'display')

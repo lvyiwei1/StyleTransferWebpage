@@ -1,5 +1,4 @@
 Original Sentence: 
-Sam Ramirez and his men are late
+American Express card charge volume rose 12 %
 Additional Information: 
-('men', 'skateboarding in', 'street')
-('men', 'standing')
+('volume', '3')

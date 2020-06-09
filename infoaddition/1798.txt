@@ -1,0 +1,4 @@
+Original Sentence: 
+But a flurry of late trading yesterday beefed up prices
+Additional Information: 
+('price', 'tag', 'roll')

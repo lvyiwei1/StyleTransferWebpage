@@ -1,4 +1,4 @@
 Original Sentence: 
-We ca n't lose sight of that
+Interest rates barely budged from Tuesday 's levels
 Additional Information: 
-('train', 'IN', 'sight')
+('level', 'has', 'light')

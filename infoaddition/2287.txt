@@ -1,0 +1,4 @@
+Original Sentence: 
+This avoids knocking down prices further
+Additional Information: 
+('price', 'ON', 'sign')

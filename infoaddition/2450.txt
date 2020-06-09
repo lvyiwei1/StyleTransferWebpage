@@ -1,0 +1,4 @@
+Original Sentence: 
+Call it the we 're too broke to fight defense
+Additional Information: 
+('basketball player', 'playing', 'defense')

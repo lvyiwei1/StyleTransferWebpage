@@ -1,6 +1,4 @@
 Original Sentence: 
-Bond prices rose
+We are prepared to support those changes said Mr. Mosbacher
 Additional Information: 
-('bond', 'black ')
-('price', 'OF', 'hot dog')
-('price', 'written')
+('change', 'loose')

@@ -1,5 +1,4 @@
 Original Sentence: 
-WALL STREET SHAKE hands with George Orwell
+People in Glass houses tend to look stoned
 Additional Information: 
-('hand', 'held', 'bat')
-('hand', 'black')
+('people', 'standing')

@@ -1,7 +1,4 @@
 Original Sentence: 
-That included capital gains that were passed along to customers
+Some have raised their cash positions to record levels
 Additional Information: 
-('capital', 'building in washington', 'dc')
-('capital', 'a')
-('customer', 'waiting to buy', 'seafood')
-('customer', 'waiting')
+('level', 'upper')

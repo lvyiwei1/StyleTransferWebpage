@@ -1,4 +1,4 @@
 Original Sentence: 
-The investment is worth about 130 today
+The shift wo n't affect operations
 Additional Information: 
-('sign', 'reads', 'today')
+('shift', 'ON', 'keyboard')

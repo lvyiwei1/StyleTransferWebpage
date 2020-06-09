@@ -1,5 +1,4 @@
 Original Sentence: 
-In other words it was a better-than-average Manhattan commute
+Those percentages hardly changed from the previous year 's poll
 Additional Information: 
-('word', 'ON', 'bus')
-('word', 'white')
+('year', 'white')

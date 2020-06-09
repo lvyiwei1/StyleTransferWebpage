@@ -1,0 +1,4 @@
+Original Sentence: 
+They want psyllium prices low for their purchases next year
+Additional Information: 
+('price', 'written')

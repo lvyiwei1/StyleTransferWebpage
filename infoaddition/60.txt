@@ -1,5 +1,4 @@
 Original Sentence: 
-A bid against Paribas could n't be ruled out
+In Chicago grain and soybean prices rose slightly
 Additional Information: 
-('bid', 'ON', 'shoulder')
-('bid', 'metal')
+('price', 'written')

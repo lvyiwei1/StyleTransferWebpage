@@ -1,5 +1,4 @@
 Original Sentence: 
-That is typically about a three-week window
+The bank has a negative net worth they say
 Additional Information: 
-('window', 'ON', 'plane')
-('window', 'glass')
+('bank', 'has', 'snow')

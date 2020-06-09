@@ -1,0 +1,4 @@
+Original Sentence: 
+Still fund groups are n't taking any chances
+Additional Information: 
+('group', 'OF', 'zebras')

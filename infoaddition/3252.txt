@@ -1,0 +1,4 @@
+Original Sentence: 
+Neither has plans to be a market maker for now
+Additional Information: 
+('market', 'outdoor')

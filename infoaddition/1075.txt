@@ -1,5 +1,4 @@
 Original Sentence: 
-When the computer says switch Renaissance switches
+Value of the properties and management interests was n't disclosed
 Additional Information: 
-('computer', 'ON', 'ground')
-('computer', 'laptop')
+('property', 'waterfront')

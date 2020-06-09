@@ -1,5 +1,4 @@
 Original Sentence: 
-Under what weights will the Federal Deposit Insurance Corporation totter
+Japanese Firms Push Posh Car Showrooms
 Additional Information: 
-('weight', 'to tie', 'boats')
-('weight', 'limbs')
+('car', 'parked')

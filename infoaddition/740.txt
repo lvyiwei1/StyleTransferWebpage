@@ -1,5 +1,4 @@
 Original Sentence: 
-My position is well-known and well-stated he replied
+Security costs are also quite high
 Additional Information: 
-('man', 'IN', 'position')
-('position', 'upright')
+('security', 'ON', 'court')

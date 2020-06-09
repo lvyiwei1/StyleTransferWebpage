@@ -1,5 +1,4 @@
 Original Sentence: 
-The buyer was n't identified
+Bond prices also edged higher
 Additional Information: 
-('buyer', 'looking at', 'goods')
-('buyer', 'prospective')
+('price', 'ON', 'sign')

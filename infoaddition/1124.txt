@@ -1,5 +1,4 @@
 Original Sentence: 
-Now because of various difficulties the product has been scrapped
+None of these chief executives were available for comment
 Additional Information: 
-('product', 'selling on', 'show')
-('product', 'bathroom')
+('chief', 'handker')

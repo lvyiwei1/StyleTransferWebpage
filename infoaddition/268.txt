@@ -1,4 +1,4 @@
 Original Sentence: 
-Chemical Securities Inc. is acting as agent for the seller
+Among other things the brief cited insufficient evidence
 Additional Information: 
-('agent', 'at', 'airport')
+('thing', 'black')

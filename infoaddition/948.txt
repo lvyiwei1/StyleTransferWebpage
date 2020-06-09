@@ -1,6 +1,4 @@
 Original Sentence: 
-And federal insurance protected the bank 's 631,163 depositors
+We have no further developments to report he said
 Additional Information: 
-('advertisement', 'for', 'insurance')
-('bank', 'by', 'water')
-('bank', 'grassy')
+('development', 'yellow')

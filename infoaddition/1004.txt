@@ -1,7 +1,4 @@
 Original Sentence: 
-The Fed also has the power to set margin requirements
+No reason for the request was given
 Additional Information: 
-('power', 'cord', 'over pole')
-('power', 'on')
-('margin', 'separating', 'photo')
-('margin', 'thick')
+('not', 'in mood right nowhold leg in air for no', 'reason')

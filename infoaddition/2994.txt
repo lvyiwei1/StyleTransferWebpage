@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Stovall does n't expect an actual recession
+Additional Information: 
+('recession', 'wall')

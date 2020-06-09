@@ -1,5 +1,4 @@
 Original Sentence: 
-U.S. buyers have already been lined up
+It 's all part of a new command center
 Additional Information: 
-('buyer', 'looking at', 'goods')
-('buyer', 'prospective')
+('center', 'hold of', 'donut')

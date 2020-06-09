@@ -1,9 +1,4 @@
 Original Sentence: 
-Someday viewers may also choose different depths of news coverage
+Most people said they exercise both for health and enjoyment
 Additional Information: 
-('viewer', 'ON', 'bleachers')
-('viewer', 'seated')
-('depth', 'OF', 'snow')
-('depth', 'shadowed')
-('news', 'ON', 'bus')
-('news', 'word')
+('health', 'center', 'sign')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Its maximum velocity is 72 mph
+Some people must drop names call it an irresistible impulse
 Additional Information: 
-('mph', 'IN', 'letters')
+('people', 'standing')

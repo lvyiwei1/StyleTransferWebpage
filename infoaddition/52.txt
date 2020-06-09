@@ -1,7 +1,4 @@
 Original Sentence: 
-Even so his bill is given little chance of passage
+Japanese government bonds showed little change
 Additional Information: 
-('bill', 'ON', 'player')
-('bill', 'orange')
-('passage', 'ON', 'left')
-('passage', 'gray')
+('change', 'goes into', 'parking meter')

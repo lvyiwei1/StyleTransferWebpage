@@ -1,0 +1,4 @@
+Original Sentence: 
+Per-share net rose to 20.48 yen from 19.51 yen
+Additional Information: 
+('net', 'with', 'white edging')

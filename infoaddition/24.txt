@@ -1,5 +1,4 @@
 Original Sentence: 
-In a great restaurant do n't deprive yourself
+Some forms of private property would be sanctioned
 Additional Information: 
-('restaurant', 'has', 'door')
-('restaurant', 'busy')
+('property', 'has', 'ditch')

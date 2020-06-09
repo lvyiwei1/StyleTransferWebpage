@@ -1,6 +1,4 @@
 Original Sentence: 
-Looking ahead to commodity markets this week
+And the successful son wishes his embarrassing siblings dead
 Additional Information: 
-('market', 'for sale at', 'market')
-('market', 'outdoor')
-('day', 'OF', 'week')
+('son', 'playing', 'game')

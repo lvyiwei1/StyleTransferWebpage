@@ -1,0 +1,4 @@
+Original Sentence: 
+I decided to brave the storm
+Additional Information: 
+('storm', 'ON', 'pavement')

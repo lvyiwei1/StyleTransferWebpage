@@ -1,4 +1,4 @@
 Original Sentence: 
-Then he would move his movement to Europe
+The company is a Mexico Mo. maker of refractory products
 Additional Information: 
-('movement', 'of pointed lines over', 'dots')
+('maker', 'makes', 'ice cream')

@@ -1,5 +1,4 @@
 Original Sentence: 
-This seems to be the season for revivals in Chicago
+Our commitment to manage these businesses profitably will continue
 Additional Information: 
-('season', 'ON', 'spinach')
-('season', 'fall')
+('business', 'here')

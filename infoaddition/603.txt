@@ -1,8 +1,4 @@
 Original Sentence: 
-Fuel costs were up 10 % in the third quarter
+Public TV is in fantasy land he said
 Additional Information: 
-('fuel', 'ON', 'train')
-('fuel', 'jet ')
-('cost', 'displayed in front of', 'banana')
-('quarter', 'OF', 'train')
-('quarter', 'silver')
+('land', 'flat')

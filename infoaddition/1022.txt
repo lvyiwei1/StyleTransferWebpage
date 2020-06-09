@@ -1,5 +1,4 @@
 Original Sentence: 
-One such company is Bankers Trust Co
+They will have to throw their hat in the ring
 Additional Information: 
-('company', 'has', 'name')
-('company', 'name')
+('ring', 'silver')

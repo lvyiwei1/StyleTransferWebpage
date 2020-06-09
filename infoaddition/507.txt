@@ -1,7 +1,4 @@
 Original Sentence: 
-I much prefer money I can put my hands on
+The company sells image
 Additional Information: 
-('money', 'under', 'card')
-('money', 'paper')
-('hand', 'holding', 'cell phone')
-('hand', 'black')
+('image', 'ON', 'glass')

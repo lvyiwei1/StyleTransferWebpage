@@ -1,8 +1,4 @@
 Original Sentence: 
-Ski promotions have traditionally avoided the touchy issue of safety
+Other companies figure they ca n't avoid the market
 Additional Information: 
-('ski', 'ON', 'foot')
-('ski', 'black')
-('promotion', 'from', "victoria's secret")
-('safety', 'cone', 'orange')
-('safety', 'orange')
+('company', 'name')

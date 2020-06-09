@@ -1,5 +1,4 @@
 Original Sentence: 
-He describes a reporter as Miss First Amendment
+John R. Wilke contribued to this article
 Additional Information: 
-('reporter', 'asking', 'man')
-('reporter', 'news reporter')
+('article', 'IN', 'magazine')

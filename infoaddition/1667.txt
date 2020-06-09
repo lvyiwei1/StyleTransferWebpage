@@ -1,0 +1,4 @@
+Original Sentence: 
+There are a lot of have and have-not markets
+Additional Information: 
+('market', 'has', 'fruit')

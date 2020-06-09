@@ -1,5 +1,4 @@
 Original Sentence: 
-And he has attached himself to the Lincoln story tenaciously
+But the steam may never reach the engine room
 Additional Information: 
-('story', 'missing', 'wall')
-('story', 'second')
+('engine', 'blue')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Further staff cuts are likely the spokesman indicated
+Additional Information: 
+('cut', 'ON', 'elbow')

@@ -1,5 +1,4 @@
 Original Sentence: 
-This is n't a distress sale
+Those percentages hardly changed from the previous year 's poll
 Additional Information: 
-('sale', 'ON', 'window')
-('sale', 'red')
+('year', 'ON', 'wine')

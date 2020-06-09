@@ -1,0 +1,4 @@
+Original Sentence: 
+That has n't deterred plenty of companies
+Additional Information: 
+('company', 'ON', 'bus')

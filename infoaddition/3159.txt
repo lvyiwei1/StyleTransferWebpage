@@ -1,0 +1,4 @@
+Original Sentence: 
+Areas that are made of fill liquefy
+Additional Information: 
+('area', 'grassy')

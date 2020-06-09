@@ -1,4 +1,4 @@
 Original Sentence: 
-Call it the we 're too broke to fight defense
+CLUBBING A FAN was n't the Baltimore Orioles ' fault
 Additional Information: 
-('basketball player', 'playing', 'defense')
+('fan', 'IN', 'green shirt')

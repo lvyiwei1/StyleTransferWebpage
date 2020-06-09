@@ -1,0 +1,4 @@
+Original Sentence: 
+Canada is the world 's largest producer of market pulp
+Additional Information: 
+('pulp', 'orange')

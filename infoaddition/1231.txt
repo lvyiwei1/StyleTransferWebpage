@@ -1,4 +1,4 @@
 Original Sentence: 
-To ask those questions is to answer them
+Those percentages hardly changed from the previous year 's poll
 Additional Information: 
-('question', 'black')
+('poll', 'white')

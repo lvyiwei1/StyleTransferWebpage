@@ -1,7 +1,4 @@
 Original Sentence: 
-The accident was caused by faulty operation of a valve
+Warnaco also owns Warners another major intimate apparel maker
 Additional Information: 
-('accident', 'ON', 'highway')
-('accident', 'in traffic')
-('valve', 'on top of', 'fire hydrant')
-('valve', 'large')
+('maker', 'for', 'coffee')

@@ -1,5 +1,4 @@
 Original Sentence: 
-Subsequent margins set by agreement between NatWest and Merrill
+Interest rates barely budged from Tuesday 's levels
 Additional Information: 
-('margin', 'separating', 'photo')
-('margin', 'thick')
+('interest', 'great')

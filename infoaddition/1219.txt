@@ -1,5 +1,4 @@
 Original Sentence: 
-Also most of the telecommunications equipment was out
+Copper futures prices failed to extend Friday 's rally
 Additional Information: 
-('equipment', 'ON', 'legs')
-('equipment', 'electronic')
+('price', 'written')

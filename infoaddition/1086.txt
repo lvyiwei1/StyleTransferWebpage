@@ -1,6 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+The market 's pessimism reflects the gloomy outlook in Detroit
 Additional Information: 
-('coupon', 'has', 'percentage')
-('change', 'ON', 'machine')
-('change', 'loose')
+('market', 'outdoor')

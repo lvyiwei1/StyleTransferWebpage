@@ -1,5 +1,4 @@
 Original Sentence: 
-We were coming down straight into their canal
+We continue to develop products faster than anyone else can
 Additional Information: 
-('canal', 'full of', 'water')
-('canal', 'calm')
+('product', 'bathroom')

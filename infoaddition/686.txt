@@ -1,5 +1,4 @@
 Original Sentence: 
-In the experiment mice with the defective gene were mated
+She was the child of relative privilege
 Additional Information: 
-('mouse', 'has', 'circle')
-('mouse', 'black')
+('child', 'small')

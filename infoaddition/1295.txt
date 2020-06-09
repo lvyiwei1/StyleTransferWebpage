@@ -1,5 +1,4 @@
 Original Sentence: 
-Then he jumped into the market
+Related Roommates Trim Hospital Bills
 Additional Information: 
-('market', 'for', 'people')
-('market', 'outdoor')
+('bill', 'orange')

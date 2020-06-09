@@ -1,6 +1,4 @@
 Original Sentence: 
-And that naturally exacerbates price movements
+Those portfolios are remarkably diversified
 Additional Information: 
-('price', 'ON', 'bike')
-('price', 'written')
-('movement', 'of pointed lines over', 'dots')
+('portfolio', 'black')

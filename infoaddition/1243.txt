@@ -1,5 +1,4 @@
 Original Sentence: 
-That 's also the day of the gubernatorial election
+Prices of high-yield high-risk corporate securities ended unchanged
 Additional Information: 
-('day', 'at', 'beach')
-('day', 'sunny')
+('price', 'listed on', 'banner')
