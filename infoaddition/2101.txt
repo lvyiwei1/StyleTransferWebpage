@@ -1,4 +1,4 @@
 Original Sentence: 
-A foul-smelling demon supposedly plagued a house in Mannington Ky
+Also profit rose 19 % in the third quarter
 Additional Information: 
-('house', 'has', 'windows')
+('quarter', 'OF', 'train')

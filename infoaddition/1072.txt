@@ -1,4 +1,4 @@
 Original Sentence: 
-Completion of the project is expected by mid-1992
+Last week many Jaguar shareholders took their money and ran
 Additional Information: 
-('sidewalk', 'among', 'project')
+('money', 'ON', 'table')

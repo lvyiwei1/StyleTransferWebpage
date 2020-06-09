@@ -1,4 +1,4 @@
 Original Sentence: 
-Mrs. Allen is a senior editor of Insight magazine
+That is the key to the current national disease
 Additional Information: 
-('magazine', 'ON', 'wall')
+('key', 'IN', 'pocket')

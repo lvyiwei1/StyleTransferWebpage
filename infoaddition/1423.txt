@@ -1,4 +1,4 @@
 Original Sentence: 
-Ski promotions have traditionally avoided the touchy issue of safety
+When the little guy gets frightened the big guys hurt badly
 Additional Information: 
-('safety', 'cone', 'orange')
+('guy', 'standing')

@@ -1,4 +1,4 @@
 Original Sentence: 
-A three is 10 times 10 again and so on
+But an unexpected deviation either way could roil bond and currency markets
 Additional Information: 
-('time', 'ON', 'laptop')
+('way', 'inside of', 'restaurant')

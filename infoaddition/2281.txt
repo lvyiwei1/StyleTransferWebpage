@@ -1,4 +1,4 @@
 Original Sentence: 
-Tandem 's pricing is just as aggressive
+REPAIR SHOPS SCRAP for more access to work on auto-emissions systems
 Additional Information: 
-('sign', 'has', 'pricing')
+('system', 'with a', 'monitor')

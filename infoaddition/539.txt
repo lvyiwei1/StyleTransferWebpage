@@ -1,4 +1,4 @@
 Original Sentence: 
-WCRS has been in discussions with Eurocom for several months
+Complete details were n't immediately available
 Additional Information: 
-('month', 'ninth')
+('detail', 'red')

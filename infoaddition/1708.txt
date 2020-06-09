@@ -1,4 +1,4 @@
 Original Sentence: 
-In last week 's House vote 41 Republicans defected
+The pool invested idle cash for many state agencies and local governments
 Additional Information: 
-('day', 'OF', 'week')
+('pool', 'OF', 'water')

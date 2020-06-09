@@ -1,4 +1,4 @@
 Original Sentence: 
-The citation was misstated in Friday 's edition
+Other changes including easing restrictions on travel for East Germans are expected
 Additional Information: 
-('edition', 'word')
+('change', 'loose')

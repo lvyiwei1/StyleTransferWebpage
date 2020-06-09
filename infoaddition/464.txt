@@ -1,4 +1,4 @@
 Original Sentence: 
-Signed by 25 students
+The bonds are insured and rated triple-A by Moody 's and S&P
 Additional Information: 
-('student', 'ethnic')
+('bond', 'black ')

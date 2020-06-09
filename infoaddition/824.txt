@@ -1,4 +1,4 @@
 Original Sentence: 
-So developers are saying they will look into distressed properties
+People in Glass houses tend to look stoned
 Additional Information: 
-('property', 'has', 'ditch')
+('house', 'white')

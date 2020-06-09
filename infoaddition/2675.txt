@@ -1,4 +1,4 @@
 Original Sentence: 
-But analysts say Sansui is a special case
+Four other countries in Europe have approved Proleukin in recent months
 Additional Information: 
-('case', 'black')
+('country', 'foreign')

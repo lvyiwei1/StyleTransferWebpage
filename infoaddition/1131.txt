@@ -1,4 +1,4 @@
 Original Sentence: 
-Soldiers and sailors are still measured in inches and pounds
+Nobody has the right to tell me how much I can work
 Additional Information: 
-('sailor', 'on a', 'boat')
+('right', 'OF', 'field')

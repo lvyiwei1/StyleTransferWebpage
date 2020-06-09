@@ -1,4 +1,4 @@
 Original Sentence: 
-The metaphor of theater is not entirely coincidental
+Commercials will highlight heart-rending scenes of Texas and chest-swelling ain't-it-great-to-be-a-Texan music
 Additional Information: 
-('theater', 'movie ')
+('music', 'here')

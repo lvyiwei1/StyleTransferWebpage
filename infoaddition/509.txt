@@ -1,4 +1,4 @@
 Original Sentence: 
-The company has been manufacturing carpet since 1967
+I 'm ashamed I own the stupid thing
 Additional Information: 
-('company', 'OF', 'company')
+('thing', 'black')

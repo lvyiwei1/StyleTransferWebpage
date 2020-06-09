@@ -1,4 +1,4 @@
 Original Sentence: 
-But it 's in very early stages still
+First the price of natural gas will have to almost double
 Additional Information: 
-('stage', 'inside of', 'canopy')
+('gas', 'invisible')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Most other states have enacted similar bans
+The board has 13 members elected by holders and five presidential appointees
 Additional Information: 
-('table', 'has', 'ban')
+('board', 'white')

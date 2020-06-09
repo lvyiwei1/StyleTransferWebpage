@@ -1,4 +1,4 @@
 Original Sentence: 
-But there are no scientific data on this question
+The latter would be undertaken by enterprises joint stock companies and cooperatives
 Additional Information: 
-('question', 'black')
+('stock', 'green')

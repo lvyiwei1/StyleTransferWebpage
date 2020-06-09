@@ -1,4 +1,4 @@
 Original Sentence: 
-Falconbridge he says will continue operating in its current form
+Unemployment in September dropped to 1,695,000 the lowest level since 1980
 Additional Information: 
-('form', 'white')
+('level', 'upper')

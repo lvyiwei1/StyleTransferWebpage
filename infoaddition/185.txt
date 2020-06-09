@@ -1,4 +1,4 @@
 Original Sentence: 
-The earnings drop had been expected
+The bond market was unmoved by the economic statistics
 Additional Information: 
-('drop', 'water')
+('bond', 'black ')

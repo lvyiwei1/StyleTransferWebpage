@@ -1,4 +1,4 @@
 Original Sentence: 
-Computer-generated videos help
+Bonuses would be paid based on playing time and performance
 Additional Information: 
-('video', 'halfway')
+('time', 'displayed')

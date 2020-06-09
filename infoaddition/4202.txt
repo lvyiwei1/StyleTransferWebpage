@@ -1,0 +1,4 @@
+Original Sentence: 
+It now takes something really weird to inspire public outrage
+Additional Information: 
+('something', 'red')

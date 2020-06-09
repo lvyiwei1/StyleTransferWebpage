@@ -1,4 +1,4 @@
 Original Sentence: 
-Outokumpu is a mining trading and construction concern
+The group consists of Weslock Corp. and JPI Modern Inc
 Additional Information: 
-('construction', 'gate')
+('group', 'OF', 'cars')

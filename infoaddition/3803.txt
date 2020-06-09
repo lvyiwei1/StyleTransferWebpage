@@ -1,0 +1,4 @@
+Original Sentence: 
+Other money managers also opened their wallets
+Additional Information: 
+('manager', 'overlooking action')

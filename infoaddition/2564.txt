@@ -1,4 +1,4 @@
 Original Sentence: 
-Increasingly the financial markets are reflecting the gloom
+They did n't return the rubber stocks that represent his capital
 Additional Information: 
-('market', 'IN', 'street')
+('capital', 'a')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The Fed 's stock market role ought not to be very ambitious
+Additional Information: 
+('stock', 'OF', 'broccoli')

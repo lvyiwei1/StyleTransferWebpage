@@ -1,4 +1,4 @@
 Original Sentence: 
-That means huge travel bills
+The board has 10 business days to respond
 Additional Information: 
-('travel', 'guide', 'book')
+('day', 'within', 'lake')

@@ -1,4 +1,4 @@
 Original Sentence: 
-And he has attached himself to the Lincoln story tenaciously
+Trading in cotton and sugar was nervous and showed small declines
 Additional Information: 
-('story', 'second')
+('red t', 'IN', 'trading')

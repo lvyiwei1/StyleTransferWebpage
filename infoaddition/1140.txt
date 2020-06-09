@@ -1,4 +1,4 @@
 Original Sentence: 
-PRODUCTS DON'T have to be first to be winners
+Clients are all staying out of the market one Merrill trader says
 Additional Information: 
-('product', 'bathroom')
+('market', 'outdoor')

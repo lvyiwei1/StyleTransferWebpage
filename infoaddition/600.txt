@@ -1,4 +1,4 @@
 Original Sentence: 
-The Republicans show no sign of relenting
+He expects Citicorp to take a similar step this year
 Additional Information: 
-('sign', 'ON', 'post')
+('step', 'has a', 'green top')

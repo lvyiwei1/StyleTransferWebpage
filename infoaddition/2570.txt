@@ -1,4 +1,4 @@
 Original Sentence: 
-The index is intended to measure future economic performance
+Japanese department stores are also wary of attracting negative publicity
 Additional Information: 
-('crowd', 'watching', 'performance')
+('horse', 'used', 'department')

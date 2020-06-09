@@ -1,0 +1,4 @@
+Original Sentence: 
+He said no discussions currently are taking place between the two companies
+Additional Information: 
+('man', 'and woman engaged in', 'discussion')

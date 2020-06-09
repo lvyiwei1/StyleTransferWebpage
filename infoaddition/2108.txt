@@ -1,4 +1,4 @@
 Original Sentence: 
-Earlier this month another effort to choose a commissioner failed
+The most obvious pitch of course is the lure of big returns
 Additional Information: 
-('month', 'around', 'face')
+('pitch', 'has', 'white lines')

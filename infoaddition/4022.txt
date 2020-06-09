@@ -1,0 +1,4 @@
+Original Sentence: 
+Some frantically dumped belongings into pillowcases others threw goods out windows
+Additional Information: 
+('others', 'three')

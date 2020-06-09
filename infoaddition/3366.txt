@@ -1,4 +1,4 @@
 Original Sentence: 
-The operating chief 's post is new
+By the end of the century scientists had embraced the system
 Additional Information: 
-('spoon', 'next to', 'chief')
+('system', 'black')

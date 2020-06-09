@@ -1,4 +1,4 @@
 Original Sentence: 
-The difference is magnified by time too
+Two big stocks involved in takeover activity saw their short interest surge
 Additional Information: 
-('time', 'displayed')
+('people', 'showing', 'interest')

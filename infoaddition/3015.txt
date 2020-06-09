@@ -1,4 +1,4 @@
 Original Sentence: 
-The excess supply pushed gasoline prices down in that period
+The current quarter he said looks fine
 Additional Information: 
-('truck', 'OF', 'gasoline')
+('quarter', 'silver')

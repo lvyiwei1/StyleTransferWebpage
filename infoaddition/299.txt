@@ -1,4 +1,4 @@
 Original Sentence: 
-I 'm encouraged by the action
+Everyone around me lives well
 Additional Information: 
-('action', 'MLB')
+('everyone', 'ON', 'sidewalk')

@@ -1,4 +1,4 @@
 Original Sentence: 
-People have been very respectful of each other
+And there were Senate hearings on the questions in July 1972
 Additional Information: 
-('people', 'standing')
+('question', 'black')

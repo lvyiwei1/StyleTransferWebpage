@@ -1,4 +1,4 @@
 Original Sentence: 
-Then he jumped into the market
+The excess supply pushed gasoline prices down in that period
 Additional Information: 
-('market', 'outdoor')
+('truck', 'OF', 'gasoline')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The test may come today
+The CBS official said that price sounded fine
 Additional Information: 
-('sign', 'reads', 'today')
+('price', 'ON', 'sign')

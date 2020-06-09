@@ -1,4 +1,4 @@
 Original Sentence: 
-The price can not be less than 7,000
+EAST GERMANS RALLIED in three cities to demand democratic freedoms
 Additional Information: 
-('price', 'written')
+('german', 'written on side of', 'engine')

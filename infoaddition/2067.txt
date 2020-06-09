@@ -1,4 +1,4 @@
 Original Sentence: 
-The interviews took place two years ago
+The economic ideas in the document are much bolder than current policies
 Additional Information: 
-('place', 'made of', 'wood')
+('document', 'ON', 'screen')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Health-care companies should get healthier in the third quarter
+Some of the oil interests already have been sold
 Additional Information: 
-('quarter', 'silver')
+('oil', 'from', 'breakfast meat')

@@ -1,4 +1,4 @@
 Original Sentence: 
-And you ca n't cut this chain with bolt cutters
+Wisconsin Toy has 71 retail stores primarily in discount settings
 Additional Information: 
-('cutter', 'has', 'handle')
+('store', 'IN', 'mall')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Some current rates exceed those on CDs
+Additional Information: 
+('cd', 'on', 'desk')

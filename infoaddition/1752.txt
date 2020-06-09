@@ -1,4 +1,4 @@
 Original Sentence: 
-No reason was given in the filing for the sales
+The company 's Excalibur will also appeal to families of course
 Additional Information: 
-('filing', 'cabinet with pull', 'drawers')
+('family', 'ON', 'mini bike')

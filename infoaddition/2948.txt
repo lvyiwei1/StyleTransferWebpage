@@ -1,4 +1,4 @@
 Original Sentence: 
-Randy Delchamps retains his position as president
+His theme is unity decency humanity bringing New York together again
 Additional Information: 
-('president', 'ON', 'television')
+('theme', 'train')

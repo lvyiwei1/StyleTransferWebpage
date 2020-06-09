@@ -1,4 +1,4 @@
 Original Sentence: 
-Those companies are paying the price for taking the risk
+The investors range from elderly widows to affluent professionals
 Additional Information: 
-('price', 'written')
+('professional', 'soccer', 'players')

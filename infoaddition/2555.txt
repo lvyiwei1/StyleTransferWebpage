@@ -1,4 +1,4 @@
 Original Sentence: 
-The following month the company put itself up for sale
+Here are two cases to illustrate
 Additional Information: 
-('month', 'ninth')
+('case', 'ON', 'table')

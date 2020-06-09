@@ -1,4 +1,4 @@
 Original Sentence: 
-He is a mechanical engineer not an atmospheric chemist
+A thin man in a gray suit looks up from a newspaper
 Additional Information: 
-('engineer', 'train')
+('man', 'standing')

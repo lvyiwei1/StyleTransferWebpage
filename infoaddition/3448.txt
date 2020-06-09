@@ -1,4 +1,4 @@
 Original Sentence: 
-Innocent bystanders often are the victims
+Yet the bill is riding high on the furor over drug trafficking
 Additional Information: 
-('bystander', 'IN', 'coat')
+('bill', 'orange')

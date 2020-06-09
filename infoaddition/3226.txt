@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose to 2.45 billion from 2.2 billion
+Earlier this month Mr. Icahn boosted his USX stake to 13.4 %
 Additional Information: 
-('sale', 'red')
+('month', 'OF', 'picture')

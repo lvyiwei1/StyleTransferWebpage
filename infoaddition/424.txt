@@ -1,4 +1,4 @@
 Original Sentence: 
-Kia is reportedly also considering such a plan
+The 150,000-square-foot plant will be constructed on a 55-acre site near Dublin
 Additional Information: 
-('plan', 'behind', 'guy')
+('plant', 'green')

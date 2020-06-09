@@ -1,4 +1,4 @@
 Original Sentence: 
-But he added interest-rate-sensitive stocks in general are stalled
+Terms on both deals were n't disclosed
 Additional Information: 
-('stock', 'green')
+('deal', 'OF', 'bananas')

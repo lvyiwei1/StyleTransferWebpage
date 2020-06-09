@@ -1,0 +1,4 @@
+Original Sentence: 
+The antibody then kills the cell
+Additional Information: 
+('cell', 'IN', 'hand')

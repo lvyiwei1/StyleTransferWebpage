@@ -1,4 +1,4 @@
 Original Sentence: 
-She did n't have hot water for five days
+Overall Salomon reported program trading volume of 75.2 million shares
 Additional Information: 
-('water', 'falling from', 'umbrella')
+('volume', '3')

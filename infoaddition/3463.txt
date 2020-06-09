@@ -1,4 +1,4 @@
 Original Sentence: 
-This is not the case
+Shearson Lehman Hutton began its coverage of the company with favorable ratings
 Additional Information: 
-('case', 'ON', 'cellphone')
+('company', 'ON', 'beach bar')

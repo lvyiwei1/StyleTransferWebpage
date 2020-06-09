@@ -1,4 +1,4 @@
 Original Sentence: 
-But when stocks held steady Treasury bonds later retreated
+Jewelry Makers Copy Cosmetics Sales Ploys
 Additional Information: 
-('bond', 'black ')
+('maker', 'makes', 'ice cream')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Two segments posted lower earnings for the quarter
+The oldest designer got to work on the dashboard she recalls
 Additional Information: 
-('segment', 'of citrus fruit')
+('dashboard', 'OF', 'car')

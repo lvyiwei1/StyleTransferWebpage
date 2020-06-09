@@ -1,4 +1,4 @@
 Original Sentence: 
-Morgenzon has long been a special domain of Afrikanerdom
+But the six-hour compromise was soon agreed to in subsequent discussions
 Additional Information: 
-('domain', 'displayed', 'pic')
+('man', 'and woman engaged in', 'discussion')

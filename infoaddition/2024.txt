@@ -1,4 +1,4 @@
 Original Sentence: 
-Richard L. Sherman 42 will advise midsized businesses
+RADIO MALAISE draws the ear of the Federal Communications Commission
 Additional Information: 
-('business', 'has', 'door')
+('ear', 'black')

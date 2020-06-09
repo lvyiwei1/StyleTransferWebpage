@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's all part of a new command center
+The reason does n't relate to your selling skills
 Additional Information: 
-('hand', 'holding', 'command')
+('not', 'in mood right nowhold leg in air for no', 'reason')

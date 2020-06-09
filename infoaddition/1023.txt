@@ -1,4 +1,4 @@
 Original Sentence: 
-The software conversion costs would dwarf any savings
+The value traded on the exchanges is close to 3 trillion
 Additional Information: 
-('software', 'blue')
+('two women', 'make', 'exchange')

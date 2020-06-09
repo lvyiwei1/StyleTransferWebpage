@@ -1,4 +1,4 @@
 Original Sentence: 
-Gasoline terminals were also largely unhurt they said
+But Mexico urgently needs more help
 Additional Information: 
-('terminal', 'has', 'roof')
+('poster', 'says', 'help')

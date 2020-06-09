@@ -1,4 +1,4 @@
 Original Sentence: 
-The entire division employs about 850 workers
+Several other banks have similar applications pending
 Additional Information: 
-('worker', 'construction')
+('application', 'on a', 'cellphone')

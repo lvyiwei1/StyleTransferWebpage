@@ -1,0 +1,4 @@
+Original Sentence: 
+Britain 's unsettled political scene also worries some investors
+Additional Information: 
+('scene', 'outdoors')

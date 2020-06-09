@@ -1,4 +1,4 @@
 Original Sentence: 
-Yesterday 's Centennial Journal misstated the company 's name
+And truck sales also are off more than 20 %
 Additional Information: 
-('name', 'white')
+('sale', 'at', 'company')

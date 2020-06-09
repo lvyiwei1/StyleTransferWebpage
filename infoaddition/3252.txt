@@ -1,4 +1,4 @@
 Original Sentence: 
-Neither has plans to be a market maker for now
+Note how the baseline program assumes a sharp increase in future appropriations
 Additional Information: 
-('market', 'outdoor')
+('program', 'wedding')

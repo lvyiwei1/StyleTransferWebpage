@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 13 % to 1.91 billion from 1.69 billion
+Mervin Lung remains chairman and chief executive officer
 Additional Information: 
-('sale', 'red')
+('executive', 'ON', 'signs')

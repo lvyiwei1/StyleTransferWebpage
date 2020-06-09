@@ -1,4 +1,4 @@
 Original Sentence: 
-The industrial average ended at 2659.22 down 3.69 points
+Brooks Armored Car Service Inc. never wanted to get into money laundering
 Additional Information: 
-('point', 'sharp')
+('money', 'paper')

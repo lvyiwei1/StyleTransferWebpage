@@ -1,4 +1,4 @@
 Original Sentence: 
-Analysts and competitors however doubt the numbers were that high
+Even so his bill is given little chance of passage
 Additional Information: 
-('number', 'black')
+('passage', 'gray')

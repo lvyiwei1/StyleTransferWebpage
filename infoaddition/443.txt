@@ -1,4 +1,4 @@
 Original Sentence: 
-Other Western Union securities were also lower
+Over the next few years I would advise caution
 Additional Information: 
-('security', 'standing')
+('year', 'OF', 'photo')

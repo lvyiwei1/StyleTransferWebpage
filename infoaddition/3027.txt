@@ -1,4 +1,4 @@
 Original Sentence: 
-BellSouth 's back-end protection was flawed previously
+He seems to be typical of many professional money managers
 Additional Information: 
-('protection', 'black')
+('money', 'paper')

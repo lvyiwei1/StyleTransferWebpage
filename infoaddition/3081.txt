@@ -1,4 +1,4 @@
 Original Sentence: 
-Sale of Saatchi Unit Close
+Officials at Carnival declined to comment
 Additional Information: 
-('sale', 'red')
+('official', 'tennis')

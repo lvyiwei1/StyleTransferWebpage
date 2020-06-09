@@ -1,4 +1,4 @@
 Original Sentence: 
-He intends to add to the litigation staff
+In major market activity Stock prices rose in light trading
 Additional Information: 
-('staff', 'kitchen')
+('stock', 'green')

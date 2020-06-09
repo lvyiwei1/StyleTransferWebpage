@@ -1,4 +1,4 @@
 Original Sentence: 
-The company plans to be fully operational today
+London 's Financial Times-Stock Exchange 100-share index fell 27.9 points to 2135.5
 Additional Information: 
-('company', 'name')
+('index', 'is a finger')

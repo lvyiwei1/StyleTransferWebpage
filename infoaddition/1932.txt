@@ -1,4 +1,4 @@
 Original Sentence: 
-Those Metropolitan Life ads were bad enough
+I 'm happy that he feels positively about our company he said
 Additional Information: 
-('ad', 'white')
+('company', 'has', 'name')

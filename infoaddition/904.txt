@@ -1,4 +1,4 @@
 Original Sentence: 
-Sun also reported a record backlog of orders
+Mr. Schwarz says the competition broadens the base of opportunity for us
 Additional Information: 
-('order', 'ready')
+('man', 'IN', 'competition')

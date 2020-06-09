@@ -1,4 +1,4 @@
 Original Sentence: 
-Prices of high-yield high-risk corporate securities ended unchanged
+Maine Republican William Cohen said the plan might violate the assassination ban
 Additional Information: 
-('security', 'standing')
+('table', 'has', 'ban')

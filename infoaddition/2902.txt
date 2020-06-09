@@ -1,4 +1,4 @@
 Original Sentence: 
-But the shift has also been fueled by necessity
+It 's hard to know if people are responding truthfully
 Additional Information: 
-('shift', 'ON', 'keyboard')
+('people', 'IN', 'street')

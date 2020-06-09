@@ -1,4 +1,4 @@
 Original Sentence: 
-Read my lips said Mr. Smith
+Artists and draftsmen need harder leads
 Additional Information: 
-('lip', 'of a', 'giraffe')
+('lead', 'green')

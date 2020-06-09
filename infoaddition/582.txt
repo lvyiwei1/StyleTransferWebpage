@@ -1,4 +1,4 @@
 Original Sentence: 
-It was succeeded in the group by Fuqua Industries Inc
+At Applied Mr. Sim set growth as his first objective
 Additional Information: 
-('group', 'OF', 'trees')
+('growth', 'at', 'rocks')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Other RJR securities also closed higher
+They effectively lead team efforts to reduce cycle time
 Additional Information: 
-('security', 'standing')
+('time', 'displayed')

@@ -1,4 +1,4 @@
 Original Sentence: 
-For employee and employer alike the worry is widespread
+Cuban military personnel also have been active in Afghanistan since 1979
 Additional Information: 
-('employee', 'airport')
+('personnel', 'WEARING', 'vests')

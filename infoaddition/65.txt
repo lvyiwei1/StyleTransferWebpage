@@ -1,4 +1,4 @@
 Original Sentence: 
-Grain milk and meat come next
+The airline also named Mickey Foret as president
 Additional Information: 
-('grain', 'IN', 'wood floor')
+('president', ' United States')

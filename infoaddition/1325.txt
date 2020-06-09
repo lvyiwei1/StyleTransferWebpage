@@ -1,4 +1,4 @@
 Original Sentence: 
-A related editorial appears today
+Computer companies commodity cyclical stocks like autos and retailing stocks he says
 Additional Information: 
-('cow', 'are laying down', 'today')
+('computer', 'laptop')

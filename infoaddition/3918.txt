@@ -1,0 +1,4 @@
+Original Sentence: 
+The issue has been simmering for years
+Additional Information: 
+('year', 'ON', 'picture')

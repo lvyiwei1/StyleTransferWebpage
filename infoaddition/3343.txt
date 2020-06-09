@@ -1,4 +1,4 @@
 Original Sentence: 
-He left a message accusing Mr. Darman of selling out
+Along the way there also are lots of romantic dalliances
 Additional Information: 
-('message', 'ON', 'bed')
+('lot', 'for', 'truck')

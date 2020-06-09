@@ -1,4 +1,4 @@
 Original Sentence: 
-What is that point
+Why did East Bloc participants unanimously endorse market-based pollution approaches
 Additional Information: 
-('point', 'sharp')
+('participant', 'at top of', 'ramp')

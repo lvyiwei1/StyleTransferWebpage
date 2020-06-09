@@ -1,4 +1,4 @@
 Original Sentence: 
-There are a lot of them and they have property
+Maine Republican William Cohen said the plan might violate the assassination ban
 Additional Information: 
-('lot', 'made of', 'grey brick pavers')
+('ban', 'baked')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Lawyers remain divided about whether anything is wrong with all this
+Additional Information: 
+('part', 'of a speaker not connected to', 'anything')

@@ -1,3 +1,3 @@
 Original Sentence: 
-UAL fell 56.875 to 222.875
-Emphasize: fell
+But it has n't increased much relative to other assets
+Emphasize: increased

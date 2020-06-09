@@ -1,4 +1,4 @@
 Original Sentence: 
-Others preach the gospel of buying only blue-chip growth stocks
+Mr. Maynard claims this is a manageable problem
 Additional Information: 
-('stock', 'green')
+('plane', 'has', 'problem')

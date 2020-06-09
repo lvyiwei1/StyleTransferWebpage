@@ -1,4 +1,4 @@
 Original Sentence: 
-Yesterday 's Centennial Journal misstated the company 's name
+Twenty-one of its workers are Ph. D.s
 Additional Information: 
-('company', 'that owns', 'bus')
+('worker', 'construction')

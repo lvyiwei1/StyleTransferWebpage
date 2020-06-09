@@ -1,0 +1,4 @@
+Original Sentence: 
+The company has been manufacturing carpet since 1967
+Additional Information: 
+('carpet', 'brown')

@@ -1,4 +1,4 @@
 Original Sentence: 
-He is negotiating a rich book contract to boot
+Sales rose 7.4 % to 1.255 trillion yen from 1.168 trillion yen
 Additional Information: 
-('boot', 'ON', 'foot')
+('sale', 'at', 'company')

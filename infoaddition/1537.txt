@@ -1,4 +1,4 @@
 Original Sentence: 
-An excellent environmental actor he is
+There are few factories and no mines
 Additional Information: 
-('actor', 'comedic')
+('mine', 'man made')

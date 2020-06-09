@@ -1,4 +1,4 @@
 Original Sentence: 
-Comparable store sales for the quarter were up 7.3 %
+China-bound freight streams through the territory 's port
 Additional Information: 
-('quarter', 'silver')
+('freight', 'being loaded in', 'distance')

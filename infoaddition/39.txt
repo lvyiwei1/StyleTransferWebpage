@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 6 % to 2.77 billion from 2.61 billion
+An analyst cited weaker capital spending and exports
 Additional Information: 
-('sale', 'red')
+('capital', 'building in washington', 'dc')

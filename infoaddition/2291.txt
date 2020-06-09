@@ -1,4 +1,4 @@
 Original Sentence: 
-But the strategy is n't helping much this time
+The shift wo n't affect operations
 Additional Information: 
-('time', 'on', 'iphone')
+('shift', 'ON', 'keyboard')

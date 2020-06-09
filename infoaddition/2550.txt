@@ -1,4 +1,4 @@
 Original Sentence: 
-Then take the expected return and subtract one standard deviation
+Buy stocks on weakness for their long-term fundamentals he says
 Additional Information: 
-('return', 'black')
+('stock', 'of', 'stock')

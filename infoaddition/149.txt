@@ -1,4 +1,4 @@
 Original Sentence: 
-The price was 3.6 billion yen 25 million
+Travel sales rose 11 % led by gains in the U.S.
 Additional Information: 
-('price', 'ON', 'tag')
+('travel', 'guide', 'book')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Sam Ramirez and his men are late
+Expansion plans also include acquisitions in growing foreign markets
 Additional Information: 
-('men', 'standing')
+('market', 'outdoor')

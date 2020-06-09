@@ -1,0 +1,4 @@
+Original Sentence: 
+In addition McCall 's put in a less than stellar performance
+Additional Information: 
+('teenagers', 'watching', 'performance')

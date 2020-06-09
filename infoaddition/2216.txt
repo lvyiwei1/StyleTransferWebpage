@@ -1,4 +1,4 @@
 Original Sentence: 
-Wilfred closed its Massachusetts schools earlier this year
+Its stock closed at 38 up 1.875 in national over-the-counter trading
 Additional Information: 
-('year', 'ON', 'side')
+('stock', 'ON', 'engine')

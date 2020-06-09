@@ -1,4 +1,4 @@
 Original Sentence: 
-The company 's president quit suddenly
+In February Mr. Thornburgh announced his plan to abolish the units
 Additional Information: 
-('president', ' United States')
+('plan', 'ON', 'tarmac')

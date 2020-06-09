@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Smith angered Federal 's pilots too
+The shipments went mostly to food-service distributors that supply pizzerias and restaurants
 Additional Information: 
-('pilot', 'OF', 'fighter')
+('window', 'of a', 'pizzeria')

@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's part of our style too
+These figures are n't seasonally adjusted
 Additional Information: 
-('part', 'small')
+('figure', 'ON', 'shelf')

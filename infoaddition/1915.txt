@@ -1,4 +1,4 @@
 Original Sentence: 
-It recently introduced a line for the home market
+The bank has a negative net worth they say
 Additional Information: 
-('line', 'white')
+('bank', 'grassy')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The Chosen Soren and the JSP immediately denied the report
+The Financial Times 30-share index closed 79.3 points lower at 1738.7
 Additional Information: 
-('report', 'ON', 'green paper')
+('point', 'sharp')

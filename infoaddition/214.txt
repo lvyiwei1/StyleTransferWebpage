@@ -1,4 +1,4 @@
 Original Sentence: 
-Some economists expect further declines in investment spending
+Prices of high-yield high-risk corporate securities ended unchanged
 Additional Information: 
-('decline', ' of grass')
+('price', 'written')

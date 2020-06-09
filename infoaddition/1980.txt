@@ -1,4 +1,4 @@
 Original Sentence: 
-The notes can be redeemed starting in July 1991
+In February Mr. Thornburgh announced his plan to abolish the units
 Additional Information: 
-('note', 'on a', 'cork board')
+('plan', 'air')

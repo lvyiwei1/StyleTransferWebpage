@@ -1,4 +1,4 @@
 Original Sentence: 
-If Sex Is Involved All Bets Are Off
+But for photofinishers developing costs for black-and-white film are higher
 Additional Information: 
-('sex', 'on a', 'sign')
+('film', 'on front of', 'window')

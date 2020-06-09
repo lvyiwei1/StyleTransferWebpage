@@ -1,4 +1,4 @@
 Original Sentence: 
-Copper futures prices failed to extend Friday 's rally
+Most public-health measures were handled at the local level
 Additional Information: 
-('price', 'ON', 'sign')
+('level', 'OF', 'tower')

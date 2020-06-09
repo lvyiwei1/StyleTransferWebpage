@@ -1,4 +1,4 @@
 Original Sentence: 
-Which makes the chase car necessary
+Offices of the city 's Rent Board were destroyed
 Additional Information: 
-('car', 'ON', 'street')
+('office', 'has', 'window')

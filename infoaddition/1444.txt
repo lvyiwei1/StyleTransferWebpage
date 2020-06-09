@@ -1,4 +1,4 @@
 Original Sentence: 
-Critics also say American companies charge too much
+LTV Corp. won a 25 million Army contract for missile test equipment
 Additional Information: 
-('company', 'ON', 'box')
+('test', 'sitting in', 'aircraft')

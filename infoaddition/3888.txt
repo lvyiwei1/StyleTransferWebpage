@@ -1,0 +1,4 @@
+Original Sentence: 
+They estimate the value of the transaction at close to 100 million
+Additional Information: 
+('close', 'up view of an apple', 'tree')

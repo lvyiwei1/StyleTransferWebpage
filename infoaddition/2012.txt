@@ -1,4 +1,4 @@
 Original Sentence: 
-For one thing credit-card loans are unsecured
+But the Fed move was a small gesture traders said
 Additional Information: 
-('thing', 'ON', 'suitcase')
+('man', 'makes', 'gesture')

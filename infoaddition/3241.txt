@@ -1,4 +1,4 @@
 Original Sentence: 
-Deciding what constitutes terrorism can be a legalistic exercise
+Also the Big Board met with angry stock specialists
 Additional Information: 
-('guy', 'getting', 'exercise')
+('stock', 'OF', 'broccoli')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The 282 members had paid 10,000 apiece for seats
+Repeat customers also can purchase luxury items at reduced prices
 Additional Information: 
-('seat', 'black')
+('customer', 'carrying', 'backpack')

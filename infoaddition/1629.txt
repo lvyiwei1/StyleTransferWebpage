@@ -1,4 +1,4 @@
 Original Sentence: 
-Some U.S. entrepreneurs operate on a smaller scale
+Either way the word broker is clearly out of favor
 Additional Information: 
-('scale', 'white')
+('way', 'walk')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Many groups are n't waiting that long
+The Diet plays a minor role compared with the powerful bureaucratic system
 Additional Information: 
-('group', 'OF', 'woman')
+('system', 'IN', 'cubicle')

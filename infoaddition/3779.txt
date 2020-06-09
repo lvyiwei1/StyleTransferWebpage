@@ -1,0 +1,4 @@
+Original Sentence: 
+Other gainers were companies with one or more undamaged California refineries
+Additional Information: 
+('company', 'ON', 'corner')

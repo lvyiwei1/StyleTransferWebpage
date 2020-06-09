@@ -1,4 +1,4 @@
 Original Sentence: 
-By the end of the day bond prices were mixed
+Mr. Beddall had been executive vice president of the division since April
 Additional Information: 
-('day', 'sunny')
+('president', 'ON', 'television')

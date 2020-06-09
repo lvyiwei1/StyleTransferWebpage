@@ -1,4 +1,4 @@
 Original Sentence: 
-Such problems may not be over
+The machine began shipping at the end of last year
 Additional Information: 
-('plane', 'has', 'problem')
+('year', 'written on', 'sign')

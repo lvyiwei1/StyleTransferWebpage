@@ -1,4 +1,4 @@
 Original Sentence: 
-But says Mr. Bock It was a close call
+But lawmakers of both parties agree that the streamlining was temporary
 Additional Information: 
-('call', 'here')
+('party', 'birthday')

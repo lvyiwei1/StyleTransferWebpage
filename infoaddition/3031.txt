@@ -1,4 +1,4 @@
 Original Sentence: 
-The house just settled right down into the ground
+Sales rose 2.6 % to 1.32 billion from 1.29 billion
 Additional Information: 
-('ground', 'brown')
+('sale', 'red')

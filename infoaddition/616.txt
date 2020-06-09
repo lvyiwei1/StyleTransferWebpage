@@ -1,4 +1,4 @@
 Original Sentence: 
-It has a similar project for 200,000 cars a year
+Study halls complete with reference materials will be available
 Additional Information: 
-('year', 'ON', 'building')
+('book', 'for', 'study')

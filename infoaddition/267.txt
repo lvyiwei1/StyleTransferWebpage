@@ -1,4 +1,4 @@
 Original Sentence: 
-Among other things the brief cited insufficient evidence
+The notice also grants relief for certain estate-tax returns
 Additional Information: 
-('thing', 'under', 'airplane')
+('notice', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-They say the broker took them out for lunch frequently
+Your paper needs a serious reality check
 Additional Information: 
-('lunch', 'wrapped in', 'foil')
+('check', 'white')

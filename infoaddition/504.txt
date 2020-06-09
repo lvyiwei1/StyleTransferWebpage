@@ -1,4 +1,4 @@
 Original Sentence: 
-Volume totaled 14,580,000 shares
+In Friday 's edition the name of the unit was misstated
 Additional Information: 
-('volume', '3')
+('name', 'of a', 'player')

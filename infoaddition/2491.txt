@@ -1,4 +1,4 @@
 Original Sentence: 
-The company does n't expect any shipping delays
+Not everyone has jumped on the Breeden bandwagon however
 Additional Information: 
-('company', 'ON', 'corner')
+('everyone', 'smiling')

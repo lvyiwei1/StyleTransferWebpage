@@ -1,4 +1,4 @@
 Original Sentence: 
-Suddenly I am not a comfortable man for Solidarity
+And he has worked to shed his raider image
 Additional Information: 
-('man', 'standing')
+('image', 'OF', 'image')

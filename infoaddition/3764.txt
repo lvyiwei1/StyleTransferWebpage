@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Bates usually handles day-to-day UAL trading on his own
+Additional Information: 
+('red t', 'IN', 'trading')

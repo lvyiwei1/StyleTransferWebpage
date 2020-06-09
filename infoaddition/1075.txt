@@ -1,4 +1,4 @@
 Original Sentence: 
-Value of the properties and management interests was n't disclosed
+Climate varies drastically due to natural causes said Mr. Thompson
 Additional Information: 
-('property', 'waterfront')
+('climate', 'control', 'buttons')

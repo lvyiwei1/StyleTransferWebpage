@@ -1,4 +1,4 @@
 Original Sentence: 
-If you 're a technician you obey the signals
+By accounting definitions this had to produce a sudden trade deficit
 Additional Information: 
-('signal', 'i', 'water')
+('company name', 'says', 'trade')

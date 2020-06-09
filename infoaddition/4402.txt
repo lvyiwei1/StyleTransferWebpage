@@ -1,0 +1,4 @@
+Original Sentence: 
+USX is funneling drilling pipe to steel-hungry Soviet Union
+Additional Information: 
+('pipe', 'ON', 'wall')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+And he has attached himself to the Lincoln story tenaciously
 Additional Information: 
-('term', 'house of david')
+('story', 'missing', 'wall')

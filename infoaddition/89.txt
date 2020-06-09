@@ -1,4 +1,4 @@
 Original Sentence: 
-That facility should reopen today
+West German bond prices ended lower after a day of aimless trading
 Additional Information: 
-('sign', 'reads', 'today')
+('price', 'written')

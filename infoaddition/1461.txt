@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Sheinberg remains as executive vice president
+Mr. Ohmae is managing director of McKinsey & Co. in Japan
 Additional Information: 
-('handle', 'ON', 'vice')
+('vest', 'ON', 'director')

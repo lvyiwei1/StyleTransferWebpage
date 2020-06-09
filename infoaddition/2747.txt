@@ -1,4 +1,4 @@
 Original Sentence: 
-Later the judge went a step farther
+That 's about half the price of comparably equipped IBM mainframes
 Additional Information: 
-('judge', 'ON', 'tennis court')
+('price', 'tag', 'roll')

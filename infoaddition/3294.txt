@@ -1,4 +1,4 @@
 Original Sentence: 
-This is n't a distress sale
+He said the normal ratio is five to six weeks
 Additional Information: 
-('sale', 'red')
+('day', 'OF', 'week')

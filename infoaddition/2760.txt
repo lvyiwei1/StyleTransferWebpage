@@ -1,4 +1,4 @@
 Original Sentence: 
-One such company is Bankers Trust Co
+Occasionally gross chromosome damage was visible
 Additional Information: 
-('company', 'name')
+('damage', 'ON', 'metal pole')

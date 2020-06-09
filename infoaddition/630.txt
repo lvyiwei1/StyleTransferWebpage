@@ -1,4 +1,4 @@
 Original Sentence: 
-LDI leases and sells data-processing telecommunications and other high-tech equipment
+Now as in those two years her stock market indicators are positive
 Additional Information: 
-('equipment', 'with', 'equipment')
+('market', 'outdoor')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The company does n't expect any shipping delays
+The notes are rated MIG-1 by Moody 's and SP1-plus by S&P
 Additional Information: 
-('container', 'for', 'shipping')
+('note', 'yellow')

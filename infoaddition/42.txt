@@ -1,4 +1,4 @@
 Original Sentence: 
-Two segments posted lower earnings for the quarter
+The company said it expects to release third-quarter results in mid-November
 Additional Information: 
-('segment', 'OF', 'leaves')
+('company', 'name')

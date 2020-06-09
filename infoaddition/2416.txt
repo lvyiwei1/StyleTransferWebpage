@@ -1,4 +1,4 @@
 Original Sentence: 
-But the FHA program is hemorrhaging bad loans
+Meanwhile at home Mitsubishi has control of some major projects
 Additional Information: 
-('program', 'wedding')
+('project', 'sewing')

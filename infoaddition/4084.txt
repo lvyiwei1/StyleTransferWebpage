@@ -1,0 +1,4 @@
+Original Sentence: 
+Broader market averages were little changed in the latest session
+Additional Information: 
+('session', 'skype  ')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The buyer was n't identified
+People in the phone business call this technology 900 click
 Additional Information: 
-('buyer', 'prospective')
+('people', 'standing')

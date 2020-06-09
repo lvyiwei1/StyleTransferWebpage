@@ -1,4 +1,4 @@
 Original Sentence: 
-Aldus Seattle makes computer software products
+Ms. Renk says retailers nixed a promotion for pins with animal motifs
 Additional Information: 
-('computer', 'laptop')
+('motif', 'ON', 'tablecloth')

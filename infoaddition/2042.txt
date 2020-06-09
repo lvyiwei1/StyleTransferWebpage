@@ -1,4 +1,4 @@
 Original Sentence: 
-Many Law School Grads Find Classes Never End
+The company develops and markets products for the food service industry
 Additional Information: 
-('school', 'word')
+('product', 'IN', 'box')

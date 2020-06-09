@@ -1,4 +1,4 @@
 Original Sentence: 
-Its attendance is off 23 % from six years ago
+For many money managers the past four months have been humiliating
 Additional Information: 
-('year', 'white')
+('manager', 'overlooking action')

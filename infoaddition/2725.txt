@@ -1,4 +1,4 @@
 Original Sentence: 
-Tendered shares not purchased will be returned to holders
+People got rich through takeovers in those days as they do today
 Additional Information: 
-('holder', 'ON', 'shoe')
+('people', 'walking in', 'rain')

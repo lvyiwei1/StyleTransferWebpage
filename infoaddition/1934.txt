@@ -1,4 +1,4 @@
 Original Sentence: 
-Their powerful members manage them
+Having only a Republican measure makes the task harder
 Additional Information: 
-('member', 'several')
+('measure', 'black')

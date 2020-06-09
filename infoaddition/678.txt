@@ -1,4 +1,4 @@
 Original Sentence: 
-It shows a boy hurling rocks at a street lamp
+I much prefer money I can put my hands on
 Additional Information: 
-('boy', 'young')
+('money', 'paper')

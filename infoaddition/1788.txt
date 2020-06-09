@@ -1,4 +1,4 @@
 Original Sentence: 
-The successors would be nominated by the independent directors
+China-bound freight streams through the territory 's port
 Additional Information: 
-('director', 'caucasian')
+('stream', 'running through', 'pasture')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Here are four key steps
+Additional Information: 
+('step', 'concrete')

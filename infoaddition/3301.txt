@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Falco continues to rank the stock a longterm buy
+The plan would impose a brief freeze on physician fees next year
 Additional Information: 
-('buy', 'large')
+('plan', 'ON', 'tarmac')

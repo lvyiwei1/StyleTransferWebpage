@@ -1,4 +1,4 @@
 Original Sentence: 
-In the end politics got in the way
+Sales rose 2.9 % to 329.2 million from 320 million
 Additional Information: 
-('way', 'walk')
+('sale', 'at', 'company')

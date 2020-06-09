@@ -1,4 +1,4 @@
 Original Sentence: 
-It must be accepted by the court
+Yesterday 's edition did n't specify where the improvement would take place
 Additional Information: 
-('court', 'green')
+('edition', 'word')

@@ -1,4 +1,4 @@
 Original Sentence: 
-LUTHER BURBANK CROSS-BRED PLANTS to produce the billion-dollar Idaho potato
+But U.S. officials have strong doubts that he is a reformer
 Additional Information: 
-('potato', 'fried')
+('official', 'tennis')

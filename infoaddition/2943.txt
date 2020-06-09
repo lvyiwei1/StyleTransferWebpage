@@ -1,4 +1,4 @@
 Original Sentence: 
-We recognized the problem and took care of it
+The increase was spread fairly evenly among all three types of funds
 Additional Information: 
-('plane', 'has', 'problem')
+('type', 'OF', 'bread')

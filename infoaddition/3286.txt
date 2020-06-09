@@ -1,4 +1,4 @@
 Original Sentence: 
-It was a busy week for OTC stocks
+Other temperature data show similar unexplained swings
 Additional Information: 
-('day', 'OF', 'week')
+('swing', 'ON', 'playground')

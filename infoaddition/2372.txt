@@ -1,4 +1,4 @@
 Original Sentence: 
-Last week CBS Inc. canceled The People Next Door
+In Los Angeles it 's important to catch people just after work
 Additional Information: 
-('day', 'OF', 'week')
+('people', 'waiting near', 'luggage')

@@ -1,4 +1,4 @@
 Original Sentence: 
-I want to publish one that succeeds said Mr. Lang
+It was the opposite of what happened on Oct. 19
 Additional Information: 
-('one', 'blue', 'plate')
+('sheep herd', 'are facing', 'opposite')

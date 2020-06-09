@@ -1,4 +1,4 @@
 Original Sentence: 
-Long-term bonds have performed erratically this year
+The scientists have experimented on the tiny neck arteries of rats
 Additional Information: 
-('year', 'IN', 'corner')
+('neck', 'OF', 'pigeon')

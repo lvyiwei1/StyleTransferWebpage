@@ -1,4 +1,4 @@
 Original Sentence: 
-A more blue-collar panel became a second aim
+They currently have large orders for cargo planes
 Additional Information: 
-('panel', 'white')
+('cargo', 'white')

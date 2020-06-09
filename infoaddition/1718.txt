@@ -1,4 +1,4 @@
 Original Sentence: 
-He adds That 's the forecasting business
+About 47 % are loyal for one to five of the products
 Additional Information: 
-('business', 'here')
+('product', 'ON', 'display')

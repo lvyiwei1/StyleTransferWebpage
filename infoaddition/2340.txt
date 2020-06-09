@@ -1,4 +1,4 @@
 Original Sentence: 
-The IRS hopes to fill the new positions soon
+The group consists of Weslock Corp. and JPI Modern Inc
 Additional Information: 
-('catcher', 'IN', 'position')
+('group', 'large')

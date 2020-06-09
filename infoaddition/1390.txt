@@ -1,4 +1,4 @@
 Original Sentence: 
-The playoff series had riveted the 12-year-old Giants fan
+Others had lesser damage and there were no injuries among workers
 Additional Information: 
-('series', 'of ski gates')
+('injury', 'scabbed')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Companies that only recently were thriving find themselves scrambling to survive
+Additional Information: 
+('company', 'name')

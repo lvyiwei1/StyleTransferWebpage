@@ -1,4 +1,4 @@
 Original Sentence: 
-Czeslaw Pyszkiewicz owns 30 acres in 14 scattered scraps
+Indeed abortion-rights activists still face their greatest tests
 Additional Information: 
-('scrap', 'ON', 'floor')
+('test', 'sitting in', 'aircraft')

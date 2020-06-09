@@ -1,4 +1,4 @@
 Original Sentence: 
-But it 's in very early stages still
+You could still have some very bad times ahead said Mr. Bachmann
 Additional Information: 
-('stage', 'black')
+('time', 'on', 'stove')

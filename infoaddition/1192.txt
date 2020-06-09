@@ -1,4 +1,4 @@
 Original Sentence: 
-John E. Yang contributed to this article
+Still the average price of such bikes rose last year to 145
 Additional Information: 
-('article', 'newspaper')
+('price', 'written')

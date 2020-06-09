@@ -1,4 +1,4 @@
 Original Sentence: 
-He started building the files that helped him gain power
+The owners are trying to boost profit in other ways too
 Additional Information: 
-('file', 'open on', 'laptop')
+('owner', 'proud')

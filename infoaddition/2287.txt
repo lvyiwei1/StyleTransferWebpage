@@ -1,4 +1,4 @@
 Original Sentence: 
-This avoids knocking down prices further
+THE YALE POLITICAL UNION does n't pay an honorarium to speakers
 Additional Information: 
-('price', 'ON', 'sign')
+('speaker', 'ON', 'ground')

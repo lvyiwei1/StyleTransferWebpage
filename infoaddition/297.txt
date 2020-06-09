@@ -1,4 +1,4 @@
 Original Sentence: 
-But while index options are convenient they have several disadvantages
+Sales rose 14 % to 715 million from 625.4 million
 Additional Information: 
-('option', 'ON', 'phone')
+('sale', 'ON', 'banner')

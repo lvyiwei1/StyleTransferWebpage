@@ -1,0 +1,4 @@
+Original Sentence: 
+The chimney is a pile of bricks on the front lawn
+Additional Information: 
+('brick', 'red')

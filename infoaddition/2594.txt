@@ -1,4 +1,4 @@
 Original Sentence: 
-But gay rights advocates are angry too
+Mr. Gale is an assistant professor of economics at UCLA
 Additional Information: 
-('right', 'wheel of computer', 'chair')
+('professor', 'teaching', 'college course')

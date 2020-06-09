@@ -1,4 +1,4 @@
 Original Sentence: 
-These are the raw materials used in making plastics
+The excess supply pushed gasoline prices down in that period
 Additional Information: 
-('material', 'ON', 'arm')
+('gasoline', 'offered')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The Soviets have a world-leading space program the guests noted
+The expansion will set off a marketing war among the big hotel-casinos
 Additional Information: 
-('space', 'green')
+('war', 'word')

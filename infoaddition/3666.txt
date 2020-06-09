@@ -1,0 +1,4 @@
+Original Sentence: 
+Today there are 77 units all located in shopping malls
+Additional Information: 
+('shopping', 'area')

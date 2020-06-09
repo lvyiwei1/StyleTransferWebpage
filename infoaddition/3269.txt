@@ -1,4 +1,4 @@
 Original Sentence: 
-Also most of the telecommunications equipment was out
+The farmer at the next truck shouts Wheat
 Additional Information: 
-('equipment', 'electronic')
+('wheat', 'growing')

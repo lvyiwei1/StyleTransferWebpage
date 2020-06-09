@@ -1,0 +1,4 @@
+Original Sentence: 
+But that was all of three months ago
+Additional Information: 
+('month', 'around', 'face')

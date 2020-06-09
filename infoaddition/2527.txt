@@ -1,4 +1,4 @@
 Original Sentence: 
-South African gold stocks ended marginally firmer
+Ms. Bartlett would not discuss her garden for this article
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('article', 'newspaper')

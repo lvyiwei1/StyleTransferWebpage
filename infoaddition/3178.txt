@@ -1,4 +1,4 @@
 Original Sentence: 
-Unlike 1987 the dollar has been strong
+You must have world-class brands a long-term perspective and deep pockets
 Additional Information: 
-('dollar', 'twenty')
+('pocket', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Shippers are saying the party 's over said Mr. LaLonde
+But the U.S. companies are redoubling their efforts
 Additional Information: 
-('party', 'at a', 'house')
+('company', 'name')

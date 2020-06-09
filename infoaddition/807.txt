@@ -1,4 +1,4 @@
 Original Sentence: 
-Piping in a waste-treatment plant needed immediate repairs
+Mr. Kaiser said there were no fundamental factors moving these markets
 Additional Information: 
-('piping', 'silver')
+('market', 'has', 'doors')

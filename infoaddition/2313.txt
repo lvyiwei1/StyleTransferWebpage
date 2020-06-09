@@ -1,4 +1,4 @@
 Original Sentence: 
-Long-term Treasury bonds ended slightly higher
+But the U.S. companies are redoubling their efforts
 Additional Information: 
-('bond', 'black ')
+('company', 'ON', 'building')

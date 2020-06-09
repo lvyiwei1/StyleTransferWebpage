@@ -1,4 +1,4 @@
 Original Sentence: 
-The industrial average closed down only 3.69 points at 2659.22
+Officials at Aristech based in Pittsburgh declined comment
 Additional Information: 
-('point', 'ON', 'short hand')
+('official', 'ON', 'field')

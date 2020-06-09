@@ -1,4 +1,4 @@
 Original Sentence: 
-Big business Mr. Pawlowski snorts in English
+The investment community for one has been anticipating a speedy resolution
 Additional Information: 
-('business', 'here')
+('community', 'ON', 'water')

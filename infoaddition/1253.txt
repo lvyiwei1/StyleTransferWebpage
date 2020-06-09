@@ -1,4 +1,4 @@
 Original Sentence: 
-The interview did not touch on Singapore 's domestic affairs
+The wholesale price index stood at 89.6 1985 equals 100
 Additional Information: 
-('interview', 'IN', 'background')
+('index', 'is a finger')

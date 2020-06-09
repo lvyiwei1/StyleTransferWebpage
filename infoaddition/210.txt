@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales increased 6 % to 5.58 billion from 5.27 billion
+And most vacationers still prefer a warm climate for their winter excursions
 Additional Information: 
-('sale', 'at', 'company')
+('winter', 'season')

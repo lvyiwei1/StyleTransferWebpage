@@ -1,4 +1,4 @@
 Original Sentence: 
-Viroqua serves about 3,000 access lines in western Wisconsin
+That 's not what our fathers had in mind
 Additional Information: 
-('line', 'ON', 'court')
+('father', 'watching', 'tennis ball')

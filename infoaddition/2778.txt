@@ -1,4 +1,4 @@
 Original Sentence: 
-The device was replaced
+Sales rose 11 % to 7.73 billion from 6.94 billion
 Additional Information: 
-('device', 'electronic')
+('sale', 'red')

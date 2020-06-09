@@ -1,4 +1,4 @@
 Original Sentence: 
-Big business Mr. Pawlowski snorts in English
+The two companies like Fox already have their own TV stations
 Additional Information: 
-('business', 'has', 'lights')
+('station', 'train')

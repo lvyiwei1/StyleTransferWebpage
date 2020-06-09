@@ -1,0 +1,4 @@
+Original Sentence: 
+Lakeland holders will have the option to request either stock or cash
+Additional Information: 
+('option', 'ON', 'phone')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Japanese government bonds showed little change
+Introducing pool argued Councilwoman Riley Reinker would be dangerous
 Additional Information: 
-('change', 'goes into', 'parking meter')
+('pool', 'blue')

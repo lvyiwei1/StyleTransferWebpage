@@ -1,4 +1,4 @@
 Original Sentence: 
-And you ca n't cut this chain with bolt cutters
+Investors in B.A.T have been on a roller coaster
 Additional Information: 
-('bolt', 'ON', 'scissors')
+('coaster', 'under', 'glass')

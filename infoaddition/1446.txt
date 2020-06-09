@@ -1,4 +1,4 @@
 Original Sentence: 
-NESB is also the parent of Omnibank
+LTV Corp. won a 25 million Army contract for missile test equipment
 Additional Information: 
-('parent', 'holding', 'poles')
+('equipment', 'under', 'bad floor')

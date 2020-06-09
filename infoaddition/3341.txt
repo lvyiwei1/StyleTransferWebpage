@@ -1,4 +1,4 @@
 Original Sentence: 
-But Friday did n't help things says Mr. Schaefer
+Along the way there also are lots of romantic dalliances
 Additional Information: 
-('thing', 'black')
+('way', 'scrapped on', 'bus')

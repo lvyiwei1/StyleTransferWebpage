@@ -1,4 +1,4 @@
 Original Sentence: 
-California enacted a rights law in 1988
+But I 'm going to proceed in a more logical way
 Additional Information: 
-('right', 'ear of', 'giraffee')
+('way', 'walk')

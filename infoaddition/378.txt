@@ -1,4 +1,4 @@
 Original Sentence: 
-Yet some funds have pulled in their horns
+And liquidity is what markets need to damp quakes and aftershocks
 Additional Information: 
-('horn', 'black')
+('market', 'selling', 'fruit')

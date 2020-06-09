@@ -1,4 +1,4 @@
 Original Sentence: 
-It shows a boy hurling rocks at a street lamp
+He reports his business is up slightly from customers replacing old stock
 Additional Information: 
-('lamp', 'has', 'shade')
+('business', 'ON', 'building')

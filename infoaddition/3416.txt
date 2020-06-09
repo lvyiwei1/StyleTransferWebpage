@@ -1,4 +1,4 @@
 Original Sentence: 
-Officials expect difficulty routing traffic through downtown San Francisco
+Mr. Decker 's resignation surprised many industry officials
 Additional Information: 
 ('official', 'tennis')

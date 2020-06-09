@@ -1,4 +1,4 @@
 Original Sentence: 
-Yet abortion-rights forces remain bitterly critical
+The meeting is expected to call for heightened austerity for two years
 Additional Information: 
-('force', 'ON', 'plane')
+('year', 'white')

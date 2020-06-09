@@ -1,4 +1,4 @@
 Original Sentence: 
-The closely held company has n't disclosed sales
+Overall Salomon reported program trading volume of 75.2 million shares
 Additional Information: 
-('sale', 'at', 'company')
+('program', 'ON', 'monitor')

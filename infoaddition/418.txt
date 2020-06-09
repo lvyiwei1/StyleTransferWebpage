@@ -1,4 +1,4 @@
 Original Sentence: 
-The computer 's miscalculation has been painful for Renaissance
+They could still panic and bail out of the market
 Additional Information: 
-('computer', 'has a', 'keyboard')
+('market', 'outdoor')

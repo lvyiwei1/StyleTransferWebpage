@@ -1,0 +1,4 @@
+Original Sentence: 
+The devices ' most remarkable possibilities though involve the brain
+Additional Information: 
+('device', 'electronic')

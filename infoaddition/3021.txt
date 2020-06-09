@@ -1,4 +1,4 @@
 Original Sentence: 
-Now because of various difficulties the product has been scrapped
+Not everyone however is at ease with office massage
 Additional Information: 
-('product', 'selling on', 'show')
+('office', 'small')

@@ -1,0 +1,4 @@
+Original Sentence: 
+New Jersey for example was asked to accept 300,000 but refused
+Additional Information: 
+('example', 'lowercase')

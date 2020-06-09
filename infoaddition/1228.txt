@@ -1,4 +1,4 @@
 Original Sentence: 
-Those percentages hardly changed from the previous year 's poll
+His selection increases the size of the board to 12 members
 Additional Information: 
-('year', 'ON', 'wine')
+('board', 'ON', 'snow')

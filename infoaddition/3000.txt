@@ -1,4 +1,4 @@
 Original Sentence: 
-Some apply it to gouty joints
+Now the push is on for more-distinctive shows
 Additional Information: 
-('joint', 'white')
+('push', 'ON', 'sign')

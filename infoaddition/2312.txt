@@ -1,4 +1,4 @@
 Original Sentence: 
-For now defense attorneys are tight-lipped about their plans
+It 's a kind of an investment
 Additional Information: 
-('plan', 'air')
+('kind', 'ON', 'sidewalk')

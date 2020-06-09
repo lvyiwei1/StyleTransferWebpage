@@ -1,4 +1,4 @@
 Original Sentence: 
-But by and large this company has only been profitable
+And the show 's creativity makes up for any technological deficiencies
 Additional Information: 
-('company', 'has', 'name')
+('show', 'kite')

@@ -1,4 +1,4 @@
 Original Sentence: 
-He adds That 's the forecasting business
+And he has attached himself to the Lincoln story tenaciously
 Additional Information: 
-('business', 'ON', 'building')
+('story', 'second')

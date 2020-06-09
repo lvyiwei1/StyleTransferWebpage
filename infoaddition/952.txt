@@ -1,4 +1,4 @@
 Original Sentence: 
-The most important thing is that he have a chance
+The Polish rat will eat well this winter
 Additional Information: 
-('thing', 'black')
+('rat', 'ON', 'surfboard')

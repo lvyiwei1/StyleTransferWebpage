@@ -1,4 +1,4 @@
 Original Sentence: 
-Craig Torres and Anne Newman contributed to this article
+Solar-powered batteries will make the spire glow
 Additional Information: 
-('article', 'newspaper')
+('battery', 'black')

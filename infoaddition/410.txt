@@ -1,4 +1,4 @@
 Original Sentence: 
-In peak periods that load may include 4,000 pieces
+It made my shoelaces dance with terror
 Additional Information: 
-('peak', 'at top of', 'mountain')
+('shoelace', 'white')

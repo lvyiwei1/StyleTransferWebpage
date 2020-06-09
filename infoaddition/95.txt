@@ -1,4 +1,4 @@
 Original Sentence: 
-Not all funds have raised cash levels of course
+In some cases competition has squeezed margins
 Additional Information: 
-('level', 'upper')
+('man', 'IN', 'competition')

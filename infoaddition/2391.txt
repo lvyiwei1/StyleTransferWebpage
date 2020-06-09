@@ -1,4 +1,4 @@
 Original Sentence: 
-They were a sleeper
+COMPANIES SEEKING to make insurers pay for pollution cleanup win court victory
 Additional Information: 
-('sleeper', 'wooden')
+('company', 'has', 'name')

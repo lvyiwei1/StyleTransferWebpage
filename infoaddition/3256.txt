@@ -1,4 +1,4 @@
 Original Sentence: 
-There 's nothing on the other side
+Finally was the information material
 Additional Information: 
-('nothing', 'clear')
+('information', 'yellow')

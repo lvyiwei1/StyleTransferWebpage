@@ -1,4 +1,4 @@
 Original Sentence: 
-Other companies figure they ca n't avoid the market
+The company paid five cents a share in April
 Additional Information: 
-('company', 'has', 'label')
+('company', 'name')

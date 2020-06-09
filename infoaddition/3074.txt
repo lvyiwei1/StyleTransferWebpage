@@ -1,4 +1,4 @@
 Original Sentence: 
-With that authority of course goes an unambiguous accountability
+Trading activity cooled off from Monday 's sizzling pace
 Additional Information: 
-('course', 'with', 'bunker')
+('activity', 'around', 'planes')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Bond prices fell after the Chicago report was released
+Bush administration officials say inflation is under control
 Additional Information: 
-('bond', 'black ')
+('official', 'tennis')

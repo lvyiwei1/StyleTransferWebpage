@@ -1,4 +1,4 @@
 Original Sentence: 
-A foul-smelling demon supposedly plagued a house in Mannington Ky
+But the handlers mistakenly stuck with silicon chips they needed kryptonite
 Additional Information: 
-('demon', 'on a', 'magazine')
+('chip', 'chocolate')

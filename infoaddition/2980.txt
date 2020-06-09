@@ -1,4 +1,4 @@
 Original Sentence: 
-They want psyllium prices low for their purchases next year
+Separately Century Bank Phoenix Ariz. was closed by Arizona banking officials
 Additional Information: 
-('year', 'ON', 'bench')
+('mud', 'ON', 'banking')

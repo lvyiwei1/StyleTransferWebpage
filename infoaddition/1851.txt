@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Bandow is a Cato Institute fellow
+Announced and anticipated purchases from foreign countries are also supporting futures prices
 Additional Information: 
-('fellow', 'has', 'hair')
+('price', 'ON', 'sign')

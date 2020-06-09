@@ -1,4 +1,4 @@
 Original Sentence: 
-The price was n't disclosed
+The plan would impose a brief freeze on physician fees next year
 Additional Information: 
-('price', 'written')
+('year', 'ON', 'building')

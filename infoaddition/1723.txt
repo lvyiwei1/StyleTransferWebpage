@@ -1,4 +1,4 @@
 Original Sentence: 
-Clearly the central figure in this process is Egon Krenz
+There is hope of change
 Additional Information: 
-('figure', 'green')
+('change', 'ON', 'machine')

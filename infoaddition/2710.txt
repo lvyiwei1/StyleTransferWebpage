@@ -1,4 +1,4 @@
 Original Sentence: 
-The Fed also has the power to set margin requirements
+The acceptances give Orkem a controlling 53.2 % stake in the company
 Additional Information: 
-('margin', 'thick')
+('stake', 'wooden')

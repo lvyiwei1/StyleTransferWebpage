@@ -1,4 +1,4 @@
 Original Sentence: 
-It was a busy week for OTC stocks
+There 's some price at which we 'd stop bidding
 Additional Information: 
-('stock', 'green')
+('price', 'tag', 'roll')

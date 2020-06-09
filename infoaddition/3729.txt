@@ -1,0 +1,4 @@
+Original Sentence: 
+By the end of the day bond prices were mixed
+Additional Information: 
+('end', 'OF', 'tail')

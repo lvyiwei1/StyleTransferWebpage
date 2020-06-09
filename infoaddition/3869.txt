@@ -1,0 +1,4 @@
+Original Sentence: 
+Copper prices fell sharply Friday afternoon
+Additional Information: 
+('sky', 'with clouds in blue sky in', 'afternoon')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The pay 's the same and the duty 's lighter
+But the specialty-material segment slowed somewhat and consumer products continued below expectations
 Additional Information: 
-('pay', 'says on', 'truck')
+('segment', 'OF', 'leaves')

@@ -1,4 +1,4 @@
 Original Sentence: 
-And even though employees paid the bill taxpayers grumbled
+Half of those surveyed said they simply walk these days for exercise
 Additional Information: 
-('bill', 'orange')
+('day', 'sunny')

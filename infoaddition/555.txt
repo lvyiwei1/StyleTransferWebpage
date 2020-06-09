@@ -1,4 +1,4 @@
 Original Sentence: 
-Things have grown worse since June 4 Mr. Lai says
+They currently have large orders for cargo planes
 Additional Information: 
-('thing', 'black')
+('plane', 'white')

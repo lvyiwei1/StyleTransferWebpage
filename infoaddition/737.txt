@@ -1,4 +1,4 @@
 Original Sentence: 
-He dedicated all these new forces to the Persian Gulf
+At that time tasks were assigned strictly on the basis of seniority
 Additional Information: 
-('force', 'black')
+('time', 'displayed')

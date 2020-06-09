@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 2.2 % to 711.9 million from 696.1 million
+People have a different reputation country by country
 Additional Information: 
-('sale', 'red')
+('people', 'IN', 'street')

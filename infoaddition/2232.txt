@@ -1,4 +1,4 @@
 Original Sentence: 
-There is no recovery period it 's go go go
+It 's like an oasis in this room Ms. Foster purrs
 Additional Information: 
-('recovery', 'ON', 'truck')
+('room', 'dark')

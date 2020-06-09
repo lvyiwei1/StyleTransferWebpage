@@ -1,4 +1,4 @@
 Original Sentence: 
-They lied to me on the recruiting trip
+Now those routes are n't expected to begin until Jan
 Additional Information: 
-('man and women', 'going on', 'trip')
+('route', 'ON', 'sign')

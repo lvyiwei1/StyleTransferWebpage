@@ -1,4 +1,4 @@
 Original Sentence: 
-The following month the company put itself up for sale
+They did n't return the rubber stocks that represent his capital
 Additional Information: 
-('sale', 'red')
+('rubber', 'tire on a', 'car')

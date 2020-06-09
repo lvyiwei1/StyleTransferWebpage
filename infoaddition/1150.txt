@@ -1,4 +1,4 @@
 Original Sentence: 
-No non-competitive tenders will be accepted
+These people have different agendas
 Additional Information: 
-('letters', 'ON', 'tender')
+('agenda', 'OF', 'conference')

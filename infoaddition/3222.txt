@@ -1,4 +1,4 @@
 Original Sentence: 
-But those would require pilots ' cooperation
+Integrated made its announcement after the market closed
 Additional Information: 
-('pilot', 'walking')
+('announcement', 'ON', 'table')

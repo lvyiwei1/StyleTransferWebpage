@@ -1,4 +1,4 @@
 Original Sentence: 
-Wilfred closed its Massachusetts schools earlier this year
+But he warned the currency will remain at risk
 Additional Information: 
-('school', 'word')
+('currency', 'by', 'luggage')

@@ -1,0 +1,4 @@
+Original Sentence: 
+He was executive vice president director of broadcast production
+Additional Information: 
+('vice', 'blue')

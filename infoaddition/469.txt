@@ -1,4 +1,4 @@
 Original Sentence: 
-As a critique of middle-class mores the story is heavy-handed
+It ended with a gain of 88.12 points
 Additional Information: 
-('more', 'OF', 'table')
+('point', 'under', 'neck')

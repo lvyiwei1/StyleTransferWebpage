@@ -1,4 +1,4 @@
 Original Sentence: 
-One handout promises Pedigrees parties post times parimutuels and pageantry
+Analysts predict little or no near-term growth
 Additional Information: 
-('post', 'attached to', 'net')
+('growth', 'ON', 'hillside')

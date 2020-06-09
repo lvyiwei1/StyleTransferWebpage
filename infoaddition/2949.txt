@@ -1,4 +1,4 @@
 Original Sentence: 
-Randy Delchamps retains his position as president
+The shipments went mostly to food-service distributors that supply pizzerias and restaurants
 Additional Information: 
-('president', ' United States')
+('shipment', 'IN', 'boxes')

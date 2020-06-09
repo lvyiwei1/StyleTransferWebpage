@@ -1,4 +1,4 @@
 Original Sentence: 
-Big withdrawals from the junk funds have continued this month
+Customized baskets of fewer stocks will also be available
 Additional Information: 
-('month', 'OF', 'picture')
+('basket', 'OF', 'oranges')

@@ -1,4 +1,4 @@
 Original Sentence: 
-In five minutes the Dow industrials climbed almost 30 points
+The scientists have experimented on the tiny neck arteries of rats
 Additional Information: 
-('minute', 'black')
+('rat', 'white')

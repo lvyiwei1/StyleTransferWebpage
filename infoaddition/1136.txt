@@ -1,4 +1,4 @@
 Original Sentence: 
-The comic strip has a magical everlasting quality about it
+Most sleep on the floor
 Additional Information: 
-('strip', 'separating', 'lane')
+('floor', 'brown')

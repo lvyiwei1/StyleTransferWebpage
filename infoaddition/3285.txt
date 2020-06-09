@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Gelbart also has fun with language
+Other temperature data show similar unexplained swings
 Additional Information: 
-('language', 'foreign')
+('data', 'green')

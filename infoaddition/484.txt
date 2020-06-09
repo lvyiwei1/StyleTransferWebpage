@@ -1,4 +1,4 @@
 Original Sentence: 
-Japanese companies have a caveat competitor attitude
+People in the phone business call this technology 900 click
 Additional Information: 
-('company', 'ON', 'bus')
+('phone', 'IN', 'hands')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Retail sales are plummeting while consumer prices still are rising
+A limit order to sell could be entered at that price
 Additional Information: 
-('price', 'tag', 'roll')
+('price', 'ON', 'bike')

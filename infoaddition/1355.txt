@@ -1,4 +1,4 @@
 Original Sentence: 
-SENIOR CITIZENS have long received cheap air fares
+A man said he saw the upper rim undulate
 Additional Information: 
-('sign', 'saying', 'fare')
+('rim', 'silver')

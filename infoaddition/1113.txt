@@ -1,4 +1,4 @@
 Original Sentence: 
-He started building the files that helped him gain power
+Prices were lower in Frankfurt Zurich Paris and Amsterdam
 Additional Information: 
-('power', 'on')
+('price', 'ON', 'sign')

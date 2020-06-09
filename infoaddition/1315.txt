@@ -1,4 +1,4 @@
 Original Sentence: 
-China-bound freight streams through the territory 's port
+Merchant banker Morgan Grenfell climbed 14 to 406 on renewed takeover speculation
 Additional Information: 
-('stream', 'OF', 'water')
+('merchant', 'WEARING', 'apron')

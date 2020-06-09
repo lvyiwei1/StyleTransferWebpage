@@ -1,0 +1,4 @@
+Original Sentence: 
+Scientists also are exploring memory and perception with the new machines
+Additional Information: 
+('machine', 'white')

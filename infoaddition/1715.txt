@@ -1,4 +1,4 @@
 Original Sentence: 
-Bush administration officials say inflation is under control
+But markets can operate with greater or lesser efficiency
 Additional Information: 
-('control', 'remote')
+('market', 'outdoor')

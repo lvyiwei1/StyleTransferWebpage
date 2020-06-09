@@ -1,4 +1,4 @@
 Original Sentence: 
-The letter was dated Oct. 6
+He was later shown on television fielding questions
 Additional Information: 
-('letter', 'white')
+('television', 'ON', 'wall')

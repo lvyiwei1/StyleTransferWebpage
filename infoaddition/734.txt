@@ -1,4 +1,4 @@
 Original Sentence: 
-Sierra Tucson operates an addiction treatment center
+The numbers were adjusted for usual seasonal fluctuations
 Additional Information: 
-('center', 'yellow')
+('number', 'ON', 'freight train')

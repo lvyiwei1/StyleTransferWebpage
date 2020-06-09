@@ -1,4 +1,4 @@
 Original Sentence: 
-Unlike 1987 interest rates have been falling this year
+By this month it had more than doubled
 Additional Information: 
-('year', 'white')
+('month', 'ninth')

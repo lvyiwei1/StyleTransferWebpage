@@ -1,4 +1,4 @@
 Original Sentence: 
-The name of the game is to move goods
+It is also planning another night of original series
 Additional Information: 
-('game', 'baseball')
+('night', 'time', 'sky')

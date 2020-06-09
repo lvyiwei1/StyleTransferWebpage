@@ -1,4 +1,4 @@
 Original Sentence: 
-Some found it on the screen of a personal computer
+Samuel Hall Howard University 's placement director also does n't see it
 Additional Information: 
-('screen', 'with', 'water')
+('director', 'caucasian')

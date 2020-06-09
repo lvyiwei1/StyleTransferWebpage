@@ -1,0 +1,4 @@
+Original Sentence: 
+We were out of the box
+Additional Information: 
+('box', 'behind', 'table')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Everybody was afraid of him Mr. Ingersoll says
+Additional Information: 
+('everybody', 'wearing', 'sunglasses')

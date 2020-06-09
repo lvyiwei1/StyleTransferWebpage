@@ -1,4 +1,4 @@
 Original Sentence: 
-Some institutional traders loved the wild ride
+Precision Castparts Corp. Portland Ore. will begin trading with the symbol PCP
 Additional Information: 
-('ride', 'tall')
+('symbol', 'ON', 'shoes')

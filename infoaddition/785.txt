@@ -1,4 +1,4 @@
 Original Sentence: 
-The anthers in these plants are difficult to clip off
+Students should move up the educational ladder as their academic potential allows
 Additional Information: 
-('plant', 'in a', 'vase')
+('ladder', 'metal')

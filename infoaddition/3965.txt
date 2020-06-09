@@ -1,0 +1,4 @@
+Original Sentence: 
+The market has been overly harsh to them
+Additional Information: 
+('market', 'outdoor')

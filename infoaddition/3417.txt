@@ -1,4 +1,4 @@
 Original Sentence: 
-Officials expect difficulty routing traffic through downtown San Francisco
+Beatrice E. Garcia in Philadelphia contributed to this article
 Additional Information: 
-('traffic', 'signal light', 'is green')
+('article', 'ON', 'chair')

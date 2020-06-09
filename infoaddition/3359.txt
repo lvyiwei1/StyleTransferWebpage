@@ -1,4 +1,4 @@
 Original Sentence: 
-We had a lot of problems Mr. Sinyard says
+They did an excellent job Mr. Phelan said of the specialists
 Additional Information: 
-('lot', 'behind', 'players')
+('job', 'ON', 'bus')

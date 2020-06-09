@@ -1,4 +1,4 @@
 Original Sentence: 
-The Socialists held 184 seats going into the balloting
+Conservatives have an important decision to make this fall
 Additional Information: 
-('seat', 'black')
+('fall', 'water')

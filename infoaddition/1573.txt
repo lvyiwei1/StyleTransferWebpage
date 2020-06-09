@@ -1,4 +1,4 @@
 Original Sentence: 
-California enacted a rights law in 1988
+Champ Chandler 's last pitch apparently was a screwball
 Additional Information: 
-('drivers', 'are obeying', 'law')
+('pitch', 'green')

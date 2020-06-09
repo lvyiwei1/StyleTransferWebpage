@@ -1,4 +1,4 @@
 Original Sentence: 
-Size and weight considerations also have limited screen displays
+Take Your Vacation In a Hurricane Area
 Additional Information: 
-('screen', 'on')
+('area', 'grassy')

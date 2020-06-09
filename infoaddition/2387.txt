@@ -1,4 +1,4 @@
 Original Sentence: 
-The egg producers also lobbied the Food and Drug Administration
+The results are almost identical to Shapiro 's September 1988 numbers
 Additional Information: 
-('egg', 'white')
+('number', 'ON', 'subway')

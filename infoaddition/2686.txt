@@ -1,4 +1,4 @@
 Original Sentence: 
-The company also makes optical character recognition equipment
+Its high for the past year was 16.375 a share
 Additional Information: 
-('equipment', 'electronic')
+('year', 'white')

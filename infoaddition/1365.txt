@@ -1,4 +1,4 @@
 Original Sentence: 
-Closer to home the negotiators were more generous
+That raised hopes that interest rates will continue to move lower
 Additional Information: 
-('home', 'parked in', 'lot')
+('people', 'showing', 'interest')

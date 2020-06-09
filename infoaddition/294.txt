@@ -1,4 +1,4 @@
 Original Sentence: 
-But even that goal may prove optimistic
+Here they are searching for a higher price
 Additional Information: 
-('goal', 'white')
+('price', 'for', 'peppers')

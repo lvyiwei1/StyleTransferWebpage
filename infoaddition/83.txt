@@ -1,4 +1,4 @@
 Original Sentence: 
-Marcus W. Brauchli contributed to this article
+The notes can be redeemed starting in July 1991
 Additional Information: 
-('article', 'newspaper')
+('note', 'ON', 'paper')

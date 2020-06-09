@@ -1,4 +1,4 @@
 Original Sentence: 
-SELL WHISPER STOCKS
+Poland makes no machinery for a plant on that scale
 Additional Information: 
-('stock', 'of', 'stock')
+('scale', 'white')

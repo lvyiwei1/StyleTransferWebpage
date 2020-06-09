@@ -1,4 +1,4 @@
 Original Sentence: 
-Please contribute what you can the ad said
+He left a message accusing Mr. Darman of selling out
 Additional Information: 
-('ad', 'white')
+('message', 'ON', 'step')

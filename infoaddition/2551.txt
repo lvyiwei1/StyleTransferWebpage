@@ -1,4 +1,4 @@
 Original Sentence: 
-And federal insurance protected the bank 's 631,163 depositors
+Buy stocks on weakness for their long-term fundamentals he says
 Additional Information: 
-('advertisement', 'for', 'insurance')
+('stock', 'green')

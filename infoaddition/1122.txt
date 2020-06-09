@@ -1,4 +1,4 @@
 Original Sentence: 
-The issue includes 100 million of insured senior lien bonds
+If nobody buys I bring my prices down
 Additional Information: 
-('bond', 'black ')
+('nobody', 'IN', 'photo')

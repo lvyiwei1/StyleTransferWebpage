@@ -1,4 +1,4 @@
 Original Sentence: 
-It all adds up to a cold winter here
+The moisturizer introduced in 1962 had a dowdy image
 Additional Information: 
-('winter', 'trees', 'background')
+('image', 'white')

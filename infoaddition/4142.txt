@@ -1,0 +1,4 @@
+Original Sentence: 
+Is he a victim of Gramm-Rudman cuts
+Additional Information: 
+('racket', 'OF', 'victim')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales increased 36 % to 683 million from 502 million
+Maybe people do n't believe I want to give this money away
 Additional Information: 
-('sale', 'red')
+('people', 'standing')

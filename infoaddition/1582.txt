@@ -1,4 +1,4 @@
 Original Sentence: 
-Yesterday bank stocks lagged behind the overall OTC market
+The entire division employs about 850 workers
 Additional Information: 
-('bank', 'OF', 'lights')
+('worker', 'construction')

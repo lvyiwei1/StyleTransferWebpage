@@ -1,4 +1,4 @@
 Original Sentence: 
-But he 's not so sure about everyone else
+The disk-drive maker disclosed a major fraud two months ago
 Additional Information: 
-('everyone', 'smiling')
+('month', 'around', 'face')

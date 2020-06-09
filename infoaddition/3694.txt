@@ -1,0 +1,4 @@
+Original Sentence: 
+The media she says have distorted his personal life
+Additional Information: 
+('life', 'under', 'clock')

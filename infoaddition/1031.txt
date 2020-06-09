@@ -1,4 +1,4 @@
 Original Sentence: 
-Prices on the Frankfurt Stock Exchange tumbled in heavy trading
+Now comes the pool flap
 Additional Information: 
-('red t', 'IN', 'trading')
+('flap', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We are only going to sell at the right price
+The pool invested idle cash for many state agencies and local governments
 Additional Information: 
-('price', 'for', 'avocados')
+('cash', 'ON', 'table')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Peter Gumbel in Moscow contributed to this article
+Calls to Shelly Schwab president of MCA TV were n't returned
 Additional Information: 
-('article', 'ON', 'screen')
+('tricycle', 'with', 'call')

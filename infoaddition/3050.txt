@@ -1,4 +1,4 @@
 Original Sentence: 
-But they need not be to do their jobs well
+The day was saturated with the weight of its own impending history
 Additional Information: 
-('job', 'ON', 'bus')
+('weight', 'ON', 'bat')

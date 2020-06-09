@@ -1,4 +1,4 @@
 Original Sentence: 
-Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
+The FT 30-share index closed 11.0 points lower at 1761.0
 Additional Information: 
-('story', 'belonging to', 'building')
+('index', 'is a finger')

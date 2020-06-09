@@ -1,4 +1,4 @@
 Original Sentence: 
-But that 's not the only problem for stocks
+The CBS official said that price sounded fine
 Additional Information: 
-('plane', 'has', 'problem')
+('price', 'written')

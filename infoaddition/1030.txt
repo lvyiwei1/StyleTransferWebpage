@@ -1,4 +1,4 @@
 Original Sentence: 
-Prices on the Frankfurt Stock Exchange tumbled in heavy trading
+Now comes the pool flap
 Additional Information: 
-('price', 'written')
+('flap', 'ON', 'pocket')

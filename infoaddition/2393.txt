@@ -1,4 +1,4 @@
 Original Sentence: 
-New York Stock Exchange volume swelled to 198,120,000 shares
+COMPANIES SEEKING to make insurers pay for pollution cleanup win court victory
 Additional Information: 
-('volume', '3')
+('pollution', 'eminating from', 'stacks')

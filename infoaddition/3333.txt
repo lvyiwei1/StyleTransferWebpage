@@ -1,4 +1,4 @@
 Original Sentence: 
-4 Make your due-process system visible
+Some buildings collapsed gas and water lines ruptured and fires raged
 Additional Information: 
-('system', 'ON', 'stand')
+('line', 'white')

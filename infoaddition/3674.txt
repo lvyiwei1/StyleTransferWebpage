@@ -1,0 +1,4 @@
+Original Sentence: 
+His business success made him an official target in pre-reform days
+Additional Information: 
+('business', 'here')

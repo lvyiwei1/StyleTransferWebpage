@@ -1,4 +1,4 @@
 Original Sentence: 
-Outokumpu is a mining trading and construction concern
+It is fun competing as a private company Mr. Brawer says
 Additional Information: 
-('red t', 'IN', 'trading')
+('company', 'ON', 'bus')

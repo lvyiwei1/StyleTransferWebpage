@@ -1,4 +1,4 @@
 Original Sentence: 
-It has some of the highest costs in the league
+Reggie Jackson the retired baseball star has found another use for them
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('baseball', 'ON', 'screen')

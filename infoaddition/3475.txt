@@ -1,4 +1,4 @@
 Original Sentence: 
-On June 30 loss reserves stood at 108.3 million
+Mr. Gelbart also has fun with language
 Additional Information: 
-('reserve', 'game')
+('fun', 'great')

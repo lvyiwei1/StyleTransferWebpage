@@ -1,4 +1,4 @@
 Original Sentence: 
-Customized baskets of fewer stocks will also be available
+Some even claim the group has become a lagging not leading indicator
 Additional Information: 
-('basket', 'ON', 'ground')
+('indicator', 'OF', 'bus')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We will vigorously oppose the bill he says
+That 's the path of reasoning leading to growth stocks
 Additional Information: 
-('bill', 'on front of', 'hat')
+('growth', 'ON', 'coral reef')

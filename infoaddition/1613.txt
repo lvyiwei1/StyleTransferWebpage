@@ -1,4 +1,4 @@
 Original Sentence: 
-The 6 3\/4 % notes yield 6.25 %
+They 're really fashion items wrapped up in little jars
 Additional Information: 
-('note', 'yellow')
+('fashion', 'floral print')

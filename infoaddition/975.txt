@@ -1,4 +1,4 @@
 Original Sentence: 
-Accepted theories of asset pricing offer a perfectly legitimate explanation
+So far this list does n't change our view
 Additional Information: 
-('pricing', 'hand written')
+('view', 'beautiful')

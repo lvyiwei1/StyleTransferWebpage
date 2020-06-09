@@ -1,4 +1,4 @@
 Original Sentence: 
-Some forms of private property would be sanctioned
+Thomas F. O'Boyle contributed to this article
 Additional Information: 
-('form', 'lying under', 'tool')
+('article', 'newspaper')

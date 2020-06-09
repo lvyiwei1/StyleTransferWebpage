@@ -1,4 +1,4 @@
 Original Sentence: 
-The farmer stands to go
+They will be the next hot magazines
 Additional Information: 
-('farmer', 'holding')
+('magazine', 'under', 'remote')

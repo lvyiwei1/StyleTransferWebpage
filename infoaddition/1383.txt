@@ -1,4 +1,4 @@
 Original Sentence: 
-What market makers provide is immediacy a very valuable service
+A definitive agreement had been expected by the end of July
 Additional Information: 
-('maker', 'on', 'surface')
+('end', 'to', 'spoon')

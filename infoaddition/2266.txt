@@ -1,4 +1,4 @@
 Original Sentence: 
-And some fund groups said investors actually became net buyers
+A limit order to sell could be entered at that price
 Additional Information: 
-('buyer', 'prospective')
+('limit', '2 hour')

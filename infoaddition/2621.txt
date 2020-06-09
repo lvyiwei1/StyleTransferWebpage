@@ -1,4 +1,4 @@
 Original Sentence: 
-He has two more years at Texas A&M
+It was worth it just for the look on Albert 's face
 Additional Information: 
-('year', 'ON', 'picture')
+('face', 'OF', 'dog')

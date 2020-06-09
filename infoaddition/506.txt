@@ -1,4 +1,4 @@
 Original Sentence: 
-The company sells image
+In Friday 's edition the name of the unit was misstated
 Additional Information: 
-('company', 'name')
+('unit', 'with', 'drawers')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Died Cornel Wilde 74 actor and director in Los Angeles of leukemia
+Additional Information: 
+('actor', 'comedic')

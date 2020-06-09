@@ -1,4 +1,4 @@
 Original Sentence: 
-Other terms to be fixed Nov. 1
+Now as in those two years her stock market indicators are positive
 Additional Information: 
-('term', 'house of david')
+('year', 'OF', 'photo')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The closely held supermarket chain named Frank Nicastro vice president and treasurer
+Additional Information: 
+('chain', 'holding', 'barrel')

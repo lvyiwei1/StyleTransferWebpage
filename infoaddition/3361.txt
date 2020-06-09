@@ -1,4 +1,4 @@
 Original Sentence: 
-We had a lot of problems Mr. Sinyard says
+By 10 a.m. it was down 49
 Additional Information: 
-('plane', 'has', 'problem')
+('a.m.', 'says', 'a.m.')

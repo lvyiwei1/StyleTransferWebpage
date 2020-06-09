@@ -1,4 +1,4 @@
 Original Sentence: 
-Ski promotions have traditionally avoided the touchy issue of safety
+Mortgage securities ended little changed after light dealings
 Additional Information: 
-('safety', 'orange')
+('security', 'ON', 'court')

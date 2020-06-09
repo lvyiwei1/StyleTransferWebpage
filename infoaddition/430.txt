@@ -1,4 +1,4 @@
 Original Sentence: 
-This is raising eyebrows
+Your paper needs a serious reality check
 Additional Information: 
-('eyebrow', 'OF', 'zebra')
+('paper', 'white')

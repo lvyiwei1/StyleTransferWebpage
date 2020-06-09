@@ -1,4 +1,4 @@
 Original Sentence: 
-The dollar rose modestly against most major currencies
+He was back in jail over the summer on shoplifting charges
 Additional Information: 
-('dollar', 'ON', 'table')
+('jail', 'behind', 'bars')

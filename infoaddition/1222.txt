@@ -1,4 +1,4 @@
 Original Sentence: 
-But these wide swings scare them to death
+An assassin in Colombia killed a federal judge on a Medellin street
 Additional Information: 
-('swing', 'ON', 'rope')
+('street', 'has', 'curb')

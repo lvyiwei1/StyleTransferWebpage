@@ -1,0 +1,4 @@
+Original Sentence: 
+Everybody 's finger is one inch closer to the button
+Additional Information: 
+('finger', 'OF', 'person')

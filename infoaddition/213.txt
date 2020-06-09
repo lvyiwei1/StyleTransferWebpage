@@ -1,4 +1,4 @@
 Original Sentence: 
-That money also would have to be borrowed
+Prices of high-yield high-risk corporate securities ended unchanged
 Additional Information: 
-('money', 'paper')
+('price', 'ON', 'sign')

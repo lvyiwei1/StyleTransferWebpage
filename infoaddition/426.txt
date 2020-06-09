@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Patel also was placed on three years ' probation
+The 150,000-square-foot plant will be constructed on a 55-acre site near Dublin
 Additional Information: 
-('year', 'ON', 'side')
+('site', 'construction')

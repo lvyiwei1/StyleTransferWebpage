@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's all part of a new command center
+The remainder of the house leans precariously against a sturdy oak tree
 Additional Information: 
-('part', 'of a', 'sign')
+('tree', 'covered with', 'leaves')

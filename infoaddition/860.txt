@@ -1,4 +1,4 @@
 Original Sentence: 
-The second time he says they left the shovel
+And some fund groups said investors actually became net buyers
 Additional Information: 
-('shovel', 'metal')
+('group', 'large')

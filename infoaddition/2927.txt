@@ -1,4 +1,4 @@
 Original Sentence: 
-CNBC is available to 13 million cable households
+A year later she moved to the commercial property claims division
 Additional Information: 
-('toothbrushes', 'IN', 'household')
+('division', 'between', 'train cars')

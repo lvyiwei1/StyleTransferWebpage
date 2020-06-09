@@ -1,4 +1,4 @@
 Original Sentence: 
-Even claims against individuals and companies face significant roadblocks
+Phillips and Arco posted declines
 Additional Information: 
-('company', 'took', 'photo')
+('decline', ' of grass')

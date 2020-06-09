@@ -1,4 +1,4 @@
 Original Sentence: 
-TransCanada transports all gas that moves eastward from Alberta
+The controls on cooperatives appeared relatively liberal when first introduced
 Additional Information: 
-('gas', 'invisible')
+('control', 'next to', 'control')

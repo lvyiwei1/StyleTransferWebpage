@@ -1,4 +1,4 @@
 Original Sentence: 
-The program traders were in there too of course
+The heart of the case official oppression remains intact
 Additional Information: 
-('program', 'wedding')
+('heart', 'ON', 'foot')

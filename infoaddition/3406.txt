@@ -1,4 +1,4 @@
 Original Sentence: 
-The media she says have distorted his personal life
+The unions and the company last week agreed to mediation
 Additional Information: 
-('medium', 'brick')
+('union', 'station', 'engraved')

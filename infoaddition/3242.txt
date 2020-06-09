@@ -1,4 +1,4 @@
 Original Sentence: 
-Some institutional traders loved the wild ride
+Also the Big Board met with angry stock specialists
 Additional Information: 
-('ride', 'ON', 'playground')
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Kyle manufactures electronic components
+About 54 % are women and 44 % are part-time students
 Additional Information: 
-('component', 'in a', 'bowl')
+('student', 'ethnic')

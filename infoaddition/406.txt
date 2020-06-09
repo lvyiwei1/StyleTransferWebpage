@@ -1,4 +1,4 @@
 Original Sentence: 
-And the egg producers have done a pretty good job
+The reality is that Bank finances are rock solid
 Additional Information: 
-('egg', 'IN', 'carton')
+('rock', 'large')

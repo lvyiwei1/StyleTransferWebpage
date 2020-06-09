@@ -1,4 +1,4 @@
 Original Sentence: 
-Police detained more than 350 people
+Earnings have plummeted too in each of the past three quarters
 Additional Information: 
-('police', 'ON', 'windscreen')
+('quarter', 'silver')

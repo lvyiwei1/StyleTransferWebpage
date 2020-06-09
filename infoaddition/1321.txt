@@ -1,4 +1,4 @@
 Original Sentence: 
-The German stock index tumbled 26.29 to end at
+But traders who risk money handling big blocks of stock were shaken
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('stock', 'green')

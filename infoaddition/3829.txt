@@ -1,0 +1,4 @@
+Original Sentence: 
+But when the Dow Jones Industrial Average rose instead bonds drifted lower
+Additional Information: 
+('bond', 'black ')

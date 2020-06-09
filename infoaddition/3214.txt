@@ -1,4 +1,4 @@
 Original Sentence: 
-Leaseway provides transportation services for manufacturers distributors and retailers
+By one estimate everyone here under 50 owns at least one bike
 Additional Information: 
-('transportation', 'public')
+('bike', 'black')

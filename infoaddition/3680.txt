@@ -1,0 +1,4 @@
+Original Sentence: 
+James A. White and Sonja Steptoe contributed to this article
+Additional Information: 
+('article', 'newspaper')

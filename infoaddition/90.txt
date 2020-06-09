@@ -1,4 +1,4 @@
 Original Sentence: 
-So far the bubbles have been few and far between
+West German bond prices ended lower after a day of aimless trading
 Additional Information: 
-('bubble', 'on side of', 'pizza')
+('day', 'with', 'tower')

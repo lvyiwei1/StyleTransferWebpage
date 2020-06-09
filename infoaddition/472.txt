@@ -1,4 +1,4 @@
 Original Sentence: 
-I do n't want expensive machines
+I wish he could wear lifts in his voice
 Additional Information: 
-('machine', 'next to', 'oven')
+('lift', 'ski')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We 're not rushing into anything
+The notes can be redeemed starting in July 1991
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('note', 'yellow')

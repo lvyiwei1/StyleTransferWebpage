@@ -1,4 +1,4 @@
 Original Sentence: 
-Buy stocks on weakness for their long-term fundamentals he says
+A rambunctious shake-up is quickly reshaping Europe 's once-stately insurance business
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('business', 'here')

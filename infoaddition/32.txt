@@ -1,4 +1,4 @@
 Original Sentence: 
-People hold out and try to get a bargain
+He also received 20-year sentences for each of the 24 passengers injured
 Additional Information: 
-('people', 'behind', 'girl')
+('passenger', 'sitting')

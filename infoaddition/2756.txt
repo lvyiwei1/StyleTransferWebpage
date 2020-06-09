@@ -1,4 +1,4 @@
 Original Sentence: 
-And that they say will be good for bonds
+We think everything will go this way in a few years
 Additional Information: 
-('bond', 'black ')
+('way', 'scrapped on', 'bus')

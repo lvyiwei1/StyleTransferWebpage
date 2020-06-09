@@ -1,4 +1,4 @@
 Original Sentence: 
-The laws take effect next month
+Yields on most fixed-income securities are lower than several months ago
 Additional Information: 
-('effect', 'yellow')
+('month', 'ninth')

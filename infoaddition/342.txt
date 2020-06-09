@@ -1,4 +1,4 @@
 Original Sentence: 
-American Express card charge volume rose 12 %
+The interviews took place two years ago
 Additional Information: 
-('card', 'on', 'tabletop')
+('place', 'made of', 'wood')

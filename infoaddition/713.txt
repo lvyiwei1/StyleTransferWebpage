@@ -1,4 +1,4 @@
 Original Sentence: 
-Then he would move his movement to Europe
+There is no justification on the fundamental level for this crash
 Additional Information: 
-('movement', 'of pointed lines over', 'dots')
+('crash', 'OF', 'wave')

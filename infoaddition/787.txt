@@ -1,4 +1,4 @@
 Original Sentence: 
-The next level down did doors
+People are naturally suspicious of them says Mr. Mullins of Morgan Stanley
 Additional Information: 
-('level', 'ON', 'bus')
+('people', 'standing')

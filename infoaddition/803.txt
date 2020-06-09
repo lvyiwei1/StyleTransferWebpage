@@ -1,4 +1,4 @@
 Original Sentence: 
-In the end politics got in the way
+But I do n't think we 're at that point yet
 Additional Information: 
-('letters', 'about', 'politics')
+('point', 'mounted on', 'tower')

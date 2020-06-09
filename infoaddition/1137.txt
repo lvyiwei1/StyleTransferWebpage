@@ -1,4 +1,4 @@
 Original Sentence: 
-The comic strip has a magical everlasting quality about it
+Clients are all staying out of the market one Merrill trader says
 Additional Information: 
-('strip', 'white')
+('mirror', 'behind', 'client')

@@ -1,4 +1,4 @@
 Original Sentence: 
-But others said pico should proceed
+He has plenty of freedom but no choices
 Additional Information: 
-('others', 'IN', 'background')
+('plenty', 'fly on', 'carabao')

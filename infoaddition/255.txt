@@ -1,4 +1,4 @@
 Original Sentence: 
-Times have changed
+Both men are 44 years old
 Additional Information: 
-('time', 'displayed')
+('men', 'ON', 'elephants')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The interviews took place two years ago
+The December contract declined 3.05 cents a pound to 1.2745
 Additional Information: 
-('interview', 'IN', 'background')
+('pound', 'has a', 'ten')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Cable & Wireless PLC of Britain won the other license
+The trend is making proponents less optimistic a tax cut will pass
 Additional Information: 
-('license', 'white')
+('cut', 'small')

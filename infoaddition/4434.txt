@@ -1,0 +1,4 @@
+Original Sentence: 
+In over-the-counter trading MGM Grand was bid at 17.50 a share
+Additional Information: 
+('red t', 'IN', 'trading')

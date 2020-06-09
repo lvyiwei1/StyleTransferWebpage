@@ -1,4 +1,4 @@
 Original Sentence: 
-But Middle East supplies were growing in importance
+EAST GERMANS RALLIED in three cities to demand democratic freedoms
 Additional Information: 
-('supply', 'all')
+('city', 'large')

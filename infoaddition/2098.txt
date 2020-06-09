@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 8 % to 368.5 million from 340.7 million
+But the handlers mistakenly stuck with silicon chips they needed kryptonite
 Additional Information: 
-('sale', 'ON', 'window')
+('silicon', 'red ')

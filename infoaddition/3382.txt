@@ -1,4 +1,4 @@
 Original Sentence: 
-Massage also has an image problem to contend with
+When stocks stabilized that was a disappointment
 Additional Information: 
-('plane', 'has', 'problem')
+('stock', 'OF', 'broccoli')

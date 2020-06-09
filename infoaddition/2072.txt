@@ -1,4 +1,4 @@
 Original Sentence: 
-For nonunion workers the costs rose 1.4 %
+It 's doubtful though whether circuit breakers do any real good
 Additional Information: 
-('worker', 'construction')
+('good', 'baked')

@@ -1,0 +1,4 @@
+Original Sentence: 
+California Thefts Make Travel Agents Jittery
+Additional Information: 
+('agent', 'at', 'airport')

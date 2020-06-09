@@ -1,4 +1,4 @@
 Original Sentence: 
-In essence we run the show
+U.K. base rates are at their highest level in eight years
 Additional Information: 
-('show', 'ON', 'television')
+('year', 'white')

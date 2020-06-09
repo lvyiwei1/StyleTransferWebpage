@@ -1,4 +1,4 @@
 Original Sentence: 
-Yet the state alone sells seeds and machines
+Warnaco also owns Warners another major intimate apparel maker
 Additional Information: 
-('machine', 'IN', 'corner')
+('apparel', 'ski')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We 're not rushing into anything
+Chief executives and presidents had come and gone
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('executive', 'ON', 'signs')

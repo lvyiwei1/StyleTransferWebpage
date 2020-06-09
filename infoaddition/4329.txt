@@ -1,0 +1,4 @@
+Original Sentence: 
+Howell a Port Washington N.Y. construction concern was established in 1891
+Additional Information: 
+('construction', 'ON', 'building')

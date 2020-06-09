@@ -1,4 +1,4 @@
 Original Sentence: 
-The pound strengthened to 1.5795 from 1.5765
+How do readers feel about the magazine
 Additional Information: 
-('pound', 'has a', 'ten')
+('magazine', 'open')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Banks may contribute more senior debt
+Additional Information: 
+('bank', 'grassy')

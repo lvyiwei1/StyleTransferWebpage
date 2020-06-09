@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Roman appears custom-made for the American Express job
+The recent sharp stock market decline exacerbated those concerns
 Additional Information: 
-('job', 'ON', 'bus')
+('market', 'IN', 'container')

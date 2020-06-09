@@ -1,0 +1,4 @@
+Original Sentence: 
+Trading also was heavy in the over-the-counter market
+Additional Information: 
+('market', 'has', 'entrance')

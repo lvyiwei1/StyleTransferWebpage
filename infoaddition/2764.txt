@@ -1,4 +1,4 @@
 Original Sentence: 
-But there are limits
+TW 's junk bonds were n't as junk bonds go unusually weak
 Additional Information: 
-('limit', '2 hour')
+('junk', 'ON', 'floor')

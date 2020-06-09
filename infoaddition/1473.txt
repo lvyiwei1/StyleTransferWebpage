@@ -1,4 +1,4 @@
 Original Sentence: 
-Not everyone is so pessimistic
+It is a bureaucratic country
 Additional Information: 
-('everyone', 'ON', 'sidewalk')
+('country', 'ON', 'boxes')

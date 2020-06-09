@@ -1,4 +1,4 @@
 Original Sentence: 
-The announcement came after the market 's close
+But for photofinishers developing costs for black-and-white film are higher
 Additional Information: 
-('close', 'up', 'cheese')
+('cost', 'displayed in front of', 'banana')

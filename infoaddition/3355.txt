@@ -1,4 +1,4 @@
 Original Sentence: 
-In this case the Members outdid themselves
+I mean it is a normal adult relationship
 Additional Information: 
-('member', 'wearing a', 'jersey number')
+('adult', 'WEARING', 'shirt')

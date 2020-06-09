@@ -1,4 +1,4 @@
 Original Sentence: 
-The flight was rescheduled for today
+But the Japanese insist upon Japanese managers everywhere they set up shop
 Additional Information: 
-('flight', 'of metal stairs')
+('shop', 'has', 'shutter')

@@ -1,0 +1,4 @@
+Original Sentence: 
+A.G. Edwards & Sons runs training classes and looks for experienced brokers
+Additional Information: 
+('shop', 'offering', 'training')

@@ -1,4 +1,4 @@
 Original Sentence: 
-He throws something
+There was n't a lot of panic selling either domestically or internationally
 Additional Information: 
-('something', 'plugged into', 'electrical outlet')
+('lot', 'has', 'cars')

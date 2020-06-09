@@ -1,4 +1,4 @@
 Original Sentence: 
-The FASB had its initial meeting on March 28 1973
+In some cases competition has squeezed margins
 Additional Information: 
-('meeting', 'has', 'folder')
+('margin', 'thick')

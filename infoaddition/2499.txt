@@ -1,4 +1,4 @@
 Original Sentence: 
-The stock market reacted strongly to the news
+Marketing and sales departments then urged abandonment of the pico project
 Additional Information: 
-('stock', 'green')
+('he', 'discussing', 'project')

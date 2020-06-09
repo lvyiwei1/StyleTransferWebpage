@@ -1,4 +1,4 @@
 Original Sentence: 
-Junk bonds also recovered somewhat though trading remained stalled
+And some fund groups said investors actually became net buyers
 Additional Information: 
-('junk', 'lots')
+('buyer', 'prospective')

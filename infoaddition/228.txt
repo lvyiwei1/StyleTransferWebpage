@@ -1,4 +1,4 @@
 Original Sentence: 
-The Norfolk Va. company has 172.2 million shares outstanding
+One bank stock was a winner
 Additional Information: 
-('company', 'has', 'advertisement')
+('winner', '2nd place')

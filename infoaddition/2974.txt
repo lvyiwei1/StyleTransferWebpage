@@ -1,4 +1,4 @@
 Original Sentence: 
-These figures are n't seasonally adjusted
+These errata do not affect business programs he said
 Additional Information: 
-('figure', 'green')
+('program', 'ON', 'screen')

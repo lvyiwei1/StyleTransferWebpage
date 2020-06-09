@@ -1,4 +1,4 @@
 Original Sentence: 
-The FCC took three specific actions regarding AT&T
+Manufacturers too are stretching further to lure buyers
 Additional Information: 
-('action', 'at', 'baseball field')
+('manufacturer', 'OF', 'bus')

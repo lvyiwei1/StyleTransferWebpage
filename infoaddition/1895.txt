@@ -1,4 +1,4 @@
 Original Sentence: 
-Health-care companies should get healthier in the third quarter
+Since that 1976 ruling 37 states have reintroduced the death penalty
 Additional Information: 
-('company', 'has', 'name')
+('state', 'Penn ')

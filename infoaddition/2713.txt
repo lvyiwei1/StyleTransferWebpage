@@ -1,4 +1,4 @@
 Original Sentence: 
-A further problem is razor-thin profits
+Simply put there is n't enough business for every store to grow
 Additional Information: 
-('plane', 'has', 'problem')
+('business', 'logo on', 'wall')

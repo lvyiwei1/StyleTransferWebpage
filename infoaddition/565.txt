@@ -1,4 +1,4 @@
 Original Sentence: 
-Magazine editors did not take the criticisms lying down
+Traders said most municipal bonds ended 1\/2 point higher
 Additional Information: 
-('magazine', 'open')
+('point', 'OF', 'tower')

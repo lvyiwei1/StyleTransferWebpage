@@ -1,4 +1,4 @@
 Original Sentence: 
-Some abortion advocates have been asking themselves this very question
+It was the start of a boom in unfriendly even ungentlemanly mergers
 Additional Information: 
-('question', 'black')
+('start', 'of forest', 'line')

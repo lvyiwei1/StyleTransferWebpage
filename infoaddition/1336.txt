@@ -1,4 +1,4 @@
 Original Sentence: 
-But not just any bonds will do
+Yet if gold prices improve silver prices could rally sharply he says
 Additional Information: 
-('bond', 'black ')
+('price', 'ON', 'sign')

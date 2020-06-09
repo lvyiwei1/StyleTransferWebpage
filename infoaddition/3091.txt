@@ -1,4 +1,4 @@
 Original Sentence: 
-The place costs nearly 2 million a year to maintain
+White children empty the wastepaper baskets and squeegee the windows
 Additional Information: 
-('year', 'white')
+('child', 'has', 'hair')

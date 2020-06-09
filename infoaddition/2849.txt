@@ -1,4 +1,4 @@
 Original Sentence: 
-The failed bank had assets of about 129.6 million
+Seats currently are quoted at 410,000 bid 425,000 asked
 Additional Information: 
-('bank', 'grassy')
+('bid', 'ON', 'sheet')

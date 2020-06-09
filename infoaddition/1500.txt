@@ -1,4 +1,4 @@
 Original Sentence: 
-Formerly president and treasurer Mr. Lang remains chief executive officer
+But it 's an enormous business opportunity
 Additional Information: 
-('president', 'at', 'table')
+('business', 'here')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Other details were n't available
+Wells Fargo & Co. of San Francisco posted a 17 % jump
 Additional Information: 
-('detail', 'adorning', 'building')
+('jump', 'ski')

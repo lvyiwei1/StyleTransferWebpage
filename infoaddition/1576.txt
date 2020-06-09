@@ -1,4 +1,4 @@
 Original Sentence: 
-The September figures are due to be released this week
+The purchases increased his stake to 16.2 % of the shares outstanding
 Additional Information: 
-('figure', 'ON', 'pedestal')
+('stake', 'ON', 'grass')

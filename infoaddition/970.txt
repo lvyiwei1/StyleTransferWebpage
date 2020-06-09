@@ -1,4 +1,4 @@
 Original Sentence: 
-Those activities generated 26.1 million in operating profit last year
+A Rake 's Progress Means Branching Out
 Additional Information: 
-('year', 'IN', 'corner')
+('rake', 'red')

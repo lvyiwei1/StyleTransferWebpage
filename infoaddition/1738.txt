@@ -1,4 +1,4 @@
 Original Sentence: 
-And taxpayer groups are urging legislation in many other states
+BankAmerica 's profit jumped 34 % in the third quarter
 Additional Information: 
-('group', 'OF', 'people')
+('quarter', 'silver')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Warnaco also owns Warners another major intimate apparel maker
+Some however lowered yields significantly
 Additional Information: 
-('child', 'IN', 'apparel')
+('yield', 'on', 'sign')

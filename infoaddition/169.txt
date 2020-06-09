@@ -1,4 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+Should the rest of the Series be played at all
 Additional Information: 
-('coupon', 'has', 'percentage')
+('rest', 'arm')

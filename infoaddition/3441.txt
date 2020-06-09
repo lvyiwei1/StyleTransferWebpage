@@ -1,4 +1,4 @@
 Original Sentence: 
-Others preach the gospel of buying only blue-chip growth stocks
+Still Time 's move is being received well once again
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('mechanism', 'makes it', 'move')

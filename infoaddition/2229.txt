@@ -1,4 +1,4 @@
 Original Sentence: 
-We are trying to create quality and involvement
+It 's like an oasis in this room Ms. Foster purrs
 Additional Information: 
-('photo', 'has', 'quality')
+('oasis', 'IN', 'desert')

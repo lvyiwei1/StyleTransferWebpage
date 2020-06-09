@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms of the transaction were n't disclosed
+The work force provides the third arm of the alliance
 Additional Information: 
-('term', 'house of david')
+('arm', 'extended')

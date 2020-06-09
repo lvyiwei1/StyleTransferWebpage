@@ -1,0 +1,4 @@
+Original Sentence: 
+For the most part the changes were slight
+Additional Information: 
+('part', 'small')

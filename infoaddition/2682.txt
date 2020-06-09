@@ -1,4 +1,4 @@
 Original Sentence: 
-The company also makes optical character recognition equipment
+As of Aug. 31 thrifts held 185 billion in mortgage-backed securities
 Additional Information: 
-('character', 'ON', 'table')
+('security', 'ON', 'text')

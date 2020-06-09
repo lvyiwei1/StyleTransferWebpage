@@ -1,4 +1,4 @@
 Original Sentence: 
-Prospective competition is one problem
+The second portion will be completed the following year
 Additional Information: 
-('horse', 'jumpimg', 'competition')
+('year', 'white')

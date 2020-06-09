@@ -1,4 +1,4 @@
 Original Sentence: 
-There was little turnover and nothing to stimulate the market
+Consumer stocks once again set the pace for blue-chip issues
 Additional Information: 
-('nothing', 'IN', 'sky')
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+Analysts said the move could presage even harsher action by the banks
 Additional Information: 
-('term', 'house of david')
+('bank', 'grassy')

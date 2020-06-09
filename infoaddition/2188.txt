@@ -1,4 +1,4 @@
 Original Sentence: 
-Lindens need about 36 feet
+Most other states have enacted similar bans
 Additional Information: 
-('foot', 'ON', 'plush')
+('ban', 'baked')

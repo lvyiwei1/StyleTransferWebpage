@@ -1,4 +1,4 @@
 Original Sentence: 
-Those Metropolitan Life ads were bad enough
+Israel was seated by a vote of 95-37 with 15 abstentions
 Additional Information: 
-('ad', 'on side of', 'court')
+('vote', 'written on', 'sign')

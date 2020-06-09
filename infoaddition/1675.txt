@@ -1,4 +1,4 @@
 Original Sentence: 
-Retailers could get a boost this year from the calendar
+All of the bidders contemplate full payment including interest to secured creditors
 Additional Information: 
-('calendar', 'ON', 'wall')
+('payment', 'for', 'produce')

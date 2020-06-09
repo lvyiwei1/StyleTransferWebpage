@@ -1,4 +1,4 @@
 Original Sentence: 
-The Soviets have a world-leading space program the guests noted
+Pemex 's customers also are pleased with the company 's new spirit
 Additional Information: 
-('guest', 'behind', 'fence')
+('customer', 'IN', 'coffee shop')

@@ -1,4 +1,4 @@
 Original Sentence: 
-A hundred billion dollars in stock was subject to it
+Signs of revival seem evident in Hong Kong 's hard-hit hotel sector
 Additional Information: 
-('dollar', 'ON', 'table')
+('hotel', 'ON', 'beach')

@@ -1,4 +1,4 @@
 Original Sentence: 
-But it 's like kicking your father in the pants
+Indeed the insurance adjusters had already bolted out of the courtroom
 Additional Information: 
-('pant', 'black')
+('adjuster', 'ON', 'post')

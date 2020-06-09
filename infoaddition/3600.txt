@@ -1,0 +1,4 @@
+Original Sentence: 
+Another challenges Merrill Lynch 's bond recommendation last year
+Additional Information: 
+('year', 'white')

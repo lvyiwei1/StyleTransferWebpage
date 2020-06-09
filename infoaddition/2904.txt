@@ -1,4 +1,4 @@
 Original Sentence: 
-In September 1988 that level was 9.5 %
+A hundred billion dollars in stock was subject to it
 Additional Information: 
-('level', 'OF', 'truck')
+('dollar', 'ON', 'table')

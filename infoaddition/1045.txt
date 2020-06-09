@@ -1,4 +1,4 @@
 Original Sentence: 
-The outlook for corporate earnings is fairly bleak
+Poland makes no machinery for a plant on that scale
 Additional Information: 
-('outlook', 'ON', 'building')
+('machinery', 'heavy')

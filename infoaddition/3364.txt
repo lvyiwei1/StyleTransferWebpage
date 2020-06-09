@@ -1,4 +1,4 @@
 Original Sentence: 
-The CD seemed like a great deal
+By the end of the century scientists had embraced the system
 Additional Information: 
-('deal', 'OF', 'bananas')
+('scientist', 'experimenting with', 'three birds')

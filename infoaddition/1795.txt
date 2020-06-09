@@ -1,4 +1,4 @@
 Original Sentence: 
-But a flurry of late trading yesterday beefed up prices
+The company is an independent refined-petroleum-products pipeline serving six Western states
 Additional Information: 
-('flurry', 'OF', 'snow')
+('company', 'name')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Her story is becoming part of local folklore
+Inflation is at record levels
 Additional Information: 
-('story', 'second')
+('level', 'upper')

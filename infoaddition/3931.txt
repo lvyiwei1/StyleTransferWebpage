@@ -1,0 +1,4 @@
+Original Sentence: 
+If so the damages could be tripled
+Additional Information: 
+('damage', 'IN', 'building')

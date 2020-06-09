@@ -1,4 +1,4 @@
 Original Sentence: 
-My style is less informal Mr. Brawer says
+The stock gained 2.75 Thursday to close at a then-52 week high
 Additional Information: 
-('style', 'ON', 'ceiling')
+('stock', 'OF', 'broccoli')

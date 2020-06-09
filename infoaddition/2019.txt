@@ -1,4 +1,4 @@
 Original Sentence: 
-He also said investment by businesses is falling off
+The AT&T action was the most recent blow in a nasty fight
 Additional Information: 
-('business', 'here')
+('action', 'at', 'baseball field')

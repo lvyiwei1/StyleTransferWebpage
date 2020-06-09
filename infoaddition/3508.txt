@@ -1,0 +1,4 @@
+Original Sentence: 
+Warehouse productivity is really beginning to take off
+Additional Information: 
+('warehouse', 'white')

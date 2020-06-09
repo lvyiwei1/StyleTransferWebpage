@@ -1,0 +1,4 @@
+Original Sentence: 
+But at this point that may just be wishful thinking
+Additional Information: 
+('thinking', 'hard')

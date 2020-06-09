@@ -1,4 +1,4 @@
 Original Sentence: 
-It also has a product-testing facility in California
+The second portion will be completed the following year
 Additional Information: 
-('facility', 'skateboarding')
+('portion', 'white')

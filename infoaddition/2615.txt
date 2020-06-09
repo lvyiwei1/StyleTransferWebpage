@@ -1,4 +1,4 @@
 Original Sentence: 
-Wisconsin Toy has 71 retail stores primarily in discount settings
+Meanwhile Sotheby 's guarantee is raising eyebrows in the art world
 Additional Information: 
-('setting', 'OF', 'silverware')
+('eyebrow', 'brown')

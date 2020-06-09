@@ -1,4 +1,4 @@
 Original Sentence: 
-The stock split four-for-one on Oct. 10
+Get off your he would bellow say the authors
 Additional Information: 
-('stock', 'green')
+('author', 'ON', 'book')

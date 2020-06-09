@@ -1,4 +1,4 @@
 Original Sentence: 
-I could n't afford to hire 16 whites
+Cathay officials decline to comment on the speculation
 Additional Information: 
-('white', 'toilet', 'brush')
+('official', 'for', 'tennis')

@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's expected to produce about 62,000 barrels per day
+Tax-exempt airport and street-corner solicitations were intended only to provide start-up funds
 Additional Information: 
-('barrel', 'blue')
+('airport', 'busy')

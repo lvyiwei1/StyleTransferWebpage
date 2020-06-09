@@ -1,4 +1,4 @@
 Original Sentence: 
-New telephone lines posted healthy growth
+Terms include a royalty arrangement but details were n't disclosed
 Additional Information: 
-('telephone', 'black')
+('royalty', 'reside in', 'palace')

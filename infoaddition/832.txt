@@ -1,4 +1,4 @@
 Original Sentence: 
-That is the way the system works
+A U.S.-made imitation under the title Almost Anything Goes flopped fast
 Additional Information: 
-('system', 'under', 'train')
+('title', 'under', 'cat')

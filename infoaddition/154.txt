@@ -1,4 +1,4 @@
 Original Sentence: 
-We found a market niche Mr. Mills boasts
+And the show 's creativity makes up for any technological deficiencies
 Additional Information: 
-('niche', 'is')
+('show', 'ON', 'television')

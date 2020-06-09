@@ -1,0 +1,4 @@
+Original Sentence: 
+She highlighted exclusionary business practices that the U.S. government has identified
+Additional Information: 
+('business', 'has', 'door')

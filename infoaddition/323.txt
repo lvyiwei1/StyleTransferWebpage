@@ -1,4 +1,4 @@
 Original Sentence: 
-Seats currently are quoted at 400,000 bid 425,000 asked
+There is a small Renoir on the wall
 Additional Information: 
-('bid', 'ON', 'shoulder')
+('wall', 'behind', 'toiilet')

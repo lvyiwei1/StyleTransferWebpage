@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales were 12 billion off 13 % from 13.8 billion
+Some buildings collapsed gas and water lines ruptured and fires raged
 Additional Information: 
-('sale', 'red')
+('building', 'white')

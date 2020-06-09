@@ -1,0 +1,4 @@
+Original Sentence: 
+The times are my times says Mr. Florio
+Additional Information: 
+('time', 'under', 'sign')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Pressed on the matter he is more specific
+But the handlers mistakenly stuck with silicon chips they needed kryptonite
 Additional Information: 
-('matter', 'green')
+('silicon', 'hanging', 'wood')

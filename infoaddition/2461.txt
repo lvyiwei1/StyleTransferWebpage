@@ -1,4 +1,4 @@
 Original Sentence: 
-Lloyd 's is moving forward on some fronts though
+Remember the Dalkon Shield and the early birth-control pills
 Additional Information: 
-('front', 'yellow')
+('pill', 'ON', 'table')

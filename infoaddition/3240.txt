@@ -1,4 +1,4 @@
 Original Sentence: 
-It made my shoelaces dance with terror
+Then he unleashed his own unstoppable attack
 Additional Information: 
-('shoelace', 'white')
+('attack', 'are', 'attack')

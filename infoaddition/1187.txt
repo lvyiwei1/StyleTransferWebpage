@@ -1,4 +1,4 @@
 Original Sentence: 
-It said it would purchase the stock at market price
+This is how American women won the right to vote
 Additional Information: 
-('price', 'OF', 'fruit')
+('woman', 'ON', 'overpass')

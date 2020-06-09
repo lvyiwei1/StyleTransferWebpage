@@ -1,4 +1,4 @@
 Original Sentence: 
-Expenses are flat and that 's a good sign
+At this point the Dow industrials were down 75.41 points and falling
 Additional Information: 
-('sign', 'white')
+('point', 'sharp')

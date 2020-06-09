@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Ahmad 's lawyer said he would appeal
+The transaction represents Lynch 's entry into the telephone business
 Additional Information: 
-('lawyer', 'showing a', 'paper')
+('business', 'here')

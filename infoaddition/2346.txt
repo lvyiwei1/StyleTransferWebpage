@@ -1,4 +1,4 @@
 Original Sentence: 
-Community involvement is an even worse idea
+Afterwards I went home and practiced for three hours
 Additional Information: 
-('community', 'here')
+('home', 'white')

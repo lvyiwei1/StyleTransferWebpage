@@ -1,4 +1,4 @@
 Original Sentence: 
-She made money but spent more
+There 's nothing like skin to skin
 Additional Information: 
-('money', 'ON', 'machine')
+('skin', 'OF', 'dog')

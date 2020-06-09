@@ -1,4 +1,4 @@
 Original Sentence: 
-Indeed the competition is n't greatly concerned
+Among the biggest winners were brokerage-house stocks responding to heavy trading volume
 Additional Information: 
-('competition', 'horse')
+('winner', 'standing on', 'box')

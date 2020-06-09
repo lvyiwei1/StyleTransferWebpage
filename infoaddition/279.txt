@@ -1,4 +1,4 @@
 Original Sentence: 
-The companies hope for a final agreement by year-end
+Andy Zipser in Dallas contributed to this article
 Additional Information: 
-('company', 'name')
+('article', 'newspaper')

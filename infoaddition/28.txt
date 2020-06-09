@@ -1,4 +1,4 @@
 Original Sentence: 
-Understandably smaller growth stocks have n't been in favor recently
+The controls on cooperatives appeared relatively liberal when first introduced
 Additional Information: 
-('growth', 'near', 'shore')
+('control', 'remote')

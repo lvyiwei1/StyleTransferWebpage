@@ -1,0 +1,4 @@
+Original Sentence: 
+The Irish-Soviet aviation connection is alive and well here at Shannon Airport
+Additional Information: 
+('connection', 'to', 'electric wires')

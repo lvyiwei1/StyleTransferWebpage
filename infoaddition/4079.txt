@@ -1,0 +1,4 @@
+Original Sentence: 
+He had been vice president in that office
+Additional Information: 
+('office', 'small')

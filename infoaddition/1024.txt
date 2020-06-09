@@ -1,4 +1,4 @@
 Original Sentence: 
-The software conversion costs would dwarf any savings
+About 54 % are women and 44 % are part-time students
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('woman', 'wearing a blue', 'top')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Do n't say it 's a gold ceiling
+It adds something to the market
 Additional Information: 
-('ceiling', 'white')
+('market', 'outdoor')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Friday brings the final count on October auto sales
+Many fund managers argue that now 's the time to buy
 Additional Information: 
-('sale', 'at', 'company')
+('time', 'displayed')

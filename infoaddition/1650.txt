@@ -1,4 +1,4 @@
 Original Sentence: 
-This will raise the energy level of the show
+NORTHERN CALIFORNIA BRACED for earthquake-related traffic jams
 Additional Information: 
-('level', 'OF', 'bunkbed')
+('jam', 'red')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Then take the expected return and subtract one standard deviation
+But the problem clearly is widespread and persistent
 Additional Information: 
-('return', 'ON', 'street')
+('plane', 'has', 'problem')

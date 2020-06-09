@@ -1,4 +1,4 @@
 Original Sentence: 
-The government built ports bridges highways schools hospitals and railways
+David B. Hilder in New York contributed to this article
 Additional Information: 
-('bridge', 'metal')
+('article', 'newspaper')

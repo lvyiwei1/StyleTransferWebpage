@@ -1,4 +1,4 @@
 Original Sentence: 
-The company expects all branches to reopen today
+Pemex 's customers also are pleased with the company 's new spirit
 Additional Information: 
-('company', 'name')
+('company', 'has', 'name')

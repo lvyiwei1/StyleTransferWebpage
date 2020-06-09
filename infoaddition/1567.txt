@@ -1,4 +1,4 @@
 Original Sentence: 
-Farmers lay down before the bulldozers
+He added We learned a lesson in 1987 about volatility
 Additional Information: 
-('farmer', 'driving', 'tractor')
+('man', 'giving a', 'lesson')

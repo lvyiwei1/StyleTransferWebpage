@@ -1,4 +1,4 @@
 Original Sentence: 
-But they are also talking about new magazines
+To date scientists have fingered two of these cancer-suppressors
 Additional Information: 
-('magazine', 'IN', 'door rack')
+('date', 'yellow')

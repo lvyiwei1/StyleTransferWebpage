@@ -1,4 +1,4 @@
 Original Sentence: 
-WHY BE A MIDDLEMAN for charitable gifts a retiree asks
+The disk-drive maker disclosed a major fraud two months ago
 Additional Information: 
-('gift', 'under', 'tree')
+('month', 'ninth')

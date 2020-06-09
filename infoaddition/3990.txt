@@ -1,0 +1,4 @@
+Original Sentence: 
+Her instincts were capitalistic despite her background
+Additional Information: 
+('background', 'has', 'cityscape')

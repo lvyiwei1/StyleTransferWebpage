@@ -1,4 +1,4 @@
 Original Sentence: 
-It is the stuff of dreams but also of traumas
+London 's Financial Times-Stock Exchange 100-share index fell 27.9 points to 2135.5
 Additional Information: 
-('stuff', 'around a', 'bike')
+('point', 'sharp')

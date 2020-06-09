@@ -1,4 +1,4 @@
 Original Sentence: 
-People in Glass houses tend to look stoned
+But Burger King operators independently confirm using Michael 's product
 Additional Information: 
-('people', 'ON', 'bleachers')
+('operator', 'Lift ')

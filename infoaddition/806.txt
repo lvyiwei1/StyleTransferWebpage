@@ -1,4 +1,4 @@
 Original Sentence: 
-Piping in a waste-treatment plant needed immediate repairs
+Sales rose 2.9 % to 329.2 million from 320 million
 Additional Information: 
-('piping', 'under', 'seat')
+('sale', 'red')

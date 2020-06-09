@@ -1,4 +1,4 @@
 Original Sentence: 
-Read my lips said Mr. Smith
+No sophisticated professional expects economists to be right all the time
 Additional Information: 
-('lip', 'pink')
+('professional', 'soccer', 'players')

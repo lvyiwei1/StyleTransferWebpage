@@ -1,4 +1,4 @@
 Original Sentence: 
-And taxpayer groups are urging legislation in many other states
+His melodious Confutatis was smoothly sung by bass Brian Matthews
 Additional Information: 
-('state', 'ON', 'hood')
+('bear', 'playing', 'bass')

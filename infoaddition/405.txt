@@ -1,4 +1,4 @@
 Original Sentence: 
-Bach 's Air followed
+The reality is that Bank finances are rock solid
 Additional Information: 
-('air', 'mid')
+('rock', 'ON', 'ground')

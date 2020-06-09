@@ -1,0 +1,4 @@
+Original Sentence: 
+That compares with 3.5 % butterfat for whole milk
+Additional Information: 
+('milk', 'IN', 'bowl')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Some found it on the screen of a personal computer
+Their verdict on real estate is almost the same
 Additional Information: 
-('screen', 'on')
+('estate', 'grey')

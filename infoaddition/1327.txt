@@ -1,4 +1,4 @@
 Original Sentence: 
-Thus the shadow jury was born
+Computer companies commodity cyclical stocks like autos and retailing stocks he says
 Additional Information: 
-('shadow', 'dark')
+('company', 'name')

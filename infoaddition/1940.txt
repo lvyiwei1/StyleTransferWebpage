@@ -1,4 +1,4 @@
 Original Sentence: 
-Men would crawl in the sand looking for shiny stones
+The stock slid 1.875 on more than four times average daily volume
 Additional Information: 
-('men', 'IN', 'dugout')
+('volume', 'ON', 'keyboard')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Soldiers and sailors are still measured in inches and pounds
+Nearly all the decline came in Ford 's U.S. automotive operations
 Additional Information: 
-('soldier', 'sits', 'outside')
+('decline', ' of grass')

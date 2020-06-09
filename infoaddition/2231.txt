@@ -1,4 +1,4 @@
 Original Sentence: 
-Professional Crisco products are specially made for the foodservice industry
+It 's like an oasis in this room Ms. Foster purrs
 Additional Information: 
-('product', 'bathroom')
+('room', 'has', 'carpet')

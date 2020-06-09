@@ -1,4 +1,4 @@
 Original Sentence: 
-Eight years I 've had it
+Mine comes from seeing thriving communities devastated but only temporarily
 Additional Information: 
-('year', 'ON', 'side')
+('community', 'here')

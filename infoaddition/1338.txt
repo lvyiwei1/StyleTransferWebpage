@@ -1,4 +1,4 @@
 Original Sentence: 
-The government is funding several projects to push PC use
+Yet if gold prices improve silver prices could rally sharply he says
 Additional Information: 
-('project', 'sewing')
+('price', 'OF', 'hot dog')

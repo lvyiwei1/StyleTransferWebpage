@@ -1,4 +1,4 @@
 Original Sentence: 
-ESB directors warmly accepted but a whirlwind bidding match ensued
+Prices of European government bonds also rose as U.S. stocks declined
 Additional Information: 
-('match', 'tennis')
+('price', 'ON', 'sign')

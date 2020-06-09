@@ -1,4 +1,4 @@
 Original Sentence: 
-U.S. buyers have already been lined up
+That will spur Tandem 's growth
 Additional Information: 
-('buyer', 'looking at', 'goods')
+('growth', 'ON', 'bark')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The new rules will allow investors to buy foreign stocks directly
+Additional Information: 
+('stock', 'OF', 'broccoli')

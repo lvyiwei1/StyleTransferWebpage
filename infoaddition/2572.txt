@@ -1,4 +1,4 @@
 Original Sentence: 
-But most investors were seeking share prices and other information
+Japanese department stores are also wary of attracting negative publicity
 Additional Information: 
-('price', 'written')
+('store', 'by', 'truck')

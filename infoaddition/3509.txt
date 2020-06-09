@@ -1,0 +1,4 @@
+Original Sentence: 
+Statistics Canada said service-industry output in August rose 0.4 % from July
+Additional Information: 
+('output', 'electrical')

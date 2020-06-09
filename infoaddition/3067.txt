@@ -1,4 +1,4 @@
 Original Sentence: 
-Telerate provides information about financial markets through an electronic network
+It takes three months to turn copper concentrate into cathodes he said
 Additional Information: 
-('market', 'OF', 'fruit')
+('copper', 'on top of', 'cake topper')

@@ -1,4 +1,4 @@
 Original Sentence: 
-But wait a second
+The reputed wealth of the Unification Church is another matter of contention
 Additional Information: 
-('second', 'black')
+('matter', 'has', 'surfaces')

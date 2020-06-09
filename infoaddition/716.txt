@@ -1,4 +1,4 @@
 Original Sentence: 
-After a while someone has to go over the side
+The consequences of building empires with sand are showing up
 Additional Information: 
-('side', 'OF', 'boat')
+('empire', 'gray')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Ms. Clifton had been executive financial assistant to the chairman
+Their opposition helped scare off some Japanese banks
 Additional Information: 
-('assistant', 'near', 'juggler')
+('bank', 'grassy')

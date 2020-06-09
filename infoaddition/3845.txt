@@ -1,0 +1,4 @@
+Original Sentence: 
+Margin debt was at a record high
+Additional Information: 
+('margin', 'thick')

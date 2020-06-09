@@ -1,4 +1,4 @@
 Original Sentence: 
-This bias is in no way deliberate
+The Treasury 's benchmark 30-year bond rose 1\/8 point
 Additional Information: 
-('way', 'walk')
+('point', 'OF', 'tower')

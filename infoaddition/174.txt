@@ -1,4 +1,4 @@
 Original Sentence: 
-The program traders were in there too of course
+There was n't a lot of panic selling either domestically or internationally
 Additional Information: 
-('program', 'beside', 'table')
+('panic', 'gold')

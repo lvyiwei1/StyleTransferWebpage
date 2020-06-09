@@ -1,4 +1,4 @@
 Original Sentence: 
-We can lose money on this he says
+The work force provides the third arm of the alliance
 Additional Information: 
-('money', 'under', 'card')
+('force', 'black')

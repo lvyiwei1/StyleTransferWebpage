@@ -1,4 +1,4 @@
 Original Sentence: 
-Moody 's changes affected the following issues
+Some companies including Heinz even pay part of the fee
 Additional Information: 
-('change', 'loose')
+('part', 'small')

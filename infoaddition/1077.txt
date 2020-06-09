@@ -1,4 +1,4 @@
 Original Sentence: 
-Value of the properties and management interests was n't disclosed
+Many middle-class people would love free food Medicaid insurance utilities and rent
 Additional Information: 
-('interest', 'great')
+('people', 'near', 'trees')

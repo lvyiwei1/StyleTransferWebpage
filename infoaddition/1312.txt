@@ -1,4 +1,4 @@
 Original Sentence: 
-Among other blue chips Exxon gained 1\/8 to 45 1\/2
+At least once an episode we see protestors marching around screaming slogans
 Additional Information: 
-('chip', 'chocolate')
+('laptop', 'has', 'episode')

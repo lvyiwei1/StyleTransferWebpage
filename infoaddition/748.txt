@@ -1,4 +1,4 @@
 Original Sentence: 
-Some people must drop names call it an irresistible impulse
+And much home-equity credit is used conservatively
 Additional Information: 
-('name', 'white')
+('credit', 'artist')

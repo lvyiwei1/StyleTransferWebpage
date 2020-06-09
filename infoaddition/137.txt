@@ -1,4 +1,4 @@
 Original Sentence: 
-Even so his bill is given little chance of passage
+The industrial average closed down only 3.69 points at 2659.22
 Additional Information: 
-('passage', 'gray')
+('point', 'has', 'trees')

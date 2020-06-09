@@ -1,4 +1,4 @@
 Original Sentence: 
-Share prices fell in Milan Amsterdam Zurich Madrid and Stockholm
+Individual and Japanese participation in the auction was disappointing according to dealers
 Additional Information: 
-('price', 'OF', 'fruit')
+('individual', 'smiling')

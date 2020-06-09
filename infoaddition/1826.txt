@@ -1,4 +1,4 @@
 Original Sentence: 
-Addison is no stranger to cans of worms either
+Accord prices start at 12,345
 Additional Information: 
-('can', 'ON', 'sidewalk')
+('price', 'tag', 'roll')

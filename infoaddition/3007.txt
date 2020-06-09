@@ -1,4 +1,4 @@
 Original Sentence: 
-But one recent day they became much closer
+The lobby says no again
 Additional Information: 
-('day', 'within', 'lake')
+('lobby', 'OF', 'building')

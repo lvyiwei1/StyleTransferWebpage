@@ -1,4 +1,4 @@
 Original Sentence: 
-Adverse pressure on gross margins has subsided Mr. Sculley said
+The good news is it 's not your fault
 Additional Information: 
-('margin', 'separating', 'photo')
+('news', 'word')

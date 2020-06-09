@@ -1,4 +1,4 @@
 Original Sentence: 
-Another agency issue came to market yesterday
+Jackets may be sold next
 Additional Information: 
-('market', 'outdoor')
+('jacket', 'on a', 'woman')

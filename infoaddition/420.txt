@@ -1,4 +1,4 @@
 Original Sentence: 
-For Vietnamese these are tricky often treacherous times
+That 's a lot of banishment as it turns out
 Additional Information: 
-('vietnamese', 'ON', 'window')
+('lot', 'parking')

@@ -1,0 +1,4 @@
+Original Sentence: 
+North Carolinians New Yorkers Californians Chicagoans and Ohioans own Texas banks
+Additional Information: 
+('bank', 'ON', 'water')

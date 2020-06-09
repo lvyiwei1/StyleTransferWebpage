@@ -1,4 +1,4 @@
 Original Sentence: 
-And the naczelnik shuts his door
+The plan would impose a brief freeze on physician fees next year
 Additional Information: 
-('door', 'white')
+('freeze', 'ON', 'refrigerator')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We 'd like to do business in America he says
+And short-term the technicians may have their way
 Additional Information: 
-('business', 'has', 'awning')
+('way', 'walk')

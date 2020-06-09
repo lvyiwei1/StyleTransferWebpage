@@ -1,4 +1,4 @@
 Original Sentence: 
-Shippers are saying the party 's over said Mr. LaLonde
+When selling is so frenzied prices fall steeply and fast
 Additional Information: 
-('party', 'birthday')
+('price', 'OF', 'apples')

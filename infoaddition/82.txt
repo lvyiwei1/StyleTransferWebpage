@@ -1,4 +1,4 @@
 Original Sentence: 
-Marcus W. Brauchli contributed to this article
+You could still have some very bad times ahead said Mr. Bachmann
 Additional Information: 
-('article', 'ON', 'chair')
+('time', 'displayed')

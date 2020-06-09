@@ -1,4 +1,4 @@
 Original Sentence: 
-Craig Forman in London contributed to this article
+And the merchandise was well fake
 Additional Information: 
-('article', 'ON', 'screen')
+('merchandise', 'fragile')

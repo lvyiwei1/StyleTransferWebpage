@@ -1,4 +1,4 @@
 Original Sentence: 
-Copper futures prices failed to extend Friday 's rally
+Per-share net rose to 62.04 yen from 51.50 yen
 Additional Information: 
-('copper', 'on top of', 'cake topper')
+('net', 'black')

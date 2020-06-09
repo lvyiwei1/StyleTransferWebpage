@@ -1,4 +1,4 @@
 Original Sentence: 
-The turnover in both issues was roughly normal
+Mr. Deaver confessed to his alcoholism during his trial on perjury charges
 Additional Information: 
-('turnover', 'ON', 'paper')
+('charge', 'can', 'charge')

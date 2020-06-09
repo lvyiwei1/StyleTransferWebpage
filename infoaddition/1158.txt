@@ -1,4 +1,4 @@
 Original Sentence: 
-Northeast Utilities ' plan proposes 5.5 % annual increases
+A year earlier net was 71.6 million or 1.22 a share
 Additional Information: 
-('plan', 'air')
+('net', 'black')

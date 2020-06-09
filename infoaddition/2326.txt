@@ -1,4 +1,4 @@
 Original Sentence: 
-The report is to be released today
+But observers expect broad support
 Additional Information: 
-('sign', 'reads', 'today')
+('support', 'metal')

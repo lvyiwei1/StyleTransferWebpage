@@ -1,4 +1,4 @@
 Original Sentence: 
-Most public-health measures were handled at the local level
+Volume totaled 132.1 million shares which is about average for the year
 Additional Information: 
-('level', 'upper')
+('volume', '3')

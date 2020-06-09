@@ -1,4 +1,4 @@
 Original Sentence: 
-What if the system does n't work
+Cadillac may be on to something
 Additional Information: 
-('system', 'black')
+('something', 'red')

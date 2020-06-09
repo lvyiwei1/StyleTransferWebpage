@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales increased 5.5 % to 9.81 billion from 9.3 billion
+It 's a real face-to-face arm wrestling challenge to Congress
 Additional Information: 
-('sale', 'ON', 'window')
+('challenge', 'ON', 'truck')

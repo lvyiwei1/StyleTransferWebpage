@@ -1,4 +1,4 @@
 Original Sentence: 
-His hands sit farther apart on the keyboard
+Mortgage securities ended little changed after light dealings
 Additional Information: 
-('hand', 'OF', 'he')
+('security', 'standing')

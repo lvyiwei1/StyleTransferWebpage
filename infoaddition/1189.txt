@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales fell 20 % to 3.7 billion from 4.6 billion
+This is how American women won the right to vote
 Additional Information: 
-('sale', 'at', 'company')
+('right', 'tree', 'trunk')

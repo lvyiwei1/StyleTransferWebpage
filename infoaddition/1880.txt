@@ -1,4 +1,4 @@
 Original Sentence: 
-Coors with its large beer-distribution network could penetrate more markets
+At this point the Dow was down about 35 points
 Additional Information: 
-('market', 'has', 'fruit')
+('point', 'sharp')

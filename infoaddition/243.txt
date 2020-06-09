@@ -1,4 +1,4 @@
 Original Sentence: 
-The dollar was mixed
+The stock fell 75 cents
 Additional Information: 
-('dollar', 'twenty')
+('stock', 'OF', 'broccoli')

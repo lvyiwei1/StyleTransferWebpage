@@ -1,4 +1,4 @@
 Original Sentence: 
-He will remain on the Banc One board
+This is a very tenacious ghost Mr. Warren says darkly
 Additional Information: 
-('board', 'against', 'wall')
+('ghost', 'ON', 'broccoli')

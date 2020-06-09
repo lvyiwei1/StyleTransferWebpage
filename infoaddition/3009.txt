@@ -1,4 +1,4 @@
 Original Sentence: 
-And You Are There sort of
+But they think promotions are limited
 Additional Information: 
-('sort', 'OF', 'tracks')
+('promotion', 'from', "victoria's secret")

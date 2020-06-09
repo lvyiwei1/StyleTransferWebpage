@@ -1,4 +1,4 @@
 Original Sentence: 
-I see it as a sewage treatment plant he says
+Kellogg 's main problem is life style
 Additional Information: 
-('plant', 'green')
+('style', 'ON', 'ceiling')

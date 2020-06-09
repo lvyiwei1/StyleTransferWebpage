@@ -1,0 +1,4 @@
+Original Sentence: 
+It really brings you down to a human level she says
+Additional Information: 
+('level', 'has', 'light')

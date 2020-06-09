@@ -1,4 +1,4 @@
 Original Sentence: 
-The painting is 10 feet wide seven feet high
+It is a distinction that satisfies neither side in the debate
 Additional Information: 
-('painting', 'has', 'tree')
+('panel', 'for', 'debate')

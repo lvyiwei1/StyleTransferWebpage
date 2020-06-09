@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Patel also was placed on three years ' probation
+He adds I think it was a fairly decent call
 Additional Information: 
-('year', 'white')
+('tricycle', 'with', 'call')

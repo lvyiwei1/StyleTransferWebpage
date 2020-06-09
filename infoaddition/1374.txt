@@ -1,4 +1,4 @@
 Original Sentence: 
-Things had just gone too far
+But violation could bring substantial tax penalties to both employer and employees
 Additional Information: 
-('thing', 'black')
+('employee', 'airport')

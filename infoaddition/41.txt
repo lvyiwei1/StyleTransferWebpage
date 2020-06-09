@@ -1,4 +1,4 @@
 Original Sentence: 
-Or is triskaidekaphobia fear of the number 13 justified
+The company said it expects to release third-quarter results in mid-November
 Additional Information: 
-('number', 'black')
+('company', 'ON', 'plane')

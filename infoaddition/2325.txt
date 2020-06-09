@@ -1,4 +1,4 @@
 Original Sentence: 
-The report is to be released today
+But observers expect broad support
 Additional Information: 
-('report', 'ON', 'green paper')
+('support', 'IN', 'water')

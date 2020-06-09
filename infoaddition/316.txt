@@ -1,4 +1,4 @@
 Original Sentence: 
-Much of the family 's mystique remained
+It 's a baptism of fire for Corry says one USX executive
 Additional Information: 
-('family', 'sitting')
+('family', 'at', 'baptism')

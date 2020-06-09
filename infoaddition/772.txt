@@ -1,4 +1,4 @@
 Original Sentence: 
-The rest he is confident can be raised
+The issue is backed by Freddie Mac 8 1\/2 % securities
 Additional Information: 
-('rest', 'ON', 'sign')
+('security', 'standing')

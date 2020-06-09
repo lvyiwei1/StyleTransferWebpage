@@ -1,4 +1,4 @@
 Original Sentence: 
-Wall Street is n't avoiding everything connected with paper
+This misguided policy could not prevent a British trade deficit
 Additional Information: 
-('sky', 'above', 'everything')
+('company name', 'says', 'trade')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Some companies are cutting costs and hoping for the best
+A total of 157 lawsuits were filed on behalf of crash victims
 Additional Information: 
-('company', 'at', 'bottom')
+('racket', 'OF', 'victim')

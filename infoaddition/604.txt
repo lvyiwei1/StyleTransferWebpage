@@ -1,4 +1,4 @@
 Original Sentence: 
-In other words Get rid of all the pictures
+Ortega cited renewed attacks by the U.S.backed rebels
 Additional Information: 
-('word', 'ON', 'sign')
+('attack', 'are', 'attack')

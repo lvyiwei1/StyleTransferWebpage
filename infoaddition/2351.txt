@@ -1,4 +1,4 @@
 Original Sentence: 
-Bond prices were little changed in sluggish activity
+We 'd be reluctant to accept 50-50 ownership in a manufacturing company
 Additional Information: 
-('bond', 'black ')
+('company', 'name')

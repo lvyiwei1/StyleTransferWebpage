@@ -1,4 +1,4 @@
 Original Sentence: 
-There 's lots of supply the New York trader said
+Fortunately volunteers and charities are not motivated by self-interest but by altruism
 Additional Information: 
-('lot', 'on side of', 'road')
+('volunteer', 'Salvation Army')

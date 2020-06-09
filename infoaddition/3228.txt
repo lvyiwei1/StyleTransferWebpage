@@ -1,4 +1,4 @@
 Original Sentence: 
-This kind of theater was new to us
+Earlier this month Mr. Icahn boosted his USX stake to 13.4 %
 Additional Information: 
-('theater', 'has', 'ceiling')
+('stake', 'ON', 'table')

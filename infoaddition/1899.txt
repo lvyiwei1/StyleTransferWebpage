@@ -1,4 +1,4 @@
 Original Sentence: 
-This of course led to disaster in New York City
+Some of the oil interests already have been sold
 Additional Information: 
-('course', 'has', 'obstacles')
+('oil', 'hot')

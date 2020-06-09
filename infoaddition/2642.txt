@@ -1,4 +1,4 @@
 Original Sentence: 
-The fund invests mainly in gold and silver bullion
+Nashua announced the Reiss request after the market closed
 Additional Information: 
-('silver', 'power', 'line')
+('market', 'filled with', 'green peppers')

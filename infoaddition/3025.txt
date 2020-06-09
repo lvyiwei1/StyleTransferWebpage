@@ -1,4 +1,4 @@
 Original Sentence: 
-Investors welcomed the move
+The key man seems to be the campaign manager Mr. Lynch
 Additional Information: 
-('mechanism', 'makes it', 'move')
+('manager', 'overlooking action')

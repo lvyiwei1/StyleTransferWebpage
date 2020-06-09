@@ -1,4 +1,4 @@
 Original Sentence: 
-Take heart sports fans he wrote
+Institutional buyers were the main force pushing blue chips higher
 Additional Information: 
-('heart', 'ON', 'picture')
+('force', 'black')

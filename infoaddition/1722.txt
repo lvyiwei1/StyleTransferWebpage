@@ -1,4 +1,4 @@
 Original Sentence: 
-Clearly the central figure in this process is Egon Krenz
+MURDER THREAT charged in Haas Securities Corp stock-manipulation trial
 Additional Information: 
-('figure', 'ON', 'clock')
+('snow', 'has', 'trial')

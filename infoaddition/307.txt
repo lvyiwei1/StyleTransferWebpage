@@ -1,4 +1,4 @@
 Original Sentence: 
-By this month it had more than doubled
+But some players were quick to seize the moment
 Additional Information: 
-('month', 'around', 'face')
+('player', 'with', 'bat')

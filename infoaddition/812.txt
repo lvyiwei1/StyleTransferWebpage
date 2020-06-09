@@ -1,4 +1,4 @@
 Original Sentence: 
-The company paid five cents a share in April
+The buy-out group had no firm financing for the plan
 Additional Information: 
-('company', 'has', 'name')
+('plan', 'air')

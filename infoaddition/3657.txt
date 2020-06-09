@@ -1,0 +1,4 @@
+Original Sentence: 
+Indeed Fujitsu officials admitted they may have been a little overzealous
+Additional Information: 
+('official', 'tennis')

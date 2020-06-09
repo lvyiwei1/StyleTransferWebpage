@@ -1,4 +1,4 @@
 Original Sentence: 
-NBC 's winning streak has been canceled
+Perhaps in time the Supreme Court will correct them
 Additional Information: 
-('streak', 'white')
+('time', 'displayed')

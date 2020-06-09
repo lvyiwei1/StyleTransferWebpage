@@ -1,4 +1,4 @@
 Original Sentence: 
-Details of credit enhancements vary widely from issue to issue
+The transaction would mark the entry of P&G into cosmetics
 Additional Information: 
-('detail', 'IN', 'tower')
+('entry', 'dark')

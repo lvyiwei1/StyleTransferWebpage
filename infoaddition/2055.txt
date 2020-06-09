@@ -1,4 +1,4 @@
 Original Sentence: 
-By the end of the day bond prices were mixed
+But one far-afield effect is still with us
 Additional Information: 
-('end', 'OF', 'tail')
+('effect', 'yellow')

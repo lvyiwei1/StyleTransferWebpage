@@ -1,4 +1,4 @@
 Original Sentence: 
-PENALTY OVERHAUL is still likely congressional sources say
+It was worth it just for the look on Albert 's face
 Additional Information: 
-('source', 'blue')
+('look', 'concentration')

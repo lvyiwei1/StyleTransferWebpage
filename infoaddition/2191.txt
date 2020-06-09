@@ -1,4 +1,4 @@
 Original Sentence: 
-When the pilots refused the company retracted it
+There will be no sightseeing no shopping and no social events
 Additional Information: 
-('pilot', 'walking')
+('shopping', 'area')

@@ -1,4 +1,4 @@
 Original Sentence: 
-In some cases competition has squeezed margins
+CBS Sports earned 50 million or so last year
 Additional Information: 
-('margin', 'separating', 'photo')
+('year', 'white')

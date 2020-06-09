@@ -1,4 +1,4 @@
 Original Sentence: 
-That is typically about a three-week window
+THE U.S. IS REQUIRED to notify foreign dictators of certain coup plans
 Additional Information: 
-('window', 'glass')
+('plan', 'air')

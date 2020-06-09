@@ -1,4 +1,4 @@
 Original Sentence: 
-One handout promises Pedigrees parties post times parimutuels and pageantry
+People got rich through takeovers in those days as they do today
 Additional Information: 
-('party', 'at a', 'house')
+('day', 'sunny')

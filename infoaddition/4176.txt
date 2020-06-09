@@ -1,0 +1,4 @@
+Original Sentence: 
+Obviously IBM can give bigger discounts to users immediately said Mr. Weiss
+Additional Information: 
+('discount', 'ON', 'window')

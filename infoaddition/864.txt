@@ -1,4 +1,4 @@
 Original Sentence: 
-Junk bonds also recovered somewhat though trading remained stalled
+What we want to do is take a more aggressive stance
 Additional Information: 
-('red t', 'IN', 'trading')
+('stance', 'wide')

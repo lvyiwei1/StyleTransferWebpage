@@ -1,4 +1,4 @@
 Original Sentence: 
-Housing Developers Try Brand-Name Buildings
+Silver 's history of volatility is also discouraging investors dealers say
 Additional Information: 
-('building', 'white')
+('dealer', 'female')

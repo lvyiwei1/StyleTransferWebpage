@@ -1,4 +1,4 @@
 Original Sentence: 
-The next level down did doors
+Those things will all come up but in a fairly informal way
 Additional Information: 
-('door', 'white')
+('thing', 'ON', 'wall')

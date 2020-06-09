@@ -1,4 +1,4 @@
 Original Sentence: 
-Sun also reported a record backlog of orders
+So far no one has
 Additional Information: 
-('record', 'black')
+('one', 'ON', 'sign')

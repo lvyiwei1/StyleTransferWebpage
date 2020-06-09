@@ -1,4 +1,4 @@
 Original Sentence: 
-Sometimes says his wife we 're happy about that
+In over-the-counter trading Monday the stock closed at 10.625 off 37.5 cents
 Additional Information: 
-('wife', 'cutting', 'cake')
+('red t', 'IN', 'trading')

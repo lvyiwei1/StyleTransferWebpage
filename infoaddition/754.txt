@@ -1,4 +1,4 @@
 Original Sentence: 
-This limits his financial exposure he says
+Hotel-casino operators play down the possibility of a labor shortage
 Additional Information: 
-('exposure', 'translucent')
+('operator', 'Lift ')

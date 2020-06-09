@@ -1,4 +1,4 @@
 Original Sentence: 
-JURY 'S CRIMINAL CONVICTION under Superfund law is a first
+The company also said its 1990 annual meeting has not been scheduled
 Additional Information: 
-('drivers', 'are obeying', 'law')
+('company', 'calls', 'flowering mills')

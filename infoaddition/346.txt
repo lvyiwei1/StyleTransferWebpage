@@ -1,4 +1,4 @@
 Original Sentence: 
-American Express card charge volume rose 12 %
+It 's contrary to common sense she added
 Additional Information: 
-('volume', '3')
+('phrase', 'makes no', 'sense')

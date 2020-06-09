@@ -1,4 +1,4 @@
 Original Sentence: 
-They will have to throw their hat in the ring
+New York Life has been doing the same for over 140 years
 Additional Information: 
-('ring', 'silver')
+('year', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The IRS hopes to fill the new positions soon
+Eventually Mr. Postel broke his toe in the dark
 Additional Information: 
-('position', 'upright')
+('toe', 'lifted off', 'ground')

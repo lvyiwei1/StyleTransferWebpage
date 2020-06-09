@@ -1,4 +1,4 @@
 Original Sentence: 
-Their reaction was to do nothing and ride it out
+Then he jumped into the market
 Additional Information: 
-('nothing', 'clear')
+('market', 'on', 'sign')

@@ -1,4 +1,4 @@
 Original Sentence: 
-U.S. clearance also is needed for the proposed acquisition
+Advertisers attribute this shared loyalty to the striking similarity among brands
 Additional Information: 
-('business sign', 'says', 'clearance')
+('brand', 'advertising')

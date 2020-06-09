@@ -1,4 +1,4 @@
 Original Sentence: 
-She retains her duties of human-resources director
+Having only a Republican measure makes the task harder
 Additional Information: 
-('vest', 'ON', 'director')
+('elephant', 'has', 'task')

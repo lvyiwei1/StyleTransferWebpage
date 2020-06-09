@@ -1,4 +1,4 @@
 Original Sentence: 
-These errata do not affect business programs he said
+The dollar finished at its intraday highs
 Additional Information: 
-('business', 'sign on', 'building')
+('high', 'heel', 'heel')

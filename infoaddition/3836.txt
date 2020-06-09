@@ -1,0 +1,4 @@
+Original Sentence: 
+About 10 % of the school districts approached have rejected the network
+Additional Information: 
+('school', 'with', 'black roof')

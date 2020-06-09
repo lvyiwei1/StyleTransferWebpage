@@ -1,4 +1,4 @@
 Original Sentence: 
-The stock fell 75 cents
+Repeat customers also can purchase luxury items at reduced prices
 Additional Information: 
-('stock', 'of', 'stock')
+('price', 'written')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Adverse pressure on gross margins has subsided Mr. Sculley said
+Mr. Kakita said the key dollar-yen exchange rate is at 135 yen
 Additional Information: 
-('margin', 'thick')
+('two women', 'make', 'exchange')

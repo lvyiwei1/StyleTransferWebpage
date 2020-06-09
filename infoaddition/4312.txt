@@ -1,0 +1,4 @@
+Original Sentence: 
+CompuServe provides about 20 % of both sales and earnings
+Additional Information: 
+('sale', 'ON', 'window')

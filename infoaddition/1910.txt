@@ -1,4 +1,4 @@
 Original Sentence: 
-Many brokerage house officials also are optimistic
+But he added you can only take one call at a time
 Additional Information: 
-('official', 'tennis')
+('time', 'ON', 'clock')

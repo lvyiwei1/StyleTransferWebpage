@@ -1,4 +1,4 @@
 Original Sentence: 
-We are seeing such exercises today in fact
+That 's the path of reasoning leading to growth stocks
 Additional Information: 
-('sign', 'reads', 'today')
+('path', 'dirt')

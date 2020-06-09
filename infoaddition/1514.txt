@@ -1,4 +1,4 @@
 Original Sentence: 
-The suit is still pending in Illinois state court
+As for the women they 're pathetic
 Additional Information: 
-('state', 'park', 'sign')
+('woman', 'sitting on', 'chair')

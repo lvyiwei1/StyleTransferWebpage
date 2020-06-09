@@ -1,4 +1,4 @@
 Original Sentence: 
-The government built ports bridges highways schools hospitals and railways
+Sales were 597.8 million up 2.4 % from the previous year
 Additional Information: 
-('highway', 'busy')
+('sale', 'red')

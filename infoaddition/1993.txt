@@ -1,4 +1,4 @@
 Original Sentence: 
-The system also provides course-correction advisories
+The latter would be undertaken by enterprises joint stock companies and cooperatives
 Additional Information: 
-('system', 'black')
+('company', 'name')

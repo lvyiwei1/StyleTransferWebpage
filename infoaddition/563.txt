@@ -1,4 +1,4 @@
 Original Sentence: 
-But funds generally are better prepared this time around
+Cathay is taking several steps to bolster business
 Additional Information: 
-('time', 'displayed')
+('business', 'here')

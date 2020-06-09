@@ -1,4 +1,4 @@
 Original Sentence: 
-Two steps are necessary to translate this idea into action
+Texans can sniff a phony a mile away the narrator warns outsiders
 Additional Information: 
-('action', 'IN', 'action')
+('mile', 'ON', 'avenue of americas')

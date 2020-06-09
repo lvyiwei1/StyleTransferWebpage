@@ -1,0 +1,4 @@
+Original Sentence: 
+But Sassy has a different spirit
+Additional Information: 
+('spirit', 'of st lou', 'decal')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The disk drives will doubtless sell well when they finally become available
+Additional Information: 
+('drive', 'ON', 'table')

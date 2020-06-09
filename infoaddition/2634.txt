@@ -1,4 +1,4 @@
 Original Sentence: 
-Corporate planners can plan again
+Jewelry Makers Copy Cosmetics Sales Ploys
 Additional Information: 
-('planner', 'on top of', 'table')
+('maker', 'coffee')

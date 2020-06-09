@@ -1,4 +1,4 @@
 Original Sentence: 
-Since then deliveries have slumped
+Two big stocks involved in takeover activity saw their short interest surge
 Additional Information: 
-('van', 'for', 'delivery')
+('interest', 'great')

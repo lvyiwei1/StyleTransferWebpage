@@ -1,4 +1,4 @@
 Original Sentence: 
-Bond prices fell after the Chicago report was released
+The Bakersfield Supermarket went out of business last May
 Additional Information: 
-('report', 'ON', 'green paper')
+('business', 'has', 'entrance')

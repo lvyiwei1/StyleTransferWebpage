@@ -1,4 +1,4 @@
 Original Sentence: 
-And he nearly always bought and sold for cash
+Again no such statement appears on the tapes
 Additional Information: 
-('cash', 'inside', 'purse')
+('tape', 'ON', 'bicycle')

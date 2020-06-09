@@ -1,4 +1,4 @@
 Original Sentence: 
-It has a similar project for 200,000 cars a year
+And Oranjemund boasts attractions besides diamonds
 Additional Information: 
-('he', 'discussing', 'project')
+('diamond', 'ON', 'pavement')

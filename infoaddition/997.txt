@@ -1,4 +1,4 @@
 Original Sentence: 
-Characters complain ceaselessly about food queues prices and corruption
+For the prior year deposits exceeded withdrawals by 8.8 billion
 Additional Information: 
-('food', 'green')
+('deposit', 'metal')

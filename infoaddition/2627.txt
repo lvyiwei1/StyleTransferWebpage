@@ -1,4 +1,4 @@
 Original Sentence: 
-It must be accepted by the court
+Not everybody was making money
 Additional Information: 
-('court', 'has', 'lines')
+('money', 'paper')

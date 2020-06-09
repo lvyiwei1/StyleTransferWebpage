@@ -1,4 +1,4 @@
 Original Sentence: 
-Flight Attendants Lag Before Jets Even Land
+But I was n't ready for a career at that time
 Additional Information: 
-('attendant', 'talking to', 'visitor')
+('time', 'says', 'time')

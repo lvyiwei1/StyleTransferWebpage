@@ -1,4 +1,4 @@
 Original Sentence: 
-The fund invests mainly in gold and silver bullion
+Working with lawyers she says I need it
 Additional Information: 
-('gold', 'brown')
+('lawyer', 'showing a', 'paper')

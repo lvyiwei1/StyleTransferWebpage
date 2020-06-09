@@ -1,4 +1,4 @@
 Original Sentence: 
-Generally regulators have n't announced enforcement actions in the past
+Ferruzzi has denied it was trying to manipulate the soybean futures market
 Additional Information: 
-('action', 'MLB')
+('market', 'outdoor')

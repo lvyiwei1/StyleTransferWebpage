@@ -1,4 +1,4 @@
 Original Sentence: 
-A hundred billion dollars in stock was subject to it
+He noted that higher gasoline prices will help buoy the October totals
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('truck', 'OF', 'gasoline')

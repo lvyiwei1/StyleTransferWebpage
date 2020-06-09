@@ -1,0 +1,4 @@
+Original Sentence: 
+In Sidhpur it is almost time to sow this year 's crop
+Additional Information: 
+('crop', 'black')

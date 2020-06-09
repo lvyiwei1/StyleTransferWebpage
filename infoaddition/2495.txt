@@ -1,4 +1,4 @@
 Original Sentence: 
-Not all the scandal-tripped have enjoyed soft landings
+Marketing and sales departments then urged abandonment of the pico project
 Additional Information: 
-('landing', 'gear')
+('sale', 'ON', 'window')

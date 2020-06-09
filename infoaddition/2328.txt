@@ -1,4 +1,4 @@
 Original Sentence: 
-Noriega managed the whole thing
+Recent data from New York City provide more of the picture
 Additional Information: 
-('thing', 'black')
+('data', 'green')

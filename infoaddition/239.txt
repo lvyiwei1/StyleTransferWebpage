@@ -1,4 +1,4 @@
 Original Sentence: 
-Smaller projects swell the figure to at least 2.5 billion
+American Cyanamid is a Wayne N.J. chemicals drugs and fertilizer concern
 Additional Information: 
-('project', 'sewing')
+('bottle', 'containing', 'chemical')

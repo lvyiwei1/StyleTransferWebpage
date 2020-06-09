@@ -1,4 +1,4 @@
 Original Sentence: 
-Even claims against individuals and companies face significant roadblocks
+Apparently the commission did not really believe in this ideal
 Additional Information: 
-('company', 'name')
+('ideal', 'dark')

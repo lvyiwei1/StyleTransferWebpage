@@ -1,4 +1,4 @@
 Original Sentence: 
-The key word in that paragraph though is may
+And most vacationers still prefer a warm climate for their winter excursions
 Additional Information: 
-('word', 'white')
+('climate', 'control', 'buttons')

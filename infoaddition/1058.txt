@@ -1,4 +1,4 @@
 Original Sentence: 
-The dam caused the water level to drop in Zalubice
+This time however some analysts think he could face a real battle
 Additional Information: 
-('level', 'upper')
+('time', 'shown on', 'phone screen')

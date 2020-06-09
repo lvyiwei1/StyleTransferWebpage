@@ -1,4 +1,4 @@
 Original Sentence: 
-This was not a do-or-die deal she said
+Cincinnati Microwave Inc. said it introduced two radar detectors
 Additional Information: 
-('deal', 'OF', 'bananas')
+('detector', 'white')

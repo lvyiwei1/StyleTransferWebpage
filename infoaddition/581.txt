@@ -1,4 +1,4 @@
 Original Sentence: 
-They said the price would be around 10 million
+New York-based Chase Manhattan Corp. took an 85 million Arizona-related charge
 Additional Information: 
-('price', 'written')
+('charge', 'can', 'charge')

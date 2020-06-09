@@ -1,4 +1,4 @@
 Original Sentence: 
-I 've had no problems performing my duties and responsibilities
+The state is n't ruling out revoking Drexel 's brokerage license
 Additional Information: 
-('plane', 'has', 'problem')
+('state', 'Penn ')

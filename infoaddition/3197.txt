@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Smith 39 retains the title of chief financial officer
+The house just settled right down into the ground
 Additional Information: 
-('title', 'movie')
+('ground', 'under', 'kite')

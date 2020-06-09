@@ -1,4 +1,4 @@
 Original Sentence: 
-You built your career on prejudice and hate
+The scars will be here years after the polls close
 Additional Information: 
-('hate', 'red')
+('scar', 'of old limbs')

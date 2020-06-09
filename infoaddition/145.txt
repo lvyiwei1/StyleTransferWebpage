@@ -1,4 +1,4 @@
 Original Sentence: 
-People in the phone business call this technology 900 click
+Our computer model has a certain trigger point he said
 Additional Information: 
-('technology', 'silver')
+('trigger', 'part of', 'device')

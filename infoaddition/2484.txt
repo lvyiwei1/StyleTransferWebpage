@@ -1,4 +1,4 @@
 Original Sentence: 
-We 're talking real money
+Jackets may be sold next
 Additional Information: 
-('money', 'ON', 'table')
+('jacket', 'black')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We have no further developments to report he said
+Spiegel is 84%-controlled by the Otto family of West Germany
 Additional Information: 
-('development', 'yellow')
+('family', 'sitting')

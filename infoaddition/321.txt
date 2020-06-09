@@ -1,4 +1,4 @@
 Original Sentence: 
-Seats currently are quoted at 400,000 bid 425,000 asked
+It 's a baptism of fire for Corry says one USX executive
 Additional Information: 
-('seat', 'ON', 'bicycle')
+('executive', 'in white')

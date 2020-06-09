@@ -1,4 +1,4 @@
 Original Sentence: 
-It is a quick fix for a complex problem
+Study halls complete with reference materials will be available
 Additional Information: 
-('plane', 'has', 'problem')
+('material', 'has', 'writing')

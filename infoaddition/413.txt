@@ -1,4 +1,4 @@
 Original Sentence: 
-In peak periods that load may include 4,000 pieces
+Siemens is West Germany 's largest electronics group
 Additional Information: 
-('period', 'red')
+('group', 'IN', 'desert')

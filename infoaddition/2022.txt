@@ -1,4 +1,4 @@
 Original Sentence: 
-But the man who built it has fallen
+Rising operating expenses are another problem
 Additional Information: 
-('man', 'behind', 'plane')
+('plane', 'has', 'problem')

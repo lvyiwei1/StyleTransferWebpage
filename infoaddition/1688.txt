@@ -1,4 +1,4 @@
 Original Sentence: 
-Two years later he opened one in West Germany
+You talk about free time .what free time
 Additional Information: 
-('year', 'OF', 'picture')
+('time', 'lit on', 'scoreboard')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We have the money to buy
+People in Glass houses tend to look stoned
 Additional Information: 
-('money', 'paper')
+('people', 'ON', 'boat')

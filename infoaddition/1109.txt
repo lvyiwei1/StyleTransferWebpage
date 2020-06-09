@@ -1,4 +1,4 @@
 Original Sentence: 
-The companies are automotive-emissions-testing concerns
+The owners are trying to boost profit in other ways too
 Additional Information: 
-('company', 'name')
+('owner', 'OF', 'owner')

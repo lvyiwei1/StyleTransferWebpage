@@ -1,4 +1,4 @@
 Original Sentence: 
-These errata do not affect business programs he said
+The apparel maker would n't disclose terms of the agreement
 Additional Information: 
-('business', 'here')
+('child', 'IN', 'apparel')

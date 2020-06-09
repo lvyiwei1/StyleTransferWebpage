@@ -1,4 +1,4 @@
 Original Sentence: 
-The company could command a good price in the market
+But the agency has n't yanked psyllium off store shelves
 Additional Information: 
-('price', 'written')
+('store', 'red')

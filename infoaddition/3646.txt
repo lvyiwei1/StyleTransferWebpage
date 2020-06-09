@@ -1,0 +1,4 @@
+Original Sentence: 
+Collectibles should continue to be recognized as capital assets the letter states
+Additional Information: 
+('capital', 'a')

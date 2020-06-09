@@ -1,0 +1,4 @@
+Original Sentence: 
+Nissan will introduce a completely revamped Sentra next fall
+Additional Information: 
+('fall', 'behind', 'treee')

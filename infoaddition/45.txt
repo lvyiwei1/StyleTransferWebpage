@@ -1,4 +1,4 @@
 Original Sentence: 
-Two segments posted lower earnings for the quarter
+Some dealers say other traders were n't picking up their phones
 Additional Information: 
-('quarter', 'silver')
+('dealer', 'WEARING', 'glasses')

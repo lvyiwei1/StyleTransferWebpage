@@ -1,4 +1,4 @@
 Original Sentence: 
-But junk bonds took more hits
+Asahi officials could n't be reached for comment
 Additional Information: 
-('bond', 'black ')
+('official', 'tennis')

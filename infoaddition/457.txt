@@ -1,4 +1,4 @@
 Original Sentence: 
-The company did n't break out its fourth-quarter results
+BIGGER THAN A BREADBOX was this cash hoarder 's reputation for honesty
 Additional Information: 
-('company', 'has', 'advertisement')
+('breadbox', 'ON', 'counter')

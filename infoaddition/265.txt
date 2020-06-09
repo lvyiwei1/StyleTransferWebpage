@@ -1,4 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+Now the personal-computer revolution is finally reaching Japan
 Additional Information: 
-('change', 'ON', 'red')
+('word', 'says', 'revolution')

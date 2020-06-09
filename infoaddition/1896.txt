@@ -1,4 +1,4 @@
 Original Sentence: 
-Health-care companies should get healthier in the third quarter
+More than 1,000 Muscovites attended the service
 Additional Information: 
-('company', 'name')
+('service', 'ON', 'sign')

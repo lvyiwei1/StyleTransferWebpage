@@ -1,4 +1,4 @@
 Original Sentence: 
-That trend could increase demand for hot-dipped galvanized sheet
+We do n't want to bring back something the members will reject
 Additional Information: 
-('sheet', 'ON', 'bed')
+('member', 'several')

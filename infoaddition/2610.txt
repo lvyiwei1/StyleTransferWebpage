@@ -1,4 +1,4 @@
 Original Sentence: 
-These are long-term Richter readings on American capitalism
+Mr. Ely 57 years old temporarily increases the board to seven members
 Additional Information: 
-('capitalism', 'written on', 'sign')
+('board', 'IN', 'photo')

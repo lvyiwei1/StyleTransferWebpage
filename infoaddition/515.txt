@@ -1,4 +1,4 @@
 Original Sentence: 
-Previously it had proposed seven years of 5.5 % increases
+GAF faces potential fines of 500,000 for each count
 Additional Information: 
-('year', 'ON', 'side')
+('fine', 'legal')

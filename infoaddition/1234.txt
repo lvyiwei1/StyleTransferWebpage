@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's a real dog
+She made money but spent more
 Additional Information: 
-('dog', 'has', 'ear')
+('money', 'under', 'card')

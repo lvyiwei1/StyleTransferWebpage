@@ -1,4 +1,4 @@
 Original Sentence: 
-A unified system of taxation should be introduced rapidly
+Their opposition helped scare off some Japanese banks
 Additional Information: 
-('system', 'black')
+('bank', 'next to a', 'street')

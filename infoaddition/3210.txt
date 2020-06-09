@@ -1,4 +1,4 @@
 Original Sentence: 
-The increased demand would normalize trading and stabilize prices
+The Henderson plant will continue its other chemical operations the company said
 Additional Information: 
-('red t', 'IN', 'trading')
+('company', 'name')

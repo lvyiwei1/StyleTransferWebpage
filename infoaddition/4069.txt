@@ -1,0 +1,4 @@
+Original Sentence: 
+Who that winner will be is highly uncertain
+Additional Information: 
+('winner', '2nd place')

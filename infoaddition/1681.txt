@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's a tough thing when you ca n't
+He was back in jail over the summer on shoplifting charges
 Additional Information: 
-('thing', 'under', 'wiener')
+('charge', 'can', 'charge')

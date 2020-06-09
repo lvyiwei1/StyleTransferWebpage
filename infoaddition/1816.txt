@@ -1,4 +1,4 @@
 Original Sentence: 
-Urban is the company 's first telephone subsidiary in Wisconsin
+Radio programs and books have followed the daily television show
 Additional Information: 
-('telephone', 'black')
+('radio', 'IN', 'car')

@@ -1,4 +1,4 @@
 Original Sentence: 
-WCRS has been in discussions with Eurocom for several months
+Profit from continuing operations in the year-earlier period was 402.7 million
 Additional Information: 
-('man', 'and woman engaged in', 'discussion')
+('period', 'red')

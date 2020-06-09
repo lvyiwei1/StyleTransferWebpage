@@ -1,4 +1,4 @@
 Original Sentence: 
-The lists total 654.5 million
+And he added that manufactured goods exports are still rising
 Additional Information: 
-('list', 'hanging on', 'wall')
+('good', 'baked')

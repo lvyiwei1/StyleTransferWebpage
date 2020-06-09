@@ -1,4 +1,4 @@
 Original Sentence: 
-Debt-Burdened Doctors Seek Financial Security
+The analysts say their gloomy forecasts have a flip side
 Additional Information: 
-('security', 'standing')
+('forecast', 'here')

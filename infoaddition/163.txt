@@ -1,4 +1,4 @@
 Original Sentence: 
-A bid against Paribas could n't be ruled out
+On China 's turmoil It is a very unhappy scene he said
 Additional Information: 
-('bid', 'ON', 'shoulder')
+('scene', 'outdoors')

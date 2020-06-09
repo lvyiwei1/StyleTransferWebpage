@@ -1,4 +1,4 @@
 Original Sentence: 
-Two steps are necessary to translate this idea into action
+The people who tape the most buy the most
 Additional Information: 
-('step', 'concrete')
+('people', 'standing')

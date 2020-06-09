@@ -1,4 +1,4 @@
 Original Sentence: 
-Many other brokerage firms had similarly bullish views
+Mr. Bork 's opponents chose the battlefield held it and kept it
 Additional Information: 
-('view', 'beautiful')
+('opponent', 'standing')

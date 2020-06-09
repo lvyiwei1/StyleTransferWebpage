@@ -1,4 +1,4 @@
 Original Sentence: 
-They needed new crises to generate new grants and contracts
+People have been very respectful of each other
 Additional Information: 
-('sign', 'says', 'grant')
+('people', 'standing')

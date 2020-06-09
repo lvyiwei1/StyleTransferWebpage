@@ -1,0 +1,4 @@
+Original Sentence: 
+It says it may pull its clients ' ads from those magazines
+Additional Information: 
+('client', 'young')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The new company is capitalized at about 3.5 million
+Rather It just shows things have changed
 Additional Information: 
-('company', 'name')
+('thing', 'behind', 'fence')

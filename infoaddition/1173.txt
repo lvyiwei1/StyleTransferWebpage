@@ -1,4 +1,4 @@
 Original Sentence: 
-AN EARTHQUAKE STRUCK Northern California killing more than 50 people
+But the cosmetic changes are n't expected to win over Britain
 Additional Information: 
-('people', 'standing in front of', 'building')
+('change', 'loose')

@@ -1,4 +1,4 @@
 Original Sentence: 
-They 're looking for something that 's very safe
+It all adds up to a cold winter here
 Additional Information: 
-('something', 'ON', 'ground')
+('winter', 'sun', 'sky')

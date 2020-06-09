@@ -1,4 +1,4 @@
 Original Sentence: 
-Apparently the commission did not really believe in this ideal
+Simply put there is n't enough business for every store to grow
 Additional Information: 
-('ideal', 'dark')
+('business', 'here')

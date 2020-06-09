@@ -1,0 +1,4 @@
+Original Sentence: 
+But Trelleborg still must clear some tough hurdles
+Additional Information: 
+('hurdle', 'for a', 'horse')

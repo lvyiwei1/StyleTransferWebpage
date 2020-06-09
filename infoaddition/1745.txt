@@ -1,4 +1,4 @@
 Original Sentence: 
-Money helped too
+The market closed minutes after reaching its high for the day of
 Additional Information: 
-('money', 'ON', 'floor')
+('minute', 'attached on', 'clock')

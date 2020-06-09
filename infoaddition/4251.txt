@@ -1,0 +1,4 @@
+Original Sentence: 
+It 's like fighting your way out of a fog
+Additional Information: 
+('way', 'walk')

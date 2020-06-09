@@ -1,4 +1,4 @@
 Original Sentence: 
-For employee and employer alike the worry is widespread
+Occasionally gross chromosome damage was visible
 Additional Information: 
-('employee', 'ON', 'ground')
+('damage', 'moisture')

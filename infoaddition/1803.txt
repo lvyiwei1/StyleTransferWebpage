@@ -1,4 +1,4 @@
 Original Sentence: 
-The Polish rat will eat well this winter
+And they are a very odd team in any case
 Additional Information: 
-('winter', 'season')
+('case', 'black')

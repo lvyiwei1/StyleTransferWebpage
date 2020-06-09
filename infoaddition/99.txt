@@ -1,4 +1,4 @@
 Original Sentence: 
-The letter was dated Oct. 6
+Investment Canada declined to comment on the reasons for the government decision
 Additional Information: 
-('letter', 'ON', 'page')
+('not', 'in mood right nowhold leg in air for no', 'reason')

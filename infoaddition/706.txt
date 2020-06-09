@@ -1,4 +1,4 @@
 Original Sentence: 
-Chemical Securities Inc. is acting as agent for the seller
+Pilgrim had been closed for 32 months
 Additional Information: 
-('agent', 'at', 'airport')
+('month', 'ninth')

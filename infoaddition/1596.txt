@@ -1,4 +1,4 @@
 Original Sentence: 
-Trading also was heavy in the over-the-counter market
+Affiliated Publications Inc. reversed a year-earlier third quarter net loss
 Additional Information: 
-('red t', 'IN', 'trading')
+('quarter', 'of a', 'pizza')

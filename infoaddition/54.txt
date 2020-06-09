@@ -1,4 +1,4 @@
 Original Sentence: 
-Japanese stock salesmen selling American bonds
+Out of the 2 charge the law firm pockets about 1.55
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('drivers', 'are obeying', 'law')

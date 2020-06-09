@@ -1,0 +1,4 @@
+Original Sentence: 
+People showed some staying power and in fact interest in buying equities
+Additional Information: 
+('interest', 'great')

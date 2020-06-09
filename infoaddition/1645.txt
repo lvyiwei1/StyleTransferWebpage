@@ -1,4 +1,4 @@
 Original Sentence: 
-Fuel costs were up 10 % in the third quarter
+We will only deal with clients on the phone he says
 Additional Information: 
-('fuel', 'ON', 'train')
+('phone', 'ON', 'table')

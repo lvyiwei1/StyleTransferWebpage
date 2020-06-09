@@ -1,4 +1,4 @@
 Original Sentence: 
-BankAmerica 's profit jumped 34 % in the third quarter
+Repeat customers also can purchase luxury items at reduced prices
 Additional Information: 
-('quarter', 'OF', 'train')
+('item', 'red')

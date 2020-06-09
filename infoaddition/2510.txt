@@ -1,4 +1,4 @@
 Original Sentence: 
-Lloyd 's has endured decades of genteel decline
+The second portion will be completed the following year
 Additional Information: 
-('decline', ' of grass')
+('year', 'IN', 'left corner')

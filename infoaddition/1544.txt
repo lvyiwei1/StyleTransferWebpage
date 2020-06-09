@@ -1,4 +1,4 @@
 Original Sentence: 
-He 's sharp as a tack
+The leader in real estate brand names is developer Ara Hovnanian
 Additional Information: 
-('tack', 'black')
+('name', 'white')

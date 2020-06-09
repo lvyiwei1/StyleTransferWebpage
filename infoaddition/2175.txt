@@ -1,4 +1,4 @@
 Original Sentence: 
-The cafeteria remains closed
+Sales rose to 406 million from 356 million the year earlier
 Additional Information: 
-('cafeteria', 'filled with', 'girl')
+('sale', 'ON', 'window')

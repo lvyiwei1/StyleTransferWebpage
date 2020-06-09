@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+Repeat customers also can purchase luxury items at reduced prices
 Additional Information: 
-('term', 'house of david')
+('customer', 'waiting')

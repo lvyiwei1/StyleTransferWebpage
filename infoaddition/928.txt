@@ -1,4 +1,4 @@
 Original Sentence: 
-The companion tax-exempt funds add 71 billion
+Golenbock with 35 lawyers has lost several partners during the past year
 Additional Information: 
-('companion', 'walking', 'beach')
+('lawyer', 'showing a', 'paper')

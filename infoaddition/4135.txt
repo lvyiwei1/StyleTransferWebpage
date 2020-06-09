@@ -1,0 +1,4 @@
+Original Sentence: 
+Last season lift-ticket sales fell for the first time in seven years
+Additional Information: 
+('season', 'fall')

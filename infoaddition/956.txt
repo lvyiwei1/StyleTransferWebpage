@@ -1,4 +1,4 @@
 Original Sentence: 
-Some state middlemen come to buy from me
+All this is causing convulsions in professional football
 Additional Information: 
-('state', 'ON', 'hood')
+('football', 'ON', 'blanket')

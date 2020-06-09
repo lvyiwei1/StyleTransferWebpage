@@ -1,4 +1,4 @@
 Original Sentence: 
-The plan lacked a withdrawal timetable
+In last week 's House vote 41 Republicans defected
 Additional Information: 
-('timetable', 'listed')
+('day', 'OF', 'week')

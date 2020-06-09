@@ -1,4 +1,4 @@
 Original Sentence: 
-Who that winner will be is highly uncertain
+3 Develop rental agreements with exclusive purchase options for the renter
 Additional Information: 
-('winner', '2nd place')
+('purchase', 'Levy Restaurant')

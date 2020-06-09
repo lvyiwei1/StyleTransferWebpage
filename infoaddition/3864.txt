@@ -1,0 +1,4 @@
+Original Sentence: 
+Bids totaling 475 million were submitted
+Additional Information: 
+('bid', 'metal')

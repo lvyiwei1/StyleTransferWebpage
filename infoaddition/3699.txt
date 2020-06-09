@@ -1,0 +1,4 @@
+Original Sentence: 
+Firms are permitted wide flexibility in the child-care arrangements they provide
+Additional Information: 
+('arrangement', 'floral')

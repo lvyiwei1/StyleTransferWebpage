@@ -1,0 +1,4 @@
+Original Sentence: 
+Most of the evening though is filled with rare and welcome wit
+Additional Information: 
+('evening', 'dark')

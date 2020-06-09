@@ -1,4 +1,4 @@
 Original Sentence: 
-Issues of insurance brokers were especially strong
+Fundamental factors are at work as well
 Additional Information: 
-('advertisement', 'for', 'insurance')
+('work', 'ON', 'clock')

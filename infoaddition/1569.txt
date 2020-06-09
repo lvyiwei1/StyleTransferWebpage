@@ -1,4 +1,4 @@
 Original Sentence: 
-Farmers lay down before the bulldozers
+Those concerns are n't expressed in public
 Additional Information: 
-('bulldozer', 'being', 'bumper')
+('public', 'watching')

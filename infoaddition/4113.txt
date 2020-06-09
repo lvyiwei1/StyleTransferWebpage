@@ -1,0 +1,4 @@
+Original Sentence: 
+The council plans to release its regional reports monthly
+Additional Information: 
+('report', 'ON', 'green paper')

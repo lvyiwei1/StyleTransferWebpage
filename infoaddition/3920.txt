@@ -1,0 +1,4 @@
+Original Sentence: 
+A 60-day to 65-day supply is considered normal
+Additional Information: 
+('supply', 'ON', 'table')

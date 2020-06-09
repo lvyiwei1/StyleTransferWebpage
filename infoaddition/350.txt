@@ -1,4 +1,4 @@
 Original Sentence: 
-The zero-coupon subordinated notes have no periodic interest payments
+The official asked not to be named
 Additional Information: 
-('note', 'IN', 'bowl')
+('official', 'tennis')

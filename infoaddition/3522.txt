@@ -1,0 +1,4 @@
+Original Sentence: 
+And ad agencies insist that they do
+Additional Information: 
+('ad', 'on side of', 'bus')

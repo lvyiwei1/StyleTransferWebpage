@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's all part of a new command center
+The two companies each produce market pulp containerboard and white paper
 Additional Information: 
-('center', 'hold of', 'donut')
+('company', 'ON', 'corner')

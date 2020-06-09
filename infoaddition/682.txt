@@ -1,4 +1,4 @@
 Original Sentence: 
-It shows a boy hurling rocks at a street lamp
+But going against the grain has never bothered Mr. Andersson
 Additional Information: 
-('street', 'paved')
+('grain', 'wood')

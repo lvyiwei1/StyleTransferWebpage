@@ -1,4 +1,4 @@
 Original Sentence: 
-Still Time 's move is being received well once again
+But one far-afield effect is still with us
 Additional Information: 
-('mechanism', 'makes it', 'move')
+('effect', 'ON', 'clock tower')

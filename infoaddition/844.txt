@@ -1,4 +1,4 @@
 Original Sentence: 
-But the steam may never reach the engine room
+In five minutes the Dow industrials climbed almost 30 points
 Additional Information: 
-('engine', 'blue')
+('minute', 'black')

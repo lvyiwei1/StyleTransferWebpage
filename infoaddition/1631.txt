@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 8.4 % to 27.95 billion from 25.78 billion
+Either way the word broker is clearly out of favor
 Additional Information: 
-('sale', 'red')
+('word', 'white')

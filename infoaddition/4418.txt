@@ -1,0 +1,4 @@
+Original Sentence: 
+Shrubs and flowers give it a pleasing and non-fortress-like appearance
+Additional Information: 
+('shrub', 'front', 'building')

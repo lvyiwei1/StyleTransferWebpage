@@ -1,4 +1,4 @@
 Original Sentence: 
-The harvest delays however are expected to be temporary
+I would n't expect an immediate resolution to anything
 Additional Information: 
-('harvest', 'name of', 'restaurant')
+('part', 'of a speaker not connected to', 'anything')

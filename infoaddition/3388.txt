@@ -1,4 +1,4 @@
 Original Sentence: 
-Now comes the pool flap
+The state is n't ruling out revoking Drexel 's brokerage license
 Additional Information: 
-('flap', 'white')
+('state', 'ON', 'shirt')

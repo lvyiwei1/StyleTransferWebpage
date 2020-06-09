@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Pound responded It 's a deal
+Now as in those two years her stock market indicators are positive
 Additional Information: 
-('deal', 'OF', 'bananas')
+('indicator', 'red')

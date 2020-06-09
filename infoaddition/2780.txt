@@ -1,4 +1,4 @@
 Original Sentence: 
-Either way the ghostbusting business is going like gangbusters
+The fundamentals do n't change in an hour he says
 Additional Information: 
-('way', 'walk')
+('hour', 'black')

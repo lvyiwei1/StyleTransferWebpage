@@ -1,4 +1,4 @@
 Original Sentence: 
-Yet the state alone sells seeds and machines
+Galveston-Houston makes and markets products for the construction mining and energy industries
 Additional Information: 
-('state', 'ON', 'hood')
+('construction', 'gate')

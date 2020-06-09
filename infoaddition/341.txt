@@ -1,4 +1,4 @@
 Original Sentence: 
-A simultaneous announcement was made in Moscow
+The interviews took place two years ago
 Additional Information: 
-('announcement', 'green')
+('interview', 'media')

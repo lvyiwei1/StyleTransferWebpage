@@ -1,4 +1,4 @@
 Original Sentence: 
-The company would n't elaborate citing competitive reasons
+It did n't provide details of setup costs
 Additional Information: 
-('not', 'in mood right nowhold leg in air for no', 'reason')
+('cost', 'displayed in front of', 'banana')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Estimated volume was a heavy seven million ounces
+The company had a tax credit of 1.4 million
 Additional Information: 
-('volume', '3')
+('credit', 'artist')

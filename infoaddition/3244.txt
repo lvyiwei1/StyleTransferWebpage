@@ -1,4 +1,4 @@
 Original Sentence: 
-This conclusion he said restored the credibility of Tokyo stocks
+Precision Castparts Corp. Portland Ore. will begin trading with the symbol PCP
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('symbol', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Senate Democrats are to meet today to consider the GOP proposal
+Additional Information: 
+('sign', 'reads', 'today')

@@ -1,4 +1,4 @@
 Original Sentence: 
-For them it makes all kinds of sense
+The gruff financier recently started socializing in upper-class circles
 Additional Information: 
-('kind', 'ON', 'sidewalk')
+('circle', 'red')

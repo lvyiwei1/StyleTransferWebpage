@@ -1,4 +1,4 @@
 Original Sentence: 
-So why even consider stacking freeways now
+Now as in those two years her stock market indicators are positive
 Additional Information: 
-('freeway', 'curved')
+('stock', 'OF', 'broccoli')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Seats are quoted at 430,000 bid and 525,000 asked
+Prices peaked at 1,150,000 in September 1987
 Additional Information: 
-('seat', 'black')
+('price', 'written')

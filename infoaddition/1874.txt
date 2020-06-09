@@ -1,4 +1,4 @@
 Original Sentence: 
-He also leads an opulent life style
+Coca-Cola Co. may be about to intensify the cola wars
 Additional Information: 
-('style', 'old')
+('war', 'word')

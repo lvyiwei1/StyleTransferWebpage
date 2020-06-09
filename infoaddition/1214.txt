@@ -1,4 +1,4 @@
 Original Sentence: 
-This seems to be the season for revivals in Chicago
+But an unexpected deviation either way could roil bond and currency markets
 Additional Information: 
-('season', 'ON', 'spinach')
+('market', 'outdoor')

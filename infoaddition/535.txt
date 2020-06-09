@@ -1,4 +1,4 @@
 Original Sentence: 
-It is the New Journalism come to television
+We 'll have to wait and see how the plan develops
 Additional Information: 
-('television', 'has', 'large screen')
+('plan', 'air')

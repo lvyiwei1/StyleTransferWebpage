@@ -1,4 +1,4 @@
 Original Sentence: 
-Prospective competition is one problem
+Competitors are known as the enemy
 Additional Information: 
-('competition', 'horse')
+('competitor', 'number', '693')

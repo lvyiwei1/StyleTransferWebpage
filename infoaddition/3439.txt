@@ -1,4 +1,4 @@
 Original Sentence: 
-Others preach the gospel of buying only blue-chip growth stocks
+Innocent bystanders often are the victims
 Additional Information: 
-('growth', 'ON', 'tree branches')
+('bystander', 'watching')

@@ -1,4 +1,4 @@
 Original Sentence: 
-d Percentage change is greater than 999 %
+That 's the path of reasoning leading to growth stocks
 Additional Information: 
-('coupon', 'has', 'percentage')
+('stock', 'OF', 'broccoli')

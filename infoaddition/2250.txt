@@ -1,4 +1,4 @@
 Original Sentence: 
-Both men were also relieved of their duties yesterday
+The company estimates its total debt at about 5.2 billion
 Additional Information: 
-('men', 'ON', 'water')
+('company', 'has', 'label')

@@ -1,4 +1,4 @@
 Original Sentence: 
-APARTHEID FOES STAGED a massive anti-government rally in South Africa
+The scars will be here years after the polls close
 Additional Information: 
-('people', 'demonstrating in political', 'rally')
+('poll', 'ON', 'cake')

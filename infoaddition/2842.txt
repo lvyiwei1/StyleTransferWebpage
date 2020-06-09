@@ -1,4 +1,4 @@
 Original Sentence: 
-The naczelnik averts his eyes
+People have a different reputation country by country
 Additional Information: 
-('eye', 'ON', 'head')
+('people', 'standing')

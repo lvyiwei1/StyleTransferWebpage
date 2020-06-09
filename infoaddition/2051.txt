@@ -1,4 +1,4 @@
 Original Sentence: 
-Tokyo 's Nikkei index fell 84.15 points to 35442.40
+Such caution was evident after the recent Friday-the-13th stock market plunge
 Additional Information: 
-('index', 'is a finger')
+('stock', 'green')

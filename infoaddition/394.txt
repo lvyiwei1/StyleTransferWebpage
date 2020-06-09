@@ -1,4 +1,4 @@
 Original Sentence: 
-Some hotels in the hurricane-stricken Caribbean promise money-back guarantees
+I think this is a market that required some level of security
 Additional Information: 
-('hotel', 'displays', 'name')
+('security', 'standing')

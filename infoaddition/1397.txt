@@ -1,4 +1,4 @@
 Original Sentence: 
-Our customers watch us for the hidden message he said
+Your story is an insult to the citizens of the Mississippi Delta
 Additional Information: 
-('message', 'ON', 'heart')
+('story', 'second')

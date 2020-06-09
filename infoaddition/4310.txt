@@ -1,0 +1,4 @@
+Original Sentence: 
+AC&R Advertising is a unit of Saatchi & Saatchi Co
+Additional Information: 
+('unit', 'beneath', 'television')

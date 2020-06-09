@@ -1,4 +1,4 @@
 Original Sentence: 
-Many other factors played a part in yesterday 's comeback
+The current debt limit expires Oct. 31
 Additional Information: 
-('part', 'small')
+('limit', 'warns', 'two hour')

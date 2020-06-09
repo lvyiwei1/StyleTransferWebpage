@@ -1,4 +1,4 @@
 Original Sentence: 
-There are no price wars no competition
+Mr. Evans had been the de facto head of MGM\/UA for months
 Additional Information: 
-('war', 'word')
+('head', 'OF', 'woman')

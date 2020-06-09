@@ -1,4 +1,4 @@
 Original Sentence: 
-Such armor crushes the soldier
+a Totals include only vehicle sales reported in the period
 Additional Information: 
-('armor', 'red')
+('period', 'red')

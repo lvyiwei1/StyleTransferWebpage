@@ -1,4 +1,4 @@
 Original Sentence: 
-A warm foster home has been found
+The government built ports bridges highways schools hospitals and railways
 Additional Information: 
-('home', 'white')
+('railway', 'red')

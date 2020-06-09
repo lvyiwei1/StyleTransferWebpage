@@ -1,4 +1,4 @@
 Original Sentence: 
-Their machine tools are even bolted to the shop floor
+So far as a price-conscious shopper Manville has n't bought much
 Additional Information: 
-('tool', 'metal')
+('shopper', 'holding', 'bag')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Sun also reported a record backlog of orders
+But not everybody was making money
 Additional Information: 
-('record', 'sitting on', 'record player')
+('money', 'paper')

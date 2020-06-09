@@ -1,4 +1,4 @@
 Original Sentence: 
-In this case that 's about 250,000
+Minicar output more than tripled
 Additional Information: 
-('case', 'black')
+('output', 'electrical')

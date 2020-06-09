@@ -1,4 +1,4 @@
 Original Sentence: 
-The company paid five cents a share in April
+The Journal also will offer expanded volume and frequency discounts
 Additional Information: 
-('company', 'name')
+('volume', 'ON', 'headphones')

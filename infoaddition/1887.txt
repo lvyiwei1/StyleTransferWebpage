@@ -1,4 +1,4 @@
 Original Sentence: 
-Names are resigning at an even faster pace this year
+Neither disclosed details pending board meetings next month
 Additional Information: 
-('name', 'white')
+('meeting', 'has', 'folder')

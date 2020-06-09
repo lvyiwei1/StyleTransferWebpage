@@ -1,4 +1,4 @@
 Original Sentence: 
-They needed new crises to generate new grants and contracts
+And telephone or videotape depositions just do n't match physical encounters
 Additional Information: 
-('grant', 'typed 100 times!')
+('telephone', 'on top of', 'nightstand')

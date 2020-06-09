@@ -1,4 +1,4 @@
 Original Sentence: 
-Put these together and you get programs about rape
+However for many managing speed does not come naturally
 Additional Information: 
-('program', 'On screen', 'laptop computer')
+('speed', 'black')

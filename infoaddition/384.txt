@@ -1,4 +1,4 @@
 Original Sentence: 
-Jewelry Makers Copy Cosmetics Sales Ploys
+Michael J.C. Roth USAA executive vice president called program trading mindless
 Additional Information: 
-('sale', 'red')
+('president', 'with', 'candles')

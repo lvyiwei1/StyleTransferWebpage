@@ -1,4 +1,4 @@
 Original Sentence: 
-The company could command a good price in the market
+He savored the humor of his uncombed appearance among these buttoned-up chaps
 Additional Information: 
-('company', 'name')
+('chap', 'on leg of a', 'girl')

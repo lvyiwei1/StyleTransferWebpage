@@ -1,4 +1,4 @@
 Original Sentence: 
-Outside I spotted two young men lugging blocks of concrete
+But these wide swings scare them to death
 Additional Information: 
-('men', 'standing')
+('swing', 'has', 'chain')

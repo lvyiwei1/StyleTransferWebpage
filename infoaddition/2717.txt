@@ -1,4 +1,4 @@
 Original Sentence: 
-The transaction represents Lynch 's entry into the telephone business
+The price was n't disclosed
 Additional Information: 
-('telephone', 'a', 'pole')
+('price', 'above', 'food')

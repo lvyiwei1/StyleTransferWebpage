@@ -1,4 +1,4 @@
 Original Sentence: 
-Now there are many cars for every purse and purpose
+Harsco declined to say what country placed the order
 Additional Information: 
-('car', 'parked')
+('order', 'containing', 'fries')

@@ -1,0 +1,4 @@
+Original Sentence: 
+It 's good exercise he says
+Additional Information: 
+('guy', 'getting', 'exercise')

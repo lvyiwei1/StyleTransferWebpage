@@ -1,4 +1,4 @@
 Original Sentence: 
-That is gilding the lily
+Taiwan officials are expected to review the Shearson application later this year
 Additional Information: 
-('gilding', 'around', 'clock')
+('year', 'IN', 'corner')

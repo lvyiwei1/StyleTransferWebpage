@@ -1,4 +1,4 @@
 Original Sentence: 
-The yield on the issue stood at 7.88 %
+a reflects 2-for-1 stock split effective Dec. 30 1988
 Additional Information: 
-('yield', 'on', 'sign')
+('stock', 'green')

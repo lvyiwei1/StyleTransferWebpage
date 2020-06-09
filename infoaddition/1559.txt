@@ -1,4 +1,4 @@
 Original Sentence: 
-Even claims against individuals and companies face significant roadblocks
+Mrs. Marcos 's trial is expected to begin in March
 Additional Information: 
-('individual', 'smiling')
+('snow', 'has', 'trial')

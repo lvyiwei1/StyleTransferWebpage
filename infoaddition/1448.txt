@@ -1,4 +1,4 @@
 Original Sentence: 
-Upgrades to bigger models also will be costlier
+That hurts investors ' confidence in the economy and stocks
 Additional Information: 
-('model', 'denture teaching', 'aide')
+('economy', 'ON', 'train')

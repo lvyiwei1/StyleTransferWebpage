@@ -1,4 +1,4 @@
 Original Sentence: 
-The worst-case scenario would be if the put expires worthless
+There are few factories and no mines
 Additional Information: 
-('people', 'IN', 'scenario')
+('factory', 'large')

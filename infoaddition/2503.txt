@@ -1,4 +1,4 @@
 Original Sentence: 
-The stock market reacted strongly to the news
+Traders said today may be an anxious day for the market
 Additional Information: 
-('news', 'word')
+('cow', 'are laying down', 'today')

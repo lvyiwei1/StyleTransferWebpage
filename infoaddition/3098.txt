@@ -1,4 +1,4 @@
 Original Sentence: 
-For starters some people call Ed and Lorraine Warren
+Serial bonds are priced to yield to 7.10 % in 1999
 Additional Information: 
-('people', 'IN', 'market')
+('bond', 'black ')

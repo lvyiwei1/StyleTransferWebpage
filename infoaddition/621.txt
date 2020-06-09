@@ -1,4 +1,4 @@
 Original Sentence: 
-So does Mr. Friend and his law partner Nick Nichols
+Some activists are toiling to raise the profile of the two causes
 Additional Information: 
-('partner', 'playing on', 'tennis court')
+('profile', 'OF', 'face')

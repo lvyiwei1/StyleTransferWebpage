@@ -1,4 +1,4 @@
 Original Sentence: 
-For nonunion workers the costs rose 1.4 %
+This heavy outside support for the worst has undermined better moderate leaders
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('support', 'OF', 'bench')

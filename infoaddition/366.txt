@@ -1,4 +1,4 @@
 Original Sentence: 
-It did n't provide details of setup costs
+Olivetti reportedly began shipping these tools in 1984
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('tool', 'metal')

@@ -1,4 +1,4 @@
 Original Sentence: 
-By 1982 he was selling thousands of tires
+Some buildings collapsed gas and water lines ruptured and fires raged
 Additional Information: 
-('tire', 'ON', 'cart')
+('fire', 'orange')

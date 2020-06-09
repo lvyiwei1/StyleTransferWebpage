@@ -1,4 +1,4 @@
 Original Sentence: 
-This means the returns can vary a great deal
+About 1,150 employees are covered by the new agreement Deere said
 Additional Information: 
-('return', 'ON', 'street')
+('employee', 'airport')

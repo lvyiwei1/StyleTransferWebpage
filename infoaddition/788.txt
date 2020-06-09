@@ -1,4 +1,4 @@
 Original Sentence: 
-The next level down did doors
+Second-tier companies are receiving even less per ton
 Additional Information: 
-('level', 'upper')
+('company', 'calls', 'flowering mills')

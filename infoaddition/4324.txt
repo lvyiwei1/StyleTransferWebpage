@@ -1,0 +1,4 @@
+Original Sentence: 
+And in some neighborhoods rents have merely hit a plateau
+Additional Information: 
+('rent', 'on side of', 'building')

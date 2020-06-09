@@ -1,4 +1,4 @@
 Original Sentence: 
-Every major maker offers computers with color displays
+The contract signing represented a major step in the long-planned petrochemical project
 Additional Information: 
-('color', 'red')
+('signing', 'black')

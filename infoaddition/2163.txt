@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 2.9 % to 329.2 million from 320 million
+And he has worked to shed his raider image
 Additional Information: 
-('sale', 'at', 'company')
+('image', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Auto insurance rates are soaring
+I ca n't do anything score-wise but I like meeting the girls
 Additional Information: 
-('auto', 'written on', 'alarm clock')
+('girl', 'holding to a', 'banana')

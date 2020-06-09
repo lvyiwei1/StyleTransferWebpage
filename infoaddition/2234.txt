@@ -1,4 +1,4 @@
 Original Sentence: 
-There is no recovery period it 's go go go
+Revenue derived from interest and dividends jumped 30 % to 1.4 billion
 Additional Information: 
-('period', 'red')
+('interest', 'great')

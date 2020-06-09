@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+The assembly plant is scheduled to resume production on Oct. 30
 Additional Information: 
-('term', 'house of david')
+('assembly', 'rear end')

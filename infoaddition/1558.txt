@@ -1,4 +1,4 @@
 Original Sentence: 
-Even claims against individuals and companies face significant roadblocks
+The dollar finished mixed while gold declined
 Additional Information: 
-('individual', 'rides', 'bikes')
+('gold', 'brown')

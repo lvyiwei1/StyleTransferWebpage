@@ -1,4 +1,4 @@
 Original Sentence: 
-But junk bonds took more hits
+India 's Gandhi called for parliamentary elections next month
 Additional Information: 
-('batter', 'readyto', 'hit')
+('month', 'around', 'face')

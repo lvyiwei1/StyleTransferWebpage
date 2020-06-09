@@ -1,4 +1,4 @@
 Original Sentence: 
-Estimated volume was a light 1.7 million ounces
+International soft-drink volume was up about 6 %
 Additional Information: 
 ('volume', '3')

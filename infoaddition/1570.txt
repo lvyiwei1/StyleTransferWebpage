@@ -1,4 +1,4 @@
 Original Sentence: 
-Farmers lay down before the bulldozers
+But I 'm going to proceed in a more logical way
 Additional Information: 
-('bulldozer', 'yellow')
+('way', 'scrapped on', 'bus')

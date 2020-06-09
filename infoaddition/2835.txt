@@ -1,4 +1,4 @@
 Original Sentence: 
-Giveaways just give people the wrong image said Mr. Heinemann
+Stewart & Stevenson makes equipment powered with diesel and gas turbines
 Additional Information: 
-('image', 'white')
+('diesel', 'word on', 'truck')

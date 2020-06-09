@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales increased 6 % to 5.58 billion from 5.27 billion
+Mr. Conn charges that Humana 's own actions undermine its argument
 Additional Information: 
-('sale', 'red')
+('action', 'IN', 'action')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The farmer at the next truck shouts Wheat
+Entertainment and media stocks generally escaped the market 's slide as well
 Additional Information: 
-('truck', 'white')
+('entertainment', 'light brown entertainment ')

@@ -1,4 +1,4 @@
 Original Sentence: 
-There 's nothing like skin to skin
+Elsewhere in Europe share prices closed higher in Stockholm Brussels and Milan
 Additional Information: 
-('nothing', 'to', 'write')
+('price', 'written')

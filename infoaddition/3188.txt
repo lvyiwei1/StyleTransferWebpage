@@ -1,4 +1,4 @@
 Original Sentence: 
-The company also has a stock-repurchase plan
+Sales rose slightly to 2.68 billion from 2.66 billion
 Additional Information: 
-('plan', 'ON', 'tarmac')
+('sale', 'at', 'company')

@@ -1,4 +1,4 @@
 Original Sentence: 
-That 's not what our fathers had in mind
+He left a message accusing Mr. Darman of selling out
 Additional Information: 
-('father', 'teaches', 'boy')
+('message', 'white')

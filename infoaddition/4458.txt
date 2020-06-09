@@ -1,0 +1,4 @@
+Original Sentence: 
+Plant lovers who studied the maquette were alarmed
+Additional Information: 
+('plant', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-It also rose last Friday while the stock market sagged
+Continentals believe that the strongest growth area will be southern Europe
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('area', 'for', 'animal')

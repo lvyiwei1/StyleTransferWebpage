@@ -1,4 +1,4 @@
 Original Sentence: 
-An analyst cited weaker capital spending and exports
+When stocks stabilized that was a disappointment
 Additional Information: 
-('capital', 'building in washington', 'dc')
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The dam caused the water level to drop in Zalubice
+That amounts to more than 350 billion a year
 Additional Information: 
-('water', 'ON', 'table')
+('year', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We have the money to buy
+They want a 24-hour library
 Additional Information: 
-('money', 'ON', 'table')
+('library', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-For that matter perhaps he fixed to the wrong currency
+At this point the Dow was down about 35 points
 Additional Information: 
-('matter', 'ON', 'grass')
+('point', 'OF', 'scissors')

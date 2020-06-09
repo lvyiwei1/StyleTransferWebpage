@@ -1,4 +1,4 @@
 Original Sentence: 
-But even that goal may prove optimistic
+The condition known as paroxysmal supraventricular tachycardia leads to dizziness and fainting
 Additional Information: 
-('goal', 'has', 'basket')
+('sky', 'weather', 'condition')

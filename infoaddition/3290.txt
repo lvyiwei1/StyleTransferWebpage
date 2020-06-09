@@ -1,4 +1,4 @@
 Original Sentence: 
-He became angry in return
+The gene thus can prevent a plant from fertilizing itself
 Additional Information: 
-('return', 'black')
+('plant', 'in', 'pot')

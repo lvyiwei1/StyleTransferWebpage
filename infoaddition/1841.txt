@@ -1,4 +1,4 @@
 Original Sentence: 
-Gene-splicing now is an integral part of the drug business
+But there did seem to be a retail activity pickup
 Additional Information: 
-('part', 'OF', 'food')
+('pickup', 'ON', 'street')

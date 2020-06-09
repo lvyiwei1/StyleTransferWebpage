@@ -1,4 +1,4 @@
 Original Sentence: 
-Smaller projects swell the figure to at least 2.5 billion
+The Paris bank does n't publish that figure
 Additional Information: 
-('sidewalk', 'among', 'project')
+('figure', 'green')

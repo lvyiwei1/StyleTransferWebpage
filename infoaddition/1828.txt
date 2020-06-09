@@ -1,4 +1,4 @@
 Original Sentence: 
-Addison is no stranger to cans of worms either
+In Europe the dollar ended lower in dull trading
 Additional Information: 
-('worm', 'held in', 'beak')
+('dollar', 'ON', 'table')

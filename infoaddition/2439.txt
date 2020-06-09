@@ -1,4 +1,4 @@
 Original Sentence: 
-Preparedness involves more than flashlights and fire alarms these days
+Some have been training for months others only recently left active status
 Additional Information: 
-('fire', 'orange')
+('month', 'around', 'face')

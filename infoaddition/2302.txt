@@ -1,4 +1,4 @@
 Original Sentence: 
-DISCIPLINARY PROCEEDINGS against lawyers open to public in Illinois
+Trading in cotton and sugar was nervous and showed small declines
 Additional Information: 
-('public', 'written on', 'sign')
+('sugar', 'powdered')

@@ -1,4 +1,4 @@
 Original Sentence: 
-For the Giuliani forces it 's a conundrum
+That may be the last thing she needs
 Additional Information: 
-('force', 'ON', 'plane')
+('thing', 'black')

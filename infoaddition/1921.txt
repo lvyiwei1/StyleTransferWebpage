@@ -1,4 +1,4 @@
 Original Sentence: 
-This is a tough market
+If nothing else the 57-year-old 's past has its share of dents
 Additional Information: 
-('market', 'outdoor')
+('dent', 'ON', 'grape')

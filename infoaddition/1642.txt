@@ -1,4 +1,4 @@
 Original Sentence: 
-The stock fell 75 cents
+The yield on the issue slipped to 7.92 %
 Additional Information: 
-('stock', 'green')
+('yield', 'on', 'sign')

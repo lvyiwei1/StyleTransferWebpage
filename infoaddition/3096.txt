@@ -1,4 +1,4 @@
 Original Sentence: 
-For starters some people call Ed and Lorraine Warren
+White children empty the wastepaper baskets and squeegee the windows
 Additional Information: 
-('starter', 'ON', 'table')
+('window', 'glass')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The university is considering a settlement proposal made by Connaught
+The soreness he admits went away about a week after the shot
 Additional Information: 
-('settlement', 'SUBURBAN')
+('day', 'OF', 'week')

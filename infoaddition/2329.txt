@@ -1,4 +1,4 @@
 Original Sentence: 
-And plays
+Recent data from New York City provide more of the picture
 Additional Information: 
-('coaches', 'watching', 'play')
+('picture', 'ON', 'phone')

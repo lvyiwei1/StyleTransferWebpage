@@ -1,4 +1,4 @@
 Original Sentence: 
-Productivity in Japanese offices is relatively low
+Our computer model has a certain trigger point he said
 Additional Information: 
-('office', 'small')
+('point', 'sharp')

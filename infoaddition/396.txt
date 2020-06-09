@@ -1,4 +1,4 @@
 Original Sentence: 
-On some days the Nucor plant does n't produce anything
+Only 42 % of last year 's respondents anticipated slowing growth
 Additional Information: 
-('day', 'at', 'beach')
+('year', 'white')

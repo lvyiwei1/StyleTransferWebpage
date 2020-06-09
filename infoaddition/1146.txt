@@ -1,4 +1,4 @@
 Original Sentence: 
-He does n't just walk off the mound and weep
+The interest deduction was the engine that made these things more productive
 Additional Information: 
-('mound', 'dirt')
+('thing', 'black')

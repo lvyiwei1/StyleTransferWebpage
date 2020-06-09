@@ -1,4 +1,4 @@
 Original Sentence: 
-ESB directors warmly accepted but a whirlwind bidding match ensued
+Making computers smaller often means sacrificing memory
 Additional Information: 
-('director', 'caucasian')
+('computer', 'ON', 'table')

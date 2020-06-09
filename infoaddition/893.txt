@@ -1,4 +1,4 @@
 Original Sentence: 
-This sets things way back
+Judges will write the real bill as suits roll through the courts
 Additional Information: 
-('thing', 'black')
+('bill', 'ON', 'duck')

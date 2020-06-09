@@ -1,4 +1,4 @@
 Original Sentence: 
-Is this the wrong time to open a store
+Sales rose to 406 million from 356 million the year earlier
 Additional Information: 
-('time', 'ON', 'phone')
+('year', 'white')

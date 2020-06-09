@@ -1,4 +1,4 @@
 Original Sentence: 
-Is such a view justified
+Four other countries in Europe have approved Proleukin in recent months
 Additional Information: 
-('view', 'OF', 'fruit')
+('month', 'around', 'face')

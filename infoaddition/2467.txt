@@ -1,4 +1,4 @@
 Original Sentence: 
-Police detained more than 350 people
+After being whipsawed by a volatile stock market Treasury bonds closed higher
 Additional Information: 
-('people', 'are enjoying', 'outdoors')
+('stock', 'green')

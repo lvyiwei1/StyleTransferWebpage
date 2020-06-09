@@ -1,4 +1,4 @@
 Original Sentence: 
-Size and weight considerations also have limited screen displays
+South African gold stocks ended marginally firmer
 Additional Information: 
-('display', 'has', 'vegetables')
+('gold', 'and', 'silver')

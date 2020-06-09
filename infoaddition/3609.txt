@@ -1,0 +1,4 @@
+Original Sentence: 
+Here are details of yesterday 's three-month and six-month bill auction
+Additional Information: 
+('detail', 'ON', 'sock')

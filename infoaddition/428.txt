@@ -1,4 +1,4 @@
 Original Sentence: 
-The reality is that Bank finances are rock solid
+He adds I think it was a fairly decent call
 Additional Information: 
-('rock', 'behind', 'zebra')
+('call', 'here')

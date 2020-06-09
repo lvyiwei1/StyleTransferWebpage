@@ -1,4 +1,4 @@
 Original Sentence: 
-I said Somebody come get me
+Our teachers are not an important factor in our educational crisis
 Additional Information: 
-('somebody', 'here')
+('teacher', 'dorky')

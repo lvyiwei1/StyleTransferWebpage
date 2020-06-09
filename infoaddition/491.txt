@@ -1,4 +1,4 @@
 Original Sentence: 
-October is a critical month for the privatization program
+But do n't do anything rash
 Additional Information: 
-('program', 'wedding')
+('part', 'of a speaker not connected to', 'anything')

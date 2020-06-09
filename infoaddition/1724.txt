@@ -1,4 +1,4 @@
 Original Sentence: 
-This is a very personal ethnic style Mr. Carew says
+There is hope of change
 Additional Information: 
-('style', 'ON', 'ceiling')
+('change', 'loose')

@@ -1,4 +1,4 @@
 Original Sentence: 
-And in some neighborhoods rents have merely hit a plateau
+As well reinsurers and insurance brokerage companies will have improved profits
 Additional Information: 
-('neighborhood', 'residential')
+('company', 'name')

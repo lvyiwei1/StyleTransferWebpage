@@ -1,0 +1,4 @@
+Original Sentence: 
+We now know that the words were not always his own
+Additional Information: 
+('word', 'white')

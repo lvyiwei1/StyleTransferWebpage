@@ -1,4 +1,4 @@
 Original Sentence: 
-Those portfolios are remarkably diversified
+I care very much for this post he says
 Additional Information: 
-('portfolio', 'black')
+('post', 'wooden')

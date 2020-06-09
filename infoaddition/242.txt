@@ -1,4 +1,4 @@
 Original Sentence: 
-The dollar was mixed
+Cable & Wireless PLC of Britain won the other license
 Additional Information: 
-('dollar', 'ON', 'table')
+('license', 'white')

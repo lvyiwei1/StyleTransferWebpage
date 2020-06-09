@@ -1,4 +1,4 @@
 Original Sentence: 
-Interest will be paid semi-annually
+Investors with a heavy tax load should take out their calculators
 Additional Information: 
-('people', 'showing', 'interest')
+('load', 'large')

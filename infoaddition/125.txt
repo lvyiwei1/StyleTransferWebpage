@@ -1,4 +1,4 @@
 Original Sentence: 
-Last year 45,000 went
+But the production is the equal of any local program
 Additional Information: 
-('year', 'OF', 'picture')
+('program', 'on a', 'television')

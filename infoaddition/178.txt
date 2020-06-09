@@ -1,4 +1,4 @@
 Original Sentence: 
-Bond prices also edged higher
+The heart of the case official oppression remains intact
 Additional Information: 
-('bond', 'black ')
+('case', 'black')

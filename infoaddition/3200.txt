@@ -1,4 +1,4 @@
 Original Sentence: 
-There are no price wars no competition
+This market has been very badly damaged
 Additional Information: 
-('price', 'for', 'apple')
+('market', 'outdoor')

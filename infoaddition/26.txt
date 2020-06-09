@@ -1,4 +1,4 @@
 Original Sentence: 
-TransCanada transports all gas that moves eastward from Alberta
+Surplus power would be sold on the open market Enron said
 Additional Information: 
-('gas', 'ON', 'road')
+('market', 'outdoor')

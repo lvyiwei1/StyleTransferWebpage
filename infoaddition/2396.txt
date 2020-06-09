@@ -1,4 +1,4 @@
 Original Sentence: 
-NEATNESS does count at least in the grocery store
+The markets are complex as is the environment in which they function
 Additional Information: 
-('store', 'has', 'front')
+('market', 'IN', 'container')

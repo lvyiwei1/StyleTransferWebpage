@@ -1,4 +1,4 @@
 Original Sentence: 
-The daily volume for Treasury Securities is about 110 billion
+Still the split is there
 Additional Information: 
-('volume', '3')
+('split', 'long')

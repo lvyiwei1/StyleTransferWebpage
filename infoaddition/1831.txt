@@ -1,4 +1,4 @@
 Original Sentence: 
-Male scandal victims invariably fare better
+The dollar weakened against most other major currencies
 Additional Information: 
-('racket', 'OF', 'victim')
+('dollar', 'ON', 'table')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Among the leading products is a flu shot for horses
+I 'm not sure he 's explained everything Mrs. Stinnett says grudgingly
 Additional Information: 
-('horse', 'brown')
+('leafy bushes', 'below', 'everything')

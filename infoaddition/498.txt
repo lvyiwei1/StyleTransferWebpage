@@ -1,4 +1,4 @@
 Original Sentence: 
-But he warned the currency will remain at risk
+The reputed wealth of the Unification Church is another matter of contention
 Additional Information: 
-('currency', 'by', 'luggage')
+('matter', 'green')

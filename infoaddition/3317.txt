@@ -1,4 +1,4 @@
 Original Sentence: 
-Revenue doubled from two years ago
+The Phillips plant makes polyethylene polypropylene and other plastic products
 Additional Information: 
-('year', 'white')
+('product', 'IN', 'box')

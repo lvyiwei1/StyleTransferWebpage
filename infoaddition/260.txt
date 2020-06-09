@@ -1,4 +1,4 @@
 Original Sentence: 
-This is not a major crash she said
+Why did East Bloc participants unanimously endorse market-based pollution approaches
 Additional Information: 
-('crash', 'of an', 'airplane')
+('pollution', 'eminating from', 'stacks')

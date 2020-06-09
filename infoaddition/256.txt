@@ -1,4 +1,4 @@
 Original Sentence: 
-Many of us are suckers
+Both men are 44 years old
 Additional Information: 
-('sucker', 'wrapped in', 'red paper')
+('men', 'standing')

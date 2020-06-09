@@ -1,4 +1,4 @@
 Original Sentence: 
-Needless to say it was an interesting first session
+Some of the more cautious CD holders might like pre-refunded municipals
 Additional Information: 
-('screen', 'showing', 'session')
+('holder', 'looks like', 'face')

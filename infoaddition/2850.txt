@@ -1,4 +1,4 @@
 Original Sentence: 
-Results for the earlier quarter included a 100,000 restructuring charge
+Seats currently are quoted at 410,000 bid 425,000 asked
 Additional Information: 
-('quarter', 'of a', 'pizza')
+('bid', 'metal')

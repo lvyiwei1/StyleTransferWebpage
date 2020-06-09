@@ -1,4 +1,4 @@
 Original Sentence: 
-But wait a second
+In over-the-counter trading Monday the stock closed at 10.625 off 37.5 cents
 Additional Information: 
-('second', 'floor', 'balcony')
+('stock', 'green')

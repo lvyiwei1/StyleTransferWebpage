@@ -1,4 +1,4 @@
 Original Sentence: 
-After a while someone has to go over the side
+There is no justification on the fundamental level for this crash
 Additional Information: 
-('someone', 'holding', 'cellphone')
+('crash', 'white')

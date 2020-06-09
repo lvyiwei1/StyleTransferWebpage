@@ -1,4 +1,4 @@
 Original Sentence: 
-He had been vice president in that office
+The quarter was terrible and the future looks anything but encouraging
 Additional Information: 
-('vice', 'blue')
+('quarter', 'OF', 'sandwich')

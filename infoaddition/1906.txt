@@ -1,4 +1,4 @@
 Original Sentence: 
-Northview officials could n't be located
+In coming years Mr. Cathcart says Kidder is gon na hum
 Additional Information: 
-('official', 'tennis')
+('year', 'ON', 'picture')

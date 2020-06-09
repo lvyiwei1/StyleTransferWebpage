@@ -1,4 +1,4 @@
 Original Sentence: 
-Her instincts were capitalistic despite her background
+The Henderson plant will continue its other chemical operations the company said
 Additional Information: 
-('background', 'white')
+('plant', 'on a', 'boat')

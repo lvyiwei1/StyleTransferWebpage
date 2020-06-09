@@ -1,4 +1,4 @@
 Original Sentence: 
-BAY AREA COMMUTERS BATTLED earthquake-related transportation snarls
+The transaction represents Lynch 's entry into the telephone business
 Additional Information: 
-('area', 'grassy')
+('entry', 'dark')

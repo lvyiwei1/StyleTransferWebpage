@@ -1,4 +1,4 @@
 Original Sentence: 
-The transaction represents Lynch 's entry into the telephone business
+Under the program Norfolk plans to acquire shares in the open market
 Additional Information: 
-('business', 'here')
+('program', 'wedding')

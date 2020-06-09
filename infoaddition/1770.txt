@@ -1,4 +1,4 @@
 Original Sentence: 
-Rally officials were n't available to comment late yesterday
+It 's also a fast fix for an ailing image
 Additional Information: 
-('official', 'tennis')
+('image', 'ON', 'screen')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Like many sports buffs Mr. Engelken has turned cynic
+We think everything will go this way in a few years
 Additional Information: 
-('sport', 'written on screen of', 'game')
+('way', 'walk')

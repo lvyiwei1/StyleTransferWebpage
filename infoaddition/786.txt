@@ -1,4 +1,4 @@
 Original Sentence: 
-The anthers in these plants are difficult to clip off
+People are naturally suspicious of them says Mr. Mullins of Morgan Stanley
 Additional Information: 
-('plant', 'green')
+('people', 'IN', 'chair')

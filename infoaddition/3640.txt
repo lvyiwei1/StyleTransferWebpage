@@ -1,0 +1,4 @@
+Original Sentence: 
+Though tiny that 's a reduction in its share
+Additional Information: 
+('reduction', 'dark')

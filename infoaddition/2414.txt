@@ -1,4 +1,4 @@
 Original Sentence: 
-Thus an acquisition may prove the necessary course
+Meanwhile at home Mitsubishi has control of some major projects
 Additional Information: 
-('course', 'green')
+('home', 'white')

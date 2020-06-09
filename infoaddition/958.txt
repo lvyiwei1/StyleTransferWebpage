@@ -1,4 +1,4 @@
 Original Sentence: 
-This is a very tenacious ghost Mr. Warren says darkly
+Some may try to revoke the firm 's license to sell securities
 Additional Information: 
-('ghost', 'ON', 'shirt')
+('license', 'OF', 'car')

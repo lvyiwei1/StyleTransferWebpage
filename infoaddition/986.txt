@@ -1,4 +1,4 @@
 Original Sentence: 
-Pretend Nothing Happened
+Overall Salomon reported program trading volume of 75.2 million shares
 Additional Information: 
-('nothing', 'clear')
+('volume', 'ON', 'keyboard')

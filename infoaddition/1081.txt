@@ -1,4 +1,4 @@
 Original Sentence: 
-And for Ms. Baker the ride was far from over
+Many middle-class people would love free food Medicaid insurance utilities and rent
 Additional Information: 
-('ride', 'ON', 'dock')
+('advertisement', 'for', 'insurance')

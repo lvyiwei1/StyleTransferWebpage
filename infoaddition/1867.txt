@@ -1,4 +1,4 @@
 Original Sentence: 
-The December contract declined 1.85 cents a pound to 1.2645
+Supermarkets are getting into the variety act too
 Additional Information: 
-('pound', 'has a', 'ten')
+('variety', 'OF', 'donuts')

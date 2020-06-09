@@ -1,4 +1,4 @@
 Original Sentence: 
-Once they are in the building they stay
+None of the officials was available for comment
 Additional Information: 
-('building', 'white')
+('official', 'has', 'shirt')

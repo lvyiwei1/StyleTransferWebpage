@@ -1,0 +1,4 @@
+Original Sentence: 
+Thus he asserts Lloyd 's ca n't react quickly to competition
+Additional Information: 
+('skiers', 'in a', 'competition')

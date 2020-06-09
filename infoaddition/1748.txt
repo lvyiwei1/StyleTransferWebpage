@@ -1,4 +1,4 @@
 Original Sentence: 
-He expects Citicorp to take a similar step this year
+The market closed minutes after reaching its high for the day of
 Additional Information: 
-('step', 'concrete')
+('day', 'time', 'picture')

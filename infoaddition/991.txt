@@ -1,4 +1,4 @@
 Original Sentence: 
-UAL declined to comment on British Air 's statement
+But volume rose only to 162 million shares from 143 million Friday
 Additional Information: 
-('statement', 'credit')
+('volume', '3')

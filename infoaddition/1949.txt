@@ -1,4 +1,4 @@
 Original Sentence: 
-Most earn high ratings from credit agencies
+This activity produced small rallies which in turn attracted new short selling
 Additional Information: 
-('credit', 'artist')
+('people', 'at a', 'rally')

@@ -1,4 +1,4 @@
 Original Sentence: 
-And the egg producers have done a pretty good job
+Lack of liquidity can also result from exchange reforms
 Additional Information: 
-('egg', 'white')
+('lack', 'in front', 'hills')

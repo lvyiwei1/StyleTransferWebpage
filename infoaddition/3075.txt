@@ -1,4 +1,4 @@
 Original Sentence: 
-With that authority of course goes an unambiguous accountability
+As Wall Street strengthened the London trading room went wild
 Additional Information: 
-('course', 'green')
+('red t', 'IN', 'trading')

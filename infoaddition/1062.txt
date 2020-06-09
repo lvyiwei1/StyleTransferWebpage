@@ -1,4 +1,4 @@
 Original Sentence: 
-Warnaco also owns Warners another major intimate apparel maker
+It 's a tough thing when you ca n't
 Additional Information: 
-('apparel', 'ski')
+('thing', 'ON', 'ground')

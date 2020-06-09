@@ -1,4 +1,4 @@
 Original Sentence: 
-In the experiment mice with the defective gene were mated
+Neither disclosed details pending board meetings next month
 Additional Information: 
-('mouse', 'has', 'circle')
+('detail', 'red')

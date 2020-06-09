@@ -1,4 +1,4 @@
 Original Sentence: 
-Three gambling casinos have opened in Poland
+Net fell 1 % to 3.23 billion yen from 3.26 billion yen
 Additional Information: 
-('casino', 'bright')
+('net', 'in front of', 'man')

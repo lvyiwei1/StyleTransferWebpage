@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Spielvogel said he would n't launch a hostile bid
+For women dressing for success in a real structured way is over
 Additional Information: 
-('bid', 'ON', 'shoulder')
+('way', 'scrapped on', 'bus')

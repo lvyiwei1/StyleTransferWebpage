@@ -1,4 +1,4 @@
 Original Sentence: 
-None of these chief executives were available for comment
+If nobody buys I bring my prices down
 Additional Information: 
-('chief', 'handker')
+('price', 'written')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The house just settled right down into the ground
+He seems to be typical of many professional money managers
 Additional Information: 
-('house', 'white')
+('manager', 'overlooking action')

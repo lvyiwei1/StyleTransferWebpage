@@ -1,4 +1,4 @@
 Original Sentence: 
-But a few new spots are opening
+The company says those holdings constitute the third-biggest real-estate portfolio in Belgium
 Additional Information: 
-('spot', 'ON', 'lamb')
+('holding', 'a', 'pole')

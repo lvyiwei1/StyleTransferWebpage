@@ -1,4 +1,4 @@
 Original Sentence: 
-Our commitment to manage these businesses profitably will continue
+On the close can be added to many types of orders
 Additional Information: 
-('business', 'here')
+('order', 'containing', 'fries')

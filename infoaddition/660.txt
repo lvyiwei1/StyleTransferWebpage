@@ -1,4 +1,4 @@
 Original Sentence: 
-But Burger King operators independently confirm using Michael 's product
+The FT 30-share index closed 11.0 points lower at 1761.0
 Additional Information: 
-('product', 'bathroom')
+('index', 'ON', 'helmet')

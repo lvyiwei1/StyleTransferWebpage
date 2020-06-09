@@ -1,4 +1,4 @@
 Original Sentence: 
-Artists and draftsmen need harder leads
+Manufacturers have survived the turmoil in China largely unscathed
 Additional Information: 
-('lead', 'green')
+('manufacturer', 'hidden')

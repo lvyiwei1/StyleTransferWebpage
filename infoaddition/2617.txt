@@ -1,4 +1,4 @@
 Original Sentence: 
-And the merchandise was well fake
+Meanwhile Sotheby 's guarantee is raising eyebrows in the art world
 Additional Information: 
-('merchandise', 'next to', 'woman')
+('art', 'framed')

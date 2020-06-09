@@ -1,4 +1,4 @@
 Original Sentence: 
-The year was misstated in Friday 's editions
+Mr. Shilling understands Mr. Straszheim 's problems
 Additional Information: 
-('edition', 'word')
+('plane', 'has', 'problem')

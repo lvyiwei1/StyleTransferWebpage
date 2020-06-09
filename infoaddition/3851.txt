@@ -1,0 +1,4 @@
+Original Sentence: 
+When it went down by all tradition the economy followed
+Additional Information: 
+('economy', 'ON', 'train')

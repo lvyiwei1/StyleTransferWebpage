@@ -1,0 +1,4 @@
+Original Sentence: 
+No amount of weasling could have saved this game for D.T
+Additional Information: 
+('game', 'baseball')

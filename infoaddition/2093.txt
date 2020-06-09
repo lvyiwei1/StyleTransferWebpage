@@ -1,4 +1,4 @@
 Original Sentence: 
-Digital 's new line has been a long time coming
+The old and revised numbers both include over-allotment provisions
 Additional Information: 
-('line', 'white')
+('number', 'ON', 'clock')

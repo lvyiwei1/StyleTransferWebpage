@@ -1,4 +1,4 @@
 Original Sentence: 
-For the Giuliani forces it 's a conundrum
+Other changes including easing restrictions on travel for East Germans are expected
 Additional Information: 
-('force', 'black')
+('change', 'ON', 'machine')

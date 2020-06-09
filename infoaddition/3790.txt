@@ -1,0 +1,4 @@
+Original Sentence: 
+Many fund managers have boosted their cash levels in recent weeks
+Additional Information: 
+('manager', 'sitting in', 'dugout')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Their problem is one of inefficiency of an industrial economy
+Last week CBS Inc. canceled The People Next Door
 Additional Information: 
-('plane', 'has', 'problem')
+('day', 'OF', 'week')

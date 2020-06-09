@@ -1,0 +1,4 @@
+Original Sentence: 
+I 'm forever dumbfounded by what I see making these high prices
+Additional Information: 
+('price', 'written')

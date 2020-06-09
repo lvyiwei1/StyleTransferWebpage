@@ -1,0 +1,4 @@
+Original Sentence: 
+Three companies began trading over the counter
+Additional Information: 
+('company', 'name')

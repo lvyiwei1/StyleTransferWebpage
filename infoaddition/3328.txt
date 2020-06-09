@@ -1,4 +1,4 @@
 Original Sentence: 
-In some industries like pharmaceuticals acquisitions make sense
+Some buildings collapsed gas and water lines ruptured and fires raged
 Additional Information: 
-('phrase', 'makes no', 'sense')
+('gas', 'range', 'stove')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Columbia Laboratories Inc. Miami began trading with the symbol COB
+Stewart & Stevenson makes equipment powered with diesel and gas turbines
 Additional Information: 
-('symbol', 'ON', 'road')
+('diesel', 'loaded')

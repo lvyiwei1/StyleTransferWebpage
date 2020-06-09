@@ -1,4 +1,4 @@
 Original Sentence: 
-An analyst cited weaker capital spending and exports
+Currently the company has about 88.1 million common shares outstanding
 Additional Information: 
-('capital', 'a')
+('company', 'ON', 'corner')

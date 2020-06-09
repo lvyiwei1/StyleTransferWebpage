@@ -1,4 +1,4 @@
 Original Sentence: 
-Some couples continue to try
+Cincinnati Microwave Inc. said it introduced two radar detectors
 Additional Information: 
-('couple', 'walking')
+('detector', 'hanging', 'wall')

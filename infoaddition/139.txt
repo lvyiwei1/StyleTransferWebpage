@@ -1,4 +1,4 @@
 Original Sentence: 
-People in the phone business call this technology 900 click
+But only four days after that Mr. Bush resurrected the veto threat
 Additional Information: 
-('people', 'standing')
+('day', 'with', 'tower')

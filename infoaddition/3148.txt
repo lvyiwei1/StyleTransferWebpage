@@ -1,4 +1,4 @@
 Original Sentence: 
-Bofors admits payments of 41 million to middlemen
+Northview officials could n't be located
 Additional Information: 
-('payment', 'for', 'produce')
+('official', 'sitting in', 'chair')

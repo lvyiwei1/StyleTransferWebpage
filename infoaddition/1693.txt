@@ -1,4 +1,4 @@
 Original Sentence: 
-That will spur Tandem 's growth
+It is a distinction that satisfies neither side in the debate
 Additional Information: 
-('growth', 'green')
+('side', 'white')

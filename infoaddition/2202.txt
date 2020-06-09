@@ -1,4 +1,4 @@
 Original Sentence: 
-Ohbayashi is Japan 's second largest construction company
+In Texas taxes and development costs are also lower they said
 Additional Information: 
-('company', 'at', 'bottom')
+('development', 'yellow')

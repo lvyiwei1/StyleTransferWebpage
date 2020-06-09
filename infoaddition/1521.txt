@@ -1,4 +1,4 @@
 Original Sentence: 
-The board expanded to 17 seats
+Today Morgenzon is a town of 800 whites and two paved roads
 Additional Information: 
-('board', 'white')
+('town', 'small')

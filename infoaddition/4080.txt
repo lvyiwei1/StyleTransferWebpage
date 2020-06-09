@@ -1,0 +1,4 @@
+Original Sentence: 
+Both residents ' organizations admit to receiving some funding from abroad
+Additional Information: 
+('funding', 'ON', 'sticker')

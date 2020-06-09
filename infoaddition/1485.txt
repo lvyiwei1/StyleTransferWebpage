@@ -1,4 +1,4 @@
 Original Sentence: 
-The mayor said the Quayle visit was a publicity stunt
+High cash positions help buffer a fund when the market falls
 Additional Information: 
-('mayor', 'IN', 'lettering')
+('cash', 'inside', 'purse')

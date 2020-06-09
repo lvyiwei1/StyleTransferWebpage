@@ -1,4 +1,4 @@
 Original Sentence: 
-Paying players at SMU was no casual operation
+The companion tax-exempt funds add 71 billion
 Additional Information: 
-('player', 'has', 'helmet')
+('companion', 'walking', 'beach')

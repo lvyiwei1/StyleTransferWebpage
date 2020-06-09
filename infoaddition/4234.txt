@@ -1,0 +1,4 @@
+Original Sentence: 
+And sooner or later we have to do something about it
+Additional Information: 
+('something', 'IN', 'eye')

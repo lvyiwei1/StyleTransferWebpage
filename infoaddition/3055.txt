@@ -1,4 +1,4 @@
 Original Sentence: 
-A disciplined program will work the best Mr. Boesel says
+Commercials will highlight heart-rending scenes of Texas and chest-swelling ain't-it-great-to-be-a-Texan music
 Additional Information: 
-('program', 'wedding')
+('scene', 'outdoors')

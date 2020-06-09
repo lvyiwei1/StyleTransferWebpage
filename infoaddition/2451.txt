@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's not a zero-sum game
+It liquefies in a patchwork quilt pattern
 Additional Information: 
-('game', 'ON', 'tv')
+('pattern', 'white')

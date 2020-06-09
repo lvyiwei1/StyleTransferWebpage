@@ -1,4 +1,4 @@
 Original Sentence: 
-The rest as they say is history
+So the Federal Reserve is an attractive target for complaint by politicians
 Additional Information: 
-('rest', 'arm')
+('politician', 'walking')

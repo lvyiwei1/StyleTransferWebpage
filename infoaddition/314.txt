@@ -1,4 +1,4 @@
 Original Sentence: 
-We want it to be a '90s kind of image
+In short Rey found companies with weak earnings but rich assets
 Additional Information: 
-('image', 'white')
+('company', 'at', 'bottom')

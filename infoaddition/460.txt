@@ -1,4 +1,4 @@
 Original Sentence: 
-He is negotiating a rich book contract to boot
+BIGGER THAN A BREADBOX was this cash hoarder 's reputation for honesty
 Additional Information: 
-('book', 'white')
+('cash', 'Two round pieces  ')

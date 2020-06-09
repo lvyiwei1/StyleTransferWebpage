@@ -1,4 +1,4 @@
 Original Sentence: 
-Mortgage securities ended little changed after light dealings
+But the Japanese insist upon Japanese managers everywhere they set up shop
 Additional Information: 
-('security', 'standing')
+('manager', 'speaking with', 'players')

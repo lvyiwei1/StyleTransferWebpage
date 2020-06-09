@@ -1,4 +1,4 @@
 Original Sentence: 
-Or is triskaidekaphobia fear of the number 13 justified
+An analyst cited weaker capital spending and exports
 Additional Information: 
-('number', 'ON', 'aircraft')
+('capital', 'a')

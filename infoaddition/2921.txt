@@ -1,4 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+The company had a loss from operations of 1.7 million
 Additional Information: 
-('change', 'loose')
+('company', 'that owns', 'bus')

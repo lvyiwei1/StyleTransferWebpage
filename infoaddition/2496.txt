@@ -1,4 +1,4 @@
 Original Sentence: 
-The price was n't disclosed
+Marketing and sales departments then urged abandonment of the pico project
 Additional Information: 
-('price', 'ON', 'sign')
+('sale', 'red')

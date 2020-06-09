@@ -1,4 +1,4 @@
 Original Sentence: 
-Such armor crushes the soldier
+The stars do that themselves
 Additional Information: 
-('soldier', 'lined up')
+('star', 'white')

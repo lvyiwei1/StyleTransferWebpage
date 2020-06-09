@@ -1,4 +1,4 @@
 Original Sentence: 
-Some nights he slept under his desk
+Sales for the quarter rose to 1.11 billion from 1.03 billion
 Additional Information: 
-('night', 'at', 'marina')
+('quarter', 'lying on', 'shelf')

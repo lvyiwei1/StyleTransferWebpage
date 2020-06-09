@@ -1,4 +1,4 @@
 Original Sentence: 
-Japanese stock salesmen selling American bonds
+About 130,000 vehicles cross during a 24-hour period
 Additional Information: 
-('bond', 'black ')
+('vehicle', 'has', 'hood')

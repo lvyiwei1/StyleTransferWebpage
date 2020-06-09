@@ -1,4 +1,4 @@
 Original Sentence: 
-Figgie is a fire protection electronics and industrial products concern
+The action increases the annual dividend to 1.20 a share from 1.08
 Additional Information: 
-('product', 'bathroom')
+('action', 'IN', 'action')

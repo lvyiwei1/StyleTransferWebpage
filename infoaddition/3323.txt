@@ -1,4 +1,4 @@
 Original Sentence: 
-Old Environmentalism involved microbe hunters and sanitationists
+Mine comes from seeing thriving communities devastated but only temporarily
 Additional Information: 
-('hunter', 'holding', 'bird')
+('community', 'ON', 'river')

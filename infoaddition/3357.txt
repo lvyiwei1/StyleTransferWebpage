@@ -1,4 +1,4 @@
 Original Sentence: 
-We do n't need the cash
+The comparable year-earlier number was 56 million a spokesman said
 Additional Information: 
-('cash', 'inside', 'purse')
+('number', 'ON', 'building')

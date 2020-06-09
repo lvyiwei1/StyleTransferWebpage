@@ -1,4 +1,4 @@
 Original Sentence: 
-Markets usually get noticed because they soar or plunge
+Mr. Patel also was placed on three years ' probation
 Additional Information: 
-('market', 'outdoor')
+('year', 'white')

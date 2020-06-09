@@ -1,4 +1,4 @@
 Original Sentence: 
-It said it would purchase the stock at market price
+They will have to throw their hat in the ring
 Additional Information: 
-('market', 'outdoor')
+('ring', 'silver')

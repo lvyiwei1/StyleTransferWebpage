@@ -1,4 +1,4 @@
 Original Sentence: 
-In five minutes the Dow industrials climbed almost 30 points
+Samsung already owns Korea First Advertising Co. that country 's largest agency
 Additional Information: 
-('point', 'sharp')
+('country', 'foreign')

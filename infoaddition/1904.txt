@@ -1,4 +1,4 @@
 Original Sentence: 
-The index gained 527.39 Tuesday
+Both executives left the company after clashes with Chairman Ralph Ingersoll Jr
 Additional Information: 
-('index', 'is a finger')
+('company', 'at', 'bottom')

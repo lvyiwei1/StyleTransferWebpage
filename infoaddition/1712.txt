@@ -1,4 +1,4 @@
 Original Sentence: 
-Bush administration officials say inflation is under control
+The pool invested idle cash for many state agencies and local governments
 Additional Information: 
-('official', 'STANDING BEHIND', 'court')
+('state', 'park', 'sign')

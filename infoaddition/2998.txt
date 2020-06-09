@@ -1,4 +1,4 @@
 Original Sentence: 
-The OTC market has only a handful of takeover-related stocks
+It does n't look nice on the outside while getting mealy inside
 Additional Information: 
-('stock', 'green')
+('outside', 'clock', 'building')

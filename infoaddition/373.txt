@@ -1,4 +1,4 @@
 Original Sentence: 
-There 's nothing like skin to skin
+The company 's president quit suddenly
 Additional Information: 
-('skin', 'ON', 'elephant')
+('company', 'name')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Formerly president and treasurer Mr. Lang remains chief executive officer
+But it has n't worked out that way
 Additional Information: 
-('officer', 'ON', 'motorcycle')
+('way', 'walk')

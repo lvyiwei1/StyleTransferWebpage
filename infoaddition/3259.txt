@@ -1,4 +1,4 @@
 Original Sentence: 
-Coal earnings rose to 26 million from 21 million
+What could imply more safety than investing in government bonds
 Additional Information: 
-('coal', 'stacked inside', 'car')
+('safety', 'cone', 'orange')

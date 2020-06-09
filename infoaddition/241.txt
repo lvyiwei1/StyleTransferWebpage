@@ -1,4 +1,4 @@
 Original Sentence: 
-Smaller projects swell the figure to at least 2.5 billion
+Cable & Wireless PLC of Britain won the other license
 Additional Information: 
-('figure', 'green')
+('license', 'OF', 'car')

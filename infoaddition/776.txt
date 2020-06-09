@@ -1,4 +1,4 @@
 Original Sentence: 
-Some foodstuff shipments will probably resume Thursday he said
+Foreign traders say the company is strapped for cash
 Additional Information: 
-('shipment', 'ON', 'truck')
+('cash', 'ON', 'table')

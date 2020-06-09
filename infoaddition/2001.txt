@@ -1,4 +1,4 @@
 Original Sentence: 
-He describes a reporter as Miss First Amendment
+The Port of Houston closed its terminal for handling bulk cargo
 Additional Information: 
-('reporter', 'news reporter')
+('terminal', 'by', 'plane')

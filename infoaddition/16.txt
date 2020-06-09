@@ -1,4 +1,4 @@
 Original Sentence: 
-Take heart sports fans he wrote
+The charts show how househld assets have been distributed over time
 Additional Information: 
-('fan', 'white')
+('time', 'says', 'time')

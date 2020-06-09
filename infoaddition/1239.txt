@@ -1,4 +1,4 @@
 Original Sentence: 
-Some economists found the mixture ominous
+But in art-world parlance Mr. Paul 's holdings are burnt
 Additional Information: 
-('mixture', 'pink')
+('holding', 'wooden')

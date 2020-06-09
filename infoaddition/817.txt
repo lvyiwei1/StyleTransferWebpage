@@ -1,4 +1,4 @@
 Original Sentence: 
-Interest rates barely budged from Tuesday 's levels
+These guys prey on human frailties
 Additional Information: 
-('level', 'upper')
+('guy', 'in a', 'shirt')

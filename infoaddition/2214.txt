@@ -1,4 +1,4 @@
 Original Sentence: 
-Wilfred closed its Massachusetts schools earlier this year
+Warnaco also owns Warners another major intimate apparel maker
 Additional Information: 
-('school', 'ON', 'grass')
+('maker', 'coffee')

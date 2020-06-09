@@ -1,4 +1,4 @@
 Original Sentence: 
-The crowd remained good natured even bemused
+Then they said By the way two of the doors are locked
 Additional Information: 
-('crowd', 'ON', 'street')
+('way', 'to', 'house')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Yet abortion-rights forces remain bitterly critical
+Thomas F. O'Boyle contributed to this article
 Additional Information: 
-('force', 'black')
+('article', 'IN', 'magazine')

@@ -1,4 +1,4 @@
 Original Sentence: 
-They stroll through the marble-encased corridors of the Atrium Court
+Mr. Mehl attributed the rise specifically to the Treasury bill increase
 Additional Information: 
-('corridor', 'has', 'floor')
+('bill', 'on', 'hat')

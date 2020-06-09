@@ -1,4 +1,4 @@
 Original Sentence: 
-Neither disclosed details pending board meetings next month
+It is scheduled for delivery in late 1991
 Additional Information: 
-('meeting', 'has', 'folder')
+('van', 'for', 'delivery')

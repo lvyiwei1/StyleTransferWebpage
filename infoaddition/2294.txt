@@ -1,4 +1,4 @@
 Original Sentence: 
-Nekoosa ranked 11th with sales of 3.59 billion
+The Japanese take the long view said Mr. Veronis
 Additional Information: 
-('sale', 'red')
+('view', 'OF', 'sky')

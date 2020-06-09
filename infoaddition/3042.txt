@@ -1,4 +1,4 @@
 Original Sentence: 
-We tend to run a very tight book
+There 's nothing like skin to skin
 Additional Information: 
-('book', 'ON', 'desk')
+('nothing', 'to', 'write')

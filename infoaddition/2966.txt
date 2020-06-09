@@ -1,4 +1,4 @@
 Original Sentence: 
-Their machine tools are even bolted to the shop floor
+How such remarks translate into policy wo n't become clear for months
 Additional Information: 
-('machine', 'white')
+('month', 'OF', 'picture')

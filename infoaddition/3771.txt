@@ -1,0 +1,4 @@
+Original Sentence: 
+Proceeds from those sales will be used to reduce debt
+Additional Information: 
+('sale', 'ON', 'window')

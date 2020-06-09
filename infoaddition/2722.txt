@@ -1,4 +1,4 @@
 Original Sentence: 
-Our competitors say we overbid them
+Under the program Norfolk plans to acquire shares in the open market
 Additional Information: 
-('competitor', 'here')
+('market', 'outdoor')

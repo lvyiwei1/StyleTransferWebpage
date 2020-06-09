@@ -1,4 +1,4 @@
 Original Sentence: 
-Imports of goods and services soared while exports were flat
+It is payable Nov. 30 to units of record Oct. 31
 Additional Information: 
-('good', 'sold in', 'shop')
+('unit', 'ON', 'ground')

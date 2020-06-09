@@ -1,4 +1,4 @@
 Original Sentence: 
-It will develop produce and market high-performance electronic parts
+Florida National stock closed unchanged at 25.875 in national over-the-counter trading
 Additional Information: 
-('part', 'ON', 'zebra')
+('stock', 'OF', 'broccoli')

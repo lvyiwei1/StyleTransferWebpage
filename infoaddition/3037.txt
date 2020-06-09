@@ -1,4 +1,4 @@
 Original Sentence: 
-We 're about to see if advertising works
+Soon the military became a veritable mafia controlling legal and illegal businesses
 Additional Information: 
-('advertising', 'ON', 'bus')
+('military', 'white')

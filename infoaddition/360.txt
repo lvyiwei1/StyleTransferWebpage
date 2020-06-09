@@ -1,4 +1,4 @@
 Original Sentence: 
-The core rate is not really out of line
+At this point the Dow industrials were down 75.41 points and falling
 Additional Information: 
-('line', 'white')
+('point', 'sharp')

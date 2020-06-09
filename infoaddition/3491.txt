@@ -1,0 +1,4 @@
+Original Sentence: 
+We ca n't do without their help says Mrs. Conradie
+Additional Information: 
+('poster', 'says', 'help')

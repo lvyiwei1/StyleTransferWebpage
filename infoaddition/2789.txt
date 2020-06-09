@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales fell 1.2 % to 190.1 million from 192.5 million
+Other changes including easing restrictions on travel for East Germans are expected
 Additional Information: 
-('sale', 'red')
+('east', 'ON', 'sign')

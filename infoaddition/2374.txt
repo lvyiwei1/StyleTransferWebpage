@@ -1,4 +1,4 @@
 Original Sentence: 
-But trading risk stems from credit risk
+In Los Angeles it 's important to catch people just after work
 Additional Information: 
-('credit', 'card', 'cardlogos')
+('work', 'OF', 'art')

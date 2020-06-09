@@ -1,4 +1,4 @@
 Original Sentence: 
-Traders said most municipal bonds ended 1\/2 point higher
+At closing time farmers cart out most of what they carted in
 Additional Information: 
-('point', 'OF', 'kite')
+('farmer', 'holding')

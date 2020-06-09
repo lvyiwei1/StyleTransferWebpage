@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+LONG-TERM care insurance gains favor
 Additional Information: 
-('term', 'house of david')
+('fence', 'encloses', 'care')

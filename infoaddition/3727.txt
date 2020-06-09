@@ -1,0 +1,4 @@
+Original Sentence: 
+CHRISTMAS SHOPPERS find a helping hand from some catalog companies
+Additional Information: 
+('company', 'ON', 'corner')

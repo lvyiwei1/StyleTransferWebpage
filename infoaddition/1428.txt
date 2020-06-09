@@ -1,4 +1,4 @@
 Original Sentence: 
-His hands sit farther apart on the keyboard
+A natural gas rule was struck down by a federal appeals court
 Additional Information: 
-('keyboard', 'black')
+('court', 'has', 'part')

@@ -1,0 +1,4 @@
+Original Sentence: 
+But on Oct. 6 he had reason to celebrate
+Additional Information: 
+('not', 'in mood right nowhold leg in air for no', 'reason')

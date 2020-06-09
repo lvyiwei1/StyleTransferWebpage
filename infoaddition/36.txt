@@ -1,4 +1,4 @@
 Original Sentence: 
-But Ms. McCraw says the magazine is fighting back
+Sales rose 7.7 % to 6.66 billion from 6.19 billion
 Additional Information: 
-('magazine', 'IS ON THE', 'bench')
+('sale', 'red')

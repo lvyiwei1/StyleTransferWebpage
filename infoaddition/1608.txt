@@ -1,4 +1,4 @@
 Original Sentence: 
-The new exchange drew instant recognition from an unwelcome quarter
+It does prolong the pain somewhat
 Additional Information: 
-('quarter', 'silver')
+('pain', 'ON', 'train')

@@ -1,4 +1,4 @@
 Original Sentence: 
-China-bound freight streams through the territory 's port
+But traders who risk money handling big blocks of stock were shaken
 Additional Information: 
-('grass', 'IN', 'territory')
+('money', 'paper')

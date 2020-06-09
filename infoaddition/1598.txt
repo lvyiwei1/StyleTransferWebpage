@@ -1,4 +1,4 @@
 Original Sentence: 
-Trading also was heavy in the over-the-counter market
+The transaction is expected to close around year end
 Additional Information: 
-('market', 'outdoor')
+('year', 'OF', 'picture')

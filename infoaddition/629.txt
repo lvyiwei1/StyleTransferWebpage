@@ -1,4 +1,4 @@
 Original Sentence: 
-They looked at the miniature and saw a giant folly
+Now as in those two years her stock market indicators are positive
 Additional Information: 
-('miniature', 'manmade')
+('market', 'on', 'sign')

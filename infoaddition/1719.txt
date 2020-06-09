@@ -1,4 +1,4 @@
 Original Sentence: 
-There is n't a black worker in sight
+About 47 % are loyal for one to five of the products
 Additional Information: 
-('worker', 'makes', 'food')
+('product', 'bathroom')

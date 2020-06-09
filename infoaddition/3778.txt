@@ -1,0 +1,4 @@
+Original Sentence: 
+Chrysler Corp. also hit the rocks in mid-October
+Additional Information: 
+('rock', 'large')

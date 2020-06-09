@@ -1,4 +1,4 @@
 Original Sentence: 
-The dispute pits two groups of claimants against each other
+The transaction will take place tomorrow
 Additional Information: 
-('group', 'ON', 'beach')
+('place', 'full')

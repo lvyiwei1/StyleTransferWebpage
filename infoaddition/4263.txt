@@ -1,0 +1,4 @@
+Original Sentence: 
+Magazine publishers are facing spiraling costs and a glut of new titles
+Additional Information: 
+('magazine', 'open')

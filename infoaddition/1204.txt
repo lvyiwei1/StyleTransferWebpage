@@ -1,4 +1,4 @@
 Original Sentence: 
-I 'm talking about landing in a canal
+He says he spent 300 million on his art business this year
 Additional Information: 
-('canal', 'calm')
+('art', 'framed')

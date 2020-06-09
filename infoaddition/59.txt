@@ -1,4 +1,4 @@
 Original Sentence: 
-In Chicago grain and soybean prices rose slightly
+About 130,000 vehicles cross during a 24-hour period
 Additional Information: 
-('price', 'for', 'nectarines')
+('period', 'red')

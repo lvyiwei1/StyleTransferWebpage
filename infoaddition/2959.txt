@@ -1,4 +1,4 @@
 Original Sentence: 
-He got three trucks and a backhoe cheap
+The government built ports bridges highways schools hospitals and railways
 Additional Information: 
-('truck', 'IN', 'lot')
+('school', 'bus', 'lights')

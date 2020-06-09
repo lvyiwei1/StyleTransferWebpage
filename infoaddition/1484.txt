@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Dozen knows these problems firsthand
+The cats are fine although nervous
 Additional Information: 
-('plane', 'has', 'problem')
+('cat', 'black')

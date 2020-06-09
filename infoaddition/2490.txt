@@ -1,4 +1,4 @@
 Original Sentence: 
-The U.S. futures exchanges compete world-wide as never before
+Not everyone has jumped on the Breeden bandwagon however
 Additional Information: 
-('two women', 'make', 'exchange')
+('everyone', 'sitting outside', 'building')

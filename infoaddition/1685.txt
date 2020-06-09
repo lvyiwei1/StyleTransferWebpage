@@ -1,4 +1,4 @@
 Original Sentence: 
-South African gold stocks closed firmer
+But attendance is down from previous years
 Additional Information: 
-('gold', 'brown')
+('year', 'white')

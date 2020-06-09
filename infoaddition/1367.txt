@@ -1,4 +1,4 @@
 Original Sentence: 
-There is hope of change
+None of these chief executives were available for comment
 Additional Information: 
-('change', 'in a', 'change')
+('spoon', 'next to', 'chief')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Kennametal is a carbide-products and cutting-tools company
+New trade accords were signed
 Additional Information: 
-('company', 'name')
+('company name', 'says', 'trade')

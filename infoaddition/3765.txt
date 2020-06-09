@@ -1,0 +1,4 @@
+Original Sentence: 
+Eliminating the earnings limit would greatly help seniors and reduce the deficit
+Additional Information: 
+('limit', 'warns', 'two hour')

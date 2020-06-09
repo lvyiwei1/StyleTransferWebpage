@@ -1,4 +1,4 @@
 Original Sentence: 
-Gasoline terminals were also largely unhurt they said
+Afterwards I went home and practiced for three hours
 Additional Information: 
-('gasoline', 'offered')
+('hour', 'black')

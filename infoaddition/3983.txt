@@ -1,0 +1,4 @@
+Original Sentence: 
+It means we 're eating into the bread that keeps us going
+Additional Information: 
+('bread', 'ON', 'sandwich')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Any fool can publish a money-losing magazine
+Over the next few years I would advise caution
 Additional Information: 
-('magazine', 'open')
+('caution', 'ON', 'sign')

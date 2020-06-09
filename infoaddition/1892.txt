@@ -1,4 +1,4 @@
 Original Sentence: 
-The investment is worth about 130 today
+The companies said the acquisition is subject to a definitive agreement
 Additional Information: 
-('sign', 'reads', 'today')
+('company', 'ON', 'building')

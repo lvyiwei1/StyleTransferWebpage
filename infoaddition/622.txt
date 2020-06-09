@@ -1,4 +1,4 @@
 Original Sentence: 
-Three gambling casinos have opened in Poland
+Some activists are toiling to raise the profile of the two causes
 Additional Information: 
-('casino', 'in a', 'casino')
+('profile', 'side')

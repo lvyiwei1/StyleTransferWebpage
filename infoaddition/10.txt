@@ -1,4 +1,4 @@
 Original Sentence: 
-We were reassured they would stand behind the company
+Institutional buyers were the main force pushing blue chips higher
 Additional Information: 
-('company', 'name')
+('force', 'ON', 'plane')

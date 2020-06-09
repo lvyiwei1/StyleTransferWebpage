@@ -1,0 +1,4 @@
+Original Sentence: 
+It 's a horrible machine actually
+Additional Information: 
+('machine', 'standing in', 'snow')

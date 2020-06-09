@@ -1,4 +1,4 @@
 Original Sentence: 
-Accepted bids were all at 7.962 %
+Michael J.C. Roth USAA executive vice president called program trading mindless
 Additional Information: 
-('bid', 'ON', 'shoulder')
+('president', ' United States')

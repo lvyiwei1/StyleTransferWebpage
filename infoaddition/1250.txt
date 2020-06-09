@@ -1,4 +1,4 @@
 Original Sentence: 
-There are a lot of them and they have property
+The wholesale price index stood at 89.6 1985 equals 100
 Additional Information: 
-('property', 'waterfront')
+('price', 'tag', 'roll')

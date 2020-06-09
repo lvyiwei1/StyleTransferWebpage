@@ -1,4 +1,4 @@
 Original Sentence: 
-The order is the biggest in the company 's history
+Joann S. Lublin in London contributed to this article
 Additional Information: 
-('company', 'name')
+('article', 'newspaper')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The rest is of course history
+It did n't provide details of setup costs
 Additional Information: 
-('the', 'word', 'history')
+('detail', 'printed on', 'shoulder')

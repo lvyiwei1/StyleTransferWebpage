@@ -1,4 +1,4 @@
 Original Sentence: 
-A man said he saw the upper rim undulate
+Last week many Jaguar shareholders took their money and ran
 Additional Information: 
-('rim', 'silver')
+('day', 'OF', 'week')

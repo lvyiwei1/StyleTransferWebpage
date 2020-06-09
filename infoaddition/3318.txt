@@ -1,4 +1,4 @@
 Original Sentence: 
-In national over-the-counter trading LIN closed at 104.75 down 2.75
+The Phillips plant makes polyethylene polypropylene and other plastic products
 Additional Information: 
-('red t', 'IN', 'trading')
+('product', 'bathroom')

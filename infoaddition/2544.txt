@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Whittle Friday said several more advertisers have been added
+They talked of the home run
 Additional Information: 
-('advertiser', 'ON', 'train')
+('home', 'white')

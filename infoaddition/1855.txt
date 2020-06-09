@@ -1,4 +1,4 @@
 Original Sentence: 
-The laws take effect next month
+Yields on most fixed-income securities are lower than several months ago
 Additional Information: 
-('drivers', 'are obeying', 'law')
+('security', 'standing')

@@ -1,4 +1,4 @@
 Original Sentence: 
-At first it seemed as if history might repeat itself
+Yet these figures show only the most visible part of the problem
 Additional Information: 
-('the', 'word', 'history')
+('plane', 'has', 'problem')

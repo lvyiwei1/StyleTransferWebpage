@@ -1,4 +1,4 @@
 Original Sentence: 
-South African gold stocks closed firmer
+You talk about free time .what free time
 Additional Information: 
-('stock', 'green')
+('time', 'displayed')

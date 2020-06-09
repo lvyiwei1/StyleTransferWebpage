@@ -1,4 +1,4 @@
 Original Sentence: 
-She was the child of relative privilege
+He reports his business is up slightly from customers replacing old stock
 Additional Information: 
-('child', 'small')
+('customer', 'waiting')

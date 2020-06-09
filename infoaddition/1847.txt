@@ -1,4 +1,4 @@
 Original Sentence: 
-Most dealers can not continue to absorb this supply
+Announced and anticipated purchases from foreign countries are also supporting futures prices
 Additional Information: 
-('dealer', 'WEARING', 'glasses')
+('woman', 'wants to', 'purchase')

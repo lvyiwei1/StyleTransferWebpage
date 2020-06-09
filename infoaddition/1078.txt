@@ -1,4 +1,4 @@
 Original Sentence: 
-TIMES SQUARE development opponents are dealt setback
+Many middle-class people would love free food Medicaid insurance utilities and rent
 Additional Information: 
-('development', 'yellow')
+('people', 'standing')

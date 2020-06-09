@@ -1,4 +1,4 @@
 Original Sentence: 
-Things are beginning to settle down
+But many of these stocks have now become expensive
 Additional Information: 
-('thing', 'ON', 'bus')
+('stock', 'OF', 'broccoli')

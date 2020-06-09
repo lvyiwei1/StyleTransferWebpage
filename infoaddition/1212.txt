@@ -1,4 +1,4 @@
 Original Sentence: 
-Third-quarter earnings at both companies were below analysts ' forecasts
+But an unexpected deviation either way could roil bond and currency markets
 Additional Information: 
-('company', 'name')
+('currency', 'by', 'luggage')

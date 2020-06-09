@@ -1,4 +1,4 @@
 Original Sentence: 
-To ask those questions is to answer them
+Chief executives and presidents had come and gone
 Additional Information: 
-('question', 'black')
+('executive', 'in white')

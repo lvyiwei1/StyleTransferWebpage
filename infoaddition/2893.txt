@@ -1,4 +1,4 @@
 Original Sentence: 
-Still Mrs. Thatcher had once again gone against the grain
+Manufacturers too are stretching further to lure buyers
 Additional Information: 
-('grain', 'wood')
+('buyer', 'prospective')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The position of chief operating officer is new
+The good news is it 's not your fault
 Additional Information: 
-('officer', 'police')
+('news', 'ON', 'bus')

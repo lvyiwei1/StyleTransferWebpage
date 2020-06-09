@@ -1,4 +1,4 @@
 Original Sentence: 
-A private farmer never wastes anything
+It might even have saved the life and business of Israel Ortiz
 Additional Information: 
-('farmer', 'holding')
+('business', 'here')

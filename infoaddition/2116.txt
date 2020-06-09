@@ -1,4 +1,4 @@
 Original Sentence: 
-But quite a few money managers are n't buying it
+Michael late yesterday announced a 3.8 million stock buy-back program
 Additional Information: 
-('manager', 'overlooking action')
+('stock', 'green')

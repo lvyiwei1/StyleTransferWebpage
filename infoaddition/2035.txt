@@ -1,4 +1,4 @@
 Original Sentence: 
-UAL declined to comment on British Air 's statement
+a Totals include only vehicle sales reported in the period
 Additional Information: 
-('statement', 'credit')
+('sale', 'red')

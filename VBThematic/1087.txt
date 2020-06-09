@@ -1,3 +1,3 @@
 Original Sentence: 
-As a result of the sales he holds 6,727,042 shares
-Emphasize: holds
+The DAX dropped 19.69 points Friday to 1462.93
+Emphasize: dropped

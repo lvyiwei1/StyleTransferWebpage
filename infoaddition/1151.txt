@@ -1,4 +1,4 @@
 Original Sentence: 
-No non-competitive tenders will be accepted
+But the apple industry is ripe for change
 Additional Information: 
-('tender', 'elephant')
+('apple', 'containing', 'core')

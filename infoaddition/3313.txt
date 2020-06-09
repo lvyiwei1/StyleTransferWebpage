@@ -1,4 +1,4 @@
 Original Sentence: 
-It has three U.S. branches
+The Phillips plant makes polyethylene polypropylene and other plastic products
 Additional Information: 
-('branch', 'brown')
+('plant', 'growing in', 'wall')

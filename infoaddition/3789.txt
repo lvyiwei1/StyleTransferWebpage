@@ -1,0 +1,4 @@
+Original Sentence: 
+Besides we have enough on our plate
+Additional Information: 
+('plate', 'white')

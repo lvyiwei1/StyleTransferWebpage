@@ -1,4 +1,4 @@
 Original Sentence: 
-Second-tier companies are receiving even less per ton
+The farmer at the next truck shouts Wheat
 Additional Information: 
-('company', 'name')
+('farmer', 'holding')

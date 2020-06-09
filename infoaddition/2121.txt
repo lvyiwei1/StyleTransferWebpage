@@ -1,4 +1,4 @@
 Original Sentence: 
-The latest rebate is good for all Beretta models
+Population Drain Ends For Midwestern States
 Additional Information: 
-('model', 'WEARING', 'necklace')
+('drain', 'silver')

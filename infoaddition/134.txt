@@ -1,4 +1,4 @@
 Original Sentence: 
-Even so his bill is given little chance of passage
+Union officials could n't be reached for comment
 Additional Information: 
-('bill', 'ON', 'player')
+('union', 'word')

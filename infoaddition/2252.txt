@@ -1,4 +1,4 @@
 Original Sentence: 
-There are n't any such listings for asset-backed securities
+Pricing terms were n't available
 Additional Information: 
-('listing', 'of daily specials')
+('sign', 'has', 'pricing')

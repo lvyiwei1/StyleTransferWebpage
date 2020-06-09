@@ -1,4 +1,4 @@
 Original Sentence: 
-McCaw 's bid also has a similar clause
+Cathay is taking several steps to bolster business
 Additional Information: 
-('bid', 'ON', 'shoulder')
+('step', 'ON', 'truck')

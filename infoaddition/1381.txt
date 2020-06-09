@@ -1,4 +1,4 @@
 Original Sentence: 
-What market makers provide is immediacy a very valuable service
+But these players were dead
 Additional Information: 
-('market', 'has', 'oranges')
+('player', 'has', 'shadow')

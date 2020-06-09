@@ -1,4 +1,4 @@
 Original Sentence: 
-Poverty remains far more widespread among blacks than other Americans
+Aldus Seattle makes computer software products
 Additional Information: 
-('black', 'train', 'car')
+('product', 'on top of', 'counter')

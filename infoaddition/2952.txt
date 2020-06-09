@@ -1,4 +1,4 @@
 Original Sentence: 
-The damage is already done
+The shipments went mostly to food-service distributors that supply pizzerias and restaurants
 Additional Information: 
-('damage', 'on a', 'wall')
+('restaurant', 'busy')

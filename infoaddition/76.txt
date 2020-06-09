@@ -1,4 +1,4 @@
 Original Sentence: 
-He has a built-in constant longing for lower interest rates
+Several other banks have similar applications pending
 Additional Information: 
-('built-in', 'microwave', 'oven')
+('application', 'loaded')

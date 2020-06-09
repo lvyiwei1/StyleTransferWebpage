@@ -1,4 +1,4 @@
 Original Sentence: 
-The transaction represents Lynch 's entry into the telephone business
+Simply put there is n't enough business for every store to grow
 Additional Information: 
-('entry', 'to', 'building')
+('store', 'Sells', 'bag')

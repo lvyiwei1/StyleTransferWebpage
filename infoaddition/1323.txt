@@ -1,4 +1,4 @@
 Original Sentence: 
-The German stock index tumbled 26.29 to end at
+And for now at least the competition is n't the only enemy
 Additional Information: 
-('index', 'finger', 'cutting donut')
+('competition', 'horse')

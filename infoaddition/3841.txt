@@ -1,0 +1,4 @@
+Original Sentence: 
+Now his ghost wo n't let up till it 's done
+Additional Information: 
+('ghost', 'red')

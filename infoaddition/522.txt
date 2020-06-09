@@ -1,4 +1,4 @@
 Original Sentence: 
-Other companies figure they ca n't avoid the market
+I thought back to our time in small sparsely populated communities
 Additional Information: 
-('market', 'OF', 'cucumbers')
+('time', 'displayed')

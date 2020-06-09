@@ -1,4 +1,4 @@
 Original Sentence: 
-They will have to throw their hat in the ring
+Others preach the gospel of buying only blue-chip growth stocks
 Additional Information: 
-('hat', 'black')
+('stock', 'green')

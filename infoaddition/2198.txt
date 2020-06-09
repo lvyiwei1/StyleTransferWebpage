@@ -1,4 +1,4 @@
 Original Sentence: 
-There 's nothing rational about this kind of action
+Which types of stocks currently have the greatest earnings risks
 Additional Information: 
-('action', 'MLB')
+('type', 'of computer', 'dell')

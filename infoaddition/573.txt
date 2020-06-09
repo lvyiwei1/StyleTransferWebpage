@@ -1,4 +1,4 @@
 Original Sentence: 
-Most people ca n't even remember his name
+Regulators also ordered CenTrust to stop buying back the preferred stock
 Additional Information: 
-('people', 'at', 'food market')
+('stock', 'OF', 'broccoli')

@@ -1,4 +1,4 @@
 Original Sentence: 
-For Vietnamese these are tricky often treacherous times
+Borrowed shares on the Amex rose to another record
 Additional Information: 
-('vietnamese', 'white')
+('record', 'atop', 'speaker')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Motorola is fighting back against junk mail
+Oranjemund the mine headquarters is a lonely corporate oasis of 9,000 residents
 Additional Information: 
-('junk', 'piled near', 'fence')
+('oasis', 'IN', 'desert')

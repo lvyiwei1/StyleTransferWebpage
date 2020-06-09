@@ -1,4 +1,4 @@
 Original Sentence: 
-You do n't know which way to punch
+He confers big trading commissions on Wall Street firms
 Additional Information: 
-('way', 'walk')
+('red t', 'IN', 'trading')

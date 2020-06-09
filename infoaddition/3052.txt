@@ -1,4 +1,4 @@
 Original Sentence: 
-The 833.6 million figures includes the new acquisitions
+The day was saturated with the weight of its own impending history
 Additional Information: 
-('figure', 'ON', 'cake')
+('the', 'word', 'history')

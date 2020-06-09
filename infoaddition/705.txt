@@ -1,4 +1,4 @@
 Original Sentence: 
-WHY BE A MIDDLEMAN for charitable gifts a retiree asks
+Pilgrim had been closed for 32 months
 Additional Information: 
-('gift', 'wrapped')
+('month', 'around', 'face')

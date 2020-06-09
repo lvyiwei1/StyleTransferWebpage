@@ -1,4 +1,4 @@
 Original Sentence: 
-The markets are returning to normalcy
+Jewelry Makers Copy Cosmetics Sales Ploys
 Additional Information: 
-('market', 'filled with', 'green peppers')
+('sale', 'red')

@@ -1,4 +1,4 @@
 Original Sentence: 
-UNIFIRST Corp. declared a 2-for-1 stock split
+Many Law School Grads Find Classes Never End
 Additional Information: 
-('stock', 'green')
+('class', 'OF', 'kids')

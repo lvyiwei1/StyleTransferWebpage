@@ -1,4 +1,4 @@
 Original Sentence: 
-In Chicago grain and soybean prices rose slightly
+Mr. Deaver confessed to his alcoholism during his trial on perjury charges
 Additional Information: 
-('price', 'written')
+('snow', 'has', 'trial')

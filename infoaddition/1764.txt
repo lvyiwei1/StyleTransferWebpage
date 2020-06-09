@@ -1,4 +1,4 @@
 Original Sentence: 
-States are following suit
+When they halt trading all market liquidity is gone
 Additional Information: 
-('state', 'Penn ')
+('red t', 'IN', 'trading')

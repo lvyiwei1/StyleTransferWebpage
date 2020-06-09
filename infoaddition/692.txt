@@ -1,4 +1,4 @@
 Original Sentence: 
-The supply of experienced civil engineers though is tighter
+Opponents of the cut are playing hardball
 Additional Information: 
-('supply', 'all')
+('opponent', 'standing')

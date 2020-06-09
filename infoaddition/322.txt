@@ -1,4 +1,4 @@
 Original Sentence: 
-Seats currently are quoted at 400,000 bid 425,000 asked
+Hilton rose 2 7\/8 to 100 for example
 Additional Information: 
-('seat', 'black')
+('example', 'lowercase')

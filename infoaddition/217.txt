@@ -1,4 +1,4 @@
 Original Sentence: 
-In this case that 's about 250,000
+A UNIFIED EUROPE poses labor problems and prospects for U.S. firms
 Additional Information: 
-('case', 'has', 'lettering')
+('plane', 'has', 'problem')

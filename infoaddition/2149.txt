@@ -1,4 +1,4 @@
 Original Sentence: 
-We got some exposure and pretty much good will
+Ms. McGlade of PaineWebber raised a more fundamental question about the deal
 Additional Information: 
-('will', 'white')
+('question', 'black')

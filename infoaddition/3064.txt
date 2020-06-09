@@ -1,4 +1,4 @@
 Original Sentence: 
-Health-insurance costs soared
+In either case the investor faces three possible outcomes
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('case', 'black')

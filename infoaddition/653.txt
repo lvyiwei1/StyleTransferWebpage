@@ -1,4 +1,4 @@
 Original Sentence: 
-Certain details of the restructured facilities remain to be negotiated
+GM confirmed it received U.S. antitrust clearance to boost its holding
 Additional Information: 
-('detail', 'on side of', 'detail')
+('holding', 'wooden')

@@ -1,0 +1,4 @@
+Original Sentence: 
+There was no new-issue activity in the derivative market
+Additional Information: 
+('market', 'outdoor')

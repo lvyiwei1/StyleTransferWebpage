@@ -1,4 +1,4 @@
 Original Sentence: 
-Heating oil and gasoline futures ended higher as well
+But it fell to 1.8470 marks from 1.8485
 Additional Information: 
-('heating', 'and cooling', 'heating')
+('mark', 'black')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Accepted theories of asset pricing offer a perfectly legitimate explanation
+Silver 's history of volatility is also discouraging investors dealers say
 Additional Information: 
-('explanation', 'OF', 'display')
+('silver', 'ON', 'broom')

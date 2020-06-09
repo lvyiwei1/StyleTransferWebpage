@@ -1,4 +1,4 @@
 Original Sentence: 
-The action came after the Senate approved the House-passed measure
+The current debt limit expires Oct. 31
 Additional Information: 
-('action', 'IN', 'action')
+('limit', '2 hour')

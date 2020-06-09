@@ -1,4 +1,4 @@
 Original Sentence: 
-Nasdaq 's gain was led by its biggest industrial stocks
+Interest payments on the bonds will be payable semiannually
 Additional Information: 
-('stock', 'ON', 'engine')
+('interest', 'great')

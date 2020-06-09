@@ -1,4 +1,4 @@
 Original Sentence: 
-It seeks unspecified money damages
+These products are the heart of our transmission-product line Mr. Buchner said
 Additional Information: 
-('money', 'IN', 'hand')
+('heart', 'ON', 'picture')

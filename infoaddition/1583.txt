@@ -1,4 +1,4 @@
 Original Sentence: 
-Yesterday bank stocks lagged behind the overall OTC market
+If bringing the message is a crime I 'm guilty of it
 Additional Information: 
-('bank', 'grassy')
+('message', 'IN', 'wood')

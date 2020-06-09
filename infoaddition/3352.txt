@@ -1,4 +1,4 @@
 Original Sentence: 
-If you 're a technician you obey the signals
+The two producers own a combined 28 % stake in Guber-Peters
 Additional Information: 
-('signal', 'traffic')
+('stake', 'ON', 'table')

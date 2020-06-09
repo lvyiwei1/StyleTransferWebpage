@@ -1,4 +1,4 @@
 Original Sentence: 
-What is the mission of the financial community
+The company develops and markets products for the food service industry
 Additional Information: 
-('community', 'here')
+('food', 'green')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Factoring involves the purchase and collection of another company 's receivables
+Additional Information: 
+('purchase', 'Levy Restaurant')

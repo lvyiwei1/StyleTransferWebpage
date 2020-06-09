@@ -1,4 +1,4 @@
 Original Sentence: 
-As a critique of middle-class mores the story is heavy-handed
+I wish he could wear lifts in his voice
 Additional Information: 
-('story', 'second')
+('lift', 'behind', 'people')

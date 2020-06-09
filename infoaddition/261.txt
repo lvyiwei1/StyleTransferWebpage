@@ -1,4 +1,4 @@
 Original Sentence: 
-This is not a major crash she said
+The successful launch continues a remarkable recovery in the U.S. space-science program
 Additional Information: 
-('crash', 'white')
+('boat', 'has a', 'launch')

@@ -1,4 +1,4 @@
 Original Sentence: 
-x Year-to-date 1988 figure includes Volkswagen domestic-production through July
+It 's a baptism of fire for Corry says one USX executive
 Additional Information: 
-('figure', 'green')
+('fire', 'IN', 'fireplace')

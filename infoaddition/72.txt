@@ -1,4 +1,4 @@
 Original Sentence: 
-In a great restaurant do n't deprive yourself
+The filing said the group continues to hold 3,481,887 remaining shares
 Additional Information: 
-('restaurant', 'busy')
+('group', 'large')

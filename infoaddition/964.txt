@@ -1,4 +1,4 @@
 Original Sentence: 
-The rest is of course history
+For longer-term CDs yields were up
 Additional Information: 
-('course', 'green')
+('yield', 'on', 'sign')

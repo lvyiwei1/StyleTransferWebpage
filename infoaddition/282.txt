@@ -1,4 +1,4 @@
 Original Sentence: 
-No charges were brought against her
+Fluor Corp. a construction engineering firm gained 75 cents to 33.375
 Additional Information: 
-('charge', 'can', 'charge')
+('construction', 'ON', 'road')

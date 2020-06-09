@@ -1,4 +1,4 @@
 Original Sentence: 
-The media she says have distorted his personal life
+The spokeswoman said the exchange would resume trading of Delmed stock today
 Additional Information: 
-('medium', 'gray', 'clouds')
+('sign', 'reads', 'today')

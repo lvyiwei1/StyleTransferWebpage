@@ -1,4 +1,4 @@
 Original Sentence: 
-Polymerix makes lumber-like materials that it describes as plastic wood
+SHORT SKIRTS not welcome in Texas court
 Additional Information: 
-('material', 'in a', 'bucket')
+('court', 'has', 'paint')

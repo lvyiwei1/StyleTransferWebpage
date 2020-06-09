@@ -1,4 +1,4 @@
 Original Sentence: 
-A 35-nation environmental conference opened in Sofia Bulgaria
+He is president and chief executive officer of Comerica Inc. in Detroit
 Additional Information: 
-('people', 'are at a', 'conference')
+('officer', 'police')

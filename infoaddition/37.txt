@@ -1,4 +1,4 @@
 Original Sentence: 
-But Ms. McCraw says the magazine is fighting back
+Irish and Soviet people are similar says Mr. Ovcharenko
 Additional Information: 
-('magazine', 'open')
+('people', 'WEARING', 'shirt')

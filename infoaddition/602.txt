@@ -1,4 +1,4 @@
 Original Sentence: 
-Public TV is in fantasy land he said
+He expects Citicorp to take a similar step this year
 Additional Information: 
-('land', 'behind', 'water')
+('year', 'IN', 'left corner')

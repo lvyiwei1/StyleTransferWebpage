@@ -1,4 +1,4 @@
 Original Sentence: 
-The company has been manufacturing carpet since 1967
+On some days the Nucor plant does n't produce anything
 Additional Information: 
-('carpet', 'brown')
+('plant', 'next to', 'backboard')

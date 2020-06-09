@@ -1,4 +1,4 @@
 Original Sentence: 
-They 're really fashion items wrapped up in little jars
+Her new line of work has some perils
 Additional Information: 
-('fashion', 'floral print')
+('work', 'iron')

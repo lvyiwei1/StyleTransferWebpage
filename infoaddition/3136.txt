@@ -1,4 +1,4 @@
 Original Sentence: 
-The plant was evacuated and workers sent home
+Sales of parts for cars and construction vehicles rose
 Additional Information: 
-('worker', 'construction')
+('car', 'drives toward', 'bus')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Most investment-grade bonds fell 3\/8 to 1\/2 point
+Some dealers say other traders were n't picking up their phones
 Additional Information: 
-('bond', 'black ')
+('phone', 'black')

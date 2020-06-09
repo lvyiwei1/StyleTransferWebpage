@@ -1,4 +1,4 @@
 Original Sentence: 
-FOR YEARS costume jewelry makers fought a losing battle
+I think this is a market that required some level of security
 Additional Information: 
-('battle', 'close')
+('security', 'walking in', 'orange vests')

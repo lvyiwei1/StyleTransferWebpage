@@ -1,4 +1,4 @@
 Original Sentence: 
-And taxpayer groups are urging legislation in many other states
+Some diaries simply are n't worth snooping in
 Additional Information: 
-('group', 'large')
+('diary', 'ON', 'table')

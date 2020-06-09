@@ -1,4 +1,4 @@
 Original Sentence: 
-But what about all those non-duck ducks flapping over Washington
+Many people here expect a room-rate war as the new projects open
 Additional Information: 
-('duck', 'white')
+('project', 'sewing')

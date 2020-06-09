@@ -1,4 +1,4 @@
 Original Sentence: 
-He also said investment by businesses is falling off
+Reward El Espectador 's courage with real support
 Additional Information: 
-('business', 'has', 'phone number')
+('support', 'metal')

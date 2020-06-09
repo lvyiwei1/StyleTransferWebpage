@@ -1,4 +1,4 @@
 Original Sentence: 
-We ca n't lose sight of that
+Continentals believe that the strongest growth area will be southern Europe
 Additional Information: 
-('train', 'IN', 'sight')
+('growth', 'green')

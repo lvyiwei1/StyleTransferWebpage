@@ -1,4 +1,4 @@
 Original Sentence: 
-PaineWebber considered an even harder sell recommending specific stocks
+What that will mean for manufacturers is anybody 's guess
 Additional Information: 
-('pies', 'for', 'sell')
+('guess', 'ON', 'building')

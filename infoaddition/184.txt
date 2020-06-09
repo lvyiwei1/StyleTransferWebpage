@@ -1,4 +1,4 @@
 Original Sentence: 
-The earnings drop had been expected
+When it comes to money Once bitten 2,000 times shy
 Additional Information: 
-('drop', 'ON', 'window')
+('time', 'displayed')

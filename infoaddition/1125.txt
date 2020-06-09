@@ -1,4 +1,4 @@
 Original Sentence: 
-None of these chief executives were available for comment
+This system produced boring boxy cars that consumers just were n't buying
 Additional Information: 
-('executive', 'ON', 'signs')
+('system', 'sitting on', 'table')

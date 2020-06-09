@@ -1,4 +1,4 @@
 Original Sentence: 
-The farmer stands to go
+Now we 're at the bottom of the heap
 Additional Information: 
-('farmer', 'beside', 'body')
+('heap', 'white ')

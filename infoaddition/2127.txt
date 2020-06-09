@@ -1,4 +1,4 @@
 Original Sentence: 
-Currently the company has about six million common shares outstanding
+The assembly plant is scheduled to resume production on Oct. 30
 Additional Information: 
-('company', 'name')
+('plant', 'green')

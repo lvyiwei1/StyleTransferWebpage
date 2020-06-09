@@ -1,4 +1,4 @@
 Original Sentence: 
-His boss complained about neglect of other chores
+For many money managers the past four months have been humiliating
 Additional Information: 
-('stand', 'with', 'bos')
+('money', 'hanging out of', 'briefcase')

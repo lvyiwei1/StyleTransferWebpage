@@ -1,4 +1,4 @@
 Original Sentence: 
-Offices of the city 's Rent Board were destroyed
+But there are no scientific data on this question
 Additional Information: 
-('city', 'standing', 'plane')
+('data', 'green')

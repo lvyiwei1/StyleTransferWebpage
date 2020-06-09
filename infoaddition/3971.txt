@@ -1,0 +1,4 @@
+Original Sentence: 
+The biggest flurry of investor activity came early in the day
+Additional Information: 
+('flurry', 'big')

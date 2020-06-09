@@ -1,4 +1,4 @@
 Original Sentence: 
-The OTC market has only a handful of takeover-related stocks
+It would n't discuss a price
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('price', 'written')

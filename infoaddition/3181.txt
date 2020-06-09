@@ -1,4 +1,4 @@
 Original Sentence: 
-Foreign traders say the company is strapped for cash
+At closing time farmers cart out most of what they carted in
 Additional Information: 
-('cash', 'inside', 'purse')
+('time', 'ON', 'scoreboard')

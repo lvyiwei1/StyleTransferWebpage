@@ -1,4 +1,4 @@
 Original Sentence: 
-Value of the properties and management interests was n't disclosed
+Not everything looks grim for Quantum
 Additional Information: 
-('property', 'standing', 'chainlink fence')
+('sky', 'above', 'everything')

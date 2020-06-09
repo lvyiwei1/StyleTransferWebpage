@@ -1,4 +1,4 @@
 Original Sentence: 
-This is n't a distress sale
+None of the officials was available for comment
 Additional Information: 
-('sale', 'ON', 'window')
+('official', 'tennis')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Step up to the plate and take the big swing
+Taiwan officials are expected to review the Shearson application later this year
 Additional Information: 
-('plate', 'on top of', 'table')
+('official', 'STANDING BEHIND', 'court')

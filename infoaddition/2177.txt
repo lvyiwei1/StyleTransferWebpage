@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Goldberg is the sole general partner in Rose Partners
+Sales rose to 406 million from 356 million the year earlier
 Additional Information: 
-('partner', 'playing on', 'tennis court')
+('year', 'ON', 'picture')

@@ -1,4 +1,4 @@
 Original Sentence: 
-This leads to a very special sense of urgency
+On the close can be added to many types of orders
 Additional Information: 
-('phrase', 'makes no', 'sense')
+('order', 'ready')

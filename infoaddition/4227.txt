@@ -1,0 +1,4 @@
+Original Sentence: 
+Drugs continue to be sold openly around schools parks and housing projects
+Additional Information: 
+('housing', 'has', 'windows')

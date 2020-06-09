@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose to 2.45 billion from 2.2 billion
+Integrated made its announcement after the market closed
 Additional Information: 
-('sale', 'at', 'company')
+('market', 'outdoor')

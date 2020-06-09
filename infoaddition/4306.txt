@@ -1,0 +1,4 @@
+Original Sentence: 
+In the year-ago period net included 32.7 million from discontinued operations
+Additional Information: 
+('period', 'against', 'background')

@@ -1,4 +1,4 @@
 Original Sentence: 
-It made my shoelaces dance with terror
+But for photofinishers developing costs for black-and-white film are higher
 Additional Information: 
-('shoelace', 'ON', 'shoe')
+('film', 'black')

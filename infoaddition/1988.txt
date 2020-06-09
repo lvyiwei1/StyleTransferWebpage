@@ -1,4 +1,4 @@
 Original Sentence: 
-Seats currently are quoted at 353,500 bid 405,000 asked
+Officials at the Washington D.C.-based charity did n't return repeated phone calls
 Additional Information: 
-('bid', 'metal')
+('call', 'here')

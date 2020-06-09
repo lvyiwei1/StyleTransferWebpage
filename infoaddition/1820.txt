@@ -1,4 +1,4 @@
 Original Sentence: 
-Major European auction houses are turning increasingly to specialized sales
+Radio programs and books have followed the daily television show
 Additional Information: 
-('sale', 'red')
+('book', 'ON', 'bed')

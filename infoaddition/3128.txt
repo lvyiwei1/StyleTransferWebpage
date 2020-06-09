@@ -1,4 +1,4 @@
 Original Sentence: 
-Advertisers are showing interest
+Democrats hoped that Mr. Dinkins could become a highly visible national leader
 Additional Information: 
-('interest', 'great')
+('leader', 'WEARING', 'helmet')

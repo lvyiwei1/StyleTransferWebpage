@@ -1,4 +1,4 @@
 Original Sentence: 
-Would n't the Japanese like a piece of it
+Civil disobedience violent or non-violent is intentional law breaking
 Additional Information: 
-('baner', 'IN', 'japanese')
+('drivers', 'are obeying', 'law')

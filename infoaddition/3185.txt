@@ -1,4 +1,4 @@
 Original Sentence: 
-Traders said most municipal bonds ended 1\/2 point higher
+Mr. Ahmad 's lawyer said he would appeal
 Additional Information: 
-('point', 'sharp')
+('lawyer', 'showing a', 'paper')

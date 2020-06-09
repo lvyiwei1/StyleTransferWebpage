@@ -1,4 +1,4 @@
 Original Sentence: 
-The Russians are talking peace
+One airline executive who declined to be identified called the loss amazing
 Additional Information: 
-('peace', 'ON', 'pillow')
+('executive', 'ON', 'signs')

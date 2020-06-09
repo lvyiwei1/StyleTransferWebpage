@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Falco continues to rank the stock a longterm buy
+Chief executives and presidents had come and gone
 Additional Information: 
-('stock', 'green')
+('president', ' United States')

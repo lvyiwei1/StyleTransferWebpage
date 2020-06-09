@@ -1,4 +1,4 @@
 Original Sentence: 
-But most lawyers accept that the marketplace has spoken
+A year later she moved to the commercial property claims division
 Additional Information: 
-('marketplace', 'on side of', 'buildings')
+('year', 'ON', 'side')

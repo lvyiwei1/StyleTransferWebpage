@@ -1,4 +1,4 @@
 Original Sentence: 
-But they never materialized and IMA completed the purchase yesterday
+Darman hopes to prod Congress to finish a deficit plan
 Additional Information: 
-('purchase', 'Levy Restaurant')
+('plan', 'ON', 'tarmac')

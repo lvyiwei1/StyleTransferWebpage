@@ -1,4 +1,4 @@
 Original Sentence: 
-Long dollar bonds were flat to up 3\/8 point
+They will be the next hot magazines
 Additional Information: 
-('dollar', 'ON', 'bed')
+('magazine', 'open')

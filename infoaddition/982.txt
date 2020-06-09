@@ -1,4 +1,4 @@
 Original Sentence: 
-The closely held company has n't disclosed sales
+The price can not be less than 7,000
 Additional Information: 
-('company', 'name')
+('price', 'written')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Company officials could n't be reached
+Names are resigning at an even faster pace this year
 Additional Information: 
-('company', 'name')
+('name', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We have no in-office business
+I thought back to our time in small sparsely populated communities
 Additional Information: 
-('business', 'name', 'lab')
+('community', 'here')

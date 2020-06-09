@@ -1,4 +1,4 @@
 Original Sentence: 
-Kyle manufactures electronic components
+Now comes the pool flap
 Additional Information: 
-('component', 'blue')
+('pool', 'containing', 'water')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The merged firm will carry Norris McLaughlin 's name
+One airline executive who declined to be identified called the loss amazing
 Additional Information: 
-('name', 'IN', 'tennis net')
+('executive', 'in white')

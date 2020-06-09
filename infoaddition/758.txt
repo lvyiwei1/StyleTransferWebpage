@@ -1,4 +1,4 @@
 Original Sentence: 
-Outside I spotted two young men lugging blocks of concrete
+Bloomingdale 's does an estimated 1.2 billion in annual sales
 Additional Information: 
-('block', 'cement')
+('sale', 'at', 'company')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Lethal Weapon II was also a big hit
+These people have different agendas
 Additional Information: 
-('ball', 'being', 'hit')
+('people', 'standing')

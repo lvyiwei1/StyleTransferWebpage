@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's a very small shop
+Elsewhere in Europe share prices closed higher in Stockholm Brussels and Milan
 Additional Information: 
-('shop', 'street level')
+('price', 'ON', 'sign')

@@ -1,4 +1,4 @@
 Original Sentence: 
-October is a critical month for the privatization program
+People in the phone business call this technology 900 click
 Additional Information: 
-('month', 'ninth')
+('technology', 'silver')

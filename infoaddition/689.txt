@@ -1,4 +1,4 @@
 Original Sentence: 
-The shift wo n't affect operations
+I do n't think anyone left the place whistling Dixie
 Additional Information: 
-('shift', 'ON', 'keyboard')
+('place', 'full of', 'snow')

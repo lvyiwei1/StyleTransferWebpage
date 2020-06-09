@@ -1,4 +1,4 @@
 Original Sentence: 
-It also licenses optically based data storage and retrieval devices
+I ca n't do anything score-wise but I like meeting the girls
 Additional Information: 
-('device', 'electronic')
+('part', 'of a speaker not connected to', 'anything')

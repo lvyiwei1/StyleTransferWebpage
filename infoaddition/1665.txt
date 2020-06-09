@@ -1,4 +1,4 @@
 Original Sentence: 
-There are a lot of have and have-not markets
+For some banks that 10 % ceiling created problems
 Additional Information: 
-('lot', 'to', 'park')
+('ceiling', 'above', "man's head")

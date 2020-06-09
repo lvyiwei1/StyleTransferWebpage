@@ -1,0 +1,4 @@
+Original Sentence: 
+Mandela considered the most prominent leader of the ANC remains in prison
+Additional Information: 
+('leader', 'WEARING', 'helmet')

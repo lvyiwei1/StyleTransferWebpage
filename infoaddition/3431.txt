@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's expected to produce about 62,000 barrels per day
+What that will mean for manufacturers is anybody 's guess
 Additional Information: 
-('day', 'sunny')
+('manufacturer', 'hidden')

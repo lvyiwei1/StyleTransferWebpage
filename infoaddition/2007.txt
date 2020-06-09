@@ -1,4 +1,4 @@
 Original Sentence: 
-I played very transparently with the tip of the bow
+Tymnet is a major network linking computers
 Additional Information: 
-('tip', 'OF', 'umbrella')
+('computer', 'ON', 'table')

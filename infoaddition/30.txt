@@ -1,4 +1,4 @@
 Original Sentence: 
-Understandably smaller growth stocks have n't been in favor recently
+He also received 20-year sentences for each of the 24 passengers injured
 Additional Information: 
-('stock', 'of', 'stock')
+('sentence', 'endlessly repeated')

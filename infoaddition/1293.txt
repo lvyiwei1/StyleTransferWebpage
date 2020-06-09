@@ -1,4 +1,4 @@
 Original Sentence: 
-Related Roommates Trim Hospital Bills
+Fuel costs were up 10 % in the third quarter
 Additional Information: 
-('hospital', 'mental')
+('cost', 'displayed in front of', 'banana')

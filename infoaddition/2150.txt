@@ -1,4 +1,4 @@
 Original Sentence: 
-They stopped short of resuming diplomatic ties severed in 1979
+Ms. McGlade of PaineWebber raised a more fundamental question about the deal
 Additional Information: 
-('tie', 'around', 'tops')
+('deal', 'OF', 'bananas')

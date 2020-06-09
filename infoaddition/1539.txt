@@ -1,4 +1,4 @@
 Original Sentence: 
-This pattern was particularly evident among more highly educated couples
+The leader in real estate brand names is developer Ara Hovnanian
 Additional Information: 
-('pattern', 'white')
+('leader', 'parade')

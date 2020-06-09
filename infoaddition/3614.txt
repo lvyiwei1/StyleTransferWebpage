@@ -1,0 +1,4 @@
+Original Sentence: 
+Some people call me the communist billionaire she has told visitors
+Additional Information: 
+('people', 'standing')

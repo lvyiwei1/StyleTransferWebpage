@@ -1,4 +1,4 @@
 Original Sentence: 
-We are prepared to support those changes said Mr. Mosbacher
+Experts say such long hours for attendants pose a safety risk
 Additional Information: 
-('change', 'loose')
+('safety', 'orange')

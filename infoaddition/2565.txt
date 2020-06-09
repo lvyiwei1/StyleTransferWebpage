@@ -1,4 +1,4 @@
 Original Sentence: 
-Increasingly the financial markets are reflecting the gloom
+To date scientists have fingered two of these cancer-suppressors
 Additional Information: 
-('market', 'outdoor')
+('date', 'ON', 'picture')

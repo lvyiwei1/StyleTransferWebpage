@@ -1,4 +1,4 @@
 Original Sentence: 
-He earned a master 's degree in architecture from Yale
+They were absolutely killed slaughtered said one Chicago-based options trader
 Additional Information: 
-('master', 'his')
+('option', 'ON', 'phone')

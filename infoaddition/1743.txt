@@ -1,4 +1,4 @@
 Original Sentence: 
-Bond prices rose
+The market closed minutes after reaching its high for the day of
 Additional Information: 
-('price', 'OF', 'hot dog')
+('market', 'has', 'fruit')

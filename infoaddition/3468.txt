@@ -1,4 +1,4 @@
 Original Sentence: 
-The university is considering a settlement proposal made by Connaught
+Profit was 5.2 million compared with 1 million for the year-ago quarter
 Additional Information: 
-('settlement', 'OF', 'buildings')
+('quarter', 'silver')

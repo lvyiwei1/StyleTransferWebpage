@@ -1,4 +1,4 @@
 Original Sentence: 
-Is he a victim of Gramm-Rudman cuts
+The offer is based on several conditions including obtaining financing
 Additional Information: 
-('cut', 'IN', 'rock')
+('sky', 'weather', 'condition')

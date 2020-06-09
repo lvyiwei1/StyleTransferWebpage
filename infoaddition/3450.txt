@@ -1,4 +1,4 @@
 Original Sentence: 
-Innocent bystanders often are the victims
+Over the next several months though he says things look bad
 Additional Information: 
-('racket', 'OF', 'victim')
+('month', 'ninth')

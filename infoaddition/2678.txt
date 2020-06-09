@@ -1,4 +1,4 @@
 Original Sentence: 
-Other trips were more productive
+a reflects 2-for-1 stock split effective Dec. 30 1988
 Additional Information: 
-('man and women', 'going on', 'trip')
+('stock', 'belonging to', 'plant')

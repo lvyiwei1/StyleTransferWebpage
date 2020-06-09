@@ -1,4 +1,4 @@
 Original Sentence: 
-She added however It is not robust by any means
+A hundred billion dollars in stock was subject to it
 Additional Information: 
-('mean', 'WEARING', 'red shirt')
+('stock', 'OF', 'broccoli')

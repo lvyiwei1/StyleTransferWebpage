@@ -1,4 +1,4 @@
 Original Sentence: 
-We 've actually read the speech
+It does prolong the pain somewhat
 Additional Information: 
-('man', 'giving', 'speech')
+('pain', 'white')

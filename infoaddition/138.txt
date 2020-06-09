@@ -1,4 +1,4 @@
 Original Sentence: 
-People in the phone business call this technology 900 click
+The industrial average closed down only 3.69 points at 2659.22
 Additional Information: 
-('people', 'ON', 'bicycles')
+('point', 'sharp')

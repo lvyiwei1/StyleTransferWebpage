@@ -1,4 +1,4 @@
 Original Sentence: 
-People in Glass houses tend to look stoned
+The new facility is expected to begin operations in early 1991
 Additional Information: 
-('house', 'white')
+('facility', 'for', 'giraffe')

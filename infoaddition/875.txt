@@ -1,4 +1,4 @@
 Original Sentence: 
-He had been vice president in that office
+Still employees do occasionally try to smuggle out a gem or two
 Additional Information: 
-('handle', 'ON', 'vice')
+('gem', 'blue')

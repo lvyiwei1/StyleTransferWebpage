@@ -1,4 +1,4 @@
 Original Sentence: 
-But the complex language is n't the only reason
+The last six months has established the quality of the collection
 Additional Information: 
-('not', 'in mood right nowhold leg in air for no', 'reason')
+('photo', 'has', 'quality')

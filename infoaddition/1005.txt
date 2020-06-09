@@ -1,4 +1,4 @@
 Original Sentence: 
-But they never materialized and IMA completed the purchase yesterday
+Solar-powered batteries will make the spire glow
 Additional Information: 
-('woman', 'wants to', 'purchase')
+('glow', 'orange')

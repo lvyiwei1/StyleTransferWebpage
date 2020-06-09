@@ -1,4 +1,4 @@
 Original Sentence: 
-Some laggard food issues attracted bargain-hunters traders said
+But put her behind a shopping cart and she turns ruthless
 Additional Information: 
-('food', 'green')
+('shopping', 'area')

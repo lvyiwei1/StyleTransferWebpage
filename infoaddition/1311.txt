@@ -1,4 +1,4 @@
 Original Sentence: 
-Among other blue chips Exxon gained 1\/8 to 45 1\/2
+It 's not good the market is setting up for another fall
 Additional Information: 
-('chip', 'ON', 'plate')
+('fall', 'water')

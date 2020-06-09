@@ -1,0 +1,4 @@
+Original Sentence: 
+It 's amazing how one second can so completely change your life
+Additional Information: 
+('second', 'black')

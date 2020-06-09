@@ -1,4 +1,4 @@
 Original Sentence: 
-THANKS TO modern medicine more couples are growing old together
+Over the next several months though he says things look bad
 Additional Information: 
-('medicine', 'ON', 'table')
+('thing', 'in back of', 'train')

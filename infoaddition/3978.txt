@@ -1,0 +1,4 @@
+Original Sentence: 
+That division 's manager has been fired
+Additional Information: 
+('manager', 'sitting in', 'dugout')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Either one likes it or one does n't
+Dictation Device 's Saga Plays Back a Lesson
 Additional Information: 
-('one', 'white')
+('device', 'ON', 'shelf')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The government will penalize offenders but wo n't confiscate property
+But he said we have too many plants in our system
 Additional Information: 
-('property', 'has', 'ditch')
+('plant', 'IN', 'pot')

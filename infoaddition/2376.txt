@@ -1,4 +1,4 @@
 Original Sentence: 
-Thus the leverage has amplified the funds ' portfolio losses
+The company says those holdings constitute the third-biggest real-estate portfolio in Belgium
 Additional Information: 
-('portfolio', 'ON', 'desk')
+('company', 'ON', 'building')

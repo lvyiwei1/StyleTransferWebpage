@@ -1,4 +1,4 @@
 Original Sentence: 
-The harvest delays however are expected to be temporary
+In major market activity Stock prices rose in light trading
 Additional Information: 
-('harvest', 'gathered')
+('market', 'with', 'food')

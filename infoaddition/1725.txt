@@ -1,4 +1,4 @@
 Original Sentence: 
-This is a very personal ethnic style Mr. Carew says
+Appalled Mr. Green never paid the money he testified
 Additional Information: 
-('style', 'old')
+('money', 'ON', 'table')

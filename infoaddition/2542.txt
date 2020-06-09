@@ -1,4 +1,4 @@
 Original Sentence: 
-Per-share net rose to 44.08 yen from 36.13 yen
+The bonds are rated single-A-1 by Moody 's and double-A-minus by S&P
 Additional Information: 
-('net', 'ON', 'court')
+('bond', 'black ')

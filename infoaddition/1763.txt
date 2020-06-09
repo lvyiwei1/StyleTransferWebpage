@@ -1,4 +1,4 @@
 Original Sentence: 
-States are following suit
+For many money managers the past four months have been humiliating
 Additional Information: 
-('state', 'ON', 'sign')
+('month', 'ninth')

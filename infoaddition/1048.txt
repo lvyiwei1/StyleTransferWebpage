@@ -1,4 +1,4 @@
 Original Sentence: 
-Bond prices rallied
+Poland makes no machinery for a plant on that scale
 Additional Information: 
-('price', 'written')
+('scale', 'on top of', 'floor')

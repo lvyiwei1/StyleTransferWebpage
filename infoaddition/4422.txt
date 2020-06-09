@@ -1,0 +1,4 @@
+Original Sentence: 
+His Tuesday night team the Leftovers is in first place
+Additional Information: 
+('night', 'table with candle and', 'night')

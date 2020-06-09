@@ -1,4 +1,4 @@
 Original Sentence: 
-The painting is 10 feet wide seven feet high
+But what about all those non-duck ducks flapping over Washington
 Additional Information: 
-('painting', 'framed')
+('duck', 'IN', 'water')

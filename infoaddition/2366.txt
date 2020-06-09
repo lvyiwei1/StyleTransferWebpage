@@ -1,4 +1,4 @@
 Original Sentence: 
-You think you can go out and turn things around
+Calls to Shelly Schwab president of MCA TV were n't returned
 Additional Information: 
-('thing', 'ON', 'table')
+('president', 'at', 'table')

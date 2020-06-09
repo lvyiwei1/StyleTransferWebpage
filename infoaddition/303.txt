@@ -1,4 +1,4 @@
 Original Sentence: 
-The channel reaches 6.5 million homes a Penney spokesman said
+The result according to many analysts is higher prices and less innovation
 Additional Information: 
-('channel', 'has', 'logo')
+('price', 'ON', 'sign')

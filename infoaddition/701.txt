@@ -1,4 +1,4 @@
 Original Sentence: 
-They gleefully await the dream season in 1990
+The disk-drive maker disclosed a major fraud two months ago
 Additional Information: 
-('season', 'fall')
+('maker', 'on front of', 'fridge')

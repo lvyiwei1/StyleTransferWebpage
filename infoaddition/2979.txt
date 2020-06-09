@@ -1,4 +1,4 @@
 Original Sentence: 
-They want psyllium prices low for their purchases next year
+Mr. Stein was fined 25,000 and suspended for three years
 Additional Information: 
-('purchase', 'Levy Restaurant')
+('year', 'white')

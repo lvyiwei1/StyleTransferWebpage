@@ -1,4 +1,4 @@
 Original Sentence: 
-Meritor has headed the list since May
+If nothing else the 57-year-old 's past has its share of dents
 Additional Information: 
-('list', 'ON', 'bus')
+('dent', 'small')

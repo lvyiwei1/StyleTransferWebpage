@@ -1,0 +1,4 @@
+Original Sentence: 
+Other companies figure they ca n't avoid the market
+Additional Information: 
+('company', 'has', 'name')

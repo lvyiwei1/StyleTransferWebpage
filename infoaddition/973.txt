@@ -1,4 +1,4 @@
 Original Sentence: 
-Joann S. Lublin contributed to this article
+So far this list does n't change our view
 Additional Information: 
-('article', 'newspaper')
+('list', 'champagne ')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Subcontractors said they were told that equipment orders would be delayed
+Additional Information: 
+('equipment', 'electronic')

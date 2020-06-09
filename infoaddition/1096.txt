@@ -1,4 +1,4 @@
 Original Sentence: 
-Why did he add the Value Fund to the list
+Get caught and you 're dead in the water says Mr. Thal
 Additional Information: 
-('list', 'ON', 'screen')
+('water', 'IN', 'road')

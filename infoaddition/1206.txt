@@ -1,4 +1,4 @@
 Original Sentence: 
-In 1987 such selling contributed to a snowball effect
+He says he spent 300 million on his art business this year
 Additional Information: 
-('snowball', 'rolling down')
+('business', 'here')

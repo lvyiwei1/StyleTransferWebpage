@@ -1,4 +1,4 @@
 Original Sentence: 
-The computer 's miscalculation has been painful for Renaissance
+That 's a lot of banishment as it turns out
 Additional Information: 
-('computer', 'laptop')
+('lot', 'full of', 'motorcycles')

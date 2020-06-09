@@ -1,0 +1,4 @@
+Original Sentence: 
+Reluctant Advertisers Try Soft-Sell Spots
+Additional Information: 
+('spot', 'IN', 'cow')

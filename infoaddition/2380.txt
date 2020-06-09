@@ -1,4 +1,4 @@
 Original Sentence: 
-Corporations need liquidity in the form of borrowed funds
+The company says those holdings constitute the third-biggest real-estate portfolio in Belgium
 Additional Information: 
-('form', 'IN', 'bag')
+('portfolio', 'ON', 'desk')

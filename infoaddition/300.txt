@@ -1,4 +1,4 @@
 Original Sentence: 
-The IMF has several reasons for requesting the increase
+Everyone around me lives well
 Additional Information: 
-('not', 'in mood right nowhold leg in air for no', 'reason')
+('everyone', 'smiling')

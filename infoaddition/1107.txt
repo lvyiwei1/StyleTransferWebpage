@@ -1,4 +1,4 @@
 Original Sentence: 
-But for photofinishers developing costs for black-and-white film are higher
+It 's unlikely extracting the gas will cause subsidence says a spokeswoman
 Additional Information: 
-('film', 'black')
+('gas', 'range', 'stove')

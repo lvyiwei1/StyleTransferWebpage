@@ -1,4 +1,4 @@
 Original Sentence: 
-I 'm talking about landing in a canal
+The contract signing represented a major step in the long-planned petrochemical project
 Additional Information: 
-('landing', 'gear', 'underneath')
+('sidewalk', 'among', 'project')

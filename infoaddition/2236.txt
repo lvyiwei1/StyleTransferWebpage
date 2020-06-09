@@ -1,4 +1,4 @@
 Original Sentence: 
-Supporting banks will sign a Texas Declaration of Independents
+But it fell to 1.8470 marks from 1.8485
 Additional Information: 
-('bank', 'grassy')
+('mark', 'ON', 'concrete')

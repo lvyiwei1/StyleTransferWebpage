@@ -1,0 +1,4 @@
+Original Sentence: 
+More venturesome businesses are applying their skills in commercial fields
+Additional Information: 
+('field', 'green')

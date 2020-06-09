@@ -1,4 +1,4 @@
 Original Sentence: 
-The interviews took place two years ago
+It 's doubtful though whether circuit breakers do any real good
 Additional Information: 
-('year', 'ON', 'photograph')
+('breaker', 'IN', 'ocean')

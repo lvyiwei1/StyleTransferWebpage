@@ -1,4 +1,4 @@
 Original Sentence: 
-Indeed institutions already are taking note
+More-detailed reports followed and attracted even less notice
 Additional Information: 
-('note', 'yellow')
+('notice', 'ON', 'board')

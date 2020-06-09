@@ -1,0 +1,4 @@
+Original Sentence: 
+Comair said it paid cash but declined to disclose the price
+Additional Information: 
+('cash', 'Two round pieces  ')

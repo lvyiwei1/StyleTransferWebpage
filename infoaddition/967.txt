@@ -1,4 +1,4 @@
 Original Sentence: 
-The company would n't elaborate citing competitive reasons
+It did n't provide details of setup costs
 Additional Information: 
-('company', 'name')
+('setup', 'simple')

@@ -1,4 +1,4 @@
 Original Sentence: 
-He says his son has n't paid for the shares
+About 54 % are women and 44 % are part-time students
 Additional Information: 
-('son', 'young')
+('student', 'with a', 'cell phone')

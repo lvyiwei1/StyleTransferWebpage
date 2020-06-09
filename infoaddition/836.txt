@@ -1,4 +1,4 @@
 Original Sentence: 
-Most people said they exercise both for health and enjoyment
+This leads to a very special sense of urgency
 Additional Information: 
-('health', 'center', 'sign')
+('phrase', 'makes no', 'sense')

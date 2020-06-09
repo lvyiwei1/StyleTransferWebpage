@@ -1,4 +1,4 @@
 Original Sentence: 
-In January Mr. Salvatori sold the unit
+Sperry ultimately was eliminated from the competition without receiving the work
 Additional Information: 
-('unit', 'white')
+('competition', 'horse')

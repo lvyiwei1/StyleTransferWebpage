@@ -1,0 +1,4 @@
+Original Sentence: 
+Eavesdropping by individuals is harder to measure
+Additional Information: 
+('individual', 'ON', 'phone')

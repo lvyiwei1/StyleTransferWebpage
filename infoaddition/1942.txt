@@ -1,4 +1,4 @@
 Original Sentence: 
-Men would crawl in the sand looking for shiny stones
+The playoff series had riveted the 12-year-old Giants fan
 Additional Information: 
-('sand', 'at', 'beach')
+('series', 'OF', 'cars')

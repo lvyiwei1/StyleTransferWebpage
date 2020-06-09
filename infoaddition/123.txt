@@ -1,4 +1,4 @@
 Original Sentence: 
-The December contract rose 1.50 cents a pound to 1.2795
+We will probably have a year-end rally and then go down again
 Additional Information: 
-('pound', 'has a', 'ten')
+('man', 'at', 'rally')

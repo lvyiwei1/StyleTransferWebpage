@@ -1,4 +1,4 @@
 Original Sentence: 
-The position of chief operating officer is new
+Over the next few years I would advise caution
 Additional Information: 
-('catcher', 'IN', 'position')
+('caution', 'written')

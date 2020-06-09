@@ -1,4 +1,4 @@
 Original Sentence: 
-Individual prosperity inevitably would result
+But the Fed move was a small gesture traders said
 Additional Information: 
-('sign', 'reads', 'prosperity')
+('mechanism', 'makes it', 'move')

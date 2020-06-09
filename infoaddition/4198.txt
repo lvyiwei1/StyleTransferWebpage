@@ -1,0 +1,4 @@
+Original Sentence: 
+He explains that companies with real estate give security
+Additional Information: 
+('estate', 'grey')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The interview did not touch on Singapore 's domestic affairs
+As well reinsurers and insurance brokerage companies will have improved profits
 Additional Information: 
-('interview', 'media')
+('advertisement', 'for', 'insurance')

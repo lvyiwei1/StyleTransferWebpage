@@ -1,0 +1,4 @@
+Original Sentence: 
+He said construction would n't resume until market conditions warrant it
+Additional Information: 
+('construction', 'ON', 'building')

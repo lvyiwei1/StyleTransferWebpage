@@ -1,4 +1,4 @@
 Original Sentence: 
-Then he unleashed his own unstoppable attack
+The investment community for one has been anticipating a speedy resolution
 Additional Information: 
-('attack', 'are', 'attack')
+('community', 'here')

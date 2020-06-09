@@ -1,4 +1,4 @@
 Original Sentence: 
-Other fund managers were similarly sanguine
+They want a 24-hour library
 Additional Information: 
-('manager', 'overlooking action')
+('library', 'has', 'window')

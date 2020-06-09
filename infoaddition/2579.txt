@@ -1,4 +1,4 @@
 Original Sentence: 
-Canada is the world 's largest producer of market pulp
+3 Develop rental agreements with exclusive purchase options for the renter
 Additional Information: 
-('world', 'on side of', 'airplane')
+('option', 'ON', 'phone')

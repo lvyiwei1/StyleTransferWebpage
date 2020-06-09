@@ -1,4 +1,4 @@
 Original Sentence: 
-Liquidity is not a service
+Officials there declined to comment as did Helmsley management
 Additional Information: 
-('service', 'ON', 'sign')
+('official', 'IN', 'ring')

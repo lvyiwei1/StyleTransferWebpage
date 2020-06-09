@@ -1,4 +1,4 @@
 Original Sentence: 
-We were coming down straight into their canal
+Offices of the city 's Rent Board were destroyed
 Additional Information: 
-('canal', 'calm')
+('city', 'large')

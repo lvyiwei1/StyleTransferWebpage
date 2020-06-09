@@ -1,4 +1,4 @@
 Original Sentence: 
-The fundamentals do n't change in an hour he says
+I feel better than I ever have in my life he says
 Additional Information: 
-('hour', 'black')
+('life', 'printed')

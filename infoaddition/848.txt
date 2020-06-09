@@ -1,4 +1,4 @@
 Original Sentence: 
-The Treasury 's 30-year bond ended over 1\/4 point higher
+The moisturizer introduced in 1962 had a dowdy image
 Additional Information: 
-('point', 'ON', 'short hand')
+('moisturizer', 'face')

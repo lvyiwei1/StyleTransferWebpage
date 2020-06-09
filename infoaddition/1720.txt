@@ -1,4 +1,4 @@
 Original Sentence: 
-There is n't a black worker in sight
+But the strategy is n't helping much this time
 Additional Information: 
-('worker', 'construction')
+('time', 'shown on', 'phone screen')

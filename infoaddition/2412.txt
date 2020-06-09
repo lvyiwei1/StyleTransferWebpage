@@ -1,4 +1,4 @@
 Original Sentence: 
-But the ballplayers disagree
+And telephone or videotape depositions just do n't match physical encounters
 Additional Information: 
-('ballplayer', 'waiting')
+('videotape', 'for star wars')

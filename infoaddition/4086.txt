@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Sung formerly worked at General Electric in research on synthetic diamonds
+Additional Information: 
+('diamond', 'ON', 'post')

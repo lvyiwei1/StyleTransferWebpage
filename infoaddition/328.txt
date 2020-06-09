@@ -1,4 +1,4 @@
 Original Sentence: 
-Some have raised their cash positions to record levels
+Learning AIDS lists films pamphlets brochures videos and other educational data
 Additional Information: 
-('cash', 'Two round pieces  ')
+('pamphlet', 'blue')

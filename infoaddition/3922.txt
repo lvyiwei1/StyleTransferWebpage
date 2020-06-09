@@ -1,0 +1,4 @@
+Original Sentence: 
+They pay interest only for 115 months with principal payments beginning thereafter
+Additional Information: 
+('people', 'showing', 'interest')

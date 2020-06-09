@@ -1,4 +1,4 @@
 Original Sentence: 
-Officials expect difficulty routing traffic through downtown San Francisco
+Some are even coming up with their own novel designs
 Additional Information: 
-('downtown', 'fancy')
+('novel', 'IN', 'corner')

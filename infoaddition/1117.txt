@@ -1,4 +1,4 @@
 Original Sentence: 
-The market closed prior to Mr. Lawson 's announcement
+The ultimate hope is that the technique could identify diseased vessels
 Additional Information: 
-('announcement', 'green')
+('vessel', 'drinking')

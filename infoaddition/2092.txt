@@ -1,4 +1,4 @@
 Original Sentence: 
-Digital 's new line has been a long time coming
+Istat said 369,000 more people were employed in July than in April
 Additional Information: 
-('line', 'ON', 'board')
+('people', 'standing')

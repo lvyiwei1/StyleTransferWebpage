@@ -1,4 +1,4 @@
 Original Sentence: 
-We think this is a superior deal to McCaw 's
+Experts say such long hours for attendants pose a safety risk
 Additional Information: 
-('deal', 'great')
+('attendant', 'talking to', 'visitor')

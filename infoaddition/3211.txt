@@ -1,4 +1,4 @@
 Original Sentence: 
-The increased demand would normalize trading and stabilize prices
+By one estimate everyone here under 50 owns at least one bike
 Additional Information: 
-('price', 'ON', 'bike')
+('everyone', 'holding', 'racquets')

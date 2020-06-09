@@ -1,4 +1,4 @@
 Original Sentence: 
-Coopers uses the Coopers & Lybrand name world-wide
+They could all fairly be described as pap courses
 Additional Information: 
-('name', 'white')
+('course', 'green')

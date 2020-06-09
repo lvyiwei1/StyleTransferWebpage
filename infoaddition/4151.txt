@@ -1,0 +1,4 @@
+Original Sentence: 
+Jewelry makers rarely pay commissions and are n't expected to anytime soon
+Additional Information: 
+('maker', 'for', 'coffee')

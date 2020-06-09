@@ -1,0 +1,4 @@
+Original Sentence: 
+That would be a formula for ensuring even more FHA red ink
+Additional Information: 
+('ink', 'marring', 'page')

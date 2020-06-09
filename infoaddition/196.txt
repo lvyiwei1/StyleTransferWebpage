@@ -1,4 +1,4 @@
 Original Sentence: 
-The heightened competition will hit IBM at a difficult time
+TRUSTEE WHO MONITORED settlement payments to Dalkon Shield claimants quits
 Additional Information: 
-('time', 'OF', 'clock')
+('payment', 'for', 'produce')

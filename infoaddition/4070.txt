@@ -1,0 +1,4 @@
+Original Sentence: 
+Craig Forman in London contributed to this article
+Additional Information: 
+('article', 'ON', 'chair')

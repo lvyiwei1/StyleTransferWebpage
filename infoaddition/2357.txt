@@ -1,4 +1,4 @@
 Original Sentence: 
-A large number of those leaving are managers and professionals
+One such company is Bankers Trust Co
 Additional Information: 
-('manager', 'sitting in', 'dugout')
+('company', 'name')

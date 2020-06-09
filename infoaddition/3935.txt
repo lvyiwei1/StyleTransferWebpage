@@ -1,0 +1,4 @@
+Original Sentence: 
+This team initially called its new model Personal Retirement Account or PRA
+Additional Information: 
+('team', 'WEARING', 'shirts')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Is he a victim of Gramm-Rudman cuts
+It 's not good the market is setting up for another fall
 Additional Information: 
-('cut', 'small')
+('market', 'filled with', 'green peppers')

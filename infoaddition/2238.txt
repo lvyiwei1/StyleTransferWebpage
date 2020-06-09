@@ -1,4 +1,4 @@
 Original Sentence: 
-Heating oil and gasoline futures ended higher as well
+Investors will develop thicker skins and their confidence will return he says
 Additional Information: 
-('oil', 'IN', 'bottle')
+('skin', 'ON', 'potato')

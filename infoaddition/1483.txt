@@ -1,4 +1,4 @@
 Original Sentence: 
-Estimates suggest October 's figure may be even higher
+The cats are fine although nervous
 Additional Information: 
-('figure', 'green')
+('cat', 'ON', 'couch')

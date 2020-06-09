@@ -1,4 +1,4 @@
 Original Sentence: 
-Making computers smaller often means sacrificing memory
+It will continue to be sold in the European market
 Additional Information: 
-('computer', 'ON', 'desk')
+('market', 'for sale at', 'market')

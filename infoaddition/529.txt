@@ -1,4 +1,4 @@
 Original Sentence: 
-His appointment expands the board to 13 members
+But when the judge received his payment book he disavowed the deal
 Additional Information: 
-('member', 'several')
+('book', 'white')

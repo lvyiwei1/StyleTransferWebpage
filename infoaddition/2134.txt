@@ -1,4 +1,4 @@
 Original Sentence: 
-The new company is capitalized at about 3.5 million
+Investors with a heavy tax load should take out their calculators
 Additional Information: 
-('company', 'ON', 'box')
+('calculator', 'black')

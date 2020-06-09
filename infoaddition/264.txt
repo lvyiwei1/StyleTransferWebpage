@@ -1,4 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+The successful launch continues a remarkable recovery in the U.S. space-science program
 Additional Information: 
-('coupon', 'has', 'percentage')
+('program', 'wedding')

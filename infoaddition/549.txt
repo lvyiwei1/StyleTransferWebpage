@@ -1,4 +1,4 @@
 Original Sentence: 
-In Europe the dollar ended lower in dull trading
+Individual and Japanese participation in the auction was disappointing according to dealers
 Additional Information: 
-('dollar', 'IN', 'hand')
+('dealer', 'female')

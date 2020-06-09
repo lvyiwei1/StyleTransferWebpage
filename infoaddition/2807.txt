@@ -1,4 +1,4 @@
 Original Sentence: 
-He is ogling the curtains rippling above the ventilation ducts
+But with some clients the talk can heat up a bit
 Additional Information: 
-('curtain', 'hangs in', 'background')
+('bit', 'IN', "horse's mouth")

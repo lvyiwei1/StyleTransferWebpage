@@ -1,4 +1,4 @@
 Original Sentence: 
-The close was the highest since August 3
+You have n't seen the full effect of that yet
 Additional Information: 
-('close', 'up view of an apple', 'tree')
+('effect', 'yellow')

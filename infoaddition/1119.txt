@@ -1,4 +1,4 @@
 Original Sentence: 
-Goya Concocts a Milk For Hispanic Tastes
+That is a property right that belongs to the performer
 Additional Information: 
-('milk', 'white')
+('property', 'waterfront')

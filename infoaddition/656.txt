@@ -1,4 +1,4 @@
 Original Sentence: 
-Certain details of the restructured facilities remain to be negotiated
+But margins will be helped too by some other cost-saving steps
 Additional Information: 
-('facility', 'skateboarding')
+('margin', 'separating', 'photo')

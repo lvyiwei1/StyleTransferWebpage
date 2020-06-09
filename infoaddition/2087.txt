@@ -1,4 +1,4 @@
 Original Sentence: 
-There is after all big money in environmentalism
+Now was that a quarter cup or a half cup
 Additional Information: 
-('money', 'paper')
+('cup', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Debt-Burdened Doctors Seek Financial Security
+This heavy outside support for the worst has undermined better moderate leaders
 Additional Information: 
-('doctor', 'touching', 'equipment')
+('support', 'metal')

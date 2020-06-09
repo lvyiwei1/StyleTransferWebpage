@@ -1,4 +1,4 @@
 Original Sentence: 
-Sierra Tucson operates an addiction treatment center
+A thin man in a gray suit looks up from a newspaper
 Additional Information: 
-('treatment', 'wooden')
+('newspaper', 'under', 'arm')

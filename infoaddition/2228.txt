@@ -1,4 +1,4 @@
 Original Sentence: 
-Her story is becoming part of local folklore
+Couple Counseling Grows to Defuse Stress
 Additional Information: 
-('part', 'small')
+('couple', 'walking')

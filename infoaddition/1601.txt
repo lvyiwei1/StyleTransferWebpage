@@ -1,4 +1,4 @@
 Original Sentence: 
-These are curious times in South African politics
+The transaction is expected to close around year end
 Additional Information: 
-('letters', 'about', 'politics')
+('end', 'black')

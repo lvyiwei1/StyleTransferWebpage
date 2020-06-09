@@ -1,0 +1,4 @@
+Original Sentence: 
+State loan guarantees are rarely a source of controversy
+Additional Information: 
+('source', 'OF', 'water')

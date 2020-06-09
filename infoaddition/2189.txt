@@ -1,4 +1,4 @@
 Original Sentence: 
-Lindens need about 36 feet
+There will be no sightseeing no shopping and no social events
 Additional Information: 
-('foot', 'bare')
+('sightseeing', 'vessel for Niagara Falls', 'tourists')

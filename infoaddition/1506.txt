@@ -1,4 +1,4 @@
 Original Sentence: 
-Bush and Deng are hoping that cooler heads prevail
+NASA said the Galileo worm had nothing to do with either delay
 Additional Information: 
-('head', 'OF', 'giraffe')
+('worm', 'green')

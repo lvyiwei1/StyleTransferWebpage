@@ -1,4 +1,4 @@
 Original Sentence: 
-Not all those who wrote oppose the changes
+It 's no longer enough to beat the guy down the street
 Additional Information: 
-('change', 'loose')
+('guy', 'WEARING', 'shirt')

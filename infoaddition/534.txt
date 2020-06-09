@@ -1,4 +1,4 @@
 Original Sentence: 
-Oddly enough this presents a problem for the stock
+We 'll have to wait and see how the plan develops
 Additional Information: 
-('stock', 'green')
+('plan', 'behind', 'guy')

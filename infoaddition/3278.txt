@@ -1,4 +1,4 @@
 Original Sentence: 
-He probably has n't done it for the cash
+Entertainment and media stocks generally escaped the market 's slide as well
 Additional Information: 
-('cash', 'inside', 'purse')
+('market', 'with', 'food')

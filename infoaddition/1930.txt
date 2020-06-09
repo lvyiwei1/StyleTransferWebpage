@@ -1,4 +1,4 @@
 Original Sentence: 
-The experiment was stopped briefly to change an instrument
+That could change thanks to lower long-distance rates and cheaper electronics
 Additional Information: 
-('instrument', 'musical')
+('electronics', 'black')

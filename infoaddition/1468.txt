@@ -1,4 +1,4 @@
 Original Sentence: 
-The ambitious Warsaw project still awaits approval by city officials
+1 Make sure you have a strong personnel department
 Additional Information: 
-('project', 'sewing')
+('personnel', 'army')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We found a market niche Mr. Mills boasts
+Travel sales rose 11 % led by gains in the U.S.
 Additional Information: 
-('market', 'place for', 'christmas')
+('sale', 'red')

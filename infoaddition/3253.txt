@@ -1,4 +1,4 @@
 Original Sentence: 
-Neither has plans to be a market maker for now
+Limiting care wo n't be easy or popular
 Additional Information: 
-('maker', 'for', 'coffee')
+('fence', 'encloses', 'care')

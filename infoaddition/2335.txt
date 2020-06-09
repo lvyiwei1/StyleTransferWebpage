@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr Pyszkiewicz smiles and his brow furrows
+It is fun competing as a private company Mr. Brawer says
 Additional Information: 
-('brow', 'ON', 'face')
+('fun', 'on top of', 'circle container')

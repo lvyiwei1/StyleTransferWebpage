@@ -1,4 +1,4 @@
 Original Sentence: 
-The government 's action was unusual
+Fear is the father of panic
 Additional Information: 
-('action', 'at', 'baseball field')
+('father', 'smiling')

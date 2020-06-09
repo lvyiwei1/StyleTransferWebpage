@@ -1,4 +1,4 @@
 Original Sentence: 
-We do n't need cartoons anymore
+He is president and chief executive officer of Comerica Inc. in Detroit
 Additional Information: 
-('cartoon', 'white')
+('officer', 'ON', 'street')

@@ -1,4 +1,4 @@
 Original Sentence: 
-But the shortages also spawned rampant speculation and spiraling prices
+As a result Japanese investors steered clear of the mortgage securities
 Additional Information: 
-('price', 'written')
+('security', 'standing')

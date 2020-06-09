@@ -1,4 +1,4 @@
 Original Sentence: 
-James A. White contributed to this article
+Paper work on how it was spent is incomplete
 Additional Information: 
-('article', 'OF', 'clothing')
+('work', 'OF', 'art')

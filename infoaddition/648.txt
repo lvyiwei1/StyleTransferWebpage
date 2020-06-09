@@ -1,4 +1,4 @@
 Original Sentence: 
-Moscow and Kabul must have found that information useful
+Mr. Mehl attributed the rise specifically to the Treasury bill increase
 Additional Information: 
-('information', 'yellow')
+('rise', 'GRASSY')

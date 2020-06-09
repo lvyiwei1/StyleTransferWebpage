@@ -1,4 +1,4 @@
 Original Sentence: 
-Flight Attendants Lag Before Jets Even Land
+The company did n't put out a public announcement
 Additional Information: 
-('jet', 'about to', 'land')
+('company', 'ON', 'photo')

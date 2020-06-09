@@ -1,4 +1,4 @@
 Original Sentence: 
-Other fund managers were similarly sanguine
+These guys prey on human frailties
 Additional Information: 
-('manager', 'sitting in', 'dugout')
+('guy', 'standing')

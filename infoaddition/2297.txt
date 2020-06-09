@@ -1,4 +1,4 @@
 Original Sentence: 
-And he has attached himself to the Lincoln story tenaciously
+There has been a tremendous increase in MMI positions Mr. Selkin said
 Additional Information: 
-('story', 'missing', 'wall')
+('position', 'upright')

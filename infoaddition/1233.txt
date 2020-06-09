@@ -1,4 +1,4 @@
 Original Sentence: 
-But the Americans are also to blame
+we 're in for a lot of turbulence
 Additional Information: 
-('american', 'Waving ')
+('lot', 'parking')

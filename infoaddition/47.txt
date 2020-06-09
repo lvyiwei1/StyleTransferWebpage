@@ -1,4 +1,4 @@
 Original Sentence: 
-Stock prices rose
+Some dealers say other traders were n't picking up their phones
 Additional Information: 
-('price', 'written')
+('phone', 'ON', 'table')

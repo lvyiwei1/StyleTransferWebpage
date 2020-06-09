@@ -1,4 +1,4 @@
 Original Sentence: 
-An announcement is more likely next week though
+One bank stock was a winner
 Additional Information: 
-('day', 'OF', 'week')
+('winner', 'seen', 'left leg')

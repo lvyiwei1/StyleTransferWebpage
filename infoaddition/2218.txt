@@ -1,4 +1,4 @@
 Original Sentence: 
-Subsequent margins set by agreement between NatWest and Merrill
+Its stock closed at 38 up 1.875 in national over-the-counter trading
 Additional Information: 
-('margin', 'separating', 'photo')
+('red t', 'IN', 'trading')

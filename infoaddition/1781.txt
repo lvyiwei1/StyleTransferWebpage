@@ -1,4 +1,4 @@
 Original Sentence: 
-Comparable store sales for the quarter were up 7.3 %
+The team then proposed modifications in their work process to management
 Additional Information: 
-('store', 'across', 'street')
+('team', 'posing')

@@ -1,4 +1,4 @@
 Original Sentence: 
-On second thought make that just mom
+As Wall Street strengthened the London trading room went wild
 Additional Information: 
-('mom', 'spray painted')
+('room', 'dark')

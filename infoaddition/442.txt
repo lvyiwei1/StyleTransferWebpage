@@ -1,4 +1,4 @@
 Original Sentence: 
-Other Western Union securities were also lower
+India 's Gandhi called for parliamentary elections next month
 Additional Information: 
-('security', 'walking in', 'orange vests')
+('month', 'ninth')

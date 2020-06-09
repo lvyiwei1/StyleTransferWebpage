@@ -1,4 +1,4 @@
 Original Sentence: 
-The reason was not high interest rates or labor costs
+New management can take several steps to reduce dishonesty
 Additional Information: 
-('interest', 'great')
+('step', 'ON', 'stairway')

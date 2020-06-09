@@ -1,4 +1,4 @@
 Original Sentence: 
-At least it has a little dash
+Spending by Japanese households averaged 290,782 yen 2,052.10 in August
 Additional Information: 
-('dash', 'ON', 'road')
+('toothbrushes', 'IN', 'household')

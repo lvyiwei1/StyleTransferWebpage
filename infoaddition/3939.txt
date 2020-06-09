@@ -1,0 +1,4 @@
+Original Sentence: 
+It 's bad soil he says
+Additional Information: 
+('soil', 'IN', 'forest')

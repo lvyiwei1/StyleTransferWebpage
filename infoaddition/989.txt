@@ -1,4 +1,4 @@
 Original Sentence: 
-She did n't have hot water for five days
+They ca n't afford to stay out of HDTV
 Additional Information: 
-('day', 'within', 'lake')
+('hdtv', 'silver')

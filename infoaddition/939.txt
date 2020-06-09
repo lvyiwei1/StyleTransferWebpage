@@ -1,4 +1,4 @@
 Original Sentence: 
-My vision is to change human consciousness towards touch
+But this is almost an underground activity
 Additional Information: 
-('touch', 'gray')
+('activity', 'IN', 'bathroom')

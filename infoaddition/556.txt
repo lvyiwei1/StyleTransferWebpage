@@ -1,4 +1,4 @@
 Original Sentence: 
-It would n't discuss a price
+It 's a real face-to-face arm wrestling challenge to Congress
 Additional Information: 
-('price', 'OF', 'fruit')
+('arm', 'OF', 'man')

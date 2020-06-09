@@ -1,4 +1,4 @@
 Original Sentence: 
-Beta figures are widely available and easy to interpret
+Most other states have enacted similar bans
 Additional Information: 
-('figure', 'green')
+('table', 'has', 'ban')

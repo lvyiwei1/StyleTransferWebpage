@@ -1,0 +1,4 @@
+Original Sentence: 
+The record date is Nov. 9
+Additional Information: 
+('record', 'black')

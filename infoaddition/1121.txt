@@ -1,4 +1,4 @@
 Original Sentence: 
-The issue includes 100 million of insured senior lien bonds
+That is a property right that belongs to the performer
 Additional Information: 
-('lien', 'part')
+('right', 'far')

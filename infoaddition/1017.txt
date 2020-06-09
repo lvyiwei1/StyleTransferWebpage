@@ -1,4 +1,4 @@
 Original Sentence: 
-And the winners will be the colleges not either network
+Others preach the gospel of buying only blue-chip growth stocks
 Additional Information: 
-('college', 'written on', 'bus')
+('growth', 'IN', 'field')

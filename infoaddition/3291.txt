@@ -1,4 +1,4 @@
 Original Sentence: 
-Once they are in the building they stay
+The gene thus can prevent a plant from fertilizing itself
 Additional Information: 
-('building', 'with', 'windows')
+('plant', 'green')

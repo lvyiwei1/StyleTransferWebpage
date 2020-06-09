@@ -1,0 +1,4 @@
+Original Sentence: 
+Millions of refugees would rush home
+Additional Information: 
+('home', 'waiting', 'mom')

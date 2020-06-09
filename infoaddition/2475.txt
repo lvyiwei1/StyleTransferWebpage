@@ -1,4 +1,4 @@
 Original Sentence: 
-He called the battle uphill
+Freddie Mac 9 % securities were at 97 4\/32 down 1\/32
 Additional Information: 
-('battle', 'close')
+('security', 'over', 'doors')

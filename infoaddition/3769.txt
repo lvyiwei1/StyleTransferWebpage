@@ -1,0 +1,4 @@
+Original Sentence: 
+Himont another majority-owned unit of Montedison added 1 1\/4 to 47 1\/8
+Additional Information: 
+('unit', 'next to', 'meter')

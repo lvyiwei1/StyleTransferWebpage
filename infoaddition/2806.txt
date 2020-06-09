@@ -1,4 +1,4 @@
 Original Sentence: 
-Nursing Home Patients Apt to Be Private Payers
+But with some clients the talk can heat up a bit
 Additional Information: 
-('payer', 'dressed')
+('ladies', 'pretending to', 'talk')

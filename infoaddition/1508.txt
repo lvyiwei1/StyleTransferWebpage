@@ -1,4 +1,4 @@
 Original Sentence: 
-For the prior year deposits exceeded withdrawals by 8.8 billion
+NASA said the Galileo worm had nothing to do with either delay
 Additional Information: 
-('year', 'IN', 'left corner')
+('nothing', 'clear')

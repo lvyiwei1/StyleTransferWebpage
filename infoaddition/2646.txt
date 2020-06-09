@@ -1,4 +1,4 @@
 Original Sentence: 
-They want a 24-hour library
+Essentially the critics of stock-index futures fall into two camps
 Additional Information: 
-('library', 'white')
+('camp', 'ON', 'image')

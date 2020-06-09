@@ -1,4 +1,4 @@
 Original Sentence: 
-The place costs nearly 2 million a year to maintain
+Dick Darman call your office
 Additional Information: 
-('place', 'full')
+('office', 'set', 'up')

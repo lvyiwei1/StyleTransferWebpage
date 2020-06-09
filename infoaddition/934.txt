@@ -1,4 +1,4 @@
 Original Sentence: 
-Thursday 's edition misstated the narrowing
+Most other bonds however would probably not have fared much better
 Additional Information: 
-('edition', 'word')
+('bond', 'black ')

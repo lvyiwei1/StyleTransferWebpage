@@ -1,4 +1,4 @@
 Original Sentence: 
-And black-and-white photography classes are crowded with students
+The heavy selling by farmers helped to damp the price rally
 Additional Information: 
-('class', 'OF', 'kids')
+('people', 'at a', 'rally')

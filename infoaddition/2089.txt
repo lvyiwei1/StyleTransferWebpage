@@ -1,4 +1,4 @@
 Original Sentence: 
-Marshall McLuhan you should have been there at that hour
+They looked at the miniature and saw a giant folly
 Additional Information: 
-('hour', 'black')
+('miniature', 'a', 'toilet')

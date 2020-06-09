@@ -1,4 +1,4 @@
 Original Sentence: 
-The centers normally are closed through the weekend
+Company with 1,750 workers in area is fully functional
 Additional Information: 
-('center', 'yellow')
+('worker', 'construction')

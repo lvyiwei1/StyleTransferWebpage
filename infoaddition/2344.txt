@@ -1,4 +1,4 @@
 Original Sentence: 
-Now the question is Is Poland ready for it
+Eventually Mr. Postel broke his toe in the dark
 Additional Information: 
-('question', 'black')
+('dark', 'furniture')

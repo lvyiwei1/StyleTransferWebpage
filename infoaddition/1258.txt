@@ -1,4 +1,4 @@
 Original Sentence: 
-And in some neighborhoods rents have merely hit a plateau
+The remainder of the house leans precariously against a sturdy oak tree
 Additional Information: 
-('plateau', 'IN', 'distance')
+('house', 'near', 'train tacks')

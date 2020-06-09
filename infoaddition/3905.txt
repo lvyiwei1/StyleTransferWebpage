@@ -1,0 +1,4 @@
+Original Sentence: 
+And then there 's the case of the missing gold watch
+Additional Information: 
+('gold', 'brown')

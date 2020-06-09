@@ -1,4 +1,4 @@
 Original Sentence: 
-Growth is slower
+New York Stock Exchange volume was a heavy 224,070,000 shares
 Additional Information: 
-('growth', 'IN', 'field')
+('volume', 'ON', 'headphones')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The exchange ratio was never established
+They note that stocks experienced volatile swings long before futures
 Additional Information: 
-('two women', 'make', 'exchange')
+('swing', 'wooden')

@@ -1,4 +1,4 @@
 Original Sentence: 
-People will learn to be more circumspect
+It adds something to the market
 Additional Information: 
-('people', 'sitting', 'bar')
+('something', 'IN', 'usb slot')

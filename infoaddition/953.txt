@@ -1,4 +1,4 @@
 Original Sentence: 
-For longer-term CDs yields were up
+The Polish rat will eat well this winter
 Additional Information: 
-('cd', 'laying on', 'desk')
+('rat', 'white')

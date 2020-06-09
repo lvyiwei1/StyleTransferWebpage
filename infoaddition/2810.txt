@@ -1,4 +1,4 @@
 Original Sentence: 
-He is ogling the curtains rippling above the ventilation ducts
+He has been a Bearings director since 1985
 Additional Information: 
-('ventilation', 'black')
+('director', 'caucasian')

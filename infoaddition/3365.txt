@@ -1,4 +1,4 @@
 Original Sentence: 
-The CD seemed like a great deal
+By the end of the century scientists had embraced the system
 Additional Information: 
-('deal', 'great')
+('system', 'ON', 'table')

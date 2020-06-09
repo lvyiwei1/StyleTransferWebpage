@@ -1,0 +1,4 @@
+Original Sentence: 
+They would not solve the problem they would make it worse
+Additional Information: 
+('plane', 'has', 'problem')

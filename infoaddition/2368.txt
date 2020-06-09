@@ -1,4 +1,4 @@
 Original Sentence: 
-In Los Angeles in our lean years we gave parties
+Housing Developers Try Brand-Name Buildings
 Additional Information: 
-('year', 'ON', 'building')
+('housing', 'for', 'clock')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Their problem is one of inefficiency of an industrial economy
+These people have different agendas
 Additional Information: 
-('economy', 'ON', 'train')
+('people', 'painted on', 'asian vase')

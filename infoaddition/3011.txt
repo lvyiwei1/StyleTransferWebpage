@@ -1,4 +1,4 @@
 Original Sentence: 
-Defining combat aircraft is even tougher
+Bond prices were little changed in sluggish activity
 Additional Information: 
-('aircraft', 'IN', 'air')
+('price', 'above', 'food')

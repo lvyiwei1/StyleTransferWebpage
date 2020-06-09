@@ -1,4 +1,4 @@
 Original Sentence: 
-What market makers provide is immediacy a very valuable service
+Others had lesser damage and there were no injuries among workers
 Additional Information: 
-('service', 'ON', 'sign')
+('others', 'facing away from', 'zebra')

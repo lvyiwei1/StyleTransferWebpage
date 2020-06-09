@@ -1,4 +1,4 @@
 Original Sentence: 
-By the end of the day bond prices were mixed
+The expiration date had been Nov. 3
 Additional Information: 
-('price', 'written')
+('date', 'Is in', 'photograph')

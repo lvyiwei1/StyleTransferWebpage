@@ -1,4 +1,4 @@
 Original Sentence: 
-Suddenly I am not a comfortable man for Solidarity
+Chemical profits fell to 78 million from 98 million
 Additional Information: 
-('man', 'WEARING', 'pants')
+('chemical', 'red')

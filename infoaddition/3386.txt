@@ -1,4 +1,4 @@
 Original Sentence: 
-Now comes the pool flap
+People are fearful and sensitive
 Additional Information: 
-('pool', 'blue')
+('people', 'walking along', 'shore')

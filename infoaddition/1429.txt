@@ -1,4 +1,4 @@
 Original Sentence: 
-I decided to brave the storm
+A natural gas rule was struck down by a federal appeals court
 Additional Information: 
-('storm', 'ON', 'pavement')
+('court', 'green')

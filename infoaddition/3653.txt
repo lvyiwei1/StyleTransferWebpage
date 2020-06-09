@@ -1,0 +1,4 @@
+Original Sentence: 
+The report of the bankruptcy filing stunned Hollywood executives and investors
+Additional Information: 
+('filing', 'red')

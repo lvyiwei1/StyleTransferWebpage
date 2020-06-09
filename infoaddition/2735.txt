@@ -1,4 +1,4 @@
 Original Sentence: 
-Mothers of young AIDS patients expressed somber satisfaction
+We 've got a lot to do he acknowledged
 Additional Information: 
-('mother', 'standing')
+('lot', 'parking')

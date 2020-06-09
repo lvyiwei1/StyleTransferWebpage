@@ -1,4 +1,4 @@
 Original Sentence: 
-Urban is the company 's first telephone subsidiary in Wisconsin
+The board has 13 members elected by holders and five presidential appointees
 Additional Information: 
-('company', 'has', 'name')
+('member', 'several')

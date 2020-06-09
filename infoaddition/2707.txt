@@ -1,4 +1,4 @@
 Original Sentence: 
-The Fed also has the power to set margin requirements
+Ms. House is vice president of Dow Jones International Group
 Additional Information: 
-('power', 'cord', 'over pole')
+('president', 'with', 'candles')

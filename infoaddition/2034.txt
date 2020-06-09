@@ -1,4 +1,4 @@
 Original Sentence: 
-The new pricing strategy is working the spokesman asserted
+a Totals include only vehicle sales reported in the period
 Additional Information: 
-('pricing', 'hand written')
+('sale', 'ON', 'window')

@@ -1,0 +1,4 @@
+Original Sentence: 
+All three new models are outselling their predecessors by wide margins
+Additional Information: 
+('margin', 'separating', 'photo')

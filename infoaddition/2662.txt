@@ -1,4 +1,4 @@
 Original Sentence: 
-The rest as they say is history
+A few weeks ago New York sold 750 million of tax-exempts
 Additional Information: 
-('the', 'word', 'history')
+('day', 'OF', 'week')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The envelope arrives in the mail
+The tape was on tv before the night was out
 Additional Information: 
-('mail', 'ON', 'table')
+('tv', 'IN', 'living room')

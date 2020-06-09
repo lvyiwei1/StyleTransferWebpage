@@ -1,4 +1,4 @@
 Original Sentence: 
-Even excluding the charge however net fell 5 %
+The expiration date had been Nov. 3
 Additional Information: 
-('charge', 'can', 'charge')
+('date', 'yellow')

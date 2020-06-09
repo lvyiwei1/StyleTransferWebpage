@@ -1,4 +1,4 @@
 Original Sentence: 
-The heightened competition will hit IBM at a difficult time
+And he added that manufactured goods exports are still rising
 Additional Information: 
-('time', 'displayed')
+('good', 'sold in', 'shop')

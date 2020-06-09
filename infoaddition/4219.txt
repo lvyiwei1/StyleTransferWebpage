@@ -1,0 +1,4 @@
+Original Sentence: 
+Some economists and many Japanese companies are puzzled by the warnings
+Additional Information: 
+('warning', 'black')

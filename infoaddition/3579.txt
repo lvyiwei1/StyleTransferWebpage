@@ -1,0 +1,4 @@
+Original Sentence: 
+He turned himself in to authorities in New York earlier this year
+Additional Information: 
+('authority', 'ON', 'building')

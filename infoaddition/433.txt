@@ -1,4 +1,4 @@
 Original Sentence: 
-They say the broker took them out for lunch frequently
+Long-term Treasury bonds ended slightly higher
 Additional Information: 
-('lunch', 'healthy')
+('bond', 'black ')

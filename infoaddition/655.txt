@@ -1,4 +1,4 @@
 Original Sentence: 
-Certain details of the restructured facilities remain to be negotiated
+She only put her foot down twice he continues
 Additional Information: 
-('facility', 'near', 'river')
+('foot', 'bare')

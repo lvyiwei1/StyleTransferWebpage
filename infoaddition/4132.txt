@@ -1,0 +1,4 @@
+Original Sentence: 
+Cracking the top 10 within three years will be difficult at best
+Additional Information: 
+('year', 'ON', 'building')

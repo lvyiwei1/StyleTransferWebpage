@@ -1,4 +1,4 @@
 Original Sentence: 
-We 're talking real money
+But steelmakers must also find new markets
 Additional Information: 
-('money', 'paper')
+('market', 'filled with', 'green peppers')

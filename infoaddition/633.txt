@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Pound responded It 's a deal
+Experts say such long hours for attendants pose a safety risk
 Additional Information: 
-('deal', 'great')
+('hour', 'hand', 'clock have')

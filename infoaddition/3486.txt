@@ -1,4 +1,4 @@
 Original Sentence: 
-But such spots can be too soft
+They effectively lead team efforts to reduce cycle time
 Additional Information: 
-('spot', 'brown')
+('team', 'posing')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The pound strengthened to 1.5795 from 1.5765
+The issue is backed by Freddie Mac 8 1\/2 % securities
 Additional Information: 
-('pound', 'here')
+('security', 'walking in', 'orange vests')

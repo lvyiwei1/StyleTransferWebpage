@@ -1,0 +1,4 @@
+Original Sentence: 
+The economy is showing signs of weakness particularly among manufacturers
+Additional Information: 
+('sign', 'white')

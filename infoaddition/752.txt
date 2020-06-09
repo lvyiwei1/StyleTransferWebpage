@@ -1,4 +1,4 @@
 Original Sentence: 
-Now producers hope prices have hit bottom
+Municipals ended mixed while mortgage-backed and investment-grade corporate bonds rose
 Additional Information: 
-('bottom', 'belonging to', 'airplane')
+('bond', 'black ')

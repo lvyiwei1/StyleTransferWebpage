@@ -1,0 +1,4 @@
+Original Sentence: 
+The software company said revenue slid 28 % to 53.9 million
+Additional Information: 
+('company', 'ON', 'building')

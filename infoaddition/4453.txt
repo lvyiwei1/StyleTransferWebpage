@@ -1,0 +1,4 @@
+Original Sentence: 
+They always seem to come a bit later than you expect
+Additional Information: 
+('bit', 'IN', 'mouth')

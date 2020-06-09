@@ -1,4 +1,4 @@
 Original Sentence: 
-Other furriers have also benefited from leathers
+Repeat customers also can purchase luxury items at reduced prices
 Additional Information: 
-('leather', 'ON', 'saddle')
+('luxury', 'of', 'shirt')

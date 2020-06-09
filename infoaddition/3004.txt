@@ -1,4 +1,4 @@
 Original Sentence: 
-First however he has unfinished business
+Now the analyst said only minor points remain to be cleaned up
 Additional Information: 
-('business', 'here')
+('point', 'sharp')

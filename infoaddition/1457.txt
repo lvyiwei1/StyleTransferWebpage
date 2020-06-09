@@ -1,4 +1,4 @@
 Original Sentence: 
-That 's not what our fathers had in mind
+Pricing details were n't available
 Additional Information: 
-('father', 'smiling')
+('sign', 'has', 'pricing')

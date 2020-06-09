@@ -1,0 +1,4 @@
+Original Sentence: 
+California enacted a rights law in 1988
+Additional Information: 
+('right', 'paper in', 'cream')

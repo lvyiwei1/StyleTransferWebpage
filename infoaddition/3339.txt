@@ -1,4 +1,4 @@
 Original Sentence: 
-But Friday did n't help things says Mr. Schaefer
+Someone must monitor where the funds are deployed says Mr. Dave
 Additional Information: 
-('poster', 'says', 'help')
+('someone', 'IN', 'window')

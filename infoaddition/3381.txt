@@ -1,4 +1,4 @@
 Original Sentence: 
-Massage also has an image problem to contend with
+Mr Pyszkiewicz smiles and his brow furrows
 Additional Information: 
-('image', 'white')
+('brow', 'furrowed')

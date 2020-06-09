@@ -1,4 +1,4 @@
 Original Sentence: 
-The bank has a negative net worth they say
+December silver was up 2.3 cents an ounce at 5.163
 Additional Information: 
-('bank', 'has', 'snow')
+('silver', 'support', 'pole')

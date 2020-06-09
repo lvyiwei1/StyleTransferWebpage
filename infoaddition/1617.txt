@@ -1,4 +1,4 @@
 Original Sentence: 
-Was not the title very clear
+They 're really fashion items wrapped up in little jars
 Additional Information: 
-('title', 'movie')
+('jar', 'glass')

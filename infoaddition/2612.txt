@@ -1,4 +1,4 @@
 Original Sentence: 
-Wisconsin Toy has 71 retail stores primarily in discount settings
+Mr. Ely 57 years old temporarily increases the board to seven members
 Additional Information: 
-('store', 'red')
+('member', 'crossing', 'racket')

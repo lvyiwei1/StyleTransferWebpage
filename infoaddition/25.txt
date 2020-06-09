@@ -1,4 +1,4 @@
 Original Sentence: 
-Some forms of private property would be sanctioned
+Surplus power would be sold on the open market Enron said
 Additional Information: 
-('property', 'waterfront')
+('market', 'OF', 'fruit')

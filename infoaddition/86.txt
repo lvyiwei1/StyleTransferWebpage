@@ -1,4 +1,4 @@
 Original Sentence: 
-I mean it is a normal adult relationship
+Many called it simply a contrast in styles
 Additional Information: 
-('adult', 'young')
+('style', 'old')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Now comes the pool flap
+Currently the company has about 88.1 million common shares outstanding
 Additional Information: 
-('pool', 'in front of', 'building')
+('company', 'name')

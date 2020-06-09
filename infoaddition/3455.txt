@@ -1,4 +1,4 @@
 Original Sentence: 
-Put these together and you get programs about rape
+The excess supply pushed gasoline prices down in that period
 Additional Information: 
-('program', 'wedding')
+('supply', 'ON', 'table')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Subsequent margins set by agreement between NatWest and Merrill
+Continentals believe that the strongest growth area will be southern Europe
 Additional Information: 
-('margin', 'thick')
+('growth', 'on top of', 'wall')

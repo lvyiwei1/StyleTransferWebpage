@@ -1,4 +1,4 @@
 Original Sentence: 
-Local bankers and accountants help applicants fill out forms
+Their recovery came surprisingly fast and always with the help of neighbors
 Additional Information: 
-('form', 'white')
+('poster', 'says', 'help')

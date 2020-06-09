@@ -1,4 +1,4 @@
 Original Sentence: 
-we 're in for a lot of turbulence
+A decision is n't expected until some time next year
 Additional Information: 
-('lot', 'parking')
+('year', 'IN', 'corner')

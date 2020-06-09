@@ -1,4 +1,4 @@
 Original Sentence: 
-Next year may see a drop of one percentage point
+Clients include Miller Brewing Co. and General Motors
 Additional Information: 
-('drop', 'water')
+('mirror', 'behind', 'client')

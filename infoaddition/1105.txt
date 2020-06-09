@@ -1,4 +1,4 @@
 Original Sentence: 
-But for photofinishers developing costs for black-and-white film are higher
+And even though employees paid the bill taxpayers grumbled
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('bill', 'has', 'nostril')

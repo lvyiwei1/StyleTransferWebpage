@@ -1,0 +1,4 @@
+Original Sentence: 
+But she says I guess I did n't really notice the trees
+Additional Information: 
+('tree', 'green')

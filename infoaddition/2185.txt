@@ -1,4 +1,4 @@
 Original Sentence: 
-Now there are many cars for every purse and purpose
+Most other states have enacted similar bans
 Additional Information: 
-('purse', 'black')
+('state', 'park', 'sign')

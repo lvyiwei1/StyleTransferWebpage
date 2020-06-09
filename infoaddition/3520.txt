@@ -1,0 +1,4 @@
+Original Sentence: 
+Veiling his message has helped him endure
+Additional Information: 
+('message', 'ON', 'cake')

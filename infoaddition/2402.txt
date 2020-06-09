@@ -1,4 +1,4 @@
 Original Sentence: 
-Companies will continue to war over standards
+Terms on both deals were n't disclosed
 Additional Information: 
-('company', 'that owns', 'bus')
+('deal', 'great')

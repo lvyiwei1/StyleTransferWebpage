@@ -1,4 +1,4 @@
 Original Sentence: 
-The zero-coupon subordinated notes have no periodic interest payments
+Baker had lots of them
 Additional Information: 
-('people', 'showing', 'interest')
+('lot', 'parking')

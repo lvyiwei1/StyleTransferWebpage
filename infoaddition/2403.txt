@@ -1,4 +1,4 @@
 Original Sentence: 
-Companies will continue to war over standards
+Friday brings the final count on October auto sales
 Additional Information: 
-('company', 'name')
+('man', 'IN', 'count')

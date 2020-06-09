@@ -1,4 +1,4 @@
 Original Sentence: 
-New Jersey Bell awaits state clearance
+The name Maidenform was coined by a third business partner Enid Bissett
 Additional Information: 
-('state', 'Penn ')
+('business', 'sign on', 'building')

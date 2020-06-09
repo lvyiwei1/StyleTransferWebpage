@@ -1,4 +1,4 @@
 Original Sentence: 
-The CFTC has 90 days to respond to such applications
+Most bills are drafted by bureaucrats not politicians
 Additional Information: 
-('day', 'sunny')
+('bill', 'ON', 'head')

@@ -1,4 +1,4 @@
 Original Sentence: 
-But the new lens became the eye of a storm
+He was performing for pay and why should anyone expect anything more
 Additional Information: 
-('lens', 'ON', 'goggles')
+('pay', 'says on', 'truck')

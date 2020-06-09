@@ -1,4 +1,4 @@
 Original Sentence: 
-Northview officials could n't be located
+Both executives left the company after clashes with Chairman Ralph Ingersoll Jr
 Additional Information: 
-('official', 'IN', 'chair')
+('company', 'name')

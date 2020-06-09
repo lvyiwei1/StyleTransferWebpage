@@ -1,4 +1,4 @@
 Original Sentence: 
-People wonder what 's going to happen next
+But Burger King operators independently confirm using Michael 's product
 Additional Information: 
-('people', 'standing')
+('operator', 'sitting', 'shed')

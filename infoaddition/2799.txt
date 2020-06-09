@@ -1,4 +1,4 @@
 Original Sentence: 
-The Bakersfield Supermarket went out of business last May
+No lawyers or tape recorders were present
 Additional Information: 
-('business', 'here')
+('lawyer', 'showing a', 'paper')

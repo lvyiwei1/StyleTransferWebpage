@@ -1,4 +1,4 @@
 Original Sentence: 
-But by comparison this fluffy comedy seems like a gem
+And the merchandise was well fake
 Additional Information: 
-('gem', 'blue')
+('merchandise', 'outside', 'building')

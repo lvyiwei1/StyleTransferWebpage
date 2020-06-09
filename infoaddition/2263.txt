@@ -1,4 +1,4 @@
 Original Sentence: 
-And some fund groups said investors actually became net buyers
+He noted that higher gasoline prices will help buoy the October totals
 Additional Information: 
-('group', 'OF', 'building')
+('price', 'ON', 'sign')

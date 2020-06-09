@@ -1,4 +1,4 @@
 Original Sentence: 
-Every major maker offers computers with color displays
+Still the average price of such bikes rose last year to 145
 Additional Information: 
-('computer', 'laptop')
+('year', 'white')

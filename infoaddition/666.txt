@@ -1,4 +1,4 @@
 Original Sentence: 
-California Thefts Make Travel Agents Jittery
+My vision is to change human consciousness towards touch
 Additional Information: 
-('agent', 'at', 'airport')
+('touch', 'gray')

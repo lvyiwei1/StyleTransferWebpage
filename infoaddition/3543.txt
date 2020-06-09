@@ -1,0 +1,4 @@
+Original Sentence: 
+The case went on appeal to the Second Circuit
+Additional Information: 
+('case', 'black')

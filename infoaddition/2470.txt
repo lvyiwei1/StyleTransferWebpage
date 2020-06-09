@@ -1,4 +1,4 @@
 Original Sentence: 
-The market during the start-up is estimated at 25,000 subscribers
+After being whipsawed by a volatile stock market Treasury bonds closed higher
 Additional Information: 
-('market', 'outdoor')
+('bond', 'black ')

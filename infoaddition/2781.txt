@@ -1,4 +1,4 @@
 Original Sentence: 
-Either way the ghostbusting business is going like gangbusters
+Lack of important needed information can cause fear
 Additional Information: 
-('business', 'has', 'entrance')
+('lack', 'in front', 'hills')

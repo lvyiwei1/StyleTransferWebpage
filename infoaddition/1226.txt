@@ -1,4 +1,4 @@
 Original Sentence: 
-Trading in Walt Disney Co. particularly caught traders ' eyes
+His selection increases the size of the board to 12 members
 Additional Information: 
-('eye', 'black')
+('size', 'ON', 'shirt')

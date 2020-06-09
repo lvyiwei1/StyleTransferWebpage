@@ -1,4 +1,4 @@
 Original Sentence: 
-Soldiers and sailors are still measured in inches and pounds
+Poland is short on enterprises not enterprise
 Additional Information: 
-('pound', 'here')
+('sign', 'for', 'enterprise')

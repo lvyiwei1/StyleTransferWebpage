@@ -1,0 +1,4 @@
+Original Sentence: 
+Just say the offices are tastefully appointed he says
+Additional Information: 
+('office', 'small')

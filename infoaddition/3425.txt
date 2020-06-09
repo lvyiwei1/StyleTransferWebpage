@@ -1,4 +1,4 @@
 Original Sentence: 
-Some people think the search for liquidity is fruitless
+But Mr. Monsky sees much bigger changes ahead
 Additional Information: 
-('people', 'standing')
+('change', 'ON', 'machine')

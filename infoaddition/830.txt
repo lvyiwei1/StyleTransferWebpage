@@ -1,4 +1,4 @@
 Original Sentence: 
-That is the way the system works
+They got a transaction that 's good for both companies
 Additional Information: 
-('way', 'to', 'house')
+('company', 'has', 'name')

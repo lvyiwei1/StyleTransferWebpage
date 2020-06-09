@@ -1,4 +1,4 @@
 Original Sentence: 
-Some apply it to gouty joints
+It does n't look nice on the outside while getting mealy inside
 Additional Information: 
-('joint', 'ON', 'scissors')
+('outside', 'sunny')

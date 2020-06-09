@@ -1,4 +1,4 @@
 Original Sentence: 
-It could do damage to us
+The shuttle is slated to return Monday to California
 Additional Information: 
-('damage', 'IN', 'building')
+('shuttle', 'ON', 'plane')

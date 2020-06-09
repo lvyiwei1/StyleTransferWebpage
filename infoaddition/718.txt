@@ -1,4 +1,4 @@
 Original Sentence: 
-Offices of the city 's Rent Board were destroyed
+The consequences of building empires with sand are showing up
 Additional Information: 
-('office', 'with', 'computers')
+('sand', 'brown')

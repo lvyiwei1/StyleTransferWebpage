@@ -1,4 +1,4 @@
 Original Sentence: 
-Profits improved across Hess 's businesses
+Solar-powered batteries will make the spire glow
 Additional Information: 
-('business', 'here')
+('spire', 'tall')

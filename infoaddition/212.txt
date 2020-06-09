@@ -1,4 +1,4 @@
 Original Sentence: 
-That money also would have to be borrowed
+Mr. Conn charges that Humana 's own actions undermine its argument
 Additional Information: 
-('money', 'IN', 'wallet')
+('action', 'MLB')

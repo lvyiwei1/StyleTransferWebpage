@@ -1,4 +1,4 @@
 Original Sentence: 
-But there are limits
+Cuban military personnel also have been active in Afghanistan since 1979
 Additional Information: 
-('limit', 'ON', 'meter')
+('personnel', 'army')

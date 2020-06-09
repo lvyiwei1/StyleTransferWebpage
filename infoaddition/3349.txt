@@ -1,4 +1,4 @@
 Original Sentence: 
-In 1982 he started a factory in Greece
+The report is to be released today
 Additional Information: 
-('factory', 'IN', 'bay')
+('report', 'ON', 'green paper')

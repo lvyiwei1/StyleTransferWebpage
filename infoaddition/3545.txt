@@ -1,0 +1,4 @@
+Original Sentence: 
+The Soviets have a world-leading space program the guests noted
+Additional Information: 
+('space', 'green')

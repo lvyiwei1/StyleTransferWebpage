@@ -1,0 +1,4 @@
+Original Sentence: 
+Such centrifugal egg breakers have been around since the 1890s
+Additional Information: 
+('egg', 'between', 'broccoli')

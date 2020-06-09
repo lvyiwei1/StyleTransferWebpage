@@ -1,4 +1,4 @@
 Original Sentence: 
-Leaseway provides transportation services for manufacturers distributors and retailers
+UAL 's decision to remain an independent company sent share prices tumbling
 Additional Information: 
-('manufacturer', 'hidden')
+('company', 'at', 'bottom')

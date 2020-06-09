@@ -1,0 +1,4 @@
+Original Sentence: 
+His dismissal triggered a furor among intellectuals that continues today
+Additional Information: 
+('sign', 'reads', 'today')

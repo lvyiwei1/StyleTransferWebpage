@@ -1,4 +1,4 @@
 Original Sentence: 
-Nevertheless the device has been successful in other ways
+Still employees do occasionally try to smuggle out a gem or two
 Additional Information: 
-('way', 'to', 'house')
+('employee', 'airport')

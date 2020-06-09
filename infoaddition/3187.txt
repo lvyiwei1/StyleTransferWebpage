@@ -1,4 +1,4 @@
 Original Sentence: 
-The company also has a stock-repurchase plan
+Property reinsurance rates are likely to climb first analysts and brokers believe
 Additional Information: 
-('company', 'name')
+('property', 'waterfront')

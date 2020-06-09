@@ -1,3 +1,3 @@
 Original Sentence: 
-I guess that 's my forecast
-Emphasize: guess
+In five minutes the Dow industrials climbed almost 30 points
+Emphasize: climbed

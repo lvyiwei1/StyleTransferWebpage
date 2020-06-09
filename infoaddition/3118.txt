@@ -1,4 +1,4 @@
 Original Sentence: 
-It is also planning another night of original series
+AGIP already has an oil stake in Libya
 Additional Information: 
-('night', 'black', 'sky')
+('oil', 'hot')

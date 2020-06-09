@@ -1,4 +1,4 @@
 Original Sentence: 
-In the end politics got in the way
+The reversal was even more evident among shorter-term Treasury securities
 Additional Information: 
-('end', 'black')
+('security', 'standing')

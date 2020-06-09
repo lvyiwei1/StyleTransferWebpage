@@ -1,4 +1,4 @@
 Original Sentence: 
-There are n't too many winners
+The board has 10 business days to respond
 Additional Information: 
-('winner', 'seen', 'left leg')
+('business', 'has', 'entrance')

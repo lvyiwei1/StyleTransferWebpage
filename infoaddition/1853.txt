@@ -1,4 +1,4 @@
 Original Sentence: 
-Now the assault is on said one top trader
+Yields on most fixed-income securities are lower than several months ago
 Additional Information: 
-('top', 'OF', 'vehicle')
+('yield', 'on', 'sign')

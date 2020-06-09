@@ -1,4 +1,4 @@
 Original Sentence: 
-The 942,000 purchase raised his holdings to 74,000 shares
+I do n't think their customers would like it very much
 Additional Information: 
-('holding', 'wooden')
+('customer', 'inside', 'background')

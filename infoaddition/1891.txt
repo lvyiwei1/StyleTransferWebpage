@@ -1,4 +1,4 @@
 Original Sentence: 
-The jokes are n't just on the Japanese though
+Some institutional traders loved the wild ride
 Additional Information: 
-('joke', 'vulgar')
+('ride', 'tall')

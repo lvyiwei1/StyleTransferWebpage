@@ -1,4 +1,4 @@
 Original Sentence: 
-Figgie is a fire protection electronics and industrial products concern
+The agency plans to announce specific relief procedures in the coming days
 Additional Information: 
-('electronics', 'below', 'tv')
+('relief', 'woman')

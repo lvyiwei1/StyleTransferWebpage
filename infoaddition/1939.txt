@@ -1,4 +1,4 @@
 Original Sentence: 
-Terms were n't disclosed
+The stock slid 1.875 on more than four times average daily volume
 Additional Information: 
-('term', 'house of david')
+('time', 'displayed')

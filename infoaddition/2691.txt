@@ -1,4 +1,4 @@
 Original Sentence: 
-Jewelry displays in department stores were often cluttered and uninspired
+For them it makes all kinds of sense
 Additional Information: 
-('horse', 'used', 'department')
+('phrase', 'makes no', 'sense')

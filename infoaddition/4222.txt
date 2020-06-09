@@ -1,0 +1,4 @@
+Original Sentence: 
+That followed a 3.3 % decline in August
+Additional Information: 
+('decline', ' of grass')

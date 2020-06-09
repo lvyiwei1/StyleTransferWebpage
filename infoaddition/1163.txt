@@ -1,4 +1,4 @@
 Original Sentence: 
-Firms Walk Fine Line In Distributing Profits
+Meanwhile competition from rivals unencumbered by history is intensifying
 Additional Information: 
-('line', 'ON', 'vest')
+('competition', 'horse')

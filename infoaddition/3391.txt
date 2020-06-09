@@ -1,4 +1,4 @@
 Original Sentence: 
-Viroqua serves about 3,000 access lines in western Wisconsin
+The state is n't ruling out revoking Drexel 's brokerage license
 Additional Information: 
-('access', 'sloped')
+('license', 'white')

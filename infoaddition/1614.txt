@@ -1,4 +1,4 @@
 Original Sentence: 
-The announcement fueled speculation for future advances in the shares
+They 're really fashion items wrapped up in little jars
 Additional Information: 
-('announcement', 'ON', 'table')
+('item', 'Inside of', 'bag')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Jeff Rowe contributed to this article
+He reports his business is up slightly from customers replacing old stock
 Additional Information: 
-('article', 'IN', 'magazine')
+('stock', 'OF', 'broccoli')

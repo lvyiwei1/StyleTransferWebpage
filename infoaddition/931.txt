@@ -1,4 +1,4 @@
 Original Sentence: 
-But it 's like kicking your father in the pants
+Golenbock with 35 lawyers has lost several partners during the past year
 Additional Information: 
-('father', 'smiling')
+('year', 'white')

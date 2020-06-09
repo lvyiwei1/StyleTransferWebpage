@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Zafris thinks rates are heading down helping small companies
+But readers may well feel the pangs of recognition
 Additional Information: 
-('company', 'name')
+('reader', 'e')

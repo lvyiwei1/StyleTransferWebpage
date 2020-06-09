@@ -1,4 +1,4 @@
 Original Sentence: 
-This deal is like a Roach Motel he said
+That 'll save us time and get people involved
 Additional Information: 
-('deal', 'OF', 'bananas')
+('people', 'standing')

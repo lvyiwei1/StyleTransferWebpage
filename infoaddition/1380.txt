@@ -1,4 +1,4 @@
 Original Sentence: 
-I much prefer money I can put my hands on
+The second is they do n't have enough discipline
 Additional Information: 
-('hand', 'black')
+('second', 'black')

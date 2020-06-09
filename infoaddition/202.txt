@@ -1,4 +1,4 @@
 Original Sentence: 
-That hurts investors ' confidence in the economy and stocks
+Among these crimes are murder on federal land presidential assassination and espionage
 Additional Information: 
-('economy', 'ON', 'train')
+('land', 'flat')

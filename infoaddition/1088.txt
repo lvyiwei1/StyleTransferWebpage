@@ -1,4 +1,4 @@
 Original Sentence: 
-ESB directors warmly accepted but a whirlwind bidding match ensued
+Now the firm says it 's at a turning point
 Additional Information: 
-('vest', 'ON', 'director')
+('point', 'sharp')

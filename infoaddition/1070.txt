@@ -1,4 +1,4 @@
 Original Sentence: 
-A man said he saw the upper rim undulate
+Other stocks were affected by corporate earnings
 Additional Information: 
-('rim', 'on', 'tire')
+('stock', 'green')

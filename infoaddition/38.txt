@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 6 % to 2.77 billion from 2.61 billion
+Irish and Soviet people are similar says Mr. Ovcharenko
 Additional Information: 
-('sale', 'at', 'company')
+('people', 'standing')

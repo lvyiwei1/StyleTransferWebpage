@@ -1,4 +1,4 @@
 Original Sentence: 
-It was considered South Africa 's largest opposition rally
+The successful launch continues a remarkable recovery in the U.S. space-science program
 Additional Information: 
-('man', 'IN', 'rally')
+('recovery', 'ON', 'truck')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Meanwhile the exchange has been trying to lower costs
+Other changes including easing restrictions on travel for East Germans are expected
 Additional Information: 
-('two women', 'make', 'exchange')
+('german', 'written on side of', 'engine')

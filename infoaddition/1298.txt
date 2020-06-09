@@ -1,4 +1,4 @@
 Original Sentence: 
-For one thing Digital Maynard Mass. has sold fewer machines
+Reggie Jackson the retired baseball star has found another use for them
 Additional Information: 
-('thing', 'under', 'airplane')
+('star', 'on', 'mat')

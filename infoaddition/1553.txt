@@ -1,4 +1,4 @@
 Original Sentence: 
-The city could lose some of its entrepreneurial flavor
+Sperry ultimately was eliminated from the competition without receiving the work
 Additional Information: 
-('city', 'behind', 'airport')
+('work', 'beside', 'paw')

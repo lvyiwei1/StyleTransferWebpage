@@ -1,4 +1,4 @@
 Original Sentence: 
-The dam caused the water level to drop in Zalubice
+But Pemex managers are the ones most thrilled by the contract
 Additional Information: 
-('dam', 'against', 'bridge')
+('one', 'white')

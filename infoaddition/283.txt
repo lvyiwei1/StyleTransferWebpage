@@ -1,4 +1,4 @@
 Original Sentence: 
-It also licenses optically based data storage and retrieval devices
+Fluor Corp. a construction engineering firm gained 75 cents to 33.375
 Additional Information: 
-('data', 'ON', 'monitor')
+('construction', 'gate')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Darkness fell
+Where had all the money come from
 Additional Information: 
-('darkness', 'above water')
+('money', 'paper')

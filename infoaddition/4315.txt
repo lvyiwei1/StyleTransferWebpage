@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Friend says his side is dead serious
+Additional Information: 
+('side', 'white')

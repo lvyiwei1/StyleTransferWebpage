@@ -1,4 +1,4 @@
 Original Sentence: 
-But city officials say tax revenues are lagging
+Darman hopes to prod Congress to finish a deficit plan
 Additional Information: 
-('city', 'IN', 'background')
+('plan', 'air')

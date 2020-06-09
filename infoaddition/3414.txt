@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's bad soil he says
+The company plans to expand plant capacity 50 % by 1991
 Additional Information: 
-('soil', 'brown')
+('plant', 'green')

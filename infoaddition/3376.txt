@@ -1,4 +1,4 @@
 Original Sentence: 
-The ratification follows a 23-day strike against the Philadelphia-based company
+They note that stocks experienced volatile swings long before futures
 Additional Information: 
-('strike', 'black')
+('stock', 'OF', 'broccoli')

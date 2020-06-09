@@ -1,4 +1,4 @@
 Original Sentence: 
-The second time he says they left the shovel
+The work force provides the third arm of the alliance
 Additional Information: 
-('time', 'displayed')
+('alliance', 'written in green')

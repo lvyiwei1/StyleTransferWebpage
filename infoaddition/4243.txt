@@ -1,0 +1,4 @@
+Original Sentence: 
+Many law firms sponsor their own programs
+Additional Information: 
+('program', 'beside', 'table')

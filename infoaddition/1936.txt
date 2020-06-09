@@ -1,4 +1,4 @@
 Original Sentence: 
-She retains her duties of human-resources director
+The stock slid 1.875 on more than four times average daily volume
 Additional Information: 
-('director', 'caucasian')
+('stock', 'of', 'stock')

@@ -1,4 +1,4 @@
 Original Sentence: 
-But that 's not the only problem for stocks
+Sales for the quarter rose to 1.11 billion from 1.03 billion
 Additional Information: 
-('stock', 'green')
+('sale', 'red')

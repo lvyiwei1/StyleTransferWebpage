@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 14 % to 715 million from 625.4 million
+The Dow Jones Industrial Average fell 26.23 points to 2662.91
 Additional Information: 
-('sale', 'red')
+('point', 'sharp')

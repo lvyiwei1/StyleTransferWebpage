@@ -1,0 +1,4 @@
+Original Sentence: 
+Similar proposals were defeated in at least 15 other states
+Additional Information: 
+('state', 'ON', 'sign')

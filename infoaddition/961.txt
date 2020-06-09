@@ -1,4 +1,4 @@
 Original Sentence: 
-The rest is of course history
+Some may try to revoke the firm 's license to sell securities
 Additional Information: 
-('rest', 'attached to', 'wall')
+('security', 'standing')

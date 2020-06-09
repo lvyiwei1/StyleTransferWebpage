@@ -1,4 +1,4 @@
 Original Sentence: 
-And the egg producers have done a pretty good job
+It made my shoelaces dance with terror
 Additional Information: 
-('job', 'decorative')
+('shoelace', 'OF', 'man')

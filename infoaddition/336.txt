@@ -1,4 +1,4 @@
 Original Sentence: 
-The CFTC has 90 days to respond to such applications
+Fundamental factors are at work as well
 Additional Information: 
-('day', 'full of', 'day')
+('work', 'iron')

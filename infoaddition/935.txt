@@ -1,4 +1,4 @@
 Original Sentence: 
-Tenneco Credit is a unit of Tenneco Inc
+The big one is still due Mr. Johnson predicted in an interview
 Additional Information: 
-('unit', 'ON', 'bus')
+('interview', 'IN', 'background')

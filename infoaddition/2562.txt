@@ -1,4 +1,4 @@
 Original Sentence: 
-Estimated volume was 3.5 million ounces
+They did n't return the rubber stocks that represent his capital
 Additional Information: 
-('volume', 'ON', 'headphones')
+('stock', 'green')

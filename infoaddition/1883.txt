@@ -1,4 +1,4 @@
 Original Sentence: 
-It reduces the baseline by 169 billion
+Neither disclosed details pending board meetings next month
 Additional Information: 
-('baseline', 'white')
+('detail', 'ON', 'fixture')

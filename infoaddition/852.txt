@@ -1,4 +1,4 @@
 Original Sentence: 
-Both products were immensely popular
+The work force provides the third arm of the alliance
 Additional Information: 
-('product', 'ON', 'shelf')
+('work', 'iron')

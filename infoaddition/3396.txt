@@ -1,4 +1,4 @@
 Original Sentence: 
-Details of credit enhancements vary widely from issue to issue
+Mr. Daremblum is a lawyer and a columnist for La Nacion newspaper
 Additional Information: 
-('detail', 'red')
+('lawyer', 'showing a', 'paper')

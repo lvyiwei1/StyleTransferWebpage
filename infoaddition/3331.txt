@@ -1,4 +1,4 @@
 Original Sentence: 
-After cooling the coins are then rewrapped
+Some buildings collapsed gas and water lines ruptured and fires raged
 Additional Information: 
-('coin', 'ON', 'back')
+('water', 'blue')

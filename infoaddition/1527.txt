@@ -1,4 +1,4 @@
 Original Sentence: 
-The company earned 6.6 million in the year-earlier quarter
+The state of New Hampshire has favored that plan
 Additional Information: 
-('company', 'name')
+('state', 'Penn ')

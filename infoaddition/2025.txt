@@ -1,4 +1,4 @@
 Original Sentence: 
-Richard L. Sherman 42 will advise midsized businesses
+THE U.S. IS REQUIRED to notify foreign dictators of certain coup plans
 Additional Information: 
-('business', 'here')
+('coup', 'late model')

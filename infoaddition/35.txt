@@ -1,4 +1,4 @@
 Original Sentence: 
-The dispute pits two groups of claimants against each other
+Sales rose 7.7 % to 6.66 billion from 6.19 billion
 Additional Information: 
-('group', 'large')
+('sale', 'at', 'company')

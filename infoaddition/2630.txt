@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's very revealing and soul baring said Ms. Volokh
+Yesterday 's edition did n't specify where the improvement would take place
 Additional Information: 
-('soul', 'black')
+('place', 'full')

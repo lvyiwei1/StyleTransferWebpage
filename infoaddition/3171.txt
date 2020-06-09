@@ -1,4 +1,4 @@
 Original Sentence: 
-Every time he sees me he gets very nervous
+Mervin Lung remains chairman and chief executive officer
 Additional Information: 
-('time', 'displayed')
+('officer', 'with', 'helmet')

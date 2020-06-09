@@ -1,4 +1,4 @@
 Original Sentence: 
-Foreign traders say the company is strapped for cash
+The work was done properly he said
 Additional Information: 
-('company', 'name')
+('work', 'iron')

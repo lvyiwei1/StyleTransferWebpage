@@ -1,4 +1,4 @@
 Original Sentence: 
-Ford has signaled it might acquire a majority interest later
+Lawrence Insurance underwrites mostly primary insurance a company spokesman said
 Additional Information: 
-('interest', 'great')
+('company', 'ON', 'bus')

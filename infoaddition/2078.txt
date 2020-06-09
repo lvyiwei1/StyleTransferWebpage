@@ -1,4 +1,4 @@
 Original Sentence: 
-Per-share net rose to 62.04 yen from 51.50 yen
+The analysts say their gloomy forecasts have a flip side
 Additional Information: 
-('net', 'hanging on', 'fence')
+('side', 'OF', 'motorcycle')

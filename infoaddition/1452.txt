@@ -1,4 +1,4 @@
 Original Sentence: 
-The bill is expected to pass in Congress next month
+City Federal operates 105 banking offices in New Jersey and Florida
 Additional Information: 
-('month', 'OF', 'picture')
+('banking', 'grassy')

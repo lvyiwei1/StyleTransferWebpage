@@ -1,4 +1,4 @@
 Original Sentence: 
-You do n't have a right to practice
+Petrolane is the second-largest propane distributor in the U.S.
 Additional Information: 
-('right', 'far')
+('propane', 'for', 'oven')

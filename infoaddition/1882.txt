@@ -1,4 +1,4 @@
 Original Sentence: 
-It reduces the baseline by 169 billion
+Sales rose to 52.4 million from 50.1 million
 Additional Information: 
-('baseline', 'ON', 'grass')
+('sale', 'red')

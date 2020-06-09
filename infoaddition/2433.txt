@@ -1,4 +1,4 @@
 Original Sentence: 
-Glasnost has made celebrities of men like Mr. Korotich
+In major market activity Stock prices rose in light trading
 Additional Information: 
-('men', 'standing')
+('activity', 'IN', 'bathroom')

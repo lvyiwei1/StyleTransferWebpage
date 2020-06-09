@@ -1,4 +1,4 @@
 Original Sentence: 
-Neither disclosed details pending board meetings next month
+It 's an inherited human disorder that 's been duplicated in mice
 Additional Information: 
-('board', 'with', 'lettering')
+('mouse', 'with', 'text')

@@ -1,0 +1,4 @@
+Original Sentence: 
+It is known in the Pentagon as the negative wedge
+Additional Information: 
+('wedge', 'between', 'snow')

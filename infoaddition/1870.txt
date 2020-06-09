@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's nothing dramatic just a routine sell-off
+The company 's trustee F.E. Agnew was unavailable for comment
 Additional Information: 
-('nothing', 'clear')
+('company', 'name')

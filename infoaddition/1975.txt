@@ -1,4 +1,4 @@
 Original Sentence: 
-They 're really fashion items wrapped up in little jars
+After 25 years in city politics David Dinkins remains an enigma
 Additional Information: 
-('jar', 'glass')
+('year', 'white')

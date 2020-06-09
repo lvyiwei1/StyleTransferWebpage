@@ -1,4 +1,4 @@
 Original Sentence: 
-Some of the oil interests already have been sold
+Of course Mr. Wolf 48 years old has some savings
 Additional Information: 
-('people', 'showing', 'interest')
+('year', 'OF', 'photo')

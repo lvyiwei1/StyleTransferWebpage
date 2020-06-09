@@ -1,4 +1,4 @@
 Original Sentence: 
-Copper futures prices failed to extend Friday 's rally
+An assassin in Colombia killed a federal judge on a Medellin street
 Additional Information: 
-('rally', 'black')
+('judge', 'tennis line')

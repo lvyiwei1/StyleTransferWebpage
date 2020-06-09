@@ -1,4 +1,4 @@
 Original Sentence: 
-Some people must drop names call it an irresistible impulse
+Stephen McCartin Mr. Hunt 's attorney said his client welcomed the gamble
 Additional Information: 
-('people', 'standing')
+('client', 'young')

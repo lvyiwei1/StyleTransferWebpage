@@ -1,0 +1,4 @@
+Original Sentence: 
+Even so the trust would seem to be facing a cash crunch
+Additional Information: 
+('crunch', 'of a', 'cake')

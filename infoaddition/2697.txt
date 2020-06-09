@@ -1,4 +1,4 @@
 Original Sentence: 
-Kennametal is a carbide-products and cutting-tools company
+Interest payments on the bonds will be payable semiannually
 Additional Information: 
-('company', 'that owns', 'bus')
+('bond', 'black ')

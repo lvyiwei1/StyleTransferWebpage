@@ -1,0 +1,4 @@
+Original Sentence: 
+The offer made June 1 has been extended several times
+Additional Information: 
+('time', 'displayed')

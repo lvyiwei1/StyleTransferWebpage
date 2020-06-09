@@ -1,4 +1,4 @@
 Original Sentence: 
-Known as Easy Eggs the product has disappointed investors
+The board has 10 business days to respond
 Additional Information: 
-('product', 'bathroom')
+('board', 'white')

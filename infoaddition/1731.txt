@@ -1,4 +1,4 @@
 Original Sentence: 
-There 's lots of supply the New York trader said
+The two companies like Fox already have their own TV stations
 Additional Information: 
-('supply', 'all')
+('tv', 'ON', 'table')

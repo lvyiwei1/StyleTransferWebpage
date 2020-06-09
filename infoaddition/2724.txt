@@ -1,4 +1,4 @@
 Original Sentence: 
-Still there is money to be made
+The earnings drop had been expected
 Additional Information: 
-('money', 'paper')
+('drop', 'water')

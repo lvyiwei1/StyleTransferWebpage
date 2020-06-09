@@ -1,4 +1,4 @@
 Original Sentence: 
-The coin is their problem
+Artists and draftsmen need harder leads
 Additional Information: 
-('coin', 'on a', 'table')
+('artist', 'for', 'artist')

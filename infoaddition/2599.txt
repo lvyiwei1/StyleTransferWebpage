@@ -1,4 +1,4 @@
 Original Sentence: 
-Every witness receives a formal subpoena Rep. Gonzalez told him
+Consider Adopting Your Spouse 's Name
 Additional Information: 
-('witness', 'black')
+('name', 'white')

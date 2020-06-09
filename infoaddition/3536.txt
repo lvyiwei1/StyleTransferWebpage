@@ -1,0 +1,4 @@
+Original Sentence: 
+Foreign publications have responded with articles declaring her Vietnam 's richest woman
+Additional Information: 
+('article', 'ON', 'fridge')

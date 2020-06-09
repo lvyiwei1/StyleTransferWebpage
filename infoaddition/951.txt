@@ -1,4 +1,4 @@
 Original Sentence: 
-The most important thing is that he have a chance
+But readers may well feel the pangs of recognition
 Additional Information: 
-('thing', 'under', 'airplane')
+('plaque', 'for', 'recognition')

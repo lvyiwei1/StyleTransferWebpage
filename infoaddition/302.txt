@@ -1,4 +1,4 @@
 Original Sentence: 
-Breeders are betting on the common folk
+All anyone need do is hang up a shingle and start planning
 Additional Information: 
-('folk', 'gold')
+('shingle', 'gray')

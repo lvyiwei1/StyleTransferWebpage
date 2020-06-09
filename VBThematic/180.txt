@@ -1,3 +1,3 @@
 Original Sentence: 
-They started and then abandoned it
-Emphasize: abandoned
+The company is being acquired
+Emphasize: being

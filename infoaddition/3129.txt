@@ -1,4 +1,4 @@
 Original Sentence: 
-A unified system of taxation should be introduced rapidly
+Democrats hoped that Mr. Dinkins could become a highly visible national leader
 Additional Information: 
-('system', 'IN', 'room')
+('leader', 'parade')

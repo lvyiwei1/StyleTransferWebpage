@@ -1,4 +1,4 @@
 Original Sentence: 
-Cathay is taking several steps to bolster business
+Galveston-Houston makes and markets products for the construction mining and energy industries
 Additional Information: 
-('step', 'concrete')
+('product', 'IN', 'box')

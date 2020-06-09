@@ -1,4 +1,4 @@
 Original Sentence: 
-Introducing pool argued Councilwoman Riley Reinker would be dangerous
+Seats currently are quoted at 410,000 bid 425,000 asked
 Additional Information: 
-('pool', 'blue')
+('seat', 'of bike has', 'backpack')

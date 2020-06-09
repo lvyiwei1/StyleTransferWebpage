@@ -1,4 +1,4 @@
 Original Sentence: 
-The announcement came after the market 's close
+We will not be commenting beyond the news release the spokesman said
 Additional Information: 
-('market', 'outdoor')
+('news', 'word')

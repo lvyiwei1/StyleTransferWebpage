@@ -1,4 +1,4 @@
 Original Sentence: 
-Bond prices rose
+Now it offers richer commissions to lure a broker a week
 Additional Information: 
-('bond', 'black ')
+('day', 'OF', 'week')

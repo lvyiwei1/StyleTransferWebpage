@@ -1,4 +1,4 @@
 Original Sentence: 
-For the prior year deposits exceeded withdrawals by 8.8 billion
+Budget said its frequent-flier costs are substantially below Avis 's level
 Additional Information: 
-('deposit', 'metal')
+('cost', 'displayed in front of', 'banana')

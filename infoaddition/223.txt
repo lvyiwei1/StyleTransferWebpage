@@ -1,4 +1,4 @@
 Original Sentence: 
-We continue to develop products faster than anyone else can
+One bank stock was a winner
 Additional Information: 
-('product', 'selling on', 'show')
+('bank', 'beside', 'river')

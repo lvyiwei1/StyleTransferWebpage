@@ -1,4 +1,4 @@
 Original Sentence: 
-Businessmen took their cue from the engineers
+GM confirmed it received U.S. antitrust clearance to boost its holding
 Additional Information: 
-('engineer', 'train')
+('holding', 'player holding racket above', 'head')

@@ -1,4 +1,4 @@
 Original Sentence: 
-It will trade over the counter under the symbol CRAY
+Neither the Amoco agreement nor the wells existed the suit alleged
 Additional Information: 
-('symbol', 'white')
+('well', 'ON', 'sidewalk')

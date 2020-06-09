@@ -1,4 +1,4 @@
 Original Sentence: 
-But not everybody was making money
+So what 's the catch
 Additional Information: 
-('money', 'paper')
+('catch', 'FRISBEE')

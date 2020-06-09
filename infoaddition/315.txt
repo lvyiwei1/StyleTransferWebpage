@@ -1,4 +1,4 @@
 Original Sentence: 
-Much of the family 's mystique remained
+In short Rey found companies with weak earnings but rich assets
 Additional Information: 
-('family', 'skiing', 'snow')
+('company', 'name')

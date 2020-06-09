@@ -1,0 +1,4 @@
+Original Sentence: 
+But there were no buyers
+Additional Information: 
+('buyer', 'prospective')

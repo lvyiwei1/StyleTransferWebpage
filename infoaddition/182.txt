@@ -1,4 +1,4 @@
 Original Sentence: 
-Many law firms sponsor their own programs
+When it comes to money Once bitten 2,000 times shy
 Additional Information: 
-('program', 'On screen', 'laptop computer')
+('money', 'paper')

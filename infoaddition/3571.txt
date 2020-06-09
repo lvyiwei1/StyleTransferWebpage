@@ -1,0 +1,4 @@
+Original Sentence: 
+FEDERAL PROSECUTORS are concluding fewer criminal cases with trials
+Additional Information: 
+('case', 'black')

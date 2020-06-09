@@ -1,4 +1,4 @@
 Original Sentence: 
-Everybody was still confident including most institutional investors
+For many money managers the past four months have been humiliating
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
+('month', 'around', 'face')

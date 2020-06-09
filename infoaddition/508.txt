@@ -1,4 +1,4 @@
 Original Sentence: 
-The company sells image
+I 'm ashamed I own the stupid thing
 Additional Information: 
-('image', 'white')
+('thing', 'ON', 'pavement')

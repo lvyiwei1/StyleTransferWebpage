@@ -1,4 +1,4 @@
 Original Sentence: 
-But it 's just one of those things that happened
+Total merchant banking exposures are in excess of the firm 's equity
 Additional Information: 
-('thing', 'black')
+('banking', 'grassy')

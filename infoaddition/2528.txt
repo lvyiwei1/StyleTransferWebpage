@@ -1,4 +1,4 @@
 Original Sentence: 
-South African gold stocks ended marginally firmer
+That task is one of Washington 's perennial problems
 Additional Information: 
-('stock', 'green')
+('elephant', 'has', 'task')

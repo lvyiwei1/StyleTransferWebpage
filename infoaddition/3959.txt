@@ -1,0 +1,4 @@
+Original Sentence: 
+I refer essentially to petroleum electric power banking and newsprint
+Additional Information: 
+('power', 'lines', 'overhead')

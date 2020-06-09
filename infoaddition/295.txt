@@ -1,4 +1,4 @@
 Original Sentence: 
-But while index options are convenient they have several disadvantages
+Here they are searching for a higher price
 Additional Information: 
-('index', 'a fingerhas', 'baby')
+('price', 'written')

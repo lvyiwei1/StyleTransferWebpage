@@ -1,4 +1,4 @@
 Original Sentence: 
-But not every company expects to report increased earnings
+The acceptances give Orkem a controlling 53.2 % stake in the company
 Additional Information: 
 ('company', 'name')

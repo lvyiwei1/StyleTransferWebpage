@@ -1,0 +1,4 @@
+Original Sentence: 
+But critics fret that post-1997 officials ultimately will be responsible to Beijing
+Additional Information: 
+('official', 'ON', 'baseball')

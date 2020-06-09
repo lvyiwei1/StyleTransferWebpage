@@ -1,0 +1,4 @@
+Original Sentence: 
+Advancing OTC stocks outpaced decliners by 1,120 to 806
+Additional Information: 
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The new exchange drew instant recognition from an unwelcome quarter
+But I do n't want any of that oil for my grandkids
 Additional Information: 
-('two women', 'make', 'exchange')
+('oil', 'hot')

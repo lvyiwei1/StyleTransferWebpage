@@ -1,0 +1,4 @@
+Original Sentence: 
+Terms of the agreement were n't given
+Additional Information: 
+('term', 'house of david')

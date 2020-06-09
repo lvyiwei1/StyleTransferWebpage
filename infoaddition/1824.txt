@@ -1,4 +1,4 @@
 Original Sentence: 
-The Merksamer bankruptcy-law filing appears to supersede that agreement
+Radio programs and books have followed the daily television show
 Additional Information: 
-('filing', 'red')
+('show', 'ON', 'hillside')

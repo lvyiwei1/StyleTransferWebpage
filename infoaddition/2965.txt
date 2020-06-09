@@ -1,4 +1,4 @@
 Original Sentence: 
-Their machine tools are even bolted to the shop floor
+The firm was indicted in Tampa Fla. on money-laundering charges
 Additional Information: 
-('machine', 'ON', 'truck')
+('charge', 'can', 'charge')

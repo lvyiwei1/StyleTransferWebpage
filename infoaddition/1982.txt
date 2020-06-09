@@ -1,4 +1,4 @@
 Original Sentence: 
-The figures are seasonally adjusted
+In February Mr. Thornburgh announced his plan to abolish the units
 Additional Information: 
-('figure', 'on', 'sign board')
+('unit', 'white')

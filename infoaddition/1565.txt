@@ -1,4 +1,4 @@
 Original Sentence: 
-What does this mean for trade policy
+A private farmer never wastes anything
 Additional Information: 
-('mean', 'WEARING', 'red shirt')
+('farmer', 'holding')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Someday viewers may also choose different depths of news coverage
+REPAIR SHOPS SCRAP for more access to work on auto-emissions systems
 Additional Information: 
-('depth', 'shadowed')
+('shop', 'street level')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The position of chief operating officer is new
+California prices were already coming down
 Additional Information: 
-('position', 'upright')
+('price', 'ON', 'bike')

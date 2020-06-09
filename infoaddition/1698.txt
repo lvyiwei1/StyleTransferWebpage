@@ -1,4 +1,4 @@
 Original Sentence: 
-The painting is 10 feet wide seven feet high
+As this is now a litigation matter we have no further comment
 Additional Information: 
-('foot', 'IN', 'air')
+('matter', 'green')

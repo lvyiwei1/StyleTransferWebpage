@@ -1,4 +1,4 @@
 Original Sentence: 
-This deal is like a Roach Motel he said
+It liquefies in a patchwork quilt pattern
 Additional Information: 
-('deal', 'great')
+('quilt', 'on th', 'bed')

@@ -1,4 +1,4 @@
 Original Sentence: 
-In essence we run the show
+The team then proposed modifications in their work process to management
 Additional Information: 
-('show', 'kite')
+('team', 'IN', 'dugout')

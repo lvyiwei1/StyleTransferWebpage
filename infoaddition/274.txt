@@ -1,4 +1,4 @@
 Original Sentence: 
-The company is a Mexico Mo. maker of refractory products
+California 's high-priced real estate puts it in an awkward position too
 Additional Information: 
-('product', 'IN', 'box')
+('position', 'upright')

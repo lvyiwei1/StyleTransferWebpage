@@ -1,4 +1,4 @@
 Original Sentence: 
-Yet the state alone sells seeds and machines
+Who is going to carry the water
 Additional Information: 
-('state', 'Penn ')
+('water', 'behind', 'man')

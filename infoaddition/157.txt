@@ -1,4 +1,4 @@
 Original Sentence: 
-Not all those who wrote oppose the changes
+Of the 4,348 issues that changed hands 1,074 advanced and 866 declined
 Additional Information: 
-('change', 'ON', 'red')
+('hand', 'black')

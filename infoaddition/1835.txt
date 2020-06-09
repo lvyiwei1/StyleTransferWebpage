@@ -1,4 +1,4 @@
 Original Sentence: 
-If you are born to give parties you give parties
+Sales declined 3 % to 524.5 million from 539.4 million
 Additional Information: 
-('party', 'birthday')
+('sale', 'red')

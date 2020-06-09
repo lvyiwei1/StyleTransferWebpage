@@ -1,4 +1,4 @@
 Original Sentence: 
-The December contract fell 3.85 cents a pound to 1.1960
+Eventually Mr. Postel broke his toe in the dark
 Additional Information: 
-('pound', 'has a', 'ten')
+('toe', 'white')

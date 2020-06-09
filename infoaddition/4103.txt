@@ -1,0 +1,4 @@
+Original Sentence: 
+I think a lot of people got scared and stayed home
+Additional Information: 
+('home', 'white')

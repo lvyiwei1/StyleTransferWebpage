@@ -1,0 +1,4 @@
+Original Sentence: 
+Additional cable partners could boost subscribers even further
+Additional Information: 
+('cable', 'on top of', 'table')

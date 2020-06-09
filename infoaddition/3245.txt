@@ -1,4 +1,4 @@
 Original Sentence: 
-This conclusion he said restored the credibility of Tokyo stocks
+The dollar also moved higher in Tokyo
 Additional Information: 
-('stock', 'green')
+('dollar', 'ON', 'bed')

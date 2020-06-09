@@ -1,4 +1,4 @@
 Original Sentence: 
-Oddly enough this presents a problem for the stock
+Mr. Bentsen said he hopes the Senate will consider that measure soon
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('measure', 'black')

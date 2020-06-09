@@ -1,4 +1,4 @@
 Original Sentence: 
-Most other states have enacted similar bans
+In such an environment a market maker can absorb huge losses
 Additional Information: 
-('state', 'ON', 'shirt')
+('maker', 'coffee')

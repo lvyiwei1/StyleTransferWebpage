@@ -1,4 +1,4 @@
 Original Sentence: 
-Japanese Firms Push Posh Car Showrooms
+But the apple industry is ripe for change
 Additional Information: 
-('car', 'parked')
+('change', 'ON', 'table')

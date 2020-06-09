@@ -1,4 +1,4 @@
 Original Sentence: 
-We want it to be a '90s kind of image
+Coal earnings rose to 26 million from 21 million
 Additional Information: 
-('kind', 'ON', 'sidewalk')
+('coal', 'burning in', 'grill')

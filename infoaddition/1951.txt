@@ -1,4 +1,4 @@
 Original Sentence: 
-The other element includes consolidating BethForge 's press-forge operations
+This activity produced small rallies which in turn attracted new short selling
 Additional Information: 
-('element', 'heating')
+('turn', 'ON', 'sign')

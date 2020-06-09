@@ -1,4 +1,4 @@
 Original Sentence: 
-Please contribute what you can the ad said
+City Federal operates 105 banking offices in New Jersey and Florida
 Additional Information: 
-('ad', 'with', 'ad')
+('office', 'small')

@@ -1,4 +1,4 @@
 Original Sentence: 
-They were a sleeper
+Still there is money to be made
 Additional Information: 
-('sleeper', 'ON', 'baby')
+('money', 'paper')

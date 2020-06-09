@@ -1,4 +1,4 @@
 Original Sentence: 
-THE IRS DELAYS several deadlines for Hugo 's victims
+The stock fell 75 cents
 Additional Information: 
-('racket', 'OF', 'victim')
+('stock', 'green')

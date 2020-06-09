@@ -1,4 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+But reform has n't taken hold yet
 Additional Information: 
-('change', 'ON', 'machine')
+('hold', 'foot')

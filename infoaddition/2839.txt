@@ -1,4 +1,4 @@
 Original Sentence: 
-Asked about that the other day he replied Anti-Semitic
+Stewart & Stevenson makes equipment powered with diesel and gas turbines
 Additional Information: 
-('day', 'sunny')
+('turbine', 'OF', 'airplane')

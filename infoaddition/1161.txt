@@ -1,4 +1,4 @@
 Original Sentence: 
-To reinforce employees ' dedication Mr. Smith pays well
+Their recovery came surprisingly fast and always with the help of neighbors
 Additional Information: 
-('employee', 'ON', 'tarmac')
+('man', 'talking to', 'neighbor')

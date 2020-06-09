@@ -1,4 +1,4 @@
 Original Sentence: 
-Among other changes the White House wants to
+And Oranjemund boasts attractions besides diamonds
 Additional Information: 
-('change', 'goes into', 'parking meter')
+('people', 'visiting', 'attraction')

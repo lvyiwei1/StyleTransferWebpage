@@ -1,4 +1,4 @@
 Original Sentence: 
-It has three U.S. branches
+But an uninvited guest is expected to try to crash the party
 Additional Information: 
-('branch', 'IN', 'tree')
+('party', 'birthday')

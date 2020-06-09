@@ -1,4 +1,4 @@
 Original Sentence: 
-The rest is of course history
+For longer-term CDs yields were up
 Additional Information: 
-('rest', 'arm')
+('cd', 'IN', 'case')

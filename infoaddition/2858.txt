@@ -1,4 +1,4 @@
 Original Sentence: 
-The government built ports bridges highways schools hospitals and railways
+No sophisticated professional expects economists to be right all the time
 Additional Information: 
-('port', 'ON', 'wall')
+('time', 'says', 'time')

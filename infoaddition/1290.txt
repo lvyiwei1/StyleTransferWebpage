@@ -1,4 +1,4 @@
 Original Sentence: 
-They wo n't do that very often today at all
+Kellogg 's main problem is life style
 Additional Information: 
-('sign', 'reads', 'today')
+('style', 'old')

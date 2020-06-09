@@ -1,4 +1,4 @@
 Original Sentence: 
-Supporting banks will sign a Texas Declaration of Independents
+World-wide trading was generally manageable
 Additional Information: 
-('bank', 'OF', 'river')
+('red t', 'IN', 'trading')

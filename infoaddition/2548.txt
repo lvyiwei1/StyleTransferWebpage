@@ -1,4 +1,4 @@
 Original Sentence: 
-Bally officials decline to discuss the situation
+The portfolio currently includes 95 million in receivables GE Capital said
 Additional Information: 
-('official', 'tennis')
+('portfolio', 'black')

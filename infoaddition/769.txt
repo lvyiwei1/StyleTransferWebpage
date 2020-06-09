@@ -1,4 +1,4 @@
 Original Sentence: 
-GAF faces potential fines of 500,000 for each count
+How do readers feel about the magazine
 Additional Information: 
-('man', 'IN', 'count')
+('magazine', 'ON', 'table')

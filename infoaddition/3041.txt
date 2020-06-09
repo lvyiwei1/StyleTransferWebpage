@@ -1,4 +1,4 @@
 Original Sentence: 
-Everybody was afraid of him Mr. Ingersoll says
+Mr. Roberts also takes a swipe at the Bank 's adjustment lending
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
+('adjustment', 'row')

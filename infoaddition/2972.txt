@@ -1,4 +1,4 @@
 Original Sentence: 
-Their machine tools are even bolted to the shop floor
+These errata do not affect business programs he said
 Additional Information: 
-('floor', 'brown')
+('business', 'has', 'entrance')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Ehrlich will continue as a director and a consultant
+Note how the baseline program assumes a sharp increase in future appropriations
 Additional Information: 
-('vest', 'ON', 'director')
+('baseline', 'ON', 'tennis arena')

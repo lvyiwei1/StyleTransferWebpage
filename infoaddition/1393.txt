@@ -1,4 +1,4 @@
 Original Sentence: 
-But to Hong Kong China is n't purely business
+A hearing is scheduled on the issue today
 Additional Information: 
-('business', 'has', 'entrance')
+('right', 'giraffe ear for', 'hearing')

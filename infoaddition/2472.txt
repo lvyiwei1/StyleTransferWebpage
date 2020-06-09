@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales dipped 3.6 % to 3.92 billion from 4.07 billion
+Mr. Rey made 50 million Swiss francs on the sale
 Additional Information: 
 ('sale', 'red')

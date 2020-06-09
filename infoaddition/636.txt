@@ -1,4 +1,4 @@
 Original Sentence: 
-I think we 're making progress
+Experts say such long hours for attendants pose a safety risk
 Additional Information: 
-('a', 'baseball game in', 'progress')
+('attendant', 'assisting')

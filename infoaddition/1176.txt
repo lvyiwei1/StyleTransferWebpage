@@ -1,4 +1,4 @@
 Original Sentence: 
-Never in my life have I been so frightened
+The companies reached an agreement in principle for the sale in August
 Additional Information: 
-('life', 'printed')
+('sale', 'at', 'company')

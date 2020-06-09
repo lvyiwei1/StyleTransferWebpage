@@ -1,4 +1,4 @@
 Original Sentence: 
-Reagan Era Young Hold Liberal Views
+Beyond that money managers and analysts see other problems
 Additional Information: 
-('view', 'of a', 'building')
+('manager', 'sitting in', 'dugout')

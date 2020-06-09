@@ -1,4 +1,4 @@
 Original Sentence: 
-Copper prices fell sharply Friday afternoon
+I see it as a sewage treatment plant he says
 Additional Information: 
-('price', 'written')
+('plant', 'green')

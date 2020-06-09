@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales were flat at 7.88 billion
+The two companies like Fox already have their own TV stations
 Additional Information: 
-('sale', 'red')
+('station', 'has', 'beams')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Looking ahead to commodity markets this week
+This past summer investors ' appetite for municipal bonds seemed insatiable
 Additional Information: 
-('market', 'for sale at', 'market')
+('summer', 'sandals on', 'feet')

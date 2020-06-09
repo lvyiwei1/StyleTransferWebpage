@@ -1,3 +1,3 @@
 Original Sentence: 
-They 're buying whatever 's cheaper
-Emphasize: cheaper
+The minimum unit is 100,000
+Emphasize: minimum

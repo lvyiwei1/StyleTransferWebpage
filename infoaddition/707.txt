@@ -1,4 +1,4 @@
 Original Sentence: 
-The cats are fine although nervous
+For women dressing for success in a real structured way is over
 Additional Information: 
-('cat', 'sleeping on', 'window sill')
+('woman', 'has a', 'shoulder')

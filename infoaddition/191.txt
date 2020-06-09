@@ -1,4 +1,4 @@
 Original Sentence: 
-The hotel is scheduled to open in 1992
+The future of the forest remains uncertain
 Additional Information: 
-('hotel', 'large')
+('forest', 'green')

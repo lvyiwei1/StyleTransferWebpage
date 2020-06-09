@@ -1,0 +1,4 @@
+Original Sentence: 
+His election increases Ryder 's board to 14 members
+Additional Information: 
+('member', 'several')

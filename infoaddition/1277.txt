@@ -1,4 +1,4 @@
 Original Sentence: 
-Neither disclosed details pending board meetings next month
+The company did n't put out a public announcement
 Additional Information: 
-('detail', 'ON', 'fixture')
+('announcement', 'has', 'letters')

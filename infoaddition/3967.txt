@@ -1,0 +1,4 @@
+Original Sentence: 
+With little competition the computer industry here is inefficient
+Additional Information: 
+('competition', 'horse')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Sound stages echo
+On some days the Nucor plant does n't produce anything
 Additional Information: 
-('stage', 'black')
+('part', 'of a speaker not connected to', 'anything')

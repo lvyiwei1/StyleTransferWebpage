@@ -1,4 +1,4 @@
 Original Sentence: 
-The order is the biggest in the company 's history
+Wells Fargo & Co. of San Francisco posted a 17 % jump
 Additional Information: 
-('the', 'word', 'history')
+('jump', 'for', 'horse')

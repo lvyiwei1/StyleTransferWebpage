@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Rezneck is a lawyer in Washington D.C
+Additional Information: 
+('lawyer', 'showing a', 'paper')

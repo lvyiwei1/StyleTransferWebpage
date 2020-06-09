@@ -1,0 +1,4 @@
+Original Sentence: 
+This film attempts to show a side rarely seen in our media
+Additional Information: 
+('medium', 'brick')

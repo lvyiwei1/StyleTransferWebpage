@@ -1,4 +1,4 @@
 Original Sentence: 
-At least it has a little dash
+About 1,150 employees are covered by the new agreement Deere said
 Additional Information: 
-('dash', 'white')
+('employee', 'wears', 'shirt')

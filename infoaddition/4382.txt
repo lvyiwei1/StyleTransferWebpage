@@ -1,0 +1,4 @@
+Original Sentence: 
+The House version of the bill does include the tax cut
+Additional Information: 
+('bill', 'sitting on', 'table')

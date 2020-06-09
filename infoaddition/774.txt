@@ -1,4 +1,4 @@
 Original Sentence: 
-Hotel-casino operators play down the possibility of a labor shortage
+Foreign traders say the company is strapped for cash
 Additional Information: 
-('operator', 'sitting', 'shed')
+('company', 'ON', 'building')

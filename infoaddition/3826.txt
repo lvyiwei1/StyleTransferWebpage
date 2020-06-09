@@ -1,0 +1,4 @@
+Original Sentence: 
+The rest were withdrawn for lack of acceptable bids
+Additional Information: 
+('lack', 'in front', 'hills')

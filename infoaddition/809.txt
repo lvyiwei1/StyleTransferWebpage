@@ -1,4 +1,4 @@
 Original Sentence: 
-Piping in a waste-treatment plant needed immediate repairs
+The buy-out group had no firm financing for the plan
 Additional Information: 
-('plant', 'green')
+('group', 'of', 'people')

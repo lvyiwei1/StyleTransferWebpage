@@ -1,4 +1,4 @@
 Original Sentence: 
-And black-and-white photography classes are crowded with students
+We think everything will go this way in a few years
 Additional Information: 
-('student', 'ethnic')
+('sky', 'above', 'everything')

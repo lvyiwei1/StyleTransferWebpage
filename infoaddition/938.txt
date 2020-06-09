@@ -1,4 +1,4 @@
 Original Sentence: 
-My vision is to change human consciousness towards touch
+Once one Japanese company steps up its investments the whole industry follows
 Additional Information: 
-('touch', 'OF', 'laptop')
+('company', 'name')

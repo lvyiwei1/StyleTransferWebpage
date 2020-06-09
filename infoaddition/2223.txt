@@ -1,4 +1,4 @@
 Original Sentence: 
-It also rose last Friday while the stock market sagged
+Inflation is at record levels
 Additional Information: 
-('market', 'IN', 'container')
+('record', 'ON', 'record player')

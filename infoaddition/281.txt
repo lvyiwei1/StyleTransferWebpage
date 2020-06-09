@@ -1,4 +1,4 @@
 Original Sentence: 
-Investment-grade corporate municipal and mortgage-backed securities also fell
+Was 300 ft. out on a pier in San Rafael
 Additional Information: 
-('security', 'standing')
+('pier', 'wooden')

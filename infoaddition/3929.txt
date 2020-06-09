@@ -1,0 +1,4 @@
+Original Sentence: 
+Now the Alley has moved ahead on both artistic and financial fronts
+Additional Information: 
+('front', 'OF', 'building')

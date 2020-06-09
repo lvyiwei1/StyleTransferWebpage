@@ -1,4 +1,4 @@
 Original Sentence: 
-He had been vice president in that office
+They are starting to buy growth stocks
 Additional Information: 
-('office', 'seen', 'here')
+('growth', 'on', 'shore')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The action came after the Senate approved the House-passed measure
+You must have world-class brands a long-term perspective and deep pockets
 Additional Information: 
-('action', 'MLB')
+('brand', 'OF', 'laptop')

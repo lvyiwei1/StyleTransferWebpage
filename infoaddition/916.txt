@@ -1,4 +1,4 @@
 Original Sentence: 
-I wanted to be in business
+Volume totaled 132.1 million shares which is about average for the year
 Additional Information: 
-('business', 'sign on', 'building')
+('year', 'ON', 'sign')

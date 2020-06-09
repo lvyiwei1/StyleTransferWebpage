@@ -1,4 +1,4 @@
 Original Sentence: 
-The plan lacked a withdrawal timetable
+Mr. Bush returned to Washington Saturday night
 Additional Information: 
-('plan', 'air')
+('night', 'black')

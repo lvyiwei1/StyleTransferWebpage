@@ -1,4 +1,4 @@
 Original Sentence: 
-The truth is Washington understands politics better than economics
+Stock prices finished about unchanged Friday in quiet expiration trading
 Additional Information: 
-('letters', 'about', 'politics')
+('stock', 'of', 'stock')

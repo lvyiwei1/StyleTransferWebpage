@@ -1,4 +1,4 @@
 Original Sentence: 
-But Japanese bonds ended weaker
+Some may try to revoke the firm 's license to sell securities
 Additional Information: 
-('bond', 'black ')
+('security', 'walking in', 'orange vests')

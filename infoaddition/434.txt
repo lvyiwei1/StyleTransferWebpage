@@ -1,4 +1,4 @@
 Original Sentence: 
-Others analyze the data
+Where 's the guy who can say Enough is enough
 Additional Information: 
-('others', 'at', 'beach')
+('guy', 'wearing a', 'cap')

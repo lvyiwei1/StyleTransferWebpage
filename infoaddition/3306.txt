@@ -1,4 +1,4 @@
 Original Sentence: 
-There 's no feed he says
+The plan would impose a brief freeze on physician fees next year
 Additional Information: 
-('feed', 'in a', 'feeding trough')
+('year', 'white')

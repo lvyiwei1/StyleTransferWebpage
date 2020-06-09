@@ -1,4 +1,4 @@
 Original Sentence: 
-But the company declines to comment
+Prices of high-yield high-risk corporate securities ended unchanged
 Additional Information: 
-('company', 'name')
+('security', 'standing')

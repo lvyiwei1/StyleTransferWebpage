@@ -1,0 +1,4 @@
+Original Sentence: 
+I hire transportation and my customers have fresh cold cuts every day
+Additional Information: 
+('cut', 'small')

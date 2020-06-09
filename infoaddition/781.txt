@@ -1,4 +1,4 @@
 Original Sentence: 
-They lost the entertainment crown and they needed one
+We 're very pleased with the new deal
 Additional Information: 
-('crown', 'drawn on', 'tower')
+('deal', 'great')

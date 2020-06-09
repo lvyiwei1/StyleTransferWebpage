@@ -1,4 +1,4 @@
 Original Sentence: 
-She was in her most radiant expressive voice
+The recent sharp stock market decline exacerbated those concerns
 Additional Information: 
-('voice', 'written', 'on it')
+('decline', ' of grass')

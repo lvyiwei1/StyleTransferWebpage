@@ -1,4 +1,4 @@
 Original Sentence: 
-John R. Wilke contribued to this article
+A thin man in a gray suit looks up from a newspaper
 Additional Information: 
-('article', 'newspaper')
+('suit', 'black')

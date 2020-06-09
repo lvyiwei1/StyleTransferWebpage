@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales were 348.2 million compared with 307.2 a year earlier
+The 30-share index settled 42.0 points lower at 1678.5
 Additional Information: 
-('year', 'white')
+('point', 'sharp')

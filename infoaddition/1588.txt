@@ -1,4 +1,4 @@
 Original Sentence: 
-Mrs. Marcos 's trial is expected to begin in March
+We were reassured they would stand behind the company
 Additional Information: 
-('snow', 'has', 'trial')
+('company', 'name')

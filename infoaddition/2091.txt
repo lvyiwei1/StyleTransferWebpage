@@ -1,4 +1,4 @@
 Original Sentence: 
-Any hiring is confined to retail sales
+Istat said 369,000 more people were employed in July than in April
 Additional Information: 
-('sale', 'red')
+('people', 'at', 'park')

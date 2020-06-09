@@ -1,4 +1,4 @@
 Original Sentence: 
-Further staff cuts are likely the spokesman indicated
+People have been very respectful of each other
 Additional Information: 
-('cut', 'small')
+('people', 'standing in', 'arena')

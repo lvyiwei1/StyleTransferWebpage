@@ -1,4 +1,4 @@
 Original Sentence: 
-UAL 's stock fell 6.25 to 191.75
+LTV Corp. won a 25 million Army contract for missile test equipment
 Additional Information: 
-('stock', 'OF', 'broccoli')
+('army', 'green', 'container')

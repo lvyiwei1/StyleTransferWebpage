@@ -1,4 +1,4 @@
 Original Sentence: 
-Neither testified at the previous trials
+Two big stocks involved in takeover activity saw their short interest surge
 Additional Information: 
-('snow', 'has', 'trial')
+('stock', 'green')

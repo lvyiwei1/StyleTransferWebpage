@@ -1,4 +1,4 @@
 Original Sentence: 
-They are coming to publishers looking for ideas
+Remember the Dalkon Shield and the early birth-control pills
 Additional Information: 
-('publisher', 'ON', 'book')
+('pill', 'pink')

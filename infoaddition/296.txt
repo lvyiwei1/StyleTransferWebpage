@@ -1,4 +1,4 @@
 Original Sentence: 
-But while index options are convenient they have several disadvantages
+To ask those questions is to answer them
 Additional Information: 
-('index', 'is a finger')
+('question', 'black')

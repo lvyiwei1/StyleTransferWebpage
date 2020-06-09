@@ -1,0 +1,4 @@
+Original Sentence: 
+The UAW is seeking a hearing by the full 14-judge panel
+Additional Information: 
+('panel', 'ON', 'front')

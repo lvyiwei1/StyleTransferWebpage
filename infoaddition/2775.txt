@@ -1,4 +1,4 @@
 Original Sentence: 
-Once somebody eats one they get hooked
+South African gold stocks ended marginally firmer
 Additional Information: 
-('somebody', 'using', 'computer')
+('stock', 'OF', 'broccoli')

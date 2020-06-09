@@ -1,4 +1,4 @@
 Original Sentence: 
-We had to think about it ahead of time
+But with some clients the talk can heat up a bit
 Additional Information: 
-('time', 'displayed')
+('client', 'young')

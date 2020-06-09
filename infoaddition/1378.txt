@@ -1,4 +1,4 @@
 Original Sentence: 
-I much prefer money I can put my hands on
+But put her behind a shopping cart and she turns ruthless
 Additional Information: 
-('money', 'paper')
+('cart', 'metal')

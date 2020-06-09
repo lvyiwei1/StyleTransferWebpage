@@ -1,4 +1,4 @@
 Original Sentence: 
-He describes a reporter as Miss First Amendment
+Mr. Goldberg is the sole general partner in Rose Partners
 Additional Information: 
-('reporter', 'asking', 'man')
+('partner', 'playing on', 'tennis court')

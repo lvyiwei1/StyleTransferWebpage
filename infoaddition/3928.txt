@@ -1,0 +1,4 @@
+Original Sentence: 
+The Tax Court is n't expected to rule before early next year
+Additional Information: 
+('year', 'white')

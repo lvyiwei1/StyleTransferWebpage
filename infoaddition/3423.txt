@@ -1,4 +1,4 @@
 Original Sentence: 
-The analysts say their gloomy forecasts have a flip side
+Some are even coming up with their own novel designs
 Additional Information: 
-('side', 'white')
+('design', 'white')

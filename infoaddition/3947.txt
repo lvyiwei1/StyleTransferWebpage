@@ -1,0 +1,4 @@
+Original Sentence: 
+The outlook for corporate earnings is fairly bleak
+Additional Information: 
+('outlook', 'ON', 'building')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The damage is already done
+The government built ports bridges highways schools hospitals and railways
 Additional Information: 
-('damage', 'moisture')
+('port', 'IN', 'computer')

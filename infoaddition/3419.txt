@@ -1,4 +1,4 @@
 Original Sentence: 
-Officials expect difficulty routing traffic through downtown San Francisco
+Those who bought that illusion are now bewildered
 Additional Information: 
-('downtown', 'city', 'street')
+('illusion', 'ON', 'floor')

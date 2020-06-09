@@ -1,4 +1,4 @@
 Original Sentence: 
-Silicon Valley heaved a sigh of relief yesterday
+No lawyers or tape recorders were present
 Additional Information: 
-('sigh', 'green')
+('tape', 'yellow')

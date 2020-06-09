@@ -1,4 +1,4 @@
 Original Sentence: 
-They want late-night shuttles to the biology labs
+Serial bonds are priced to yield to 7 % in 1999
 Additional Information: 
-('lab', 'yellow')
+('bond', 'black ')

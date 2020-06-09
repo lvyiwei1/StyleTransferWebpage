@@ -1,4 +1,4 @@
 Original Sentence: 
-Most foreign government bonds markets were quiet
+We do n't want to bring back something the members will reject
 Additional Information: 
-('market', 'outdoor')
+('member', 'WEARING', 'shirt')

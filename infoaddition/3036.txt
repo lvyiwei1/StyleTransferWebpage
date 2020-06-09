@@ -1,4 +1,4 @@
 Original Sentence: 
-It is scheduled for delivery in late 1991
+Soon the military became a veritable mafia controlling legal and illegal businesses
 Additional Information: 
-('van', 'for', 'delivery')
+('military', 'diesel', 'truck')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The TVA 's public debt offering was its first in 15 years
+Additional Information: 
+('year', 'white')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Other scandal survivors are sometimes the best source of solace
+All estimates exclude highway repair which could exceed 1 billion
 Additional Information: 
-('source', 'blue')
+('highway', 'IN', 'distance')

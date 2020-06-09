@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's a tough thing when you ca n't
+Mason serves commercial and government customers including the National Institutes of Health
 Additional Information: 
-('thing', 'black')
+('customer', 'service', 'booth')

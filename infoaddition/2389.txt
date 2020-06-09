@@ -1,4 +1,4 @@
 Original Sentence: 
-That would be the lowest level since the early 1970s
+Still there is money to be made
 Additional Information: 
-('level', 'upper')
+('money', 'IN', 'right hand')

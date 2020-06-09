@@ -1,4 +1,4 @@
 Original Sentence: 
-A large number of those leaving are managers and professionals
+That indicates speculators are betting a higher offer is in the wings
 Additional Information: 
-('professional', 'riding on ir', 'motorbike')
+('wing', 'white')

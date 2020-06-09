@@ -1,4 +1,4 @@
 Original Sentence: 
-Neither disclosed details pending board meetings next month
+That target has been revised to 30 % by the year 2000
 Additional Information: 
-('month', 'around', 'face')
+('target', 'ON', 'plane')

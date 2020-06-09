@@ -1,4 +1,4 @@
 Original Sentence: 
-The two are also signing a trade agreement
+Mason serves commercial and government customers including the National Institutes of Health
 Additional Information: 
-('company name', 'says', 'trade')
+('customer', 'waiting')

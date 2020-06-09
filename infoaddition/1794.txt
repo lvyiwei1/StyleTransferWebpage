@@ -1,4 +1,4 @@
 Original Sentence: 
-Dentsu has U.S. subsidiaries but they keep low profiles
+The company is an independent refined-petroleum-products pipeline serving six Western states
 Additional Information: 
-('profile', 'side')
+('company', 'that owns', 'bus')

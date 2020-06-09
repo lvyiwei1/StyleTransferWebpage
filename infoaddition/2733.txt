@@ -1,4 +1,4 @@
 Original Sentence: 
-One handout promises Pedigrees parties post times parimutuels and pageantry
+Sales rose 8.4 % to 27.95 billion from 25.78 billion
 Additional Information: 
-('time', 'displayed')
+('sale', 'red')

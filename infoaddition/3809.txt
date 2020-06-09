@@ -1,0 +1,4 @@
+Original Sentence: 
+I 'm talking about landing in a canal
+Additional Information: 
+('landing', 'gear')

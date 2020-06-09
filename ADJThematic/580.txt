@@ -1,3 +1,3 @@
 Original Sentence: 
-Sales were flat at 7.88 billion
-Emphasize: flat
+The company 's sales flattened during 1989 's first half
+Emphasize: first

@@ -1,4 +1,4 @@
 Original Sentence: 
-Indeed the competition is n't greatly concerned
+A hundred billion dollars in stock was subject to it
 Additional Information: 
-('skiers', 'in a', 'competition')
+('stock', 'green')

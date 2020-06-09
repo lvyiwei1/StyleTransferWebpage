@@ -1,4 +1,4 @@
 Original Sentence: 
-THANKS TO modern medicine more couples are growing old together
+However for many managing speed does not come naturally
 Additional Information: 
-('couple', 'walking')
+('speed', 'boat', 'wake')

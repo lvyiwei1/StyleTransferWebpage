@@ -1,4 +1,4 @@
 Original Sentence: 
-Areas that are made of fill liquefy
+Now television and radio evangelists are under scrutiny
 Additional Information: 
-('area', 'grassy')
+('radio', 'black')

@@ -1,0 +1,4 @@
+Original Sentence: 
+But some analysts wonder how strong the recovery will be
+Additional Information: 
+('recovery', 'ON', 'truck')

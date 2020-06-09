@@ -1,4 +1,4 @@
 Original Sentence: 
-The market closed prior to Mr. Lawson 's announcement
+Prices were lower in Frankfurt Zurich Paris and Amsterdam
 Additional Information: 
-('market', 'on', 'sign')
+('price', 'written')

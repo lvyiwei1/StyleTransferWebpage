@@ -1,4 +1,4 @@
 Original Sentence: 
-Bach 's Air followed
+Analysts expect further jitters this week
 Additional Information: 
-('air', 'IN', 'air')
+('day', 'OF', 'week')

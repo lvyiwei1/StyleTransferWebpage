@@ -1,4 +1,4 @@
 Original Sentence: 
-Another contradictory message comes from Businessland Inc. a computer retailer
+The offering Series 1989-83 is backed by Fannie Mae 9 % securities
 Additional Information: 
-('computer', 'laptop')
+('security', 'standing')

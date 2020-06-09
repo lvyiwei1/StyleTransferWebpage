@@ -1,4 +1,4 @@
 Original Sentence: 
-Japanese government bonds showed little change
+Out of the 2 charge the law firm pockets about 1.55
 Additional Information: 
-('change', 'loose')
+('charge', 'can', 'charge')

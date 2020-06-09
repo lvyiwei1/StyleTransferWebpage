@@ -1,4 +1,4 @@
 Original Sentence: 
-Would n't the Japanese like a piece of it
+A private farmer never wastes anything
 Additional Information: 
-('piece', 'small')
+('farmer', 'with', 'blue shirt')

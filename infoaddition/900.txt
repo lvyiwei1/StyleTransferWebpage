@@ -1,4 +1,4 @@
 Original Sentence: 
-The company reported a big third-quarter loss on Thursday
+But not everybody was making money
 Additional Information: 
-('company', 'name')
+('money', 'under', 'card')

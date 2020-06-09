@@ -1,4 +1,4 @@
 Original Sentence: 
-But the new lens became the eye of a storm
+The machine began shipping at the end of last year
 Additional Information: 
-('eye', 'black')
+('machine', 'white')

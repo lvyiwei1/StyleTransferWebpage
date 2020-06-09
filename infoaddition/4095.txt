@@ -1,0 +1,4 @@
+Original Sentence: 
+Sales totaled 1.81 billion up from 1.71 billion the previous year
+Additional Information: 
+('year', 'white')

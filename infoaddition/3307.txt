@@ -1,4 +1,4 @@
 Original Sentence: 
-There 's no feed he says
+Mr. Lurie is currently co-chief executive
 Additional Information: 
-('feed', 'black')
+('executive', 'ON', 'signs')

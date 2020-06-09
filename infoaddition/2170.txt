@@ -1,4 +1,4 @@
 Original Sentence: 
-We must find any way to get business
+However more money managers are reassured that profit is regaining importance
 Additional Information: 
-('way', 'walk')
+('money', 'paper')

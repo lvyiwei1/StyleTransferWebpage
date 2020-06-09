@@ -1,4 +1,4 @@
 Original Sentence: 
-They gleefully await the dream season in 1990
+The tape was on tv before the night was out
 Additional Information: 
-('dream', 'capital letters')
+('night', 'black', 'sky')

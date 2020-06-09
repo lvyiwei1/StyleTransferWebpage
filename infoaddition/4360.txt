@@ -1,0 +1,4 @@
+Original Sentence: 
+Heady stuff it 's not
+Additional Information: 
+('stuff', 'white')

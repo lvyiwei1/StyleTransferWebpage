@@ -1,4 +1,4 @@
 Original Sentence: 
-Pockets exploded with one-yen coins
+The states have their own ideas about regulation and certification
 Additional Information: 
-('pocket', 'white')
+('state', 'park', 'sign')

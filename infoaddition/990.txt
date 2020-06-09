@@ -1,4 +1,4 @@
 Original Sentence: 
-She did n't have hot water for five days
+But volume rose only to 162 million shares from 143 million Friday
 Additional Information: 
-('day', 'sunny')
+('volume', 'ON', 'headphones')

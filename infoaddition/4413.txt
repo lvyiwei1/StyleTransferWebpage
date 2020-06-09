@@ -1,0 +1,4 @@
+Original Sentence: 
+HEALTH CLUBS gear up for a graying clientele
+Additional Information: 
+('clientele', 'outdoors')

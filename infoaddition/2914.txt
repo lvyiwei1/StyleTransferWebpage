@@ -1,4 +1,4 @@
 Original Sentence: 
-He reset opening arguments for today
+Among the biggest winners were brokerage-house stocks responding to heavy trading volume
 Additional Information: 
-('sign', 'reads', 'today')
+('volume', '3')

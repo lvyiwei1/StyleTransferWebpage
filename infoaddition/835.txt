@@ -1,4 +1,4 @@
 Original Sentence: 
-Most people said they exercise both for health and enjoyment
+We tell them all the major companies are having financial difficulties
 Additional Information: 
-('people', 'standing')
+('company', 'name')

@@ -1,4 +1,4 @@
 Original Sentence: 
-As a result of the sales he holds 6,727,042 shares
+Both executives left the company after clashes with Chairman Ralph Ingersoll Jr
 Additional Information: 
-('sale', 'red')
+('executive', 'ON', 'signs')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The zero-coupon subordinated notes have no periodic interest payments
+The notebook the TI Model 12 will be priced at 4,199
 Additional Information: 
-('payment', 'for', 'produce')
+('notebook', 'black')

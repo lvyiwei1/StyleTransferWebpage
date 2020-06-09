@@ -1,0 +1,4 @@
+Original Sentence: 
+A side porch was ripped away
+Additional Information: 
+('porch', 'has a', 'roof')

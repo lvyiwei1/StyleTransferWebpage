@@ -1,4 +1,4 @@
 Original Sentence: 
-Their approach did n't work mine is
+They 're getting some major wins she added
 Additional Information: 
-('work', 'ON', 'column')
+('gray', 'triangluar', 'win')

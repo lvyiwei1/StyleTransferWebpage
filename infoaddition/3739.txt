@@ -1,0 +1,4 @@
+Original Sentence: 
+The bill is expected to pass in Congress next month
+Additional Information: 
+('month', 'ninth')

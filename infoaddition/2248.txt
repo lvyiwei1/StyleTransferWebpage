@@ -1,4 +1,4 @@
 Original Sentence: 
-But so-called outer month contracts finished higher
+Company with 1,750 workers in area is fully functional
 Additional Information: 
-('month', 'OF', 'picture')
+('area', 'OF', 'grass')

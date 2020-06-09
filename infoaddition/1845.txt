@@ -1,4 +1,4 @@
 Original Sentence: 
-What is the way forward
+The Nasdaq composite leaped 7.52 points or 1.6 % to 470.80
 Additional Information: 
-('way', 'to', 'house')
+('point', 'for', 'bears')

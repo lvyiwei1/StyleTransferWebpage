@@ -1,4 +1,4 @@
 Original Sentence: 
-WALL STREET SHAKE hands with George Orwell
+Last year 's results were hurt by 41.3 million in restructuring charges
 Additional Information: 
-('hand', 'black')
+('year', 'white')

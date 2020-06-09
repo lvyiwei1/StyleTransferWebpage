@@ -1,0 +1,4 @@
+Original Sentence: 
+The December contract declined 1.85 cents a pound to 1.2645
+Additional Information: 
+('pound', 'here')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Next year may see a drop of one percentage point
+But the specialty-material segment slowed somewhat and consumer products continued below expectations
 Additional Information: 
-('year', 'ON', 'building')
+('segment', 'of citrus fruit')

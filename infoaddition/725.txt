@@ -1,4 +1,4 @@
 Original Sentence: 
-And that naturally exacerbates price movements
+The company said a new chief operating officer wo n't be appointed
 Additional Information: 
-('price', 'ON', 'bike')
+('chief', 'handker')

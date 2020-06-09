@@ -1,4 +1,4 @@
 Original Sentence: 
-Lloyd 's is moving forward on some fronts though
+Last year 's results were hurt by 41.3 million in restructuring charges
 Additional Information: 
-('front', 'OF', 'airplane')
+('charge', 'can', 'charge')

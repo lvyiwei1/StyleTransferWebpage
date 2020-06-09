@@ -1,4 +1,4 @@
 Original Sentence: 
-The merged firm will carry Norris McLaughlin 's name
+Cincinnati Microwave Inc. said it introduced two radar detectors
 Additional Information: 
-('name', 'white')
+('radar', 'fixed on', '2 planes')

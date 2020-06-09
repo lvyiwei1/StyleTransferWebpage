@@ -1,4 +1,4 @@
 Original Sentence: 
-The acquisition is subject to approval by Kennametal 's board
+American Home Products Corp. proposes to acquire the company
 Additional Information: 
-('board', 'has', 'arm')
+('company', 'calls', 'flowering mills')

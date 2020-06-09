@@ -1,4 +1,4 @@
 Original Sentence: 
-The reason was not high interest rates or labor costs
+GSX is a unit of Laidlaw Transportation Ltd. of Burlington Canada
 Additional Information: 
-('not', 'in mood right nowhold leg in air for no', 'reason')
+('unit', 'on top of', 'bus')

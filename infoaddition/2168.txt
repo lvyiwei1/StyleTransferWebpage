@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 12 % to 249.5 million from 222.8 million
+The company also said its 1990 annual meeting has not been scheduled
 Additional Information: 
-('sale', 'red')
+('meeting', 'has', 'folder')

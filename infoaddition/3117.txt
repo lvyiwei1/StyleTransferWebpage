@@ -1,4 +1,4 @@
 Original Sentence: 
-The company expects all branches to reopen today
+AGIP already has an oil stake in Libya
 Additional Information: 
-('sign', 'reads', 'today')
+('oil', 'IN', 'pitcher')

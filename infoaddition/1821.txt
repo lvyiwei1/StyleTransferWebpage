@@ -1,4 +1,4 @@
 Original Sentence: 
-Bostic posted 1988 sales of 255 million
+Radio programs and books have followed the daily television show
 Additional Information: 
-('sale', 'at', 'company')
+('book', 'white')

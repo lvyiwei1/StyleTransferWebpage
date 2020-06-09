@@ -1,0 +1,4 @@
+Original Sentence: 
+Housing starts sank 5.2 % in September to a seven-year low
+Additional Information: 
+('housing', 'black')

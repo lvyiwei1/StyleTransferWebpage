@@ -1,0 +1,4 @@
+Original Sentence: 
+But I think the Soviet peoples are more introverted than the Chinese
+Additional Information: 
+('people', 'standing')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The university is considering a settlement proposal made by Connaught
+Now those routes are n't expected to begin until Jan
 Additional Information: 
-('university', 'ON', 'sign')
+('route', 'inscribed')

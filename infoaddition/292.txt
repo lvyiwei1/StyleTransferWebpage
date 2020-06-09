@@ -1,4 +1,4 @@
 Original Sentence: 
-I am aware we have real budgetary problems
+The issue includes 100 million of insured senior lien bonds
 Additional Information: 
-('plane', 'has', 'problem')
+('bond', 'black ')

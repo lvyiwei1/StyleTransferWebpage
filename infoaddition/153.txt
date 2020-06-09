@@ -1,4 +1,4 @@
 Original Sentence: 
-We found a market niche Mr. Mills boasts
+He 's sharp as a tack
 Additional Information: 
-('niche', 'IN', 'building')
+('tack', 'black')

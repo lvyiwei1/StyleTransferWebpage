@@ -1,4 +1,4 @@
 Original Sentence: 
-Seats are quoted at 430,000 bid and 525,000 asked
+I was in the Berkeley Main library when it hit
 Additional Information: 
-('bid', 'metal')
+('library', 'white')

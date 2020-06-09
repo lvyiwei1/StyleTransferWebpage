@@ -1,4 +1,4 @@
 Original Sentence: 
-Rising operating expenses are another problem
+In addition global petroleum demand has been climbing
 Additional Information: 
-('plane', 'has', 'problem')
+('addition', 'to', 'sign')

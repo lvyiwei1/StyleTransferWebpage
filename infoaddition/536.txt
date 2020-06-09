@@ -1,4 +1,4 @@
 Original Sentence: 
-It is the New Journalism come to television
+Profit from continuing operations in the year-earlier period was 402.7 million
 Additional Information: 
-('television', 'black')
+('period', 'ON', 'sign')

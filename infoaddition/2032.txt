@@ -1,4 +1,4 @@
 Original Sentence: 
-Its maximum velocity is 72 mph
+a Totals include only vehicle sales reported in the period
 Additional Information: 
-('mph', 'IN', 'letters')
+('vehicle', 'IN', 'parking lot')

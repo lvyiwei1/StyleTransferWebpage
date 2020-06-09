@@ -1,4 +1,4 @@
 Original Sentence: 
-The turnover in both issues was roughly normal
+The airline also named Mickey Foret as president
 Additional Information: 
-('turnover', 'apple')
+('airline', 'parked at', 'airport')

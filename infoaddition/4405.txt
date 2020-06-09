@@ -1,0 +1,4 @@
+Original Sentence: 
+There 's nothing unusual about business groups pushing for more government spending
+Additional Information: 
+('nothing', 'clear')

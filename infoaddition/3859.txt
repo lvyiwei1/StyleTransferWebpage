@@ -1,0 +1,4 @@
+Original Sentence: 
+But junk bonds took more hits
+Additional Information: 
+('player', 'about to', 'hit')

@@ -1,4 +1,4 @@
 Original Sentence: 
-A large number of those leaving are managers and professionals
+The session failed to enact any new curbs
 Additional Information: 
-('number', 'ON', 'sign')
+('curb', 'yellow')

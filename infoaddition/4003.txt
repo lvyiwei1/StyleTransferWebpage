@@ -1,0 +1,4 @@
+Original Sentence: 
+The unit said it can provide no assurance a transaction will occur
+Additional Information: 
+('unit', 'behind', 'house')

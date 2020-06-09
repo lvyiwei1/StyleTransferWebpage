@@ -1,0 +1,4 @@
+Original Sentence: 
+Mr. Eisenberg was senior executive vice president and chief operating officer
+Additional Information: 
+('handle', 'ON', 'vice')

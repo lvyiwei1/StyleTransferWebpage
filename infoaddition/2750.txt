@@ -1,4 +1,4 @@
 Original Sentence: 
-Later the judge went a step farther
+The heavy selling by farmers helped to damp the price rally
 Additional Information: 
-('step', 'concrete')
+('farmer', 'holding')

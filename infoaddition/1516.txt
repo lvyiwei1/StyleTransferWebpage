@@ -1,4 +1,4 @@
 Original Sentence: 
-The suit is still pending in Illinois state court
+The comic strip has a magical everlasting quality about it
 Additional Information: 
-('court', 'has', 'net')
+('strip', 'ON', 'arm')

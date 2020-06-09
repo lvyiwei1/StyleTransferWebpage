@@ -1,4 +1,4 @@
 Original Sentence: 
-The stock market reacted strongly to the news
+They build extended minivans and the Dodge Spirit Acclaim Shadow and Sundance
 Additional Information: 
-('news', 'ON', 'bus')
+('minivan', 'parked')

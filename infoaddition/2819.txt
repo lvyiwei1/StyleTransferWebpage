@@ -1,4 +1,4 @@
 Original Sentence: 
-Paying players at SMU was no casual operation
+That purchase doubled Quebecor 's annual printing revenue to 750 million
 Additional Information: 
-('player', 'baseball')
+('woman', 'wants to', 'purchase')

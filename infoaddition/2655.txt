@@ -1,4 +1,4 @@
 Original Sentence: 
-November gasoline slipped slightly
+The company plans to be fully operational today
 Additional Information: 
-('truck', 'OF', 'gasoline')
+('cow', 'are laying down', 'today')

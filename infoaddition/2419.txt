@@ -1,4 +1,4 @@
 Original Sentence: 
-Texans Get Reasonable Car Rental Insurance
+Sales were 4.2 billion compared with 3.7 billion
 Additional Information: 
-('advertisement', 'for', 'insurance')
+('sale', 'at', 'company')

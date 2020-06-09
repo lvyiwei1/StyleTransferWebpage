@@ -1,4 +1,4 @@
 Original Sentence: 
-Ms. Parks 's mother also gets to cuff Mr. Alexander
+There is after all big money in environmentalism
 Additional Information: 
-('mother', 'standing')
+('money', 'under', 'card')

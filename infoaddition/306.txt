@@ -1,4 +1,4 @@
 Original Sentence: 
-The channel reaches 6.5 million homes a Penney spokesman said
+What 's more it represents an important step for the Alley Theater
 Additional Information: 
-('home', 'white')
+('step', 'concrete')

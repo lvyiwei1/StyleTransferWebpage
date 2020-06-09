@@ -1,4 +1,4 @@
 Original Sentence: 
-Two steps are necessary to translate this idea into action
+In return the U.K. and France could keep their nuclear weapons
 Additional Information: 
-('action', 'MLB')
+('return', 'ON', 'street')

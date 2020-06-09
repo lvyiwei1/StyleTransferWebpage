@@ -1,4 +1,4 @@
 Original Sentence: 
-December delivery gold fell 1.80 an ounce to 370.60
+Among the biggest winners were brokerage-house stocks responding to heavy trading volume
 Additional Information: 
-('gold', 'brown')
+('volume', 'ON', 'headphones')

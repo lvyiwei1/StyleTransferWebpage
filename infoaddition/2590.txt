@@ -1,4 +1,4 @@
 Original Sentence: 
-Motorola is fighting back against junk mail
+Other furriers have also benefited from leathers
 Additional Information: 
-('mail', 'ON', 'desk')
+('leather', 'ON', 'saddle')

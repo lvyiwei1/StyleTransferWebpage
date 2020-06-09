@@ -1,4 +1,4 @@
 Original Sentence: 
-MANY AFFLUENT people place personal success and money above family
+More recently Sotheby 's has predicted the collection will fetch 140 million
 Additional Information: 
-('people', 'are far from', 'cap')
+('collection', 'OF', 'collection')

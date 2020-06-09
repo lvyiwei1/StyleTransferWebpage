@@ -1,4 +1,4 @@
 Original Sentence: 
-When selling is so frenzied prices fall steeply and fast
+They effectively lead team efforts to reduce cycle time
 Additional Information: 
-('price', 'written')
+('cycle', 'black')

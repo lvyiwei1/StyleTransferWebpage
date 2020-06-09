@@ -1,4 +1,4 @@
 Original Sentence: 
-Many brokerage house officials also are optimistic
+In coming years Mr. Cathcart says Kidder is gon na hum
 Additional Information: 
-('house', 'ON', 'road')
+('year', 'white')

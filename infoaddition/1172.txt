@@ -1,4 +1,4 @@
 Original Sentence: 
-This being typed in a standing position
+But the cosmetic changes are n't expected to win over Britain
 Additional Information: 
-('position', 'upright')
+('change', 'ON', 'red')

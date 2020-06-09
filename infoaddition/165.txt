@@ -1,4 +1,4 @@
 Original Sentence: 
-But by comparison this fluffy comedy seems like a gem
+Its plan is set up as an independent agency
 Additional Information: 
-('gem', 'ON', 'hat')
+('plan', 'air')

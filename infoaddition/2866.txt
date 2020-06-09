@@ -1,4 +1,4 @@
 Original Sentence: 
-The government built ports bridges highways schools hospitals and railways
+A bankruptcy court hearing is set for Nov. 3 on these accords
 Additional Information: 
-('hospital', 'sponser', 'match')
+('court', 'with', 'line')

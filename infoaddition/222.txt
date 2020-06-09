@@ -1,4 +1,4 @@
 Original Sentence: 
-The company also reassigned several executive responsibilities
+But by that time many big institutions had switched business to London
 Additional Information: 
-('executive', 'in white')
+('business', 'here')

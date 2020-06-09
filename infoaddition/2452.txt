@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's not a zero-sum game
+The scars will be here years after the polls close
 Additional Information: 
-('game', 'baseball')
+('scar', 'ON', 'orange')

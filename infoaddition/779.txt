@@ -1,4 +1,4 @@
 Original Sentence: 
-They lost the entertainment crown and they needed one
+Then he jumped into the market
 Additional Information: 
-('center', 'for', 'entertainment')
+('market', 'outdoor')

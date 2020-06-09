@@ -1,4 +1,4 @@
 Original Sentence: 
-The offering used at-market pricing
+Learning AIDS lists films pamphlets brochures videos and other educational data
 Additional Information: 
-('pricing', 'hand written')
+('film', 'black')

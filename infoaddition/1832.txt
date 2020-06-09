@@ -1,4 +1,4 @@
 Original Sentence: 
-If you are born to give parties you give parties
+The dollar weakened against most other major currencies
 Additional Information: 
-('party', 'at a', 'house')
+('dollar', 'twenty')

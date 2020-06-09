@@ -1,4 +1,4 @@
 Original Sentence: 
-Formerly president and treasurer Mr. Lang remains chief executive officer
+NASA said the Galileo worm had nothing to do with either delay
 Additional Information: 
-('officer', 'police')
+('worm', 'ON', 'laptop')

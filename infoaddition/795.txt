@@ -1,4 +1,4 @@
 Original Sentence: 
-Among the leading products is a flu shot for horses
+Marshall 's ghost is satisfied for now but he 'll be back
 Additional Information: 
-('product', 'ON', 'display')
+('ghost', 'red')

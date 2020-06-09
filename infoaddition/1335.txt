@@ -1,4 +1,4 @@
 Original Sentence: 
-Accord prices start at 12,345
+Depositary shares are convertible into common stock on a 1-to-1 basis
 Additional Information: 
-('price', 'written')
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Morishita considers himself a connoisseur of art
+Mr. Coffee is a professor at Columbia Law School
 Additional Information: 
-('art', 'framed')
+('professor', 'napping')

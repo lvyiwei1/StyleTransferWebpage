@@ -1,4 +1,4 @@
 Original Sentence: 
-The company 's president quit suddenly
+After 25 years in city politics David Dinkins remains an enigma
 Additional Information: 
-('president', 'ON', 'television')
+('letters', 'about', 'politics')

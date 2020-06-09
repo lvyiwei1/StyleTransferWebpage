@@ -1,4 +1,4 @@
 Original Sentence: 
-Call it the we 're too broke to fight defense
+It liquefies in a patchwork quilt pattern
 Additional Information: 
-('basketball player', 'playing', 'defense')
+('pattern', 'on top of', 'roof')

@@ -1,4 +1,4 @@
 Original Sentence: 
-They want psyllium prices low for their purchases next year
+Some hotels in the hurricane-stricken Caribbean promise money-back guarantees
 Additional Information: 
-('price', 'written')
+('hotel', 'large')

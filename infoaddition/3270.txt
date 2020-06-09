@@ -1,4 +1,4 @@
 Original Sentence: 
-The farmer at the next truck shouts Wheat
+Ideal said it expects to complete the transaction early next year
 Additional Information: 
-('farmer', 'pulling', 'blue plow')
+('year', 'ON', 'guard')

@@ -1,4 +1,4 @@
 Original Sentence: 
-China-bound freight streams through the territory 's port
+At least once an episode we see protestors marching around screaming slogans
 Additional Information: 
-('freight', 'being loaded in', 'distance')
+('slogan', 'in german', 'language')

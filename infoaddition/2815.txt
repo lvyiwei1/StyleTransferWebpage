@@ -1,4 +1,4 @@
 Original Sentence: 
-Management Co. manages entertainers and produces markets and finances entertainment
+In that case there will be plenty of blame to go around
 Additional Information: 
-('entertainer', 'has', 'hand')
+('case', 'ON', 'chair')

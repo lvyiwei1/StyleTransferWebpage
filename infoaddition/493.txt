@@ -1,4 +1,4 @@
 Original Sentence: 
-I guess that 's my forecast
+This untried concept would expose these firms to potentially astronomical punitive damages
 Additional Information: 
-('forecast', 'here')
+('damage', 'moisture')

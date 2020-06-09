@@ -1,4 +1,4 @@
 Original Sentence: 
-The pharmaceuticals maker had traded over-the-counter
+This system produced boring boxy cars that consumers just were n't buying
 Additional Information: 
-('maker', 'ON', 'countertop')
+('car', 'by side of', 'road')

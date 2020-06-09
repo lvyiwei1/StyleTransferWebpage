@@ -1,0 +1,4 @@
+Original Sentence: 
+That wo n't be an easy task
+Additional Information: 
+('elephant', 'has', 'task')

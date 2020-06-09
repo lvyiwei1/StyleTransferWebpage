@@ -1,4 +1,4 @@
 Original Sentence: 
-Young & Rubicam has pleaded innocent to the charges
+The official asked not to be named
 Additional Information: 
-('charge', 'can', 'charge')
+('official', 'WEARING', 'shirt')

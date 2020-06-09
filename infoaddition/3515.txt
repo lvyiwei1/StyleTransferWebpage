@@ -1,0 +1,4 @@
+Original Sentence: 
+Eagle 's plastic type sharpens and looks like a wooden pencil
+Additional Information: 
+('pencil', 'IN', 'metal container')

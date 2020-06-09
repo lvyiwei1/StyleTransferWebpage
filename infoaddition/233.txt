@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales rose 50 % to 2.1 billion from 1.4 billion
+The minimum unit is 100,000
 Additional Information: 
-('sale', 'red')
+('unit', 'on top of', 'bus')

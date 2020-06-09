@@ -1,4 +1,4 @@
 Original Sentence: 
-The fund invests mainly in gold and silver bullion
+Per-share net rose to 47.46 yen from 39.31 yen
 Additional Information: 
-('bullion', 'green')
+('net', 'has', 'plastic')

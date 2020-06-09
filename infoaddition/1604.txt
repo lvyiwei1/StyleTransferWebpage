@@ -1,4 +1,4 @@
 Original Sentence: 
-But the lack of lines became painfully apparent
+But I do n't want any of that oil for my grandkids
 Additional Information: 
-('line', 'white')
+('oil', 'from', 'breakfast meat')

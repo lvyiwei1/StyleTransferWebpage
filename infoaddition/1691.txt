@@ -1,4 +1,4 @@
 Original Sentence: 
-Six-year-old Pace based in Aurora Colo. operates 41 warehouse-club stores
+But there was no way to prove Dr. Knudson 's two-hit theory
 Additional Information: 
-('store', 'red')
+('way', 'walk')

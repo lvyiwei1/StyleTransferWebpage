@@ -1,4 +1,4 @@
 Original Sentence: 
-The timing for change was right
+What could imply more safety than investing in government bonds
 Additional Information: 
-('change', 'ON', 'red')
+('bond', 'black ')

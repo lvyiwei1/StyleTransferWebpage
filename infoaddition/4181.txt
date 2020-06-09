@@ -1,0 +1,4 @@
+Original Sentence: 
+Some have raised their cash positions to record levels
+Additional Information: 
+('position', 'upright')

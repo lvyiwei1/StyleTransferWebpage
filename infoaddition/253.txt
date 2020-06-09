@@ -1,4 +1,4 @@
 Original Sentence: 
-MCA strongly opposed the Drabinsky group 's move
+NBC 's winning streak has been canceled
 Additional Information: 
-('mechanism', 'makes it', 'move')
+('streak', 'on side of', 'airplane')

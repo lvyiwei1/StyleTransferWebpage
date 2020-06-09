@@ -1,4 +1,4 @@
 Original Sentence: 
-Scientists felt differently
+And most vacationers still prefer a warm climate for their winter excursions
 Additional Information: 
-('scientist', 'experimenting with', 'three birds')
+('vacationer', 'has', 'dog')

@@ -1,4 +1,4 @@
 Original Sentence: 
-But we had a fairly active day yesterday
+I do n't think the market is going through another October '87
 Additional Information: 
-('day', 'sunny')
+('market', 'outdoor')

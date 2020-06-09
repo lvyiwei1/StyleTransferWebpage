@@ -1,4 +1,4 @@
 Original Sentence: 
-Petrolane is the second-largest propane distributor in the U.S.
+In such an environment a market maker can absorb huge losses
 Additional Information: 
-('propane', 'for', 'oven')
+('maker', 'on front of', 'fridge')

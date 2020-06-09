@@ -1,4 +1,4 @@
 Original Sentence: 
-So does Mr. Friend and his law partner Nick Nichols
+Study halls complete with reference materials will be available
 Additional Information: 
-('drivers', 'are obeying', 'law')
+('material', 'white')

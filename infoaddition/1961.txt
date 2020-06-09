@@ -1,4 +1,4 @@
 Original Sentence: 
-Long dollar bonds were flat to up 3\/8 point
+The company earned 6.6 million in the year-earlier quarter
 Additional Information: 
-('dollar', 'twenty')
+('company', 'ON', 'building')

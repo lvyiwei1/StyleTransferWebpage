@@ -1,4 +1,4 @@
 Original Sentence: 
-Polymerix makes lumber-like materials that it describes as plastic wood
+THE YALE POLITICAL UNION does n't pay an honorarium to speakers
 Additional Information: 
-('wood', 'attached to', 'boat')
+('union', 'station', 'engraved')

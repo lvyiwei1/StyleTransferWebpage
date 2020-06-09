@@ -1,4 +1,4 @@
 Original Sentence: 
-Changing the outcome of the trial is what really matters
+The gruff financier recently started socializing in upper-class circles
 Additional Information: 
-('snow', 'has', 'trial')
+('circle', 'IN', 'corner')

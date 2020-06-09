@@ -1,0 +1,4 @@
+Original Sentence: 
+A closing date has n't been set
+Additional Information: 
+('date', 'ON', 'photo')

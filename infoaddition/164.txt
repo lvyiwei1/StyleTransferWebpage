@@ -1,4 +1,4 @@
 Original Sentence: 
-A bid against Paribas could n't be ruled out
+Its plan is set up as an independent agency
 Additional Information: 
-('bid', 'metal')
+('plan', 'ON', 'tarmac')

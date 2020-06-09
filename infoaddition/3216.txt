@@ -1,4 +1,4 @@
 Original Sentence: 
-Leaseway provides transportation services for manufacturers distributors and retailers
+Unease is widespread among exchange members
 Additional Information: 
-('service', 'gone')
+('member', 'wearing a', 'jersey number')

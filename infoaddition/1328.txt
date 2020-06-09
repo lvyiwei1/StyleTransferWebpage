@@ -1,4 +1,4 @@
 Original Sentence: 
-There are die-hard bodies of course
+Computer companies commodity cyclical stocks like autos and retailing stocks he says
 Additional Information: 
-('body', 'ON', 'sheep')
+('stock', 'of', 'stock')

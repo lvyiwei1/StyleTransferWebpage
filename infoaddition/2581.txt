@@ -1,4 +1,4 @@
 Original Sentence: 
-Canada is the world 's largest producer of market pulp
+One big technology issue Novell rode the roller coaster
 Additional Information: 
-('market', 'outdoor')
+('technology', 'silver')

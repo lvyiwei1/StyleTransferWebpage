@@ -1,4 +1,4 @@
 Original Sentence: 
-But those would require pilots ' cooperation
+UAL 's decision to remain an independent company sent share prices tumbling
 Additional Information: 
-('pilot', 'ON', 'airplane')
+('price', 'written')

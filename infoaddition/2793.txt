@@ -1,4 +1,4 @@
 Original Sentence: 
-It will trade over the counter under the symbol CRAY
+The two sides had n't met since Oct. 18
 Additional Information: 
-('counter', 'white')
+('side', 'OF', 'bus')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The company could command a good price in the market
+And truck sales also are off more than 20 %
 Additional Information: 
-('company', 'that owns', 'bus')
+('sale', 'red')

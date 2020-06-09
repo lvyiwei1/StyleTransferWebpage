@@ -1,4 +1,4 @@
 Original Sentence: 
-But the lack of lines became painfully apparent
+It could do damage to us
 Additional Information: 
-('lack', 'in front', 'hills')
+('damage', 'ON', 'wall')

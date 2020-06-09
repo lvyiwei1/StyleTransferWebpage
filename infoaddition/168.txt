@@ -1,4 +1,4 @@
 Original Sentence: 
-Craig Forman in London contributed to this article
+Should the rest of the Series be played at all
 Additional Information: 
-('article', 'newspaper')
+('rest', 'ON', 'bench')

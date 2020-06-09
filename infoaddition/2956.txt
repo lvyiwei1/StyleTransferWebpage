@@ -1,4 +1,4 @@
 Original Sentence: 
-Japanese department stores are also wary of attracting negative publicity
+The government built ports bridges highways schools hospitals and railways
 Additional Information: 
-('store', 'has', 'entrance')
+('bridge', 'metal')

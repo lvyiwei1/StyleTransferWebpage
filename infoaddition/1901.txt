@@ -1,4 +1,4 @@
 Original Sentence: 
-As a result of the sales he holds 6,727,042 shares
+Some of the oil interests already have been sold
 Additional Information: 
-('sale', 'at', 'company')
+('interest', 'great')

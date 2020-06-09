@@ -1,4 +1,4 @@
 Original Sentence: 
-Everybody was out buying Monets
+The dollar finished at its intraday highs
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
+('dollar', 'twenty')

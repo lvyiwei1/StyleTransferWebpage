@@ -1,4 +1,4 @@
 Original Sentence: 
-The IRA portion of the Packwood-Roth plan is irresponsible
+In September Kellogg Co. launched a competing psyllium-fortified cereal called Heartwise
 Additional Information: 
-('plan', 'ON', 'tarmac')
+('cereal', 'IN', 'container')

@@ -1,4 +1,4 @@
 Original Sentence: 
-That would be the lowest level since the early 1970s
+The results are almost identical to Shapiro 's September 1988 numbers
 Additional Information: 
-('level', 'OF', 'tower')
+('number', 'black')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Mortgage securities ended little changed after light dealings
+Traders said most municipal bonds ended 1\/2 point higher
 Additional Information: 
-('security', 'ON', 'court')
+('point', 'sharp')

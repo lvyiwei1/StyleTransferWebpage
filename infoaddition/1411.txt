@@ -1,4 +1,4 @@
 Original Sentence: 
-How can it make available funds for purchases
+Ms. Renk says retailers nixed a promotion for pins with animal motifs
 Additional Information: 
-('woman', 'wants to', 'purchase')
+('pin', 'gold')

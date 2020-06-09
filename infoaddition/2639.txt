@@ -1,4 +1,4 @@
 Original Sentence: 
-Before that he was an executive with a manufacturing concern
+In any case they avoid having to write off the loans
 Additional Information: 
-('executive', 'in white')
+('case', 'against', 'wall')

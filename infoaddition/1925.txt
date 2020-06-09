@@ -1,4 +1,4 @@
 Original Sentence: 
-Los Angeles Creates A Courthouse for Kids
+The end of the marriage was at hand
 Additional Information: 
-('kid', 'WEARING', 'shirt')
+('hand', 'ON', 'man')

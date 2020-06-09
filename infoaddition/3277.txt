@@ -1,4 +1,4 @@
 Original Sentence: 
-The numbers were adjusted for usual seasonal fluctuations
+Entertainment and media stocks generally escaped the market 's slide as well
 Additional Information: 
-('number', 'black')
+('stock', 'green')

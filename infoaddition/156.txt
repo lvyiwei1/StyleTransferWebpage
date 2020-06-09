@@ -1,4 +1,4 @@
 Original Sentence: 
-But by and large this company has only been profitable
+Of the 4,348 issues that changed hands 1,074 advanced and 866 declined
 Additional Information: 
-('company', 'name')
+('hand', 'IN', 'keyboard')

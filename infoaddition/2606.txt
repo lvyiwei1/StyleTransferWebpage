@@ -1,4 +1,4 @@
 Original Sentence: 
-Who is going to carry the water
+The insurance adjusters think differently
 Additional Information: 
-('water', 'has', 'splashes')
+('advertisement', 'for', 'insurance')

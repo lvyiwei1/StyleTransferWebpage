@@ -1,4 +1,4 @@
 Original Sentence: 
-Ms. Clifton had been executive financial assistant to the chairman
+Sales of parts for cars and construction vehicles rose
 Additional Information: 
-('assistant', 'here')
+('sale', 'at', 'company')

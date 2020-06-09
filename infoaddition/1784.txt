@@ -1,4 +1,4 @@
 Original Sentence: 
-Comparable store sales for the quarter were up 7.3 %
+The FTC first issued an administrative complaint in the case in 1985
 Additional Information: 
-('sale', 'red')
+('case', 'ON', 'floor')

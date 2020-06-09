@@ -1,4 +1,4 @@
 Original Sentence: 
-The Senate did n't vote on six lesser charges
+LTV Corp. won a 25 million Army contract for missile test equipment
 Additional Information: 
-('charge', 'can', 'charge')
+('missile', 'powerful')

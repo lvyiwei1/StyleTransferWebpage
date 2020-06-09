@@ -1,4 +1,4 @@
 Original Sentence: 
-I played very transparently with the tip of the bow
+The union though has called the offer insulting
 Additional Information: 
-('bow', 'around', 'bear')
+('union', 'station', 'engraved')

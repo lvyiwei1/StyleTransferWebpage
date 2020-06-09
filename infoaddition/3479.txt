@@ -1,4 +1,4 @@
 Original Sentence: 
-Over the next few years I would advise caution
+Do they want the spotlight for themselves or for their cause
 Additional Information: 
-('caution', 'written')
+('spotlight', 'overhead')

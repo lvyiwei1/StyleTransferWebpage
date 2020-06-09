@@ -1,4 +1,4 @@
 Original Sentence: 
-They currently have large orders for cargo planes
+Again no such statement appears on the tapes
 Additional Information: 
-('plane', 'white')
+('statement', 'credit')

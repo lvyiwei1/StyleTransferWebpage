@@ -1,4 +1,4 @@
 Original Sentence: 
-Security costs are also quite high
+There is after all big money in environmentalism
 Additional Information: 
-('security', 'ON', 'court')
+('money', 'paper')

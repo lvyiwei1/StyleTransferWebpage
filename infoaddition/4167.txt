@@ -1,0 +1,4 @@
+Original Sentence: 
+The company will notify holders of the notes to be redeemed
+Additional Information: 
+('company', 'name')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Buy stocks on weakness for their long-term fundamentals he says
+His credentials are excellent for the task
 Additional Information: 
-('stock', 'green')
+('elephant', 'has', 'task')

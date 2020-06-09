@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's part of our style too
+A decision is n't expected until some time next year
 Additional Information: 
-('style', 'old')
+('time', 'ON', 'photo')

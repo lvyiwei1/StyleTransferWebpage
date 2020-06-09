@@ -1,4 +1,4 @@
 Original Sentence: 
-People had died
+Stock prices finished about unchanged Friday in quiet expiration trading
 Additional Information: 
-('people', 'riding on', 'horses')
+('stock', 'green')

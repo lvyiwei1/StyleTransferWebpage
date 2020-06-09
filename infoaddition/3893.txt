@@ -1,0 +1,4 @@
+Original Sentence: 
+Our view is that we may see a profit decline
+Additional Information: 
+('decline', ' of grass')

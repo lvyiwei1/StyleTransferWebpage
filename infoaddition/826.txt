@@ -1,4 +1,4 @@
 Original Sentence: 
-Third they offer high yields
+The recent sharp stock market decline exacerbated those concerns
 Additional Information: 
-('yield', 'on', 'sign')
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We are not trying to encourage everyone
+What is the way forward
 Additional Information: 
-('everyone', 'smiling')
+('way', 'walk')

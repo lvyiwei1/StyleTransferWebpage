@@ -1,4 +1,4 @@
 Original Sentence: 
-Per-share net rose to 20.48 yen from 19.51 yen
+They talked of the home run
 Additional Information: 
-('net', 'with', 'white edging')
+('run', 'ON', 'floor')

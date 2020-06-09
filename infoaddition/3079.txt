@@ -1,4 +1,4 @@
 Original Sentence: 
-But Nevada state labor economists think a shortage is probable
+We do n't want to be party to a second rejection
 Additional Information: 
-('state', 'Penn ')
+('party', 'birthday')

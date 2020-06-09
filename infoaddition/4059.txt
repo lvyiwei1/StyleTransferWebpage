@@ -1,0 +1,4 @@
+Original Sentence: 
+People start their own businesses for many reasons
+Additional Information: 
+('people', 'ON', 'skiis')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Next year may see a drop of one percentage point
+Ms. House is vice president of Dow Jones International Group
 Additional Information: 
-('point', 'sharp')
+('vice', 'blue')

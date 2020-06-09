@@ -1,4 +1,4 @@
 Original Sentence: 
-One such company is Bankers Trust Co
+We think everything will go this way in a few years
 Additional Information: 
-('company', 'has', 'name')
+('year', 'white')

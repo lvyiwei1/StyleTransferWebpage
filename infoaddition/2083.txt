@@ -1,4 +1,4 @@
 Original Sentence: 
-The heart of the case official oppression remains intact
+Now was that a quarter cup or a half cup
 Additional Information: 
-('heart', 'red')
+('quarter', 'silver')

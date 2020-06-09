@@ -1,4 +1,4 @@
 Original Sentence: 
-The magazine Success however was for years lackluster and unfocused
+The first Merkur the XR4Ti went on sale in early 1985
 Additional Information: 
-('year', 'ON', 'picture')
+('sale', 'red')

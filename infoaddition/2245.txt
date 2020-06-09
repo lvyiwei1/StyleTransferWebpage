@@ -1,4 +1,4 @@
 Original Sentence: 
-Brawls between union factions still erupt at Pemex installations
+Company with 1,750 workers in area is fully functional
 Additional Information: 
-('union', 'word')
+('company', 'name')

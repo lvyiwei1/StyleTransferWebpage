@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Gale is an assistant professor of economics at UCLA
+Others had lesser damage and there were no injuries among workers
 Additional Information: 
-('professor', 'napping')
+('damage', 'moisture')

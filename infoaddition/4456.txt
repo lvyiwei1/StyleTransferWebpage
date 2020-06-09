@@ -1,0 +1,4 @@
+Original Sentence: 
+Some analysts are cynical about the new corporate interest in health-care overhaul
+Additional Information: 
+('interest', 'great')

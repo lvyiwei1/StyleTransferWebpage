@@ -1,4 +1,4 @@
 Original Sentence: 
-There was tremendous public enthusiasm for stock mutual funds
+Unlike 1987 the dollar has been strong
 Additional Information: 
-('stock', 'of', 'stock')
+('dollar', 'ON', 'table')

@@ -1,4 +1,4 @@
 Original Sentence: 
-d Percentage change is greater than 999 %
+Chemical profits fell to 78 million from 98 million
 Additional Information: 
-('change', 'loose')
+('bottle', 'containing', 'chemical')

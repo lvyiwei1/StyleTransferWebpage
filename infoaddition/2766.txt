@@ -1,4 +1,4 @@
 Original Sentence: 
-By 9:45 the industrial average had dropped 27 points
+TW 's junk bonds were n't as junk bonds go unusually weak
 Additional Information: 
-('point', 'sharp')
+('bond', 'black ')

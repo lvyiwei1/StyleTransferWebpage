@@ -1,4 +1,4 @@
 Original Sentence: 
-Interest rates barely budged from Tuesday 's levels
+The Journal also will offer expanded volume and frequency discounts
 Additional Information: 
-('interest', 'great')
+('discount', 'ON', 'window')

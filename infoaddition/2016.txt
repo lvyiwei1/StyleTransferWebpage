@@ -1,4 +1,4 @@
 Original Sentence: 
-I would n't say we 're out of the business
+Randy Delchamps retains his position as president
 Additional Information: 
-('business', 'here')
+('president', ' United States')

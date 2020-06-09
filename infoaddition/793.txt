@@ -1,4 +1,4 @@
 Original Sentence: 
-Accepted bids ranged from 8.328 % to 8.347 %
+Those things will all come up but in a fairly informal way
 Additional Information: 
-('bid', 'ON', 'shoulder')
+('way', 'walk')

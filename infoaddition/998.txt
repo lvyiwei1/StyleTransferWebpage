@@ -1,4 +1,4 @@
 Original Sentence: 
-Characters complain ceaselessly about food queues prices and corruption
+Estimated volume was a heavy seven million ounces
 Additional Information: 
-('price', 'ON', 'sign')
+('volume', 'ON', 'keyboard')

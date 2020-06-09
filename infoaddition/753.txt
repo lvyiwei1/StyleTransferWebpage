@@ -1,4 +1,4 @@
 Original Sentence: 
-Now producers hope prices have hit bottom
+Hotel-casino operators play down the possibility of a labor shortage
 Additional Information: 
-('bottom', 'black')
+('operator', 'inside', 'train')

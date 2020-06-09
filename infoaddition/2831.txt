@@ -1,4 +1,4 @@
 Original Sentence: 
-The practice is however legal in most cases
+It was the start of a boom in unfriendly even ungentlemanly mergers
 Additional Information: 
-('case', 'black')
+('boom', 'large')

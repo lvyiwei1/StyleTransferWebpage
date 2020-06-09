@@ -1,4 +1,4 @@
 Original Sentence: 
-Yesterday it provided the details
+The day was saturated with the weight of its own impending history
 Additional Information: 
-('detail', 'red')
+('day', 'sunny')

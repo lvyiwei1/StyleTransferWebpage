@@ -1,4 +1,4 @@
 Original Sentence: 
-That trend could increase demand for hot-dipped galvanized sheet
+But there did seem to be a retail activity pickup
 Additional Information: 
-('sheet', 'white')
+('activity', 'IN', 'bathroom')

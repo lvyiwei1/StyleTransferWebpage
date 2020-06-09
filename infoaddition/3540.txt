@@ -1,0 +1,4 @@
+Original Sentence: 
+THE PANHANDLER approaches makes his pitch
+Additional Information: 
+('pitch', 'has', 'white lines')

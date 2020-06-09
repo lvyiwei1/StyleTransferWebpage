@@ -1,4 +1,4 @@
 Original Sentence: 
-The gene thus can prevent a plant from fertilizing itself
+That target has been revised to 30 % by the year 2000
 Additional Information: 
-('plant', 'growing next to', 'zebra')
+('year', 'IN', 'left corner')

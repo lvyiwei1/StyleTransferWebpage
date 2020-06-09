@@ -1,4 +1,4 @@
 Original Sentence: 
-Accepted bids ranged from 8.328 % to 8.347 %
+Marshall 's ghost is satisfied for now but he 'll be back
 Additional Information: 
-('bid', 'metal')
+('ghost', 'ON', 'broccoli')

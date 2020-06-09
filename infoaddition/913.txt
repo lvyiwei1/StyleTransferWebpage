@@ -1,4 +1,4 @@
 Original Sentence: 
-Most public-health measures were handled at the local level
+The new facility is expected to begin operations in early 1991
 Additional Information: 
-('measure', 'black')
+('facility', 'skateboarding')

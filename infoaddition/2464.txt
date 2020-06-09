@@ -1,4 +1,4 @@
 Original Sentence: 
-Their approach did n't work mine is
+Earnings have plummeted too in each of the past three quarters
 Additional Information: 
-('work', 'iron')
+('quarter', 'OF', 'train')

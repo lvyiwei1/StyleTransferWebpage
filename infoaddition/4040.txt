@@ -1,0 +1,4 @@
+Original Sentence: 
+HEALTH BENEFITS remain a central lobbying effort even as Section 89 fades
+Additional Information: 
+('male', 'ON', 'fade')

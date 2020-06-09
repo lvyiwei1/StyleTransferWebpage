@@ -1,4 +1,4 @@
 Original Sentence: 
-And for every champion there are plenty of nags
+None made it past the body searches and X-rays of mine security
 Additional Information: 
-('sweatshirt', 'with', 'champion')
+('security', 'walking in', 'orange vests')

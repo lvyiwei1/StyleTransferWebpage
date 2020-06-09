@@ -1,4 +1,4 @@
 Original Sentence: 
-By 1982 he was selling thousands of tires
+In Houston we have seen how bad the housing problem can become
 Additional Information: 
-('tire', 'black')
+('housing', 'inside of', 'picture')

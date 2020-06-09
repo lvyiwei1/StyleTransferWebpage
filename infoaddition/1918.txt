@@ -1,4 +1,4 @@
 Original Sentence: 
-It recently introduced a line for the home market
+But the utility may not continue next year
 Additional Information: 
-('market', 'filled with', 'green peppers')
+('year', 'white')

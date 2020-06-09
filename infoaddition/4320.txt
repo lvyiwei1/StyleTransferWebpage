@@ -1,0 +1,4 @@
+Original Sentence: 
+The ultimate form of charity is when you do n't tell anyone
+Additional Information: 
+('form', 'ON', 'table top')

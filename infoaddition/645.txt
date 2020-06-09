@@ -1,4 +1,4 @@
 Original Sentence: 
-That suit is pending
+Once somebody eats one they get hooked
 Additional Information: 
-('suit', 'ON', 'woman')
+('somebody', 'using', 'computer')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Digital 's new line has been a long time coming
+But the handlers mistakenly stuck with silicon chips they needed kryptonite
 Additional Information: 
-('time', 'displayed')
+('handler', 'sitting on', 'elephant')

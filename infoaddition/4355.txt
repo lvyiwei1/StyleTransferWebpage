@@ -1,0 +1,4 @@
+Original Sentence: 
+The Celtona operations would become part of those ventures
+Additional Information: 
+('part', 'OF', 'apple')

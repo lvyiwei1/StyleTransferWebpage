@@ -1,4 +1,4 @@
 Original Sentence: 
-He will retain the honorary title of non-executive chairman
+Ms. Renk says retailers nixed a promotion for pins with animal motifs
 Additional Information: 
-('title', 'of a', 'book')
+('promotion', 'from', "victoria's secret")

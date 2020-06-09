@@ -1,4 +1,4 @@
 Original Sentence: 
-That 's baseball
+I want to add one more truck Mr. Huber says
 Additional Information: 
-('baseball', 'white')
+('truck', 'white')

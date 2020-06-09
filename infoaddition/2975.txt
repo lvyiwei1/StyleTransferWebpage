@@ -1,4 +1,4 @@
 Original Sentence: 
-But again they may need the help of the machinists
+These errata do not affect business programs he said
 Additional Information: 
-('poster', 'says', 'help')
+('program', 'wedding')

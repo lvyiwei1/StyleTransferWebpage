@@ -1,4 +1,4 @@
 Original Sentence: 
-Security costs are also quite high
+He pampers them he invites them to fabulous parties he strokes them
 Additional Information: 
-('security', 'standing')
+('party', 'at a', 'house')

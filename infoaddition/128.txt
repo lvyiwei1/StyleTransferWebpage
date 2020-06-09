@@ -1,4 +1,4 @@
 Original Sentence: 
-It showed the DJIA up 30 points
+Whether she can meet that ambitious goal is still far from certain
 Additional Information: 
-('point', 'sharp')
+('goal', 'white')

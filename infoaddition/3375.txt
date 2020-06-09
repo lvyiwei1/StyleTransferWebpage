@@ -1,4 +1,4 @@
 Original Sentence: 
-The ratification follows a 23-day strike against the Philadelphia-based company
+Is this the wrong time to open a store
 Additional Information: 
-('strike', 'ON', 'door')
+('store', 'red')

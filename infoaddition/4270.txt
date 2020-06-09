@@ -1,0 +1,4 @@
+Original Sentence: 
+Both reflect the dismissal of lower-level and shorter-tenure executives
+Additional Information: 
+('executive', 'ON', 'signs')

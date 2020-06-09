@@ -1,0 +1,4 @@
+Original Sentence: 
+Amcore also a bank holding company has assets of 1.06 billion
+Additional Information: 
+('company', 'ON', 'wing')

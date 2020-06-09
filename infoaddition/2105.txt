@@ -1,4 +1,4 @@
 Original Sentence: 
-They do n't have the votes to get it passed
+Aldus Seattle makes computer software products
 Additional Information: 
-('vote', 'written on', 'sign')
+('software', 'blue')

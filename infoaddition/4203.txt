@@ -1,0 +1,4 @@
+Original Sentence: 
+He sits down at the piano and plays
+Additional Information: 
+('piano', 'has', 'leg')

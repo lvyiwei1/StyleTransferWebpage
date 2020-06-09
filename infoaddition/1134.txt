@@ -1,4 +1,4 @@
 Original Sentence: 
-The advance felt more like a technical bounce he said
+Poland is short on enterprises not enterprise
 Additional Information: 
-('bounce', 'behind', 'boy')
+('sign', 'for', 'enterprise')

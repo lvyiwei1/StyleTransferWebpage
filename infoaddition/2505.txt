@@ -1,4 +1,4 @@
 Original Sentence: 
-The suit seeks unspecified damages
+Traders said today may be an anxious day for the market
 Additional Information: 
-('suit', 'black')
+('day', 'sunny')

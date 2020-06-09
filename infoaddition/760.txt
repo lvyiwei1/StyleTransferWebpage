@@ -1,4 +1,4 @@
 Original Sentence: 
-Outside I spotted two young men lugging blocks of concrete
+There 's no question it will make LBOs more expensive he said
 Additional Information: 
-('concrete', 'grey')
+('question', 'black')

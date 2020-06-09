@@ -1,4 +1,4 @@
 Original Sentence: 
-You do n't know which way to punch
+Soon the military became a veritable mafia controlling legal and illegal businesses
 Additional Information: 
-('way', 'to', 'house')
+('business', 'here')

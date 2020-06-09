@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales declined slightly to 5.17 billion
+If you 're a technician you obey the signals
 Additional Information: 
-('sale', 'at', 'company')
+('signal', 'ON', 'gray pole')

@@ -1,4 +1,4 @@
 Original Sentence: 
-People hold out and try to get a bargain
+The transaction will take place tomorrow
 Additional Information: 
-('people', 'standing')
+('place', 'at', 'table')

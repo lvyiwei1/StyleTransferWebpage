@@ -1,4 +1,4 @@
 Original Sentence: 
-They allowed this country to be credible
+Expansion plans also include acquisitions in growing foreign markets
 Additional Information: 
-('country', 'ON', 'skateboard')
+('plan', 'ON', 'ground')

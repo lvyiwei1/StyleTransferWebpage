@@ -1,4 +1,4 @@
 Original Sentence: 
-But not everybody was making money
+Rather It just shows things have changed
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
+('thing', 'black')

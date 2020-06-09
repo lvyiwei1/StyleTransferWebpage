@@ -1,4 +1,4 @@
 Original Sentence: 
-November gasoline slipped slightly
+It implies very dramatic growth he said
 Additional Information: 
-('gasoline', 'offered')
+('growth', 'IN', 'rows')

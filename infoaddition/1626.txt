@@ -1,4 +1,4 @@
 Original Sentence: 
-Some nights he slept under his desk
+We 're not rushing into anything
 Additional Information: 
-('desk', 'with', 'computer screen')
+('part', 'of a speaker not connected to', 'anything')

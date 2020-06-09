@@ -1,4 +1,4 @@
 Original Sentence: 
-Craig Torres contributed to this article
+They are starting to buy growth stocks
 Additional Information: 
-('article', 'ON', 'chair')
+('stock', 'of', 'stock')

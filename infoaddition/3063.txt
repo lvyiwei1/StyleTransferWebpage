@@ -1,4 +1,4 @@
 Original Sentence: 
-I want to publish one that succeeds said Mr. Lang
+In either case the investor faces three possible outcomes
 Additional Information: 
-('one', 'white')
+('case', 'under', 'book')

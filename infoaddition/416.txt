@@ -1,4 +1,4 @@
 Original Sentence: 
-In peak periods that load may include 4,000 pieces
+More important the CD was purchased on the secondary or resale market
 Additional Information: 
-('piece', 'OF', 'vegetable')
+('market', 'outdoor')

@@ -1,0 +1,4 @@
+Original Sentence: 
+A matching Eagleton-Newark Star Ledger poll last month showed a complete reversal
+Additional Information: 
+('month', 'ninth')

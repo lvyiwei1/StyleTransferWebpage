@@ -1,4 +1,4 @@
 Original Sentence: 
-The other half we may have before long
+Press agents and public-relations practitioners are notorious name-droppers
 Additional Information: 
-('half', 'bottom')
+('agent', 'at', 'airport')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Still fund groups are n't taking any chances
+Neither the Amoco agreement nor the wells existed the suit alleged
 Additional Information: 
-('group', 'large')
+('suit', 'ON', 'man')

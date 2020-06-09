@@ -1,4 +1,4 @@
 Original Sentence: 
-Signed by 25 students
+The protesters point out that Galileo also could crash to Earth then
 Additional Information: 
-('student', 'working on', 'laptop')
+('protester', 'holding', 'sign')

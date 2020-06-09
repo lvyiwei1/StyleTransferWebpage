@@ -1,4 +1,4 @@
 Original Sentence: 
-My younger daughter and I are fine
+Now the push is on for more-distinctive shows
 Additional Information: 
-('daughter', 'small')
+('show', 'kite')

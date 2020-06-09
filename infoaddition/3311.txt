@@ -1,4 +1,4 @@
 Original Sentence: 
-We have a major problem and that problem is volatility
+But an uninvited guest is expected to try to crash the party
 Additional Information: 
-('plane', 'has', 'problem')
+('party', 'IN', 'living room')

@@ -1,0 +1,4 @@
+Original Sentence: 
+He is a mechanical engineer not an atmospheric chemist
+Additional Information: 
+('engineer', 'inside', 'train')

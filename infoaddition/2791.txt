@@ -1,4 +1,4 @@
 Original Sentence: 
-Meanwhile the exchange has been trying to lower costs
+In Dallas Mr. Landry has a standing just shy of sainthood
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('standing', 'on beach', 'people')

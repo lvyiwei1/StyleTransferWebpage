@@ -1,4 +1,4 @@
 Original Sentence: 
-The announcement came after the market 's close
+The last six months has established the quality of the collection
 Additional Information: 
-('announcement', 'ON', 'table')
+('collection', 'OF', 'bananas')

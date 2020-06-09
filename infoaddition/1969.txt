@@ -1,4 +1,4 @@
 Original Sentence: 
-The plant employs between 800 and 900 on three shifts
+Her new line of work has some perils
 Additional Information: 
-('shift', 'black')
+('line', 'white')

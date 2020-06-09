@@ -1,4 +1,4 @@
 Original Sentence: 
-The executive branch bears the first responsibility for timidity
+Some even claim the group has become a lagging not leading indicator
 Additional Information: 
-('branch', 'brown')
+('group', 'large')

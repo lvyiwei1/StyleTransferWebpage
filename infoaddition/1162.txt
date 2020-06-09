@@ -1,4 +1,4 @@
 Original Sentence: 
-To reinforce employees ' dedication Mr. Smith pays well
+Meanwhile competition from rivals unencumbered by history is intensifying
 Additional Information: 
-('employee', 'airport')
+('skiers', 'in a', 'competition')

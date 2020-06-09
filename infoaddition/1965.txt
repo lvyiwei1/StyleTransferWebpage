@@ -1,4 +1,4 @@
 Original Sentence: 
-But advertisers would n't think of it she said
+Prior to 1932 the pattern was nearly the opposite
 Additional Information: 
-('advertiser', 'ON', 'train')
+('pattern', 'has', 'flowers')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The bill is expected to pass in Congress next month
+That hurts investors ' confidence in the economy and stocks
 Additional Information: 
-('bill', 'pick', 'frisbee')
+('stock', 'green')

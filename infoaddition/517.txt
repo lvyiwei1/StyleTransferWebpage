@@ -1,4 +1,4 @@
 Original Sentence: 
-Expects to be fully operational early next week
+And short-term the technicians may have their way
 Additional Information: 
-('day', 'OF', 'week')
+('way', 'scrapped on', 'bus')

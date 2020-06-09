@@ -1,4 +1,4 @@
 Original Sentence: 
-Warnaco also owns Warners another major intimate apparel maker
+Beyond that money managers and analysts see other problems
 Additional Information: 
-('maker', 'coffee')
+('money', 'held by', 'man')

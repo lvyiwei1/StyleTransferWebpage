@@ -1,4 +1,4 @@
 Original Sentence: 
-Its many lively stories include the Gutfreund-Postel holiday cheer imbroglio
+My vision is to change human consciousness towards touch
 Additional Information: 
-('holiday', 'colorful')
+('vision', 'ON', 'banner')

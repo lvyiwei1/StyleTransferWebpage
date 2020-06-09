@@ -1,4 +1,4 @@
 Original Sentence: 
-Now we 're going to sell to men
+Those things will all come up but in a fairly informal way
 Additional Information: 
-('men', 'standing')
+('way', 'scrapped on', 'bus')

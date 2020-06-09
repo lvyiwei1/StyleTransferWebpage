@@ -1,4 +1,4 @@
 Original Sentence: 
-Other details were n't available
+How do readers feel about the magazine
 Additional Information: 
-('detail', 'red')
+('reader', 'OF', 'meter')

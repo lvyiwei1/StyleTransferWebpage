@@ -1,4 +1,4 @@
 Original Sentence: 
-The companies are automotive-emissions-testing concerns
+It 's unlikely extracting the gas will cause subsidence says a spokeswoman
 Additional Information: 
-('company', 'that owns', 'bus')
+('gas', 'invisible')

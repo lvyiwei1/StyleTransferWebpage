@@ -1,4 +1,4 @@
 Original Sentence: 
-Her parents lost everything in the 1906 earthquake
+The Financial Times 30-share index closed 79.3 points lower at 1738.7
 Additional Information: 
-('parent', 'wears', 'shirt')
+('index', 'ON', 'helmet')

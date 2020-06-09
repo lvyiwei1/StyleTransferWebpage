@@ -1,4 +1,4 @@
 Original Sentence: 
-People wonder what 's going to happen next
+Mr. Schwarz says the competition broadens the base of opportunity for us
 Additional Information: 
-('people', 'at', 'exhibit')
+('base', 'white')

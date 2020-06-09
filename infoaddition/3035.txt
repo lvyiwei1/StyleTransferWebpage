@@ -1,4 +1,4 @@
 Original Sentence: 
-It was a jarring day for investors in Genetics Institute
+Anti-nuclear activists took a less positive view
 Additional Information: 
-('day', 'sunny')
+('view', 'beautiful')

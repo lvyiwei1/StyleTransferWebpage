@@ -1,4 +1,4 @@
 Original Sentence: 
-LUTHER BURBANK CROSS-BRED PLANTS to produce the billion-dollar Idaho potato
+But no one else does
 Additional Information: 
-('plant', 'against', 'wall')
+('one', 'ON', 'sign')

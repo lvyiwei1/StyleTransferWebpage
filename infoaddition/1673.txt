@@ -1,4 +1,4 @@
 Original Sentence: 
-Retailers could get a boost this year from the calendar
+The minimum unit is 100,000
 Additional Information: 
-('year', 'IN', 'corner')
+('unit', 'behind', 'house')

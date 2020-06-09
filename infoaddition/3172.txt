@@ -1,4 +1,4 @@
 Original Sentence: 
-Many other factors played a part in yesterday 's comeback
+Mervin Lung remains chairman and chief executive officer
 Additional Information: 
-('part', 'of a', 'tree')
+('officer', 'police')

@@ -1,4 +1,4 @@
 Original Sentence: 
-We are having a regular day
+The soreness he admits went away about a week after the shot
 Additional Information: 
-('day', 'sunny')
+('shot', 'old')

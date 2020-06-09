@@ -1,4 +1,4 @@
 Original Sentence: 
-Her instincts were capitalistic despite her background
+Mr. Evans had been the de facto head of MGM\/UA for months
 Additional Information: 
-('background', 'behind', 'man')
+('month', 'ninth')

@@ -1,4 +1,4 @@
 Original Sentence: 
-He has a built-in constant longing for lower interest rates
+First the price of natural gas will have to almost double
 Additional Information: 
-('built-in', 'Black ')
+('price', 'tag', 'roll')

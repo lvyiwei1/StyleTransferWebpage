@@ -1,0 +1,4 @@
+Original Sentence: 
+HONECKER WAS OUSTED as leader of East Germany amid growing unrest
+Additional Information: 
+('leader', 'WEARING', 'helmet')

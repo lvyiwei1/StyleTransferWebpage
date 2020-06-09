@@ -1,0 +1,4 @@
+Original Sentence: 
+It also has a product-testing facility in California
+Additional Information: 
+('facility', 'for', 'giraffe')

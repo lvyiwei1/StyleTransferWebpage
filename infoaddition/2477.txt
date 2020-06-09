@@ -1,4 +1,4 @@
 Original Sentence: 
-Estimated volume was a moderate 3.5 million ounces
+The bills are dated Oct. 31 and mature Dec. 21 1989
 Additional Information: 
-('volume', '3')
+('bill', 'OF', "man's hat")

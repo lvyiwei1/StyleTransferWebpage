@@ -1,4 +1,4 @@
 Original Sentence: 
-This will raise the energy level of the show
+He urged them to refer their friends who also lost money
 Additional Information: 
-('level', 'upper')
+('friend', 'WEARING', 'necklace')

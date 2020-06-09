@@ -1,4 +1,4 @@
 Original Sentence: 
-Jewelry displays in department stores were often cluttered and uninspired
+He wants to see steelmakers more involved in computers and artificial intelligence
 Additional Information: 
-('store', 'OF', 'wine')
+('computer', 'laptop')

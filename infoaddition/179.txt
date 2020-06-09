@@ -1,4 +1,4 @@
 Original Sentence: 
-Bond prices also edged higher
+We do n't need cartoons anymore
 Additional Information: 
-('price', 'ON', 'sign')
+('cartoon', 'ON', 'coffee mug')

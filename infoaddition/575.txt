@@ -1,4 +1,4 @@
 Original Sentence: 
-Most people ca n't even remember his name
+Operating profit for world-wide tobacco products rose 10 % to 247.6 million
 Additional Information: 
-('name', 'ON', 'phone')
+('product', 'ON', 'display')

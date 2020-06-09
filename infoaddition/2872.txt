@@ -1,4 +1,4 @@
 Original Sentence: 
-The accident was caused by faulty operation of a valve
+He is president and chief executive officer of Comerica Inc. in Detroit
 Additional Information: 
-('valve', 'on top of', 'fire hydrant')
+('president', ' United States')

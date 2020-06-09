@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's like squeezing a balloon Dr. Bailit said
+It 's not good the market is setting up for another fall
 Additional Information: 
-('balloon', 'IN', 'sky')
+('market', 'outdoor')

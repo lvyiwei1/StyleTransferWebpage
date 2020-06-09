@@ -1,4 +1,4 @@
 Original Sentence: 
-Bond prices were little changed in sluggish activity
+The session failed to enact any new curbs
 Additional Information: 
-('price', 'for', 'bananas')
+('screen', 'showing', 'session')

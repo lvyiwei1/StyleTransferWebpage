@@ -1,4 +1,4 @@
 Original Sentence: 
-It also sells single-premium annuities to individuals
+But Pemex managers are the ones most thrilled by the contract
 Additional Information: 
-('individual', 'smiling')
+('one', 'way', 'sign')

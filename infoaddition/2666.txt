@@ -1,4 +1,4 @@
 Original Sentence: 
-But others said pico should proceed
+The dollar finished at its intraday highs
 Additional Information: 
-('others', 'three')
+('dollar', 'ON', 'table')

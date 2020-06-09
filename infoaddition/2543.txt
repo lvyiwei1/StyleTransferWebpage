@@ -1,4 +1,4 @@
 Original Sentence: 
-Per-share net rose to 44.08 yen from 36.13 yen
+They talked of the home run
 Additional Information: 
-('net', 'black')
+('home', 'on side of', 'street')

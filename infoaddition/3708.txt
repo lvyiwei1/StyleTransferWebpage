@@ -1,0 +1,4 @@
+Original Sentence: 
+The result is a 45 billion market according to Securities Data Co
+Additional Information: 
+('market', 'outdoor')

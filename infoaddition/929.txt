@@ -1,4 +1,4 @@
 Original Sentence: 
-The yield rose to 5.38 %
+Golenbock with 35 lawyers has lost several partners during the past year
 Additional Information: 
-('yield', 'on', 'sign')
+('partner', 'playing on', 'tennis court')

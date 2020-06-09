@@ -1,4 +1,4 @@
 Original Sentence: 
-Eight years I 've had it
+Inland said its third-quarter results will be announced later this week
 Additional Information: 
-('year', 'white')
+('day', 'OF', 'week')

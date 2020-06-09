@@ -1,4 +1,4 @@
 Original Sentence: 
-Neither man achieved perfection
+Nasdaq 's gain was led by its biggest industrial stocks
 Additional Information: 
-('man', 'standing')
+('stock', 'green')

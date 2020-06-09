@@ -1,0 +1,4 @@
+Original Sentence: 
+The drug was introduced in West Germany this year
+Additional Information: 
+('year', 'IN', 'corner')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Both features appealed most to buyers under 45
+Not everybody was making money
 Additional Information: 
-('buyer', 'prospective')
+('money', 'under', 'card')

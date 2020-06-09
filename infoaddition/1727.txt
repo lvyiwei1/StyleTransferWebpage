@@ -1,4 +1,4 @@
 Original Sentence: 
-The company estimates its total debt at about 5.2 billion
+Fortunately volunteers and charities are not motivated by self-interest but by altruism
 Additional Information: 
-('company', 'name')
+('volunteer', 'printed on', 'shirt')

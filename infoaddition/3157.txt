@@ -1,4 +1,4 @@
 Original Sentence: 
-All prices are as of Monday 's close
+Now television and radio evangelists are under scrutiny
 Additional Information: 
-('close', 'up view of an apple', 'tree')
+('television', 'black')

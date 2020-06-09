@@ -1,4 +1,4 @@
 Original Sentence: 
-Lloyd 's has lost control of the situation he says
+I was never a rebel he said in an earlier interview
 Additional Information: 
-('control', 'remote')
+('interview', 'media')

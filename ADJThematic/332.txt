@@ -1,3 +1,3 @@
 Original Sentence: 
-Other analysts are nearly as pessimistic
-Emphasize: Other
+A federal judge turned down the Chapter 11 petition
+Emphasize: federal

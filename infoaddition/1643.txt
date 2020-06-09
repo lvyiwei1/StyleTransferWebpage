@@ -1,4 +1,4 @@
 Original Sentence: 
-Amgen rose 1 1\/2 to 50 3\/4 in heavy trading
+We will only deal with clients on the phone he says
 Additional Information: 
-('red t', 'IN', 'trading')
+('mirror', 'behind', 'client')

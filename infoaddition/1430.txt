@@ -1,4 +1,4 @@
 Original Sentence: 
-I decided to brave the storm
+Twenty-one of its workers are Ph. D.s
 Additional Information: 
-('storm', 'coming')
+('worker', 'working on', 'tracks')

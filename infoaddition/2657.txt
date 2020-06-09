@@ -1,4 +1,4 @@
 Original Sentence: 
-Why did East Bloc participants unanimously endorse market-based pollution approaches
+It implies very dramatic growth he said
 Additional Information: 
-('participant', 'at top of', 'ramp')
+('growth', 'green')

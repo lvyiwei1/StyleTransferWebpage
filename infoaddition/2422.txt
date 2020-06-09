@@ -1,4 +1,4 @@
 Original Sentence: 
-In some cases competition has squeezed margins
+Scientists call the new class of genes tumor-suppressors or simply anti-cancer genes
 Additional Information: 
-('man', 'watching', 'competition')
+('class', 'ON', 'train')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Unlike 1987 interest rates have been falling this year
+None of these chief executives were available for comment
 Additional Information: 
-('interest', 'great')
+('executive', 'in white')

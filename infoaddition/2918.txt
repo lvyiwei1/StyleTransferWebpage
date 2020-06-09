@@ -1,4 +1,4 @@
 Original Sentence: 
-Macy acquired those three businesses in May 1988
+But he said we have too many plants in our system
 Additional Information: 
-('business', 'here')
+('system', 'black')

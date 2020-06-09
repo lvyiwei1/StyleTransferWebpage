@@ -1,4 +1,4 @@
 Original Sentence: 
-She only put her foot down twice he continues
+UAL 's decision to remain an independent company sent share prices tumbling
 Additional Information: 
-('foot', 'bare')
+('price', 'for', 'avocados')

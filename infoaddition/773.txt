@@ -1,4 +1,4 @@
 Original Sentence: 
-The rest he is confident can be raised
+Mr. Lesko himself is n't yet prepared to accept that explanation
 Additional Information: 
-('rest', 'arm')
+('explanation', 'for', 'advertisement')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The market 's pessimism reflects the gloomy outlook in Detroit
+Now the firm says it 's at a turning point
 Additional Information: 
-('market', 'outdoor')
+('blue', 'bus', 'turning')

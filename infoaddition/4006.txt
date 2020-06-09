@@ -1,0 +1,4 @@
+Original Sentence: 
+The interview did not touch on Singapore 's domestic affairs
+Additional Information: 
+('interview', 'IN', 'background')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Bally officials decline to discuss the situation
+Additional Information: 
+('official', 'tennis')

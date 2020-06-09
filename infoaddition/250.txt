@@ -1,4 +1,4 @@
 Original Sentence: 
-Volume totaled 8,930,000 shares
+The offering Series 1989-84 is backed by Fannie Mae 9 % securities
 Additional Information: 
-('volume', '3')
+('series', 'of ski gates')

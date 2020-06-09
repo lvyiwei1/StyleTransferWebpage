@@ -1,4 +1,4 @@
 Original Sentence: 
-Yet some funds have pulled in their horns
+This deal is like a Roach Motel he said
 Additional Information: 
-('horn', 'ON', 'bull')
+('deal', 'great')

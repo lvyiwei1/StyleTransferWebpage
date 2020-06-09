@@ -1,4 +1,4 @@
 Original Sentence: 
-FOR YEARS costume jewelry makers fought a losing battle
+Michael J.C. Roth USAA executive vice president called program trading mindless
 Additional Information: 
-('year', 'ON', 'bench')
+('program', 'wedding')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Americans place native or native speakers in charge of subsidiaries overseas
+Additional Information: 
+('speaker', 'black')

@@ -1,4 +1,4 @@
 Original Sentence: 
-But Burger King operators independently confirm using Michael 's product
+But margins will be helped too by some other cost-saving steps
 Additional Information: 
-('product', 'IN', 'box')
+('step', 'concrete')

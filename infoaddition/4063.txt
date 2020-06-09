@@ -1,0 +1,4 @@
+Original Sentence: 
+People start their own businesses for many reasons
+Additional Information: 
+('not', 'in mood right nowhold leg in air for no', 'reason')

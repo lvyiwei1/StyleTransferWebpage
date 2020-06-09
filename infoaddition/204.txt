@@ -1,4 +1,4 @@
 Original Sentence: 
-That hurts investors ' confidence in the economy and stocks
+Mr. Quennell has said he plans to go with the grid regardless
 Additional Information: 
-('stock', 'green')
+('grid', 'metal')

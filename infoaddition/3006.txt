@@ -1,4 +1,4 @@
 Original Sentence: 
-Should the rest of the Series be played at all
+There 's no finger to be pointed she said
 Additional Information: 
-('rest', 'arm')
+('finger', 'white')

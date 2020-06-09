@@ -1,4 +1,4 @@
 Original Sentence: 
-The city could lose some of its entrepreneurial flavor
+The dollar finished mixed while gold declined
 Additional Information: 
-('words', 'caffienated black currant', 'flavor')
+('dollar', 'ON', 'table')

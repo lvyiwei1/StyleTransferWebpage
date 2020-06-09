@@ -1,4 +1,4 @@
 Original Sentence: 
-Among her OTC picks are Oshkosh B'Gosh and A&W Brands
+The law sets a deficit target of 100 billion for fiscal 1990
 Additional Information: 
-('pick', 'tooth')
+('target', 'ON', 'plane')

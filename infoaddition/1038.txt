@@ -1,4 +1,4 @@
 Original Sentence: 
-Brokers agreed with the two-tier price theory
+Of course many more issues 93 hit new lows
 Additional Information: 
-('price', 'written')
+('course', 'green')

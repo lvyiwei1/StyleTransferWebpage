@@ -1,4 +1,4 @@
 Original Sentence: 
-That wo n't be an easy task
+But he added you can only take one call at a time
 Additional Information: 
-('eye', 'concentrating on', 'task')
+('time', 'displayed')

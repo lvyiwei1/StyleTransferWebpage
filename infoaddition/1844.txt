@@ -1,4 +1,4 @@
 Original Sentence: 
-Gene-splicing now is an integral part of the drug business
+This has led them in a fruitless and destructive policy circle
 Additional Information: 
-('business', 'here')
+('circle', 'red')

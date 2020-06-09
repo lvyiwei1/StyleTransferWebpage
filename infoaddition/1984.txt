@@ -1,4 +1,4 @@
 Original Sentence: 
-But Sony is a problem
+Officials at the Washington D.C.-based charity did n't return repeated phone calls
 Additional Information: 
-('plane', 'has', 'problem')
+('official', 'tennis')

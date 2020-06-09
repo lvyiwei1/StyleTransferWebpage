@@ -1,4 +1,4 @@
 Original Sentence: 
-Friday brings the final count on October auto sales
+There are few factories and no mines
 Additional Information: 
-('sale', 'red')
+('factory', 'IN', 'background')

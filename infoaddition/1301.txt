@@ -1,4 +1,4 @@
 Original Sentence: 
-For one thing Digital Maynard Mass. has sold fewer machines
+Bush administration officials say inflation is under control
 Additional Information: 
-('machine', 'white')
+('official', 'with', 'hand')

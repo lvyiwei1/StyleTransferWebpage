@@ -1,4 +1,4 @@
 Original Sentence: 
-Others preach the gospel of buying only blue-chip growth stocks
+Florida National stock closed unchanged at 25.875 in national over-the-counter trading
 Additional Information: 
-('others', 'at', 'beach')
+('red t', 'IN', 'trading')

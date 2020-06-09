@@ -1,0 +1,4 @@
+Original Sentence: 
+The consultants had been working to finish a report this week
+Additional Information: 
+('day', 'OF', 'week')

@@ -1,4 +1,4 @@
 Original Sentence: 
-That has n't yet captured traders ' attention he added
+It might even have saved the life and business of Israel Ortiz
 Additional Information: 
-('attention', 'close')
+('life', 'printed')

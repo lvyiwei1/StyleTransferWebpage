@@ -1,4 +1,4 @@
 Original Sentence: 
-Either one likes it or one does n't
+He urged them to refer their friends who also lost money
 Additional Information: 
-('one', 'man', 'talking')
+('money', 'paper')

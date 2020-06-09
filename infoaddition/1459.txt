@@ -1,4 +1,4 @@
 Original Sentence: 
-To date scientists have fingered two of these cancer-suppressors
+Pricing details were n't available
 Additional Information: 
-('date', 'yellow')
+('detail', 'over', 'door')

@@ -1,4 +1,4 @@
 Original Sentence: 
-My position is well-known and well-stated he replied
+The AT&T action was the most recent blow in a nasty fight
 Additional Information: 
-('man', 'IN', 'position')
+('action', 'MLB')

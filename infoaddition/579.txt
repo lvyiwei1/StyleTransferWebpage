@@ -1,4 +1,4 @@
 Original Sentence: 
-After that the layout had been easy
+The night the Germans occupied all of France Baker performed in Casablanca
 Additional Information: 
-('layout', 'brick')
+('night', 'hangs over', 'city')

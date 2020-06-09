@@ -1,4 +1,4 @@
 Original Sentence: 
-The market was caught totally the wrong way
+The minimum unit is 100,000
 Additional Information: 
-('way', 'walk')
+('unit', 'ON', 'train')

@@ -1,0 +1,4 @@
+Original Sentence: 
+But five weeks after the premiere the series has floundered
+Additional Information: 
+('series', 'of ski gates')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Now producers hope prices have hit bottom
+The June killings magnified the problems
 Additional Information: 
-('price', 'written')
+('plane', 'has', 'problem')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Creation of a new realistic U.S. policy is long overdue
+Why in these movies is the unwed pregnant woman always from Ohio
 Additional Information: 
-('creation', 'made', 'snow')
+('movie', 'vhs')

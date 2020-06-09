@@ -1,4 +1,4 @@
 Original Sentence: 
-This seems to be the season for revivals in Chicago
+Per-share net rose to 62.04 yen from 51.50 yen
 Additional Information: 
-('season', 'fall')
+('net', 'ON', 'field')

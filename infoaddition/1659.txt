@@ -1,4 +1,4 @@
 Original Sentence: 
-Wall Street is n't avoiding everything connected with paper
+Many Law School Grads Find Classes Never End
 Additional Information: 
-('paper', 'ON', 'ground')
+('drivers', 'are obeying', 'law')

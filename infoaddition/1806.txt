@@ -1,4 +1,4 @@
 Original Sentence: 
-Sales for the latest quarter were flat at 1.72 billion
+In such an environment a market maker can absorb huge losses
 Additional Information: 
-('quarter', 'OF', 'train')
+('market', 'has', 'flowers')

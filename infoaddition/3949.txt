@@ -1,0 +1,4 @@
+Original Sentence: 
+Declines came because of concern that demand for copper may slow down
+Additional Information: 
+('copper', 'on top of', 'cake topper')

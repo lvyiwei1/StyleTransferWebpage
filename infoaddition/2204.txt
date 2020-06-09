@@ -1,4 +1,4 @@
 Original Sentence: 
-Cathay is taking several steps to bolster business
+It 's an optimistic move in a industry already facing world-wide overcapacity
 Additional Information: 
-('step', 'underneath', 'door')
+('mechanism', 'makes it', 'move')

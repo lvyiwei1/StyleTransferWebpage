@@ -1,4 +1,4 @@
 Original Sentence: 
-As a result the company has suspended its quarterly dividend
+The scars will be here years after the polls close
 Additional Information: 
-('company', 'ON', 'building')
+('year', 'ON', 'wine')

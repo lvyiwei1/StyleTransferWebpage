@@ -1,4 +1,4 @@
 Original Sentence: 
-He earned a master 's degree in architecture from Yale
+The company plans to be fully operational today
 Additional Information: 
-('architecture', 'has a', 'clock')
+('company', 'ON', 'corner')

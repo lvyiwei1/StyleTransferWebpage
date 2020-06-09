@@ -1,4 +1,4 @@
 Original Sentence: 
-The following month the company put itself up for sale
+He believes those defenses might well apply to the Bay Bridge collapse
 Additional Information: 
-('month', 'OF', 'picture')
+('basketball player', 'playing', 'defense')

@@ -1,4 +1,4 @@
 Original Sentence: 
-In some cases competition has squeezed margins
+Sales were 4.2 billion compared with 3.7 billion
 Additional Information: 
-('case', 'HOUSING THE', 'pizza')
+('sale', 'red')

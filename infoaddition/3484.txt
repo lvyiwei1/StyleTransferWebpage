@@ -1,4 +1,4 @@
 Original Sentence: 
-Manufacturers Hanover Trust Co. is redemption agent
+I do n't think their customers would like it very much
 Additional Information: 
-('agent', 'at', 'airport')
+('customer', 'waiting')

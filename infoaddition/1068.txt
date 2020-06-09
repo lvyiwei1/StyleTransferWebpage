@@ -1,4 +1,4 @@
 Original Sentence: 
-A man said he saw the upper rim undulate
+Beyond that money managers and analysts see other problems
 Additional Information: 
-('man', 'standing in', 'corner')
+('plane', 'has', 'problem')

@@ -1,0 +1,4 @@
+Original Sentence: 
+He sees a psychoanalyst five mornings a week
+Additional Information: 
+('college campus', 'IN', 'morning')

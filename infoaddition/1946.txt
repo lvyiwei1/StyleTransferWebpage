@@ -1,4 +1,4 @@
 Original Sentence: 
-A few drops in circulation are of no consequence
+Says Mr. Simpson The script was unreadable
 Additional Information: 
-('drop', 'OF', 'water')
+('script', 'ON', 'placemat')

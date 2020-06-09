@@ -1,4 +1,4 @@
 Original Sentence: 
-In Europe the dollar ended lower in dull trading
+They currently have large orders for cargo planes
 Additional Information: 
-('dollar', 'twenty')
+('order', 'OF', 'french fries')

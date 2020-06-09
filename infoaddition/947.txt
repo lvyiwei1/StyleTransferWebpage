@@ -1,4 +1,4 @@
 Original Sentence: 
-Compaq is already taking aim at Zenith 's market share
+Spiegel is 84%-controlled by the Otto family of West Germany
 Additional Information: 
-('market', 'outdoor')
+('family', 'next to', 'river.')

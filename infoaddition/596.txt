@@ -1,4 +1,4 @@
 Original Sentence: 
-The board increased by one to 26 members
+Wisconsin Toy has 71 retail stores primarily in discount settings
 Additional Information: 
-('board', 'ON', 'tracks')
+('discount', 'ON', 'window')

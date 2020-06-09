@@ -1,4 +1,4 @@
 Original Sentence: 
-Tangible capital will be about 115 million
+The purchases increased his stake to 16.2 % of the shares outstanding
 Additional Information: 
-('capital', 'building in washington', 'dc')
+('woman', 'wants to', 'purchase')

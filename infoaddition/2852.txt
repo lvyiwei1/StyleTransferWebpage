@@ -1,4 +1,4 @@
 Original Sentence: 
-Results for the earlier quarter included a 100,000 restructuring charge
+The country was renamed the Republic of Hungary
 Additional Information: 
-('charge', 'can', 'charge')
+('country', 'foreign')

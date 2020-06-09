@@ -1,4 +1,4 @@
 Original Sentence: 
-Some companies are cutting costs and hoping for the best
+But observers expect broad support
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('observer', 'standing')

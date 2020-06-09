@@ -1,4 +1,4 @@
 Original Sentence: 
-Americans may not be so lucky the next time
+People in Glass houses tend to look stoned
 Additional Information: 
-('time', 'shown on', 'inner circle')
+('people', 'standing')

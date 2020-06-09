@@ -1,4 +1,4 @@
 Original Sentence: 
-That included capital gains that were passed along to customers
+The department also said it takes four months to establish a trend
 Additional Information: 
-('capital', 'building in washington', 'dc')
+('horse', 'used', 'department')

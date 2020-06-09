@@ -1,4 +1,4 @@
 Original Sentence: 
-A private farmer never wastes anything
+Yet the bill is riding high on the furor over drug trafficking
 Additional Information: 
-('part', 'of a speaker not connected to', 'anything')
+('bill', 'OF', 'cap')

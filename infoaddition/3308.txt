@@ -1,4 +1,4 @@
 Original Sentence: 
-The other half we may have before long
+Mr. Lurie is currently co-chief executive
 Additional Information: 
-('half', 'of a sub', 'sandwich')
+('executive', 'in white')

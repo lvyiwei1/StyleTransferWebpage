@@ -1,0 +1,4 @@
+Original Sentence: 
+We 're not saying drink more we 're saying trade up
+Additional Information: 
+('company name', 'says', 'trade')

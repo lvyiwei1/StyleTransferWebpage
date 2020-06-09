@@ -1,4 +1,4 @@
 Original Sentence: 
-We 'll raise it through bank loans
+Separately Century Bank Phoenix Ariz. was closed by Arizona banking officials
 Additional Information: 
-('bank', 'grassy')
+('official', 'tennis')

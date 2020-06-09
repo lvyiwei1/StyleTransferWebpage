@@ -1,4 +1,4 @@
 Original Sentence: 
-People will learn to be more circumspect
+It adds something to the market
 Additional Information: 
-('people', 'standing')
+('something', 'red')

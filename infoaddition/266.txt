@@ -1,4 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+The notice also grants relief for certain estate-tax returns
 Additional Information: 
-('change', 'loose')
+('notice', 'ON', 'pole')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Addison is no stranger to cans of worms either
+Radio programs and books have followed the daily television show
 Additional Information: 
-('stranger', 'happy')
+('show', 'kite')

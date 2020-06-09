@@ -1,4 +1,4 @@
 Original Sentence: 
-Advertisers are showing interest
+The failed bank had assets of about 129.6 million
 Additional Information: 
-('advertiser', 'ON', 'train')
+('bank', 'near', 'building')

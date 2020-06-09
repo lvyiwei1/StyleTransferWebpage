@@ -1,0 +1,4 @@
+Original Sentence: 
+SENATE HEARS final arguments in impeachment trial of federal judge
+Additional Information: 
+('judge', 'tennis line')

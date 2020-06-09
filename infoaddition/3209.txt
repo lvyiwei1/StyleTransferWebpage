@@ -1,4 +1,4 @@
 Original Sentence: 
-Nor does it cover the entire portfolio
+The Henderson plant will continue its other chemical operations the company said
 Additional Information: 
-('portfolio', 'black')
+('company', 'ON', 'plane')

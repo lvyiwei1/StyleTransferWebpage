@@ -1,4 +1,4 @@
 Original Sentence: 
-They said the price would be around 10 million
+The night the Germans occupied all of France Baker performed in Casablanca
 Additional Information: 
-('price', 'ON', 'sign')
+('night', 'black')

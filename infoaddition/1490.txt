@@ -1,4 +1,4 @@
 Original Sentence: 
-Construction is set to begin in early 1991
+High cash positions help buffer a fund when the market falls
 Additional Information: 
-('construction', 'gate')
+('market', 'outdoor')

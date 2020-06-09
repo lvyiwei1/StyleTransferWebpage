@@ -1,4 +1,4 @@
 Original Sentence: 
-Grain milk and meat come next
+At that rate the defense plan is underfunded by 48 billion
 Additional Information: 
-('milk', 'white')
+('plan', 'air')

@@ -1,4 +1,4 @@
 Original Sentence: 
-It is a knock-out battle perhaps to the death
+So the Federal Reserve is an attractive target for complaint by politicians
 Additional Information: 
-('battle', 'close')
+('target', 'ON', 'wing')

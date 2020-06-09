@@ -1,4 +1,4 @@
 Original Sentence: 
-Some hotels in the hurricane-stricken Caribbean promise money-back guarantees
+Only 42 % of last year 's respondents anticipated slowing growth
 Additional Information: 
-('hotel', 'large')
+('year', 'ON', 'guard')

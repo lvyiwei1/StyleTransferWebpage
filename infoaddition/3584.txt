@@ -1,0 +1,4 @@
+Original Sentence: 
+The two sides were scheduled to meet with the mediator this morning
+Additional Information: 
+('side', 'white')

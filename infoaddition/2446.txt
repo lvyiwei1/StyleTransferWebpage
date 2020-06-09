@@ -1,4 +1,4 @@
 Original Sentence: 
-Mitsubishi has a futuristic delivery truck called the Guppy
+That 'll save us time and get people involved
 Additional Information: 
-('truck', 'white')
+('people', 'sitting in', 'chairs')

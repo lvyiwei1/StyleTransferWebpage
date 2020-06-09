@@ -1,0 +1,4 @@
+Original Sentence: 
+In another sign of slowdown fears investors dumped technology shares
+Additional Information: 
+('technology', 'has', 'dial')

@@ -1,4 +1,4 @@
 Original Sentence: 
-This is panic buying
+Along the way there also are lots of romantic dalliances
 Additional Information: 
-('panic', 'gold')
+('way', 'walk')

@@ -1,4 +1,4 @@
 Original Sentence: 
-I care very much for this post he says
+It 's been kind of annoying to say the least she said
 Additional Information: 
-('post', 'ON', 'fence')
+('kind', 'ON', 'sidewalk')

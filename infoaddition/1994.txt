@@ -1,4 +1,4 @@
 Original Sentence: 
-The year was misstated in Friday 's editions
+After months of internal rumblings Mr. Ngoc was fired last December
 Additional Information: 
-('year', 'OF', 'picture')
+('month', 'around', 'face')

@@ -1,4 +1,4 @@
 Original Sentence: 
-In national over-the-counter trading MCI fell 2.625 to 42.375
+Essentially the critics of stock-index futures fall into two camps
 Additional Information: 
-('red t', 'IN', 'trading')
+('camp', 'green tented ')

@@ -1,4 +1,4 @@
 Original Sentence: 
-The timing for change was right
+Proceeds will be used to eliminate and restructure bank debt
 Additional Information: 
-('change', 'loose')
+('bank', 'along', 'river')

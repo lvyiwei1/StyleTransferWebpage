@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's a very small shop
+The law sets a deficit target of 100 billion for fiscal 1990
 Additional Information: 
-('shop', 'IN', 'lounge')
+('target', 'red')

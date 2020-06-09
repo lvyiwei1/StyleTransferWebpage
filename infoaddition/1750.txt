@@ -1,4 +1,4 @@
 Original Sentence: 
-He expects Citicorp to take a similar step this year
+The company 's Excalibur will also appeal to families of course
 Additional Information: 
-('year', 'white')
+('company', 'ON', 'corner')

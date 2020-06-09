@@ -1,4 +1,4 @@
 Original Sentence: 
-Mr. Jones calls the ranch the Pentagon of Sportdom
+The Paris bank does n't publish that figure
 Additional Information: 
-('ranch', 'behind', 'cow')
+('bank', 'grassy')

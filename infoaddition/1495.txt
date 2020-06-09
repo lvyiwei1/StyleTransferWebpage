@@ -1,4 +1,4 @@
 Original Sentence: 
-Copper prices fell sharply Friday afternoon
+The woman won the bet
 Additional Information: 
-('photo', 'taken in', 'afternoon')
+('woman', 'holding', 'cell phone')

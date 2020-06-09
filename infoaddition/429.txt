@@ -1,4 +1,4 @@
 Original Sentence: 
-The reality is that Bank finances are rock solid
+Your paper needs a serious reality check
 Additional Information: 
-('rock', 'large')
+('paper', 'ON', 'pillows')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Of course Mr. Mason did not use neutral language
+Additional Information: 
+('language', 'foreign')

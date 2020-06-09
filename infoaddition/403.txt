@@ -1,4 +1,4 @@
 Original Sentence: 
-There was no cost estimate for the second phase
+Bonuses would be paid based on playing time and performance
 Additional Information: 
-('cost', 'displayed in front of', 'banana')
+('crowd', 'watching', 'performance')

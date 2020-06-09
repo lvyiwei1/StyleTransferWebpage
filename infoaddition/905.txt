@@ -1,4 +1,4 @@
 Original Sentence: 
-CLUBBING A FAN was n't the Baltimore Orioles ' fault
+Mr. Schwarz says the competition broadens the base of opportunity for us
 Additional Information: 
-('fan', 'IN', 'green shirt')
+('competition', 'horse')

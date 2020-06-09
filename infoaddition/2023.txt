@@ -1,4 +1,4 @@
 Original Sentence: 
-But the man who built it has fallen
+RADIO MALAISE draws the ear of the Federal Communications Commission
 Additional Information: 
-('man', 'standing')
+('ear', 'ON', 'girl')

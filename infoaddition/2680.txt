@@ -1,4 +1,4 @@
 Original Sentence: 
-The company also makes optical character recognition equipment
+a reflects 2-for-1 stock split effective Dec. 30 1988
 Additional Information: 
-('company', 'has', 'name')
+('split', 'ON', 'tracks')

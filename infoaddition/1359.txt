@@ -1,4 +1,4 @@
 Original Sentence: 
-In the 1988 quarter the bank earned 1.1 million
+Japanese companies have long been accused of sacrificing profit to boost sales
 Additional Information: 
-('quarter', 'silver')
+('company', 'name')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Earnings of female workers were unchanged
+The key man seems to be the campaign manager Mr. Lynch
 Additional Information: 
-('worker', 'construction')
+('manager', 'IN', 'dugout')

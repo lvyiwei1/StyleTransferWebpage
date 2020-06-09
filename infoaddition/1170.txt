@@ -1,4 +1,4 @@
 Original Sentence: 
-This being typed in a standing position
+In return the U.K. and France could keep their nuclear weapons
 Additional Information: 
-('standing', 'standing')
+('weapon', 'mounted on', 'wall')

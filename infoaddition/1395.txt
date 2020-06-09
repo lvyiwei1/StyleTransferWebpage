@@ -1,4 +1,4 @@
 Original Sentence: 
-Our customers watch us for the hidden message he said
+If the law leaves loopholes use them
 Additional Information: 
-('customer', 'WEARING', 'shirt')
+('drivers', 'are obeying', 'law')

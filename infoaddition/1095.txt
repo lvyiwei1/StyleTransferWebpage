@@ -1,4 +1,4 @@
 Original Sentence: 
-The financial-services industry was battered by the 1987 crash
+Prices of European government bonds also rose as U.S. stocks declined
 Additional Information: 
-('crash', 'white')
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Giveaways just give people the wrong image said Mr. Heinemann
+ITT also forecast a fourth-quarter blow to earnings from the California earthquake
 Additional Information: 
-('people', 'standing in', 'hall')
+('blow', 'IN', 'red')

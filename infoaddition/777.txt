@@ -1,4 +1,4 @@
 Original Sentence: 
-Their reaction was to do nothing and ride it out
+Foreign traders say the company is strapped for cash
 Additional Information: 
-('nothing', 'IN', 'sky')
+('cash', 'Two round pieces  ')

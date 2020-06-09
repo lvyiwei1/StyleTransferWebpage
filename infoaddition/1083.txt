@@ -1,4 +1,4 @@
 Original Sentence: 
-The stock split four-for-one on Oct. 10
+Many middle-class people would love free food Medicaid insurance utilities and rent
 Additional Information: 
-('stock', 'of', 'stock')
+('rent', 'tent cover', 'at beach')

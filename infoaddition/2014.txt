@@ -1,4 +1,4 @@
 Original Sentence: 
-Working with lawyers she says I need it
+Randy Delchamps retains his position as president
 Additional Information: 
-('lawyer', 'showing a', 'paper')
+('position', 'upright')

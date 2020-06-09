@@ -1,4 +1,4 @@
 Original Sentence: 
-I refer essentially to petroleum electric power banking and newsprint
+Judges will write the real bill as suits roll through the courts
 Additional Information: 
-('power', 'by', 'park')
+('bill', 'orange')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Times have changed
+NBC 's winning streak has been canceled
 Additional Information: 
-('time', 'ON', 'screen')
+('streak', 'white')

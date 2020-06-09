@@ -1,4 +1,4 @@
 Original Sentence: 
-Preparedness involves more than flashlights and fire alarms these days
+In major market activity Stock prices rose in light trading
 Additional Information: 
-('fire', 'on', 'crosswalk')
+('red t', 'IN', 'trading')

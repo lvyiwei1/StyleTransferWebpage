@@ -1,4 +1,4 @@
 Original Sentence: 
-AN EARTHQUAKE STRUCK Northern California killing more than 50 people
+The companies reached an agreement in principle for the sale in August
 Additional Information: 
-('people', 'standing')
+('company', 'ON', 'train')

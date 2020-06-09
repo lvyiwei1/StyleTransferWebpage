@@ -1,0 +1,4 @@
+Original Sentence: 
+Previously the company advertised at the 2 million level
+Additional Information: 
+('company', 'name')

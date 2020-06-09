@@ -1,4 +1,4 @@
 Original Sentence: 
-There are a lot of them and they have property
+The incident occurred Saturday night
 Additional Information: 
-('lot', 'parking')
+('night', 'black', 'sky')

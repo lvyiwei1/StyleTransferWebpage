@@ -1,4 +1,4 @@
 Original Sentence: 
-Japanese Firms Push Posh Car Showrooms
+A year earlier net was 71.6 million or 1.22 a share
 Additional Information: 
-('showroom', 'carpeted')
+('year', 'written on', 'photo')

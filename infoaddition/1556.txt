@@ -1,4 +1,4 @@
 Original Sentence: 
-The Dow Jones Industrial Average rose 39.55 points to 2683.20
+The dollar finished mixed while gold declined
 Additional Information: 
-('point', 'OF', 'tower')
+('dollar', 'twenty')

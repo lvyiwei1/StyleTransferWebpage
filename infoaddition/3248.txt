@@ -1,4 +1,4 @@
 Original Sentence: 
-United Illuminating also amended its rate plan
+They serve the industries and the special-interest groups
 Additional Information: 
-('plan', 'air')
+('group', 'large')

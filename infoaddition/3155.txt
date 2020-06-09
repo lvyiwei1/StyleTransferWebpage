@@ -1,4 +1,4 @@
 Original Sentence: 
-All prices are as of Monday 's close
+A decision is n't expected until some time next year
 Additional Information: 
-('price', 'ON', 'sign')
+('year', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+Gold a closely watched barometer of investor anxiety was little changed
+Additional Information: 
+('gold', 'brown')

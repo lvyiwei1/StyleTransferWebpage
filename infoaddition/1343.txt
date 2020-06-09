@@ -1,4 +1,4 @@
 Original Sentence: 
-Figgie is a fire protection electronics and industrial products concern
+Each Rothschild bank is linked by family ties and cross-ownership
 Additional Information: 
-('fire', 'inside', 'pizza oven')
+('family', 'sitting')

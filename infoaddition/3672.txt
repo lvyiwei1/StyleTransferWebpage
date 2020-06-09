@@ -1,0 +1,4 @@
+Original Sentence: 
+While some automotive programs have been delayed they have n't been canceled
+Additional Information: 
+('program', 'wedding')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Aldus Seattle makes computer software products
+For the week the index dropped 3.8 %
 Additional Information: 
-('product', 'IN', 'box')
+('day', 'OF', 'week')

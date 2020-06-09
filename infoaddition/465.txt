@@ -1,4 +1,4 @@
 Original Sentence: 
-Quest for Fire was the first time
+One team pays so much and the other pays more
 Additional Information: 
-('time', 'ON', 'clock')
+('team', 'has', 'dugout')

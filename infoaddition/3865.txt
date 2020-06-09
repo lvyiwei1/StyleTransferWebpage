@@ -1,0 +1,4 @@
+Original Sentence: 
+Copper prices fell sharply Friday afternoon
+Additional Information: 
+('copper', 'on top of', 'cake topper')

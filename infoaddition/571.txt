@@ -1,4 +1,4 @@
 Original Sentence: 
-Jeff Rowe contributed to this article
+Two other men also were charged with participating in the operation
 Additional Information: 
-('article', 'OF', 'clothing')
+('men', 'are playing with a', 'soccer ball')

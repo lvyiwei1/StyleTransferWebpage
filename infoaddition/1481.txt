@@ -1,4 +1,4 @@
 Original Sentence: 
-The most likely winner will be the Marxist-dominated SWAPO rebels
+All estimates exclude highway repair which could exceed 1 billion
 Additional Information: 
-('winner', '2nd place')
+('repair', 'ON', 'wall')

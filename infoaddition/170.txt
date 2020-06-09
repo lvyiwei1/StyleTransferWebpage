@@ -1,4 +1,4 @@
 Original Sentence: 
-The percentage change is since year-end
+And IBM said it expects the costs to continue climbing
 Additional Information: 
-('change', 'ON', 'red')
+('cost', 'displayed in front of', 'banana')

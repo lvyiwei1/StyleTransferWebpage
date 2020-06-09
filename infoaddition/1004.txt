@@ -1,4 +1,4 @@
 Original Sentence: 
-No reason for the request was given
+Solar-powered batteries will make the spire glow
 Additional Information: 
-('not', 'in mood right nowhold leg in air for no', 'reason')
+('glow', 'illuminating', 'wall')

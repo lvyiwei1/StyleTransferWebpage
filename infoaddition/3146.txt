@@ -1,4 +1,4 @@
 Original Sentence: 
-In Chicago for example size is the issue
+The company 's sales flattened during 1989 's first half
 Additional Information: 
-('size', 'ON', 'shirt')
+('half', 'OF', 'cabin')

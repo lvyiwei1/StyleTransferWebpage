@@ -1,4 +1,4 @@
 Original Sentence: 
-The estimate includes the results of new stores
+The farmer at the next truck shouts Wheat
 Additional Information: 
-('store', 'red')
+('truck', 'white')

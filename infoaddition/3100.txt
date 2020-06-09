@@ -1,4 +1,4 @@
 Original Sentence: 
-I 've got 70 kinds of apples
+They want late-night shuttles to the biology labs
 Additional Information: 
-('kind', 'ON', 'sidewalk')
+('shuttle', 'white')

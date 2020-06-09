@@ -1,4 +1,4 @@
 Original Sentence: 
-The incident occurred Saturday night
+Others prefer deep-discount zero-coupon bonds
 Additional Information: 
-('night', 'hangs over', 'city')
+('others', 'three')

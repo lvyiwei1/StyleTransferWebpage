@@ -1,4 +1,4 @@
 Original Sentence: 
-Roe v. Wade pre-empted political debate so the extremes blossomed
+This untried concept would expose these firms to potentially astronomical punitive damages
 Additional Information: 
-('panel', 'for', 'debate')
+('damage', 'IN', 'building')

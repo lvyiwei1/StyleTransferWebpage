@@ -1,4 +1,4 @@
 Original Sentence: 
-Marshall McLuhan you should have been there at that hour
+In national over-the-counter trading yesterday LIN rose 50 cents to 109.25
 Additional Information: 
-('hour', 'ON', 'box')
+('red t', 'IN', 'trading')

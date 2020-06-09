@@ -1,4 +1,4 @@
 Original Sentence: 
-But these are not the differences that make headlines
+I do n't know where all the buses are
 Additional Information: 
-('headline', 'ON', 'paper')
+('bus', 'has', 'doors')

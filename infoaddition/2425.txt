@@ -1,4 +1,4 @@
 Original Sentence: 
-In some cases competition has squeezed margins
+Both took further hits yesterday
 Additional Information: 
-('margin', 'thick')
+('baseball', 'has been', 'hit')

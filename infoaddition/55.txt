@@ -1,4 +1,4 @@
 Original Sentence: 
-Japanese stock salesmen selling American bonds
+Yet Mr. Rosen has turned the import phenomenon to his advantage
 Additional Information: 
-('stock', 'green')
+('sign', 'says', 'advantage')

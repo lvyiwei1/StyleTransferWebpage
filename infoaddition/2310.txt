@@ -1,4 +1,4 @@
 Original Sentence: 
-For now defense attorneys are tight-lipped about their plans
+The dollar rose against the Swiss and French francs
 Additional Information: 
-('basketball player', 'playing', 'defense')
+('dollar', 'ON', 'table')

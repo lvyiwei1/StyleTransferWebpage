@@ -1,4 +1,4 @@
 Original Sentence: 
-Now producers hope prices have hit bottom
+People wonder what 's going to happen next
 Additional Information: 
-('price', 'above', 'food')
+('people', 'standing')

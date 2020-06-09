@@ -1,4 +1,4 @@
 Original Sentence: 
-Texans Get Reasonable Car Rental Insurance
+Sotheby 's has been aggressively promoting the Dorrance sale
 Additional Information: 
-('car', 'parked')
+('sale', 'red')

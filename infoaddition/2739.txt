@@ -1,4 +1,4 @@
 Original Sentence: 
-Contract details however have n't been made public
+Analysts said the move could presage even harsher action by the banks
 Additional Information: 
-('detail', 'red')
+('bank', 'IN', 'field')

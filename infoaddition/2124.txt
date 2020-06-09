@@ -1,4 +1,4 @@
 Original Sentence: 
-Ms. Kolber said the committee had received other bids
+The assembly plant is scheduled to resume production on Oct. 30
 Additional Information: 
-('bid', 'metal')
+('assembly', 'for', 'fork')

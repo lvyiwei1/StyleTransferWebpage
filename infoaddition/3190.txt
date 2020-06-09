@@ -1,4 +1,4 @@
 Original Sentence: 
-Conner already is shipping its new drives
+A big reason for the chemical price retreat is overexpansion
 Additional Information: 
-('drive', 'IN', 'computer')
+('not', 'in mood right nowhold leg in air for no', 'reason')

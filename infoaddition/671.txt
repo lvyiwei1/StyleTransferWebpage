@@ -1,4 +1,4 @@
 Original Sentence: 
-Long-term CDs declined just a fraction
+Many people here expect a room-rate war as the new projects open
 Additional Information: 
-('cd', 'near', 'mouse')
+('people', 'ON', 'skis')

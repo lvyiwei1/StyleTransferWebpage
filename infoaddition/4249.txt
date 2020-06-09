@@ -1,0 +1,4 @@
+Original Sentence: 
+It said the maximum cost of the plan would be 9.7 million
+Additional Information: 
+('plan', 'air')

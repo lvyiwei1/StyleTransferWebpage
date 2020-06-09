@@ -1,0 +1,4 @@
+Original Sentence: 
+Some other fare promotions have backfired
+Additional Information: 
+('sign', 'saying', 'fare')

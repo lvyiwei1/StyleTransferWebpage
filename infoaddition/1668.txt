@@ -1,4 +1,4 @@
 Original Sentence: 
-There are a lot of have and have-not markets
+It said analysts had been expecting a small profit for the period
 Additional Information: 
-('market', 'outdoor')
+('period', 'against', 'background')

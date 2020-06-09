@@ -1,4 +1,4 @@
 Original Sentence: 
-Investors pulled back from bond funds in September too
+The dollar also moved higher in Tokyo
 Additional Information: 
-('bond', 'black ')
+('dollar', 'twenty')

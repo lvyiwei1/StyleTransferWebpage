@@ -1,4 +1,4 @@
 Original Sentence: 
-Nevertheless the device has been successful in other ways
+So far all the studies have concluded that RU-486 is safe
 Additional Information: 
-('device', 'IN', 'black backpack')
+('book', 'for', 'study')

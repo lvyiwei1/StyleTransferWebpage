@@ -1,0 +1,4 @@
+Original Sentence: 
+The program is aimed at improving the quality of printed material
+Additional Information: 
+('material', 'has', 'pinstripe')

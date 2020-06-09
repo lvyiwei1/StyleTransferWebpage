@@ -1,0 +1,4 @@
+Original Sentence: 
+It 's just not cost efficient he says
+Additional Information: 
+('cost', 'displayed in front of', 'banana')

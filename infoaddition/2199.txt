@@ -1,4 +1,4 @@
 Original Sentence: 
-Everybody was rubber-necking
+Which types of stocks currently have the greatest earnings risks
 Additional Information: 
-('everybody', 'wearing', 'sunglasses')
+('type', 'black')

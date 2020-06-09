@@ -1,4 +1,4 @@
 Original Sentence: 
-Prices of high-yield high-risk corporate securities ended unchanged
+In other words it was a better-than-average Manhattan commute
 Additional Information: 
-('price', 'listed on', 'banner')
+('word', 'white')

@@ -1,0 +1,4 @@
+Original Sentence: 
+The perception lingers says an official at a major industrial company
+Additional Information: 
+('company', 'that owns', 'bus')

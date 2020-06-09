@@ -1,4 +1,4 @@
 Original Sentence: 
-Citicorp posted a 9 % drop in quarterly profit
+Paper work on how it was spent is incomplete
 Additional Information: 
-('drop', 'ON', 'plate')
+('paper', 'beside', 'toilet')

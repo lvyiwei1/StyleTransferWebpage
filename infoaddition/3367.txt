@@ -1,4 +1,4 @@
 Original Sentence: 
-The operating chief 's post is new
+Administration officials defend Mr. Bush 's decision to make the trip
 Additional Information: 
-('chief', 'handker')
+('official', 'watching', 'game')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Gerald F. Seib contributed to this article
+There 's nothing like skin to skin
 Additional Information: 
-('article', 'ON', 'chair')
+('skin', 'has', 'patches')

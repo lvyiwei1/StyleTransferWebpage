@@ -1,4 +1,4 @@
 Original Sentence: 
-The last Taxpayer Compliance Measurement Program survey covered 1985 returns
+Some buildings collapsed gas and water lines ruptured and fires raged
 Additional Information: 
-('return', 'ON', 'street')
+('gas', 'invisible')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Customized baskets of fewer stocks will also be available
+A further problem is razor-thin profits
 Additional Information: 
-('stock', 'green')
+('plane', 'has', 'problem')

@@ -1,4 +1,4 @@
 Original Sentence: 
-SELL WHISPER STOCKS
+But Pemex managers are the ones most thrilled by the contract
 Additional Information: 
-('stock', 'green')
+('manager', 'speaking with', 'players')

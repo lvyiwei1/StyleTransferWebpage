@@ -1,4 +1,4 @@
 Original Sentence: 
-The market was caught totally the wrong way
+But the complex language is n't the only reason
 Additional Information: 
-('way', 'scrapped on', 'bus')
+('not', 'in mood right nowhold leg in air for no', 'reason')

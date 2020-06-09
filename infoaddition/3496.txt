@@ -1,0 +1,4 @@
+Original Sentence: 
+The DAX dropped 19.69 points Friday to 1462.93
+Additional Information: 
+('point', 'sharp')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Those companies are paying the price for taking the risk
+The stock gained 2.75 Thursday to close at a then-52 week high
 Additional Information: 
-('company', 'has', 'advertisement')
+('day', 'OF', 'week')

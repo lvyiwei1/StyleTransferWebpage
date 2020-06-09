@@ -1,4 +1,4 @@
 Original Sentence: 
-The new exchange drew instant recognition from an unwelcome quarter
+The suit sets the firms ' liability at more than 185 million
 Additional Information: 
-('quarter', 'lying on', 'shelf')
+('suit', 'black')

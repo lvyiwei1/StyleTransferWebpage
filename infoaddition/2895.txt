@@ -1,4 +1,4 @@
 Original Sentence: 
-The IRA portion of the Packwood-Roth plan is irresponsible
+Known as Easy Eggs the product has disappointed investors
 Additional Information: 
-('portion', 'white')
+('product', 'bathroom')

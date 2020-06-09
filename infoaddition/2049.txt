@@ -1,4 +1,4 @@
 Original Sentence: 
-I would like to issue a challenge to corporate America
+Such caution was evident after the recent Friday-the-13th stock market plunge
 Additional Information: 
-('challenge', 'word')
+('caution', 'written')

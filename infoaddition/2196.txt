@@ -1,4 +1,4 @@
 Original Sentence: 
-There 's nothing rational about this kind of action
+He is negotiating a rich book contract to boot
 Additional Information: 
-('kind', 'ON', 'sidewalk')
+('boot', 'ON', 'foot')

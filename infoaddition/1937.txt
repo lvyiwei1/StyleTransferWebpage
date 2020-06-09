@@ -1,4 +1,4 @@
 Original Sentence: 
-Most are anchored by a K mart store
+The stock slid 1.875 on more than four times average daily volume
 Additional Information: 
-('store', 'Sells', 'bag')
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-It 's very worrying that these markets ca n't cope
+Among the biggest winners were brokerage-house stocks responding to heavy trading volume
 Additional Information: 
-('market', 'filled with', 'green peppers')
+('winner', '2nd place')

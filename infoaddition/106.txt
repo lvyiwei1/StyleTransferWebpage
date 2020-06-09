@@ -1,4 +1,4 @@
 Original Sentence: 
-That is the key to the current national disease
+Customized baskets of fewer stocks will also be available
 Additional Information: 
-('key', 'black')
+('stock', 'green')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Now comes the pool flap
+People are fearful and sensitive
 Additional Information: 
-('flap', 'OF', 'bird')
+('people', 'standing')

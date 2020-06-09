@@ -1,4 +1,4 @@
 Original Sentence: 
-Which cars do Americans favor most these days
+The house just settled right down into the ground
 Additional Information: 
-('day', 'sunny')
+('house', 'ON', 'hill')

@@ -1,4 +1,4 @@
 Original Sentence: 
-Proceeds from those sales will be used to reduce debt
+Then they said By the way two of the doors are locked
 Additional Information: 
-('sale', 'ON', 'window')
+('door', 'ON', 'plane')

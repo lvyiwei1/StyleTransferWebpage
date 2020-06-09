@@ -1,4 +1,4 @@
 Original Sentence: 
-Coors with its large beer-distribution network could penetrate more markets
+Sales rose to 52.4 million from 50.1 million
 Additional Information: 
-('market', 'outdoor')
+('sale', 'ON', 'window')

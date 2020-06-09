@@ -1,0 +1,4 @@
+Original Sentence: 
+The computers will display stock prices selected by users
+Additional Information: 
+('stock', 'OF', 'broccoli')

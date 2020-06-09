@@ -1,4 +1,4 @@
 Original Sentence: 
-This means the returns can vary a great deal
+The spokeswoman said the exchange would resume trading of Delmed stock today
 Additional Information: 
-('deal', 'great')
+('stock', 'green')

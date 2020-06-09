@@ -1,4 +1,4 @@
 Original Sentence: 
-The mask cuts to the quick
+In the latest quarter at least profit is expected to fall sharply
 Additional Information: 
-('mask', 'ON', 'catcher')
+('quarter', 'OF', 'train')

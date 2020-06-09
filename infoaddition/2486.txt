@@ -1,4 +1,4 @@
 Original Sentence: 
-Pockets exploded with one-yen coins
+But steelmakers must also find new markets
 Additional Information: 
-('pocket', 'ON', 'cargo pants')
+('market', 'outdoor')

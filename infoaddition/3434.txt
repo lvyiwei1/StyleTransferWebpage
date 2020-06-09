@@ -1,4 +1,4 @@
 Original Sentence: 
-PaineWebber considered an even harder sell recommending specific stocks
+That has outraged some fans
 Additional Information: 
-('stock', 'green')
+('fan', 'white')

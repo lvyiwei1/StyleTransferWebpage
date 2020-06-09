@@ -1,4 +1,4 @@
 Original Sentence: 
-He is ogling the curtains rippling above the ventilation ducts
+It was like a play on Broadway recalls Mr. Martinez
 Additional Information: 
-('duct', 'ON', 'wall')
+('coaches', 'watching', 'play')

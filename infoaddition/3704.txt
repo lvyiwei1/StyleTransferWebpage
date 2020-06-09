@@ -1,0 +1,4 @@
+Original Sentence: 
+So it 's a very mixed bag
+Additional Information: 
+('bag', 'IN', 'hand')

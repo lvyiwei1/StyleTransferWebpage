@@ -1,4 +1,4 @@
 Original Sentence: 
-Still the split is there
+The company plans to expand plant capacity 50 % by 1991
 Additional Information: 
-('split', 'IN', 'tree trunk')
+('company', 'that owns', 'bus')
