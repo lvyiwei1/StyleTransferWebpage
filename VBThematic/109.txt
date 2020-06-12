@@ -1,3 +1,1 @@
-Original Sentence: 
-Revenue dropped 5.4 % to 3.48 billion from 3.68 billion
-Emphasize: dropped
+Revenue [[dropped]] 5.4 % to 3.48 billion from 3.68 billion 

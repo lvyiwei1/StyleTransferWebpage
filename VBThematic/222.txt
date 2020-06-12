@@ -1,3 +1,1 @@
-Original Sentence: 
-The FT 30-share index closed 11.0 points lower at 1761.0
-Emphasize: closed
+The FT 30-share index [[closed]] 11.0 points lower at 1761.0 

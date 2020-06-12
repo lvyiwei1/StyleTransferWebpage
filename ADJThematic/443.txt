@@ -1,3 +1,1 @@
-Original Sentence: 
-Both took further hits yesterday
-Emphasize: further
+Both took [[further]] hits yesterday 

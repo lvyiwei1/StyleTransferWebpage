@@ -1,3 +1,1 @@
-Original Sentence: 
-The London Times said she had contravened protocol
-Emphasize: contravened
+The London Times said she had [[contravened]] protocol 

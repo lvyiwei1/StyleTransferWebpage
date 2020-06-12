@@ -1,3 +1,1 @@
-Original Sentence: 
-And there he was recalls Mr. Engelken
-Emphasize: recalls
+And there he was [[recalls]] Mr. Engelken 

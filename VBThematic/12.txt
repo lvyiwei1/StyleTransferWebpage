@@ -1,3 +1,1 @@
-Original Sentence: 
-The transaction will take place tomorrow
-Emphasize: take
+The transaction will [[take]] place tomorrow 

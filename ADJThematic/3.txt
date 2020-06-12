@@ -1,3 +1,1 @@
-Original Sentence: 
-Institutional buyers were the main force pushing blue chips higher
-Emphasize: main
+Institutional buyers were the [[main]] force pushing blue chips higher 

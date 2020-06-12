@@ -1,3 +1,1 @@
-Original Sentence: 
-The playoff series had riveted the 12-year-old Giants fan
-Emphasize: riveted
+The playoff series had [[riveted]] the 12-year-old Giants fan 

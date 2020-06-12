@@ -1,3 +1,1 @@
-Original Sentence: 
-I still say do n't look down
-Emphasize: look
+I still say do n't [[look]] down 

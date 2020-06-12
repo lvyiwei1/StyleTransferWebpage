@@ -1,3 +1,1 @@
-Original Sentence: 
-These guys prey on human frailties
-Emphasize: human
+These guys prey on [[human]] frailties 

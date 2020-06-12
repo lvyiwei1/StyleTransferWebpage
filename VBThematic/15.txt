@@ -1,3 +1,1 @@
-Original Sentence: 
-An analyst cited weaker capital spending and exports
-Emphasize: cited
+An analyst [[cited]] weaker capital spending and exports 

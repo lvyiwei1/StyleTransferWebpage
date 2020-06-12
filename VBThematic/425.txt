@@ -1,3 +1,1 @@
-Original Sentence: 
-And the risks are n't appropriate for us he says
-Emphasize: says
+And the risks are n't appropriate for us he [[says]] 

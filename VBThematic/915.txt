@@ -1,3 +1,1 @@
-Original Sentence: 
-Whittle has met some resistance
-Emphasize: met
+Whittle has [[met]] some resistance 

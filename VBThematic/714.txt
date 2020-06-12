@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Smith is trying hard to allay the anger
-Emphasize: trying
+Mr. Smith is [[trying]] hard to allay the anger 

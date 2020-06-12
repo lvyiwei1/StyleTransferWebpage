@@ -1,3 +1,1 @@
-Original Sentence: 
-Revenue gained 3.1 % to 26.81 billion from 26 billion
-Emphasize: gained
+Revenue [[gained]] 3.1 % to 26.81 billion from 26 billion 

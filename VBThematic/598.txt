@@ -1,3 +1,1 @@
-Original Sentence: 
-Tymnet is a major network linking computers
-Emphasize: linking
+Tymnet is a major network [[linking]] computers 

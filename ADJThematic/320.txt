@@ -1,3 +1,1 @@
-Original Sentence: 
-This misguided policy could not prevent a British trade deficit
-Emphasize: misguided
+This [[misguided]] policy could not prevent a British trade deficit 

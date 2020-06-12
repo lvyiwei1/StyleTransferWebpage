@@ -1,3 +1,1 @@
-Original Sentence: 
-He bites it scowls and throws it down
-Emphasize: scowls
+He bites it [[scowls]] and throws it down 

@@ -1,3 +1,1 @@
-Original Sentence: 
-We write straight for women on their level he said
-Emphasize: said
+We write straight for women on their level he [[said]] 

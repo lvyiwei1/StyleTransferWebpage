@@ -1,3 +1,1 @@
-Original Sentence: 
-You talk about free time .what free time
-Emphasize: talk
+You [[talk]] about free time .what free time 

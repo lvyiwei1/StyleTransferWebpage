@@ -1,3 +1,1 @@
-Original Sentence: 
-The company 's trustee F.E. Agnew was unavailable for comment
-Emphasize: unavailable
+The company 's trustee F.E. Agnew was [[unavailable]] for comment 

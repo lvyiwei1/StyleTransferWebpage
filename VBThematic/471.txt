@@ -1,3 +1,1 @@
-Original Sentence: 
-But the issue is stickier than it seems
-Emphasize: seems
+But the issue is stickier than it [[seems]] 

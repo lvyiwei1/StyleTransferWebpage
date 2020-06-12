@@ -1,3 +1,1 @@
-Original Sentence: 
-And IBM said it expects the costs to continue climbing
-Emphasize: continue
+And IBM said it expects the costs to [[continue]] climbing 

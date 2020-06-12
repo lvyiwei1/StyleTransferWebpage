@@ -1,3 +1,1 @@
-Original Sentence: 
-And he yelled out dolce dolce sweet sweet
-Emphasize: sweet
+And he yelled out dolce dolce [[sweet]] [[sweet]] 

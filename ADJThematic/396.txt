@@ -1,3 +1,1 @@
-Original Sentence: 
-My relationships with the British are totally different
-Emphasize: different
+My relationships with the British are totally [[different]] 

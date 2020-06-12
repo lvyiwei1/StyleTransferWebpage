@@ -1,3 +1,1 @@
-Original Sentence: 
-In major market activity Stock prices rose in light trading
-Emphasize: rose
+In major market activity Stock prices [[rose]] in light trading 

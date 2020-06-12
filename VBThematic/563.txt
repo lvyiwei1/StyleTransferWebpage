@@ -1,3 +1,1 @@
-Original Sentence: 
-Both issues are dated Oct. 26
-Emphasize: dated
+Both issues are [[dated]] Oct. 26 

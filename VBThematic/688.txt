@@ -1,3 +1,1 @@
-Original Sentence: 
-Friday brings the final count on October auto sales
-Emphasize: brings
+Friday [[brings]] the final count on October auto sales 

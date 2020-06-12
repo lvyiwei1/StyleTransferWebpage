@@ -1,3 +1,1 @@
-Original Sentence: 
-Ms. Bartlett would not discuss her garden for this article
-Emphasize: discuss
+Ms. Bartlett would not [[discuss]] her garden for this article 

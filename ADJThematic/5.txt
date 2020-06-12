@@ -1,3 +1,1 @@
-Original Sentence: 
-This is the most moving Traviata I 've ever seen
-Emphasize: moving
+This is the most [[moving]] Traviata I 've ever seen 

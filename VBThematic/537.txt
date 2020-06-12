@@ -1,3 +1,1 @@
-Original Sentence: 
-Appalled Mr. Green never paid the money he testified
-Emphasize: testified
+Appalled Mr. Green never paid the money he [[testified]] 

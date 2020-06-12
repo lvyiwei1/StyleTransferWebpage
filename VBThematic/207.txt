@@ -1,3 +1,1 @@
-Original Sentence: 
-It closed yesterday at 34 3\/4
-Emphasize: closed
+It [[closed]] yesterday at 34 3\/4 

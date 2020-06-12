@@ -1,3 +1,1 @@
-Original Sentence: 
-This news raised hopes for further interest-rate cuts
-Emphasize: raised
+This news [[raised]] hopes for further interest-rate cuts 

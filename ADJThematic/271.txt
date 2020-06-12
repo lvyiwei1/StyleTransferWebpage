@@ -1,3 +1,1 @@
-Original Sentence: 
-The result is a new and huge appetite for programming
-Emphasize: new
+The result is a [[new]] and huge appetite for programming 

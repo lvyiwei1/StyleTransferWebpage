@@ -1,3 +1,1 @@
-Original Sentence: 
-Meanwhile at home Mitsubishi has control of some major projects
-Emphasize: major
+Meanwhile at home Mitsubishi has control of some [[major]] projects 

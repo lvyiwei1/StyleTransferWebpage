@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Allday would succeed Martha Hesse who is resigning
-Emphasize: resigning
+Mr. Allday would succeed Martha Hesse who is [[resigning]] 

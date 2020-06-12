@@ -1,3 +1,1 @@
-Original Sentence: 
-The association said domestic demand grew 8.8 % in September
-Emphasize: domestic
+The association said [[domestic]] demand grew 8.8 % in September 

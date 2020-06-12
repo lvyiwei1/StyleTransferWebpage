@@ -1,3 +1,1 @@
-Original Sentence: 
-The selling that started on Friday continued yesterday
-Emphasize: continued
+The selling that started on Friday [[continued]] yesterday 

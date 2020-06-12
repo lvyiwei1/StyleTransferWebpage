@@ -1,3 +1,1 @@
-Original Sentence: 
-It adds something to the market
-Emphasize: adds
+It [[adds]] something to the market 

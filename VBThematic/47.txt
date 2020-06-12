@@ -1,3 +1,1 @@
-Original Sentence: 
-The venture cost Quebecor 12 million Mr. Peladeau says
-Emphasize: says
+The venture cost Quebecor 12 million Mr. Peladeau [[says]] 

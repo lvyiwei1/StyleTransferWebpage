@@ -1,3 +1,1 @@
-Original Sentence: 
-Radio programs and books have followed the daily television show
-Emphasize: daily
+Radio programs and books have followed the [[daily]] television show 

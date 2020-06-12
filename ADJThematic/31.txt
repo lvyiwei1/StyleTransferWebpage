@@ -1,3 +1,1 @@
-Original Sentence: 
-But the production is the equal of any local program
-Emphasize: local
+But the production is the equal of any [[local]] program 

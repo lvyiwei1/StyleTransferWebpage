@@ -1,3 +1,1 @@
-Original Sentence: 
-But the broader truth is more complicated and dismaying
-Emphasize: broader
+But the [[broader]] truth is more complicated and dismaying 

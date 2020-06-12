@@ -1,3 +1,1 @@
-Original Sentence: 
-Other mutual fund companies reported even lighter withdrawal requests
-Emphasize: Other
+[[Other]] mutual fund companies reported even lighter withdrawal requests 

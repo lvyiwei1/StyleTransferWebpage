@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Bates usually handles day-to-day UAL trading on his own
-Emphasize: day-to-day
+Mr. Bates usually handles [[day-to-day]] UAL trading on his own 

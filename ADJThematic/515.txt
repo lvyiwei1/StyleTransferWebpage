@@ -1,3 +1,1 @@
-Original Sentence: 
-The investors range from elderly widows to affluent professionals
-Emphasize: elderly
+The investors range from [[elderly]] widows to affluent professionals 

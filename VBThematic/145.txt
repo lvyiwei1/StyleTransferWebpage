@@ -1,3 +1,1 @@
-Original Sentence: 
-Bonuses would be paid based on playing time and performance
-Emphasize: based
+Bonuses would be paid [[based]] on playing time and performance 

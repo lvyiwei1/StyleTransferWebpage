@@ -1,3 +1,1 @@
-Original Sentence: 
-The volatility was dizzying for traders
-Emphasize: dizzying
+The volatility was [[dizzying]] for traders 

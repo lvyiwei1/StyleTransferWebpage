@@ -1,3 +1,1 @@
-Original Sentence: 
-Crane dropped 1 1\/8 to 21 1\/8
-Emphasize: dropped
+Crane [[dropped]] 1 1\/8 to 21 1\/8 

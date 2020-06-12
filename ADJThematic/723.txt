@@ -1,3 +1,1 @@
-Original Sentence: 
-Imperial Cup has annual sales of approximately 75 million
-Emphasize: annual
+Imperial Cup has [[annual]] sales of approximately 75 million 

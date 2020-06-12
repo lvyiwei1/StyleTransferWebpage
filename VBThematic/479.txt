@@ -1,3 +1,1 @@
-Original Sentence: 
-Those concerns are n't expressed in public
-Emphasize: expressed
+Those concerns are n't [[expressed]] in public 

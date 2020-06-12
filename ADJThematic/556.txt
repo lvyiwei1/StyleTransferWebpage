@@ -1,3 +1,1 @@
-Original Sentence: 
-He confers big trading commissions on Wall Street firms
-Emphasize: big
+He confers [[big]] trading commissions on Wall Street firms 

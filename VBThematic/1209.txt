@@ -1,3 +1,1 @@
-Original Sentence: 
-And if the Europeans come in they benefit too
-Emphasize: come
+And if the Europeans [[come]] in they benefit too 

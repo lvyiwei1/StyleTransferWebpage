@@ -1,3 +1,1 @@
-Original Sentence: 
-More-detailed reports followed and attracted even less notice
-Emphasize: followed
+More-detailed reports [[followed]] and attracted even less notice 

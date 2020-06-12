@@ -1,3 +1,1 @@
-Original Sentence: 
-In fact they seemed a mite resentful
-Emphasize: resentful
+In fact they seemed a mite [[resentful]] 

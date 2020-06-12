@@ -1,3 +1,1 @@
-Original Sentence: 
-Nonsense she told an interviewer yesterday on London Weekend Television
-Emphasize: told
+Nonsense she [[told]] an interviewer yesterday on London Weekend Television 

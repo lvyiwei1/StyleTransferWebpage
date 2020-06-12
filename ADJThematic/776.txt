@@ -1,3 +1,1 @@
-Original Sentence: 
-Any fool can publish a money-losing magazine
-Emphasize: money-losing
+Any fool can publish a [[money-losing]] magazine 

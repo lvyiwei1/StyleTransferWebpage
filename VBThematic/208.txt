@@ -1,3 +1,1 @@
-Original Sentence: 
-Offices of the city 's Rent Board were destroyed
-Emphasize: destroyed
+Offices of the city 's Rent Board were [[destroyed]] 

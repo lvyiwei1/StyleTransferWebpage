@@ -1,3 +1,1 @@
-Original Sentence: 
-Many bankers view property-sector loans as particularly risky
-Emphasize: risky
+Many bankers view property-sector loans as particularly [[risky]] 

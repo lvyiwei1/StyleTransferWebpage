@@ -1,3 +1,1 @@
-Original Sentence: 
-Borrowed shares on the Amex rose to another record
-Emphasize: rose
+Borrowed shares on the Amex [[rose]] to another record 

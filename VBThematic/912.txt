@@ -1,3 +1,1 @@
-Original Sentence: 
-Please submit your offers says Felipe Bince Jr
-Emphasize: submit
+Please [[submit]] your offers says Felipe Bince Jr 

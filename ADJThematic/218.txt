@@ -1,3 +1,1 @@
-Original Sentence: 
-Wisconsin Toy currently has about 4.7 million shares outstanding
-Emphasize: outstanding
+Wisconsin Toy currently has about 4.7 million shares [[outstanding]] 

@@ -1,3 +1,1 @@
-Original Sentence: 
-But Trelleborg still must clear some tough hurdles
-Emphasize: tough
+But Trelleborg still must clear some [[tough]] hurdles 

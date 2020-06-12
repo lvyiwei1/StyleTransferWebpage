@@ -1,3 +1,1 @@
-Original Sentence: 
-Stocks of California-based thrifts also were hard hit
-Emphasize: hit
+Stocks of California-based thrifts also were hard [[hit]] 

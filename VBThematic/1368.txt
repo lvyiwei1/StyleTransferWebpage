@@ -1,3 +1,1 @@
-Original Sentence: 
-Prudential Insurance is based in Newark N.J
-Emphasize: based
+Prudential Insurance is [[based]] in Newark N.J 

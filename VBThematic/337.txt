@@ -1,3 +1,1 @@
-Original Sentence: 
-The company rejected those past proposals
-Emphasize: rejected
+The company [[rejected]] those past proposals 

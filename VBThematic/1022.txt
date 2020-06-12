@@ -1,3 +1,1 @@
-Original Sentence: 
-I just do n't understand it
-Emphasize: understand
+I just do n't [[understand]] it 

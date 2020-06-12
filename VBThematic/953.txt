@@ -1,3 +1,1 @@
-Original Sentence: 
-The failed bank had assets of about 129.6 million
-Emphasize: failed
+The [[failed]] bank had assets of about 129.6 million 

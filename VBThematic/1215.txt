@@ -1,3 +1,1 @@
-Original Sentence: 
-Shortage and crisis became buzz words although neither really applied
-Emphasize: became
+Shortage and crisis [[became]] buzz words although neither really applied 

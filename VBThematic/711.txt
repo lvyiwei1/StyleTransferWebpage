@@ -1,3 +1,1 @@
-Original Sentence: 
-We certainly see an increasing trend toward that she added
-Emphasize: increasing
+We certainly see an [[increasing]] trend toward that she added 

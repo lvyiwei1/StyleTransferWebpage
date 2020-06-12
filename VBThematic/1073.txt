@@ -1,3 +1,1 @@
-Original Sentence: 
-The Nasdaq 100 rose 7.08 to 445.23
-Emphasize: rose
+The Nasdaq 100 [[rose]] 7.08 to 445.23 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Neither disclosed details pending board meetings next month
-Emphasize: disclosed
+Neither [[disclosed]] details pending board meetings next month 

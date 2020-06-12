@@ -1,3 +1,1 @@
-Original Sentence: 
-Meanwhile several new issues were priced
-Emphasize: priced
+Meanwhile several new issues were [[priced]] 

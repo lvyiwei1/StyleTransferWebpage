@@ -1,3 +1,1 @@
-Original Sentence: 
-An early battleground was the U.S. Department of Agriculture
-Emphasize: early
+An [[early]] battleground was the U.S. Department of Agriculture 

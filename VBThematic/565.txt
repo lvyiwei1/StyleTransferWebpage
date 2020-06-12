@@ -1,3 +1,1 @@
-Original Sentence: 
-Coca-Cola Co. may be about to intensify the cola wars
-Emphasize: intensify
+Coca-Cola Co. may be about to [[intensify]] the cola wars 

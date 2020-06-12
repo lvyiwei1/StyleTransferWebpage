@@ -1,3 +1,1 @@
-Original Sentence: 
-A man said he saw the upper rim undulate
-Emphasize: upper
+A man said he saw the [[upper]] rim undulate 

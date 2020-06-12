@@ -1,3 +1,1 @@
-Original Sentence: 
-The session failed to enact any new curbs
-Emphasize: failed
+The session [[failed]] to enact any new curbs 

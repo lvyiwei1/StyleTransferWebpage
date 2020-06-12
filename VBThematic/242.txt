@@ -1,3 +1,1 @@
-Original Sentence: 
-The consequences of building empires with sand are showing up
-Emphasize: building
+The consequences of [[building]] empires with sand are showing up 

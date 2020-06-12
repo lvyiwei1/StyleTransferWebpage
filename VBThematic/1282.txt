@@ -1,3 +1,1 @@
-Original Sentence: 
-With that authority of course goes an unambiguous accountability
-Emphasize: goes
+With that authority of course [[goes]] an unambiguous accountability 

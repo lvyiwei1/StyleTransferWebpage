@@ -1,3 +1,1 @@
-Original Sentence: 
-Kellogg 's main problem is life style
-Emphasize: main
+Kellogg 's [[main]] problem is life style 

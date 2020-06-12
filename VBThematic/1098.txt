@@ -1,3 +1,1 @@
-Original Sentence: 
-But a bunch of utilities should post profit increases
-Emphasize: post
+But a bunch of utilities should [[post]] profit increases 

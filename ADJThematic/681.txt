@@ -1,3 +1,1 @@
-Original Sentence: 
-The devices ' most remarkable possibilities though involve the brain
-Emphasize: remarkable
+The devices ' most [[remarkable]] possibilities though involve the brain 

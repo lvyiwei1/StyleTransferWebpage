@@ -1,3 +1,1 @@
-Original Sentence: 
-The case went on appeal to the Second Circuit
-Emphasize: went
+The case [[went]] on appeal to the Second Circuit 

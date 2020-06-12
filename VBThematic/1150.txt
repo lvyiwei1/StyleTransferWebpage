@@ -1,3 +1,1 @@
-Original Sentence: 
-Some other fare promotions have backfired
-Emphasize: backfired
+Some other fare promotions have [[backfired]] 

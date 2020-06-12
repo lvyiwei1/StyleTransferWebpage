@@ -1,3 +1,1 @@
-Original Sentence: 
-The June killings magnified the problems
-Emphasize: magnified
+The June killings [[magnified]] the problems 

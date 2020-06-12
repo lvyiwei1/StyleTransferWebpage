@@ -1,3 +1,1 @@
-Original Sentence: 
-We are almost left out of campus social activities
-Emphasize: social
+We are almost left out of campus [[social]] activities 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Short-term rates were little changed
-Emphasize: Short-term
+[[Short-term]] rates were little changed 

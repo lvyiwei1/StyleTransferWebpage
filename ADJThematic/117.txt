@@ -1,3 +1,1 @@
-Original Sentence: 
-Complete details were n't immediately available
-Emphasize: available
+Complete details were n't immediately [[available]] 

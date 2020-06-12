@@ -1,3 +1,1 @@
-Original Sentence: 
-Himont is 81%-owned by Montedison S.p A. of Milan Italy
-Emphasize: 81%-owned
+Himont is [[81%-owned]] by Montedison S.p A. of Milan Italy 

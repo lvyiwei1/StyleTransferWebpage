@@ -1,3 +1,1 @@
-Original Sentence: 
-Not everything looks grim for Quantum
-Emphasize: grim
+Not everything looks [[grim]] for Quantum 

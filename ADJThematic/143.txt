@@ -1,3 +1,1 @@
-Original Sentence: 
-Pilgrim had been closed for 32 months
-Emphasize: closed
+Pilgrim had been [[closed]] for 32 months 

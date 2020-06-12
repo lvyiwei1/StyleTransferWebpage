@@ -1,3 +1,1 @@
-Original Sentence: 
-The recent sharp stock market decline exacerbated those concerns
-Emphasize: recent
+The [[recent]] sharp stock market decline exacerbated those concerns 

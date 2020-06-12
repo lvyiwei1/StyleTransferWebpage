@@ -1,3 +1,1 @@
-Original Sentence: 
-About 518 million of debt is affected
-Emphasize: affected
+About 518 million of debt is [[affected]] 

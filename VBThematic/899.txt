@@ -1,3 +1,1 @@
-Original Sentence: 
-That contract was tied to the success of the buy-out
-Emphasize: tied
+That contract was [[tied]] to the success of the buy-out 

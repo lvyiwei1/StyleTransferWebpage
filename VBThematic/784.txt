@@ -1,3 +1,1 @@
-Original Sentence: 
-Nashua announced the Reiss request after the market closed
-Emphasize: closed
+Nashua announced the Reiss request after the market [[closed]] 

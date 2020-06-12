@@ -1,3 +1,1 @@
-Original Sentence: 
-But some players were quick to seize the moment
-Emphasize: quick
+But some players were [[quick]] to seize the moment 

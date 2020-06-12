@@ -1,3 +1,1 @@
-Original Sentence: 
-But one far-afield effect is still with us
-Emphasize: far-afield
+But one [[far-afield]] effect is still with us 

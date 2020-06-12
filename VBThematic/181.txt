@@ -1,3 +1,1 @@
-Original Sentence: 
-The company is being acquired
-Emphasize: acquired
+The company is being [[acquired]] 

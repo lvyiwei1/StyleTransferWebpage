@@ -1,3 +1,1 @@
-Original Sentence: 
-Still some aid is moving westward from Washington almost immediately
-Emphasize: moving
+Still some aid is [[moving]] westward from Washington almost immediately 

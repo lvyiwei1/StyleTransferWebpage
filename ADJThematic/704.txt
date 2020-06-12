@@ -1,3 +1,1 @@
-Original Sentence: 
-Many economists expect the weakness to continue
-Emphasize: Many
+[[Many]] economists expect the weakness to continue 

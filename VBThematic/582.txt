@@ -1,3 +1,1 @@
-Original Sentence: 
-But it never did let up on the pressure
-Emphasize: let
+But it never did [[let]] up on the pressure 

@@ -1,3 +1,1 @@
-Original Sentence: 
-The takeover mania also adds to volatility
-Emphasize: adds
+The takeover mania also [[adds]] to volatility 

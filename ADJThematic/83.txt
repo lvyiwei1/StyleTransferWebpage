@@ -1,3 +1,1 @@
-Original Sentence: 
-ARE CORPORATE profits distributed fairly
-Emphasize: CORPORATE
+ARE [[CORPORATE]] profits distributed fairly 

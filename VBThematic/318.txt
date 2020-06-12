@@ -1,3 +1,1 @@
-Original Sentence: 
-Solar-powered batteries will make the spire glow
-Emphasize: make
+Solar-powered batteries will [[make]] the spire glow 

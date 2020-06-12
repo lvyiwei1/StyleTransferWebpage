@@ -1,3 +1,1 @@
-Original Sentence: 
-Britain 's unsettled political scene also worries some investors
-Emphasize: political
+Britain 's unsettled [[political]] scene also worries some investors 

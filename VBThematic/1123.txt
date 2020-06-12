@@ -1,3 +1,1 @@
-Original Sentence: 
-The markets are returning to normalcy
-Emphasize: returning
+The markets are [[returning]] to normalcy 

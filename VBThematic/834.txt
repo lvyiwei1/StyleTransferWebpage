@@ -1,3 +1,1 @@
-Original Sentence: 
-That may be the last thing she needs
-Emphasize: needs
+That may be the last thing she [[needs]] 

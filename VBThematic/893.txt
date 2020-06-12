@@ -1,3 +1,1 @@
-Original Sentence: 
-NCNB 's profit more than doubled
-Emphasize: doubled
+NCNB 's profit more than [[doubled]] 

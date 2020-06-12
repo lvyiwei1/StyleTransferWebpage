@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Decker 's resignation surprised many industry officials
-Emphasize: many
+Mr. Decker 's resignation surprised [[many]] industry officials 

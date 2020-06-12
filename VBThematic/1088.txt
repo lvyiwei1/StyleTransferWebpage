@@ -1,3 +1,1 @@
-Original Sentence: 
-Revenue rose slightly to 3.8 billion from 3.7 billion
-Emphasize: rose
+Revenue [[rose]] slightly to 3.8 billion from 3.7 billion 

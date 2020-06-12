@@ -1,3 +1,1 @@
-Original Sentence: 
-Climate varies drastically due to natural causes said Mr. Thompson
-Emphasize: said
+Climate varies drastically due to natural causes [[said]] Mr. Thompson 

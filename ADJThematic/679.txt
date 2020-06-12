@@ -1,3 +1,1 @@
-Original Sentence: 
-It 's a horrible machine actually
-Emphasize: horrible
+It 's a [[horrible]] machine actually 

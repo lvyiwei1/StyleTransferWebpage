@@ -1,3 +1,1 @@
-Original Sentence: 
-But do n't do anything rash
-Emphasize: rash
+But do n't do anything [[rash]] 

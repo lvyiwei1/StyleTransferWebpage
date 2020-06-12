@@ -1,3 +1,1 @@
-Original Sentence: 
-Trading activity cooled off from Monday 's sizzling pace
-Emphasize: sizzling
+Trading activity cooled off from Monday 's [[sizzling]] pace 

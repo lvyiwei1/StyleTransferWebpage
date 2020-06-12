@@ -1,3 +1,1 @@
-Original Sentence: 
-That followed a 3.3 % decline in August
-Emphasize: followed
+That [[followed]] a 3.3 % decline in August 

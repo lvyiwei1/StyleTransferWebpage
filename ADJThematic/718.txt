@@ -1,3 +1,1 @@
-Original Sentence: 
-The market has been overly harsh to them
-Emphasize: harsh
+The market has been overly [[harsh]] to them 

@@ -1,3 +1,1 @@
-Original Sentence: 
-That 's the path of reasoning leading to growth stocks
-Emphasize: leading
+That 's the path of reasoning [[leading]] to growth stocks 

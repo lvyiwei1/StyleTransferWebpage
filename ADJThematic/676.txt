@@ -1,3 +1,1 @@
-Original Sentence: 
-So it 's a very mixed bag
-Emphasize: mixed
+So it 's a very [[mixed]] bag 

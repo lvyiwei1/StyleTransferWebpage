@@ -1,3 +1,1 @@
-Original Sentence: 
-Himont Quantum and Union Carbide all declined to comment
-Emphasize: declined
+Himont Quantum and Union Carbide all [[declined]] to comment 

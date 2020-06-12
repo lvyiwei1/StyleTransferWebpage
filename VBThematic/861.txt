@@ -1,3 +1,1 @@
-Original Sentence: 
-Cincinnati Bell Inc. said net declined 1.8 %
-Emphasize: said
+Cincinnati Bell Inc. [[said]] net declined 1.8 % 

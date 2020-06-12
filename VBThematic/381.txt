@@ -1,3 +1,1 @@
-Original Sentence: 
-She made money but spent more
-Emphasize: spent
+She made money but [[spent]] more 

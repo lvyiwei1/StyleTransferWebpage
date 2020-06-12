@@ -1,3 +1,1 @@
-Original Sentence: 
-He succeeds Paul J. Montle 42 who will remain chairman
-Emphasize: remain
+He succeeds Paul J. Montle 42 who will [[remain]] chairman 

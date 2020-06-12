@@ -1,3 +1,1 @@
-Original Sentence: 
-The economy is showing signs of weakness particularly among manufacturers
-Emphasize: showing
+The economy is [[showing]] signs of weakness particularly among manufacturers 

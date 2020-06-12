@@ -1,3 +1,1 @@
-Original Sentence: 
-Officials at Aristech based in Pittsburgh declined comment
-Emphasize: based
+Officials at Aristech [[based]] in Pittsburgh declined comment 

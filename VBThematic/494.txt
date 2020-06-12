@@ -1,3 +1,1 @@
-Original Sentence: 
-The CBS official said that price sounded fine
-Emphasize: said
+The CBS official [[said]] that price sounded fine 

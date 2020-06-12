@@ -1,3 +1,1 @@
-Original Sentence: 
-The advance felt more like a technical bounce he said
-Emphasize: felt
+The advance [[felt]] more like a technical bounce he said 

@@ -1,3 +1,1 @@
-Original Sentence: 
-In New York the company declined comment
-Emphasize: declined
+In New York the company [[declined]] comment 

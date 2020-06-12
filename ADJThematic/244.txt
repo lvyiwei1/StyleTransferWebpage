@@ -1,3 +1,1 @@
-Original Sentence: 
-The people who tape the most buy the most
-Emphasize: most
+The people who tape the [[most]] buy the [[most]] 

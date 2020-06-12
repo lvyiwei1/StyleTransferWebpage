@@ -1,3 +1,1 @@
-Original Sentence: 
-EAST GERMANS RALLIED in three cities to demand democratic freedoms
-Emphasize: democratic
+EAST GERMANS RALLIED in three cities to demand [[democratic]] freedoms 

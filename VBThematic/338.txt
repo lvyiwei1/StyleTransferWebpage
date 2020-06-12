@@ -1,3 +1,1 @@
-Original Sentence: 
-Some however lowered yields significantly
-Emphasize: lowered
+Some however [[lowered]] yields significantly 

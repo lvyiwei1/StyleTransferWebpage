@@ -1,3 +1,1 @@
-Original Sentence: 
-Accepted bids were all at 7.962 %
-Emphasize: Accepted
+[[Accepted]] bids were all at 7.962 % 

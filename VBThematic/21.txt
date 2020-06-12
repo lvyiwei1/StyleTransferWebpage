@@ -1,3 +1,1 @@
-Original Sentence: 
-They contend that SCI TV 's equity now is worthless
-Emphasize: contend
+They [[contend]] that SCI TV 's equity now is worthless 

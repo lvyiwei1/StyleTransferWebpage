@@ -1,3 +1,1 @@
-Original Sentence: 
-Margin debt was at a record high
-Emphasize: record
+Margin debt was at a [[record]] high 

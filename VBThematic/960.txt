@@ -1,3 +1,1 @@
-Original Sentence: 
-A decision is n't expected until some time next year
-Emphasize: expected
+A decision is n't [[expected]] until some time next year 

@@ -1,3 +1,1 @@
-Original Sentence: 
-AN EARTHQUAKE STRUCK Northern California killing more than 50 people
-Emphasize: more
+AN EARTHQUAKE STRUCK Northern California killing [[more]] than 50 people 

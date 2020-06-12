@@ -1,3 +1,1 @@
-Original Sentence: 
-They got a transaction that 's good for both companies
-Emphasize: got
+They [[got]] a transaction that 's good for both companies 

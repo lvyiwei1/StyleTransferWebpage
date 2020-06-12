@@ -1,3 +1,1 @@
-Original Sentence: 
-He sees a psychoanalyst five mornings a week
-Emphasize: sees
+He [[sees]] a psychoanalyst five mornings a week 

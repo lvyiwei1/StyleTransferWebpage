@@ -1,3 +1,1 @@
-Original Sentence: 
-His humility gives him a much better chance of success
-Emphasize: better
+His humility gives him a much [[better]] chance of success 

@@ -1,3 +1,1 @@
-Original Sentence: 
-The Dow Jones industrials gained 4.92 to 2643.65
-Emphasize: gained
+The Dow Jones industrials [[gained]] 4.92 to 2643.65 

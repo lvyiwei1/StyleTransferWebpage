@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Fedders is philosophical about his travails
-Emphasize: philosophical
+Mr. Fedders is [[philosophical]] about his travails 

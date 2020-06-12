@@ -1,3 +1,1 @@
-Original Sentence: 
-The outlook for corporate earnings is fairly bleak
-Emphasize: corporate
+The outlook for [[corporate]] earnings is fairly bleak 

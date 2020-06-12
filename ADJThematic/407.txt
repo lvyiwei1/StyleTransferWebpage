@@ -1,3 +1,1 @@
-Original Sentence: 
-Which types of stocks currently have the greatest earnings risks
-Emphasize: greatest
+Which types of stocks currently have the [[greatest]] earnings risks 

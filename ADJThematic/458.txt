@@ -1,3 +1,1 @@
-Original Sentence: 
-But the implications could be great
-Emphasize: great
+But the implications could be [[great]] 

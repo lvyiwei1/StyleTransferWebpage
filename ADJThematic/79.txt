@@ -1,3 +1,1 @@
-Original Sentence: 
-By lunchtime the selling was at near-panic fever
-Emphasize: near-panic
+By lunchtime the selling was at [[near-panic]] fever 

@@ -1,3 +1,1 @@
-Original Sentence: 
-The fundamentals do n't change in an hour he says
-Emphasize: do
+The fundamentals [[do]] n't change in an hour he says 

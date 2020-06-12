@@ -1,3 +1,1 @@
-Original Sentence: 
-Opponents of the cut are playing hardball
-Emphasize: playing
+Opponents of the cut are [[playing]] hardball 

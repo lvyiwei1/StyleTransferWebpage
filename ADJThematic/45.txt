@@ -1,3 +1,1 @@
-Original Sentence: 
-The bond market was unmoved by the economic statistics
-Emphasize: unmoved
+The bond market was [[unmoved]] by the economic statistics 

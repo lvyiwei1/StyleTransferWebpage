@@ -1,3 +1,1 @@
-Original Sentence: 
-The comic strip has a magical everlasting quality about it
-Emphasize: everlasting
+The comic strip has a magical [[everlasting]] quality about it 

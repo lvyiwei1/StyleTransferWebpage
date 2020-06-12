@@ -1,3 +1,1 @@
-Original Sentence: 
-He also leads an opulent life style
-Emphasize: opulent
+He also leads an [[opulent]] life style 

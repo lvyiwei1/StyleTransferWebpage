@@ -1,3 +1,1 @@
-Original Sentence: 
-The French analysis goes further
-Emphasize: goes
+The French analysis [[goes]] further 

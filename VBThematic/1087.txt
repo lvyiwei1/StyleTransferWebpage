@@ -1,3 +1,1 @@
-Original Sentence: 
-The DAX dropped 19.69 points Friday to 1462.93
-Emphasize: dropped
+The DAX [[dropped]] 19.69 points Friday to 1462.93 

@@ -1,3 +1,1 @@
-Original Sentence: 
-At first we were unfazed
-Emphasize: unfazed
+At first we were [[unfazed]] 

@@ -1,3 +1,1 @@
-Original Sentence: 
-The controls on cooperatives appeared relatively liberal when first introduced
-Emphasize: appeared
+The controls on cooperatives [[appeared]] relatively liberal when first introduced 

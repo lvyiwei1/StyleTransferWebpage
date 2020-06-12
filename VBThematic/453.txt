@@ -1,3 +1,1 @@
-Original Sentence: 
-But it has n't worked out that way
-Emphasize: worked
+But it has n't [[worked]] out that way 

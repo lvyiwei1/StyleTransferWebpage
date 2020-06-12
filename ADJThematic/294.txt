@@ -1,3 +1,1 @@
-Original Sentence: 
-It 's worse than I thought she said
-Emphasize: worse
+It 's [[worse]] than I thought she said 

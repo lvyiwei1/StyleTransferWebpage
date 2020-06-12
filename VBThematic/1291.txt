@@ -1,3 +1,1 @@
-Original Sentence: 
-It now takes something really weird to inspire public outrage
-Emphasize: inspire
+It now takes something really weird to [[inspire]] public outrage 

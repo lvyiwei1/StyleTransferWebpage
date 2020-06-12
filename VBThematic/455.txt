@@ -1,3 +1,1 @@
-Original Sentence: 
-But it does n't always work so smoothly
-Emphasize: does
+But it [[does]] n't always work so smoothly 

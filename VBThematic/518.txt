@@ -1,3 +1,1 @@
-Original Sentence: 
-Many Law School Grads Find Classes Never End
-Emphasize: End
+Many Law School Grads Find Classes Never [[End]] 

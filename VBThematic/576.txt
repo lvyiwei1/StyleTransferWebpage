@@ -1,3 +1,1 @@
-Original Sentence: 
-Goldman Sachs & Co. will manage the offering
-Emphasize: manage
+Goldman Sachs & Co. will [[manage]] the offering 

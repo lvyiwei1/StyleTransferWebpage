@@ -1,3 +1,1 @@
-Original Sentence: 
-The Dow Jones industrials closed at 2569.26
-Emphasize: closed
+The Dow Jones industrials [[closed]] at 2569.26 

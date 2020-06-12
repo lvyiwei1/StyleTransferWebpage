@@ -1,3 +1,1 @@
-Original Sentence: 
-Bids totaling 475 million were submitted
-Emphasize: submitted
+Bids totaling 475 million were [[submitted]] 

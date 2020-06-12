@@ -1,3 +1,1 @@
-Original Sentence: 
-All this is causing convulsions in professional football
-Emphasize: causing
+All this is [[causing]] convulsions in professional football 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Their opposition helped scare off some Japanese banks
-Emphasize: helped
+Their opposition [[helped]] scare off some Japanese banks 

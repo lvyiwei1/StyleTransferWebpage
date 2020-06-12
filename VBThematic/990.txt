@@ -1,3 +1,1 @@
-Original Sentence: 
-They serve the industries and the special-interest groups
-Emphasize: serve
+They [[serve]] the industries and the special-interest groups 

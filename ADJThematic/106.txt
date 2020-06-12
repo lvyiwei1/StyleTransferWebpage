@@ -1,3 +1,1 @@
-Original Sentence: 
-That is the key to the current national disease
-Emphasize: current
+That is the key to the [[current]] national disease 

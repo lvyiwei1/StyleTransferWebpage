@@ -1,3 +1,1 @@
-Original Sentence: 
-Anti-nuclear activists took a less positive view
-Emphasize: positive
+Anti-nuclear activists took a less [[positive]] view 

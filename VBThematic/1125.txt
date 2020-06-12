@@ -1,3 +1,1 @@
-Original Sentence: 
-The Ontario Supreme Court overturned Mr. Blair 's decision
-Emphasize: overturned
+The Ontario Supreme Court [[overturned]] Mr. Blair 's decision 

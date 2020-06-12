@@ -25,44 +25,37 @@ var idnumber = prompt("Please enter your assigned number", "1");
 
  
         <full-instructions header="Adjective Attribute Emphasize Instructions">
-            <p>In this sentence adjective/attribute emphasis task, you are given 100 sentences, each with an adjective that appeared in the sentence for you to emphasize. Your task is to rewrite each sentence to emphasize the given adjective. If the rewrite is impossible or if the given adjective is already emphasized in the original sentence, write capitalized "N/A" in the answer line.</p>
+            <p>In this sentence adjective/attribute emphasis task, you are given 100 sentences, each with an adjective that appeared in the sentence in double brackets for you to emphasize. Your task is to rewrite each sentence to emphasize the given adjective. If the rewrite is impossible or if the given adjective is already emphasized in the original sentence, write capitalized "N/A" in the answer line.</p>
             <p>Note that the original sentences have all punctuations removed. Your rewritten sentences should have all punctuations removed too.</p>
             <p>When you are done, click "submit" and copy the generated json text to the google form with link on the left side of the page.</p>
             <p>Typically, there are three ways to emphasize an adjective. You may pick the way you see fit for each sentence. </p>
            <div>
             <b>Method 1: Adjective inversion</b>
             <p>Example:</p>
-            <p>Original sentence: Mr. Phelan has been viewed by many exchange members as being indifferent to stock-price swings caused by program trades </p>
-            <p>Emphasize: indifferent </p>
+            <p>Original sentence: Mr. Phelan has been viewed by many exchange members as being [[indifferent]] to stock-price swings caused by program trades </p>
             <p>Your answer: <u>Indifferent were</u> many exchange members to stock-price swings caused by program trades by Mr. Phelan's view.</p>
-            <p>Original sentence: Mr. Phelan has been viewed by many exchange members as being indifferent to stock-price swings caused by program trades </p>
-            <p>Emphasize: many </p>
+            <p>Original sentence: Mr. Phelan has been viewed by [[many]] exchange members as being indifferent to stock-price swings caused by program trades </p>
             <p>Your answer: <u>Great was the number</u> of exchange members viewed by Mr. Phelan as being indifferent to stock-price swings caused by program trades.</p>
            </div>
            <div>
             <b>Method 2: Change Adjective to noun form and move to front</b>
             <p>Example:</p>
-            <p>Original sentence: Courtaulds ' shares rose 15 pence to 362 pence valuing the entire company at about 1.44 billion</p>
-            <p>Emphasize: entire </p>
+            <p>Original sentence: Courtaulds ' shares rose 15 pence to 362 pence valuing the [[entire]] company at about 1.44 billion</p>
             <p>Your answer: The <u>entirety</u> of the company was valued by Courtaulds' shares at about 1.44 billion, rising from 15 pense to 362 pence</p>
-            <p>Original sentence: I do n't think anyone is now immune from takeover said Robert Schneider of Duff & Phelps Inc. Chicago </p>
-            <p>Emphasize: immune </p>
+            <p>Original sentence: I do n't think anyone is now [[immune]] from takeover said Robert Schneider of Duff & Phelps Inc. Chicago </p>
             <p>Your answer: <u>Immunity</u> from takeover is had by no one I think said Robert Schneider of Duff & Phelps Inc. Chicago </p>
            </div>
            <div>
             <b>Method 3: Rewrite the whole sentence as a "be" statement for the adjective</b>
             <p>Example:</p>
-            <p>Original sentence: A year ago the Tokyo company had pretax profit of 35.38 billion yen</p>
-            <p>Emphasize: pretax </p>
+            <p>Original sentence: A year ago the Tokyo company had [[pretax]] profit of 35.38 billion yen</p>
             <p>Your answer: The profit of 35.38 billion yen of the Tokyo company a year ago <u>was pretax</u></p>
-            <p>Original sentence: The big brown fox jumps over the sleazy dog.</p>
-            <p>Emphasize: sleazy </p>
+            <p>Original sentence: The big brown fox jumps over the [[sleazy]] dog.</p>
             <p>Your answer: The dog that is jumped over by the big brown fox <u>is sleazy</u>. </p>
            </div>    
            <div>
             <b>Example for already emphasized adjective: </b>
-            <p>Original sentence: Great was the fall of it. </p>
-            <p>Emphasize: great </p>
+            <p>Original sentence: [[Great]] was the fall of it. </p>
             <p>Your answer: N/A</p>
            </div>          
 

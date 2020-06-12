@@ -1,3 +1,1 @@
-Original Sentence: 
-But markets can operate with greater or lesser efficiency
-Emphasize: greater
+But markets can operate with [[greater]] or lesser efficiency 

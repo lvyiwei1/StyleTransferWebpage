@@ -1,3 +1,1 @@
-Original Sentence: 
-Known as Easy Eggs the product has disappointed investors
-Emphasize: Known
+[[Known]] as Easy Eggs the product has disappointed investors 

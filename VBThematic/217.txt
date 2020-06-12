@@ -1,3 +1,1 @@
-Original Sentence: 
-New management can take several steps to reduce dishonesty
-Emphasize: reduce
+New management can take several steps to [[reduce]] dishonesty 

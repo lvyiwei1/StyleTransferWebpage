@@ -1,3 +1,1 @@
-Original Sentence: 
-These people have different agendas
-Emphasize: different
+These people have [[different]] agendas 

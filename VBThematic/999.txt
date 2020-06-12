@@ -1,3 +1,1 @@
-Original Sentence: 
-Other temperature data show similar unexplained swings
-Emphasize: show
+Other temperature data [[show]] similar unexplained swings 

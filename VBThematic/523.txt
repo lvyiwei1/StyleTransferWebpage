@@ -1,3 +1,1 @@
-Original Sentence: 
-Average shares outstanding dropped to 75.8 million from 82.1 million
-Emphasize: dropped
+Average shares outstanding [[dropped]] to 75.8 million from 82.1 million 

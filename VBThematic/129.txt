@@ -1,3 +1,1 @@
-Original Sentence: 
-It 's very much a growing concern
-Emphasize: growing
+It 's very much a [[growing]] concern 

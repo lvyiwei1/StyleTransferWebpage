@@ -1,3 +1,1 @@
-Original Sentence: 
-House Speaker Foley ought to deliver that promise
-Emphasize: deliver
+House Speaker Foley ought to [[deliver]] that promise 

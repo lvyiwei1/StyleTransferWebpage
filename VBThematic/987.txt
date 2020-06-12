@@ -1,3 +1,1 @@
-Original Sentence: 
-I think you have to give Greenspan a good rating
-Emphasize: give
+I think you have to [[give]] Greenspan a good rating 

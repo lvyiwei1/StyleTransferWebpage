@@ -1,3 +1,1 @@
-Original Sentence: 
-People start their own businesses for many reasons
-Emphasize: start
+People [[start]] their own businesses for many reasons 

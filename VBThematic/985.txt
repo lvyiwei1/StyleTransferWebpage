@@ -1,3 +1,1 @@
-Original Sentence: 
-DPC holds about 7.8 % of Dataproducts ' shares
-Emphasize: holds
+DPC [[holds]] about 7.8 % of Dataproducts ' shares 

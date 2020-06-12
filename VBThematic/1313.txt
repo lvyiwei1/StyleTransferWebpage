@@ -1,3 +1,1 @@
-Original Sentence: 
-I do n't talk about my work he says
-Emphasize: talk
+I do n't [[talk]] about my work he says 

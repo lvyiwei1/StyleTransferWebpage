@@ -1,3 +1,1 @@
-Original Sentence: 
-But Pfizer Inc. based in New York reported flat earnings
-Emphasize: reported
+But Pfizer Inc. based in New York [[reported]] flat earnings 

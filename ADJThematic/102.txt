@@ -1,3 +1,1 @@
-Original Sentence: 
-BankAmerica 's total loans rose 8 % to 71.36 billion
-Emphasize: total
+BankAmerica 's [[total]] loans rose 8 % to 71.36 billion 

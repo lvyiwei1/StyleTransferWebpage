@@ -1,3 +1,1 @@
-Original Sentence: 
-Nor is CBS a shoo-in to get blockbuster ratings
-Emphasize: blockbuster
+Nor is CBS a shoo-in to get [[blockbuster]] ratings 

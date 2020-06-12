@@ -1,3 +1,1 @@
-Original Sentence: 
-But they have n't yet drawn the operational policy conclusions
-Emphasize: drawn
+But they have n't yet [[drawn]] the operational policy conclusions 

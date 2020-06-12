@@ -1,3 +1,1 @@
-Original Sentence: 
-NBC 's winning streak has been canceled
-Emphasize: canceled
+NBC 's winning streak has been [[canceled]] 

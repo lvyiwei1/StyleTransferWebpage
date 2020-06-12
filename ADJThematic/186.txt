@@ -1,3 +1,1 @@
-Original Sentence: 
-That 's not fair they 're not all fat
-Emphasize: fat
+That 's not fair they 're not all [[fat]] 

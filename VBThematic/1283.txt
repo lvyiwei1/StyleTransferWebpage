@@ -1,3 +1,1 @@
-Original Sentence: 
-Some have raised their cash positions to record levels
-Emphasize: raised
+Some have [[raised]] their cash positions to record levels 

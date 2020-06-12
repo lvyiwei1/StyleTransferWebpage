@@ -1,3 +1,1 @@
-Original Sentence: 
-Warnaco also owns Warners another major intimate apparel maker
-Emphasize: intimate
+Warnaco also owns Warners another major [[intimate]] apparel maker 

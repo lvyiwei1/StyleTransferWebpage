@@ -1,3 +1,1 @@
-Original Sentence: 
-But Mr. Monsky sees much bigger changes ahead
-Emphasize: bigger
+But Mr. Monsky sees much [[bigger]] changes ahead 

@@ -1,3 +1,1 @@
-Original Sentence: 
-People have a different reputation country by country
-Emphasize: different
+People have a [[different]] reputation country by country 

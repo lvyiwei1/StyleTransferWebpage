@@ -1,3 +1,1 @@
-Original Sentence: 
-A Beatrice spokesman did n't return calls seeking comment
-Emphasize: return
+A Beatrice spokesman did n't [[return]] calls seeking comment 

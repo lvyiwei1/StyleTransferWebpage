@@ -1,3 +1,1 @@
-Original Sentence: 
-The dollar weakened against most other major currencies
-Emphasize: weakened
+The dollar [[weakened]] against most other major currencies 

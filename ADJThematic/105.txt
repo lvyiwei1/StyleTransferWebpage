@@ -1,3 +1,1 @@
-Original Sentence: 
-One team pays so much and the other pays more
-Emphasize: more
+One team pays so much and the other pays [[more]] 

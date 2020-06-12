@@ -1,3 +1,1 @@
-Original Sentence: 
-More venturesome businesses are applying their skills in commercial fields
-Emphasize: commercial
+More venturesome businesses are applying their skills in [[commercial]] fields 

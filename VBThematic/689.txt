@@ -1,3 +1,1 @@
-Original Sentence: 
-The loan to UMNO was made in September 1983
-Emphasize: made
+The loan to UMNO was [[made]] in September 1983 

@@ -1,3 +1,1 @@
-Original Sentence: 
-The transaction would mark the entry of P&G into cosmetics
-Emphasize: mark
+The transaction would [[mark]] the entry of P&G into cosmetics 

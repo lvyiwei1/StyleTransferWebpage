@@ -1,3 +1,1 @@
-Original Sentence: 
-Analysts predict little or no near-term growth
-Emphasize: little
+Analysts predict [[little]] or no near-term growth 

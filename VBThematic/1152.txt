@@ -1,3 +1,1 @@
-Original Sentence: 
-The offer expired at 12:01 a.m. yesterday
-Emphasize: expired
+The offer [[expired]] at 12:01 a.m. yesterday 

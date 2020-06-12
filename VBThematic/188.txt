@@ -1,3 +1,1 @@
-Original Sentence: 
-On some days the Nucor plant does n't produce anything
-Emphasize: produce
+On some days the Nucor plant does n't [[produce]] anything 

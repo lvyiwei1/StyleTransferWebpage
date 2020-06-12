@@ -1,3 +1,1 @@
-Original Sentence: 
-Beyond that money managers and analysts see other problems
-Emphasize: other
+Beyond that money managers and analysts see [[other]] problems 

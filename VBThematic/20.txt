@@ -1,3 +1,1 @@
-Original Sentence: 
-The airline also named Mickey Foret as president
-Emphasize: named
+The airline also [[named]] Mickey Foret as president 

@@ -1,3 +1,1 @@
-Original Sentence: 
-A Rake 's Progress Means Branching Out
-Emphasize: Means
+A Rake 's Progress [[Means]] Branching Out 

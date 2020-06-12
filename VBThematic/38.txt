@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Bakes previously had a turn at running Continental
-Emphasize: running
+Mr. Bakes previously had a turn at [[running]] Continental 

@@ -1,3 +1,1 @@
-Original Sentence: 
-People in Glass houses tend to look stoned
-Emphasize: look
+People in Glass houses tend to [[look]] stoned 

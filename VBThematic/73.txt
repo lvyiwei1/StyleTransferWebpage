@@ -1,3 +1,1 @@
-Original Sentence: 
-Revenue jumped 22 % to 7.89 billion from 6.46 billion
-Emphasize: jumped
+Revenue [[jumped]] 22 % to 7.89 billion from 6.46 billion 

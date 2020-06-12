@@ -1,3 +1,1 @@
-Original Sentence: 
-It will continue to be sold in the European market
-Emphasize: continue
+It will [[continue]] to be sold in the European market 

@@ -1,3 +1,1 @@
-Original Sentence: 
-We are n't forced sellers
-Emphasize: forced
+We are n't [[forced]] sellers 

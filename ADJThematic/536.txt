@@ -1,3 +1,1 @@
-Original Sentence: 
-Some hotels in the hurricane-stricken Caribbean promise money-back guarantees
-Emphasize: money-back
+Some hotels in the hurricane-stricken Caribbean promise [[money-back]] guarantees 

@@ -1,3 +1,1 @@
-Original Sentence: 
-The insurance adjusters think differently
-Emphasize: think
+The insurance adjusters [[think]] differently 

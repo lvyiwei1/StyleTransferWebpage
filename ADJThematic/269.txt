@@ -1,3 +1,1 @@
-Original Sentence: 
-I ask this not necessarily as a native Ohioan
-Emphasize: native
+I ask this not necessarily as a [[native]] Ohioan 

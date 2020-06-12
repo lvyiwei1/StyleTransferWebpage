@@ -1,3 +1,1 @@
-Original Sentence: 
-It does prolong the pain somewhat
-Emphasize: prolong
+It does [[prolong]] the pain somewhat 

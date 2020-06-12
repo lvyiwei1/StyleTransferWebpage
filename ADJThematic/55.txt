@@ -1,3 +1,1 @@
-Original Sentence: 
-Minicar output more than tripled
-Emphasize: Minicar
+[[Minicar]] output more than tripled 

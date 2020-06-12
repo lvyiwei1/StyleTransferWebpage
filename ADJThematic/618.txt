@@ -1,3 +1,1 @@
-Original Sentence: 
-Do n't be such a pessimist Mr. Ambassador
-Emphasize: such
+Do n't be [[such]] a pessimist Mr. Ambassador 

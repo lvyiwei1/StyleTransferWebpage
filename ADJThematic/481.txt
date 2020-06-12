@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Decker is about 45 years old
-Emphasize: old
+Mr. Decker is about 45 years [[old]] 

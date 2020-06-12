@@ -1,3 +1,1 @@
-Original Sentence: 
-Repeat customers also can purchase luxury items at reduced prices
-Emphasize: reduced
+Repeat customers also can purchase luxury items at [[reduced]] prices 

@@ -1,3 +1,1 @@
-Original Sentence: 
-The group consists of Weslock Corp. and JPI Modern Inc
-Emphasize: consists
+The group [[consists]] of Weslock Corp. and JPI Modern Inc 

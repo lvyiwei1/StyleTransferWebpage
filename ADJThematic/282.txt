@@ -1,3 +1,1 @@
-Original Sentence: 
-1 Make sure you have a strong personnel department
-Emphasize: sure
+1 Make [[sure]] you have a strong personnel department 

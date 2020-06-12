@@ -1,3 +1,1 @@
-Original Sentence: 
-Expansion plans also include acquisitions in growing foreign markets
-Emphasize: include
+Expansion plans also [[include]] acquisitions in growing foreign markets 

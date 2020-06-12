@@ -1,3 +1,1 @@
-Original Sentence: 
-Rather It just shows things have changed
-Emphasize: shows
+Rather It just [[shows]] things have changed 

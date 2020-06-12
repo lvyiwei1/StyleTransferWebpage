@@ -1,3 +1,1 @@
-Original Sentence: 
-Starting tomorrow I 'm stalking you
-Emphasize: Starting
+[[Starting]] tomorrow I 'm stalking you 

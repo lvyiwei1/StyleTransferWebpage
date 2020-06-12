@@ -1,3 +1,1 @@
-Original Sentence: 
-The analysts say their gloomy forecasts have a flip side
-Emphasize: say
+The analysts [[say]] their gloomy forecasts have a flip side 

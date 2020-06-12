@@ -1,3 +1,1 @@
-Original Sentence: 
-Ohbayashi is Japan 's second largest construction company
-Emphasize: largest
+Ohbayashi is Japan 's second [[largest]] construction company 

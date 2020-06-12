@@ -1,3 +1,1 @@
-Original Sentence: 
-I do n't think we do now he says
-Emphasize: says
+I do n't think we do now he [[says]] 

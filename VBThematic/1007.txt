@@ -1,3 +1,1 @@
-Original Sentence: 
-The Phillips plant makes polyethylene polypropylene and other plastic products
-Emphasize: makes
+The Phillips plant [[makes]] polyethylene polypropylene and other plastic products 

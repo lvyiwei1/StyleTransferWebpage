@@ -1,3 +1,1 @@
-Original Sentence: 
-It was the opposite of what happened on Oct. 19
-Emphasize: happened
+It was the opposite of what [[happened]] on Oct. 19 

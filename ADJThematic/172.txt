@@ -1,3 +1,1 @@
-Original Sentence: 
-The buy-out group had no firm financing for the plan
-Emphasize: firm
+The buy-out group had no [[firm]] financing for the plan 

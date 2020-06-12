@@ -1,3 +1,1 @@
-Original Sentence: 
-The report is to be released today
-Emphasize: released
+The report is to be [[released]] today 

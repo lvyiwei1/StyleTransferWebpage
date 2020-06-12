@@ -1,3 +1,1 @@
-Original Sentence: 
-Lack of important needed information can cause fear
-Emphasize: important
+Lack of [[important]] needed information can cause fear 

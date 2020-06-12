@@ -1,3 +1,1 @@
-Original Sentence: 
-I 've surrendered to the circumstances Mr. Fedders says
-Emphasize: 've
+I [['ve]] surrendered to the circumstances Mr. Fedders says 

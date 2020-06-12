@@ -1,3 +1,1 @@
-Original Sentence: 
-The December contract declined 3.05 cents a pound to 1.2745
-Emphasize: declined
+The December contract [[declined]] 3.05 cents a pound to 1.2745 

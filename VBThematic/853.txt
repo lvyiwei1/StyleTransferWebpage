@@ -1,3 +1,1 @@
-Original Sentence: 
-The country was renamed the Republic of Hungary
-Emphasize: renamed
+The country was [[renamed]] the Republic of Hungary 

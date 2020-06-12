@@ -1,3 +1,1 @@
-Original Sentence: 
-It did n't provide details of setup costs
-Emphasize: did
+It [[did]] n't provide details of setup costs 

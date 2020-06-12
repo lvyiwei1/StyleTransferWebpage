@@ -1,3 +1,1 @@
-Original Sentence: 
-With little competition the computer industry here is inefficient
-Emphasize: little
+With [[little]] competition the computer industry here is inefficient 

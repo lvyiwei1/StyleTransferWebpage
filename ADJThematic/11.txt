@@ -1,3 +1,1 @@
-Original Sentence: 
-And investors at least for now took a pass
-Emphasize: least
+And investors at [[least]] for now took a pass 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Both men are 44 years old
-Emphasize: old
+Both men are 44 years [[old]] 

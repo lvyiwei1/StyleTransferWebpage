@@ -1,3 +1,1 @@
-Original Sentence: 
-Here they are searching for a higher price
-Emphasize: searching
+Here they are [[searching]] for a higher price 

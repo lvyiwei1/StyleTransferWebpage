@@ -1,3 +1,1 @@
-Original Sentence: 
-And he has worked to shed his raider image
-Emphasize: worked
+And he has [[worked]] to shed his raider image 

@@ -1,3 +1,1 @@
-Original Sentence: 
-This market has been very badly damaged
-Emphasize: damaged
+This market has been very badly [[damaged]] 

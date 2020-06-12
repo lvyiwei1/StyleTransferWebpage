@@ -1,3 +1,1 @@
-Original Sentence: 
-Per-share net rose to 47.46 yen from 39.31 yen
-Emphasize: Per-share
+[[Per-share]] net rose to 47.46 yen from 39.31 yen 

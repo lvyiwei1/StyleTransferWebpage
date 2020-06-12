@@ -1,3 +1,1 @@
-Original Sentence: 
-The scars will be here years after the polls close
-Emphasize: close
+The scars will be here years after the polls [[close]] 

@@ -1,3 +1,1 @@
-Original Sentence: 
-People wonder what 's going to happen next
-Emphasize: going
+People wonder what 's [[going]] to happen next 

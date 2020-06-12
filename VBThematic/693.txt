@@ -1,3 +1,1 @@
-Original Sentence: 
-Sales were 4.2 billion compared with 3.7 billion
-Emphasize: compared
+Sales were 4.2 billion [[compared]] with 3.7 billion 

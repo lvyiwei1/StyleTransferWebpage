@@ -1,3 +1,1 @@
-Original Sentence: 
-How do readers feel about the magazine
-Emphasize: do
+How [[do]] readers feel about the magazine 

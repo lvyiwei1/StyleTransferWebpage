@@ -1,3 +1,1 @@
-Original Sentence: 
-Estimated volume was three million ounces
-Emphasize: Estimated
+[[Estimated]] volume was three million ounces 

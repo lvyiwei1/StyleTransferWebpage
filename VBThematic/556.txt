@@ -1,3 +1,1 @@
-Original Sentence: 
-The contract settled at 1,014 a ton off 13
-Emphasize: settled
+The contract [[settled]] at 1,014 a ton off 13 

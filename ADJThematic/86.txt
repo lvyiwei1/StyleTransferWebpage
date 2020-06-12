@@ -1,3 +1,1 @@
-Original Sentence: 
-Siemens is West Germany 's largest electronics group
-Emphasize: largest
+Siemens is West Germany 's [[largest]] electronics group 

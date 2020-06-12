@@ -1,3 +1,1 @@
-Original Sentence: 
-Several projects he said are still on the drawing board
-Emphasize: said
+Several projects he [[said]] are still on the drawing board 

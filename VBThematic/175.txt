@@ -1,3 +1,1 @@
-Original Sentence: 
-The transaction represents Lynch 's entry into the telephone business
-Emphasize: represents
+The transaction [[represents]] Lynch 's entry into the telephone business 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Other furriers have also benefited from leathers
-Emphasize: benefited
+Other furriers have also [[benefited]] from leathers 

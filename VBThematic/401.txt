@@ -1,3 +1,1 @@
-Original Sentence: 
-Banco Popular meanwhile dropped 1 1\/4 to 21 1\/2
-Emphasize: dropped
+Banco Popular meanwhile [[dropped]] 1 1\/4 to 21 1\/2 

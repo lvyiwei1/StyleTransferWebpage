@@ -1,3 +1,1 @@
-Original Sentence: 
-He expects Citicorp to take a similar step this year
-Emphasize: take
+He expects Citicorp to [[take]] a similar step this year 

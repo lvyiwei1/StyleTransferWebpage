@@ -1,3 +1,1 @@
-Original Sentence: 
-But he adds I was not acting as a messenger
-Emphasize: adds
+But he [[adds]] I was not acting as a messenger 

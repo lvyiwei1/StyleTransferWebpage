@@ -1,3 +1,1 @@
-Original Sentence: 
-They looked at the miniature and saw a giant folly
-Emphasize: giant
+They looked at the miniature and saw a [[giant]] folly 

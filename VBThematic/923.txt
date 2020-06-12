@@ -1,3 +1,1 @@
-Original Sentence: 
-How can we turn this situation around
-Emphasize: turn
+How can we [[turn]] this situation around 

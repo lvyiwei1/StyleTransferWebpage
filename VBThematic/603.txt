@@ -1,3 +1,1 @@
-Original Sentence: 
-Randy Delchamps retains his position as president
-Emphasize: retains
+Randy Delchamps [[retains]] his position as president 

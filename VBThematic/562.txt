@@ -1,3 +1,1 @@
-Original Sentence: 
-But there did seem to be a retail activity pickup
-Emphasize: seem
+But there did [[seem]] to be a retail activity pickup 

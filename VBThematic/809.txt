@@ -1,3 +1,1 @@
-Original Sentence: 
-Clients include Miller Brewing Co. and General Motors
-Emphasize: include
+Clients [[include]] Miller Brewing Co. and General Motors 

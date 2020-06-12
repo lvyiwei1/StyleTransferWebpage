@@ -1,3 +1,1 @@
-Original Sentence: 
-The house just settled right down into the ground
-Emphasize: settled
+The house just [[settled]] right down into the ground 

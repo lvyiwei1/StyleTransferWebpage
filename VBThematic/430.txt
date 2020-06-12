@@ -1,3 +1,1 @@
-Original Sentence: 
-He left a message accusing Mr. Darman of selling out
-Emphasize: accusing
+He left a message [[accusing]] Mr. Darman of selling out 

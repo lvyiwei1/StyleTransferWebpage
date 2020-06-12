@@ -1,3 +1,1 @@
-Original Sentence: 
-The Nasdaq Financial Index rose 2.09 to 454.86
-Emphasize: rose
+The Nasdaq Financial Index [[rose]] 2.09 to 454.86 

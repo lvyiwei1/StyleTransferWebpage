@@ -1,3 +1,1 @@
-Original Sentence: 
-Lack of liquidity can also result from exchange reforms
-Emphasize: result
+Lack of liquidity can also [[result]] from exchange reforms 

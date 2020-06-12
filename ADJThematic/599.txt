@@ -1,3 +1,1 @@
-Original Sentence: 
-The farmer at the next truck shouts Wheat
-Emphasize: next
+The farmer at the [[next]] truck shouts Wheat 

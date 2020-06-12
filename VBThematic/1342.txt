@@ -1,3 +1,1 @@
-Original Sentence: 
-It 's just not cost efficient he says
-Emphasize: says
+It 's just not cost efficient he [[says]] 

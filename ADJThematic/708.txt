@@ -1,3 +1,1 @@
-Original Sentence: 
-Similar proposals were defeated in at least 15 other states
-Emphasize: other
+Similar proposals were defeated in at least 15 [[other]] states 

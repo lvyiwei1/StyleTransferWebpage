@@ -1,3 +1,1 @@
-Original Sentence: 
-The company paid five cents a share in April
-Emphasize: paid
+The company [[paid]] five cents a share in April 

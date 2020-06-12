@@ -1,3 +1,1 @@
-Original Sentence: 
-It 's good exercise he says
-Emphasize: says
+It 's good exercise he [[says]] 

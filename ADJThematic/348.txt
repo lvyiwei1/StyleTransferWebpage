@@ -1,3 +1,1 @@
-Original Sentence: 
-European drama has had better though still mixed fortunes
-Emphasize: mixed
+European drama has had better though still [[mixed]] fortunes 

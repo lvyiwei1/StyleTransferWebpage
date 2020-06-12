@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Maynard claims this is a manageable problem
-Emphasize: manageable
+Mr. Maynard claims this is a [[manageable]] problem 

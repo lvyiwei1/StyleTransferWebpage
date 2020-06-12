@@ -1,3 +1,1 @@
-Original Sentence: 
-However operating profit fell 35 % to 16.4 million
-Emphasize: fell
+However operating profit [[fell]] 35 % to 16.4 million 

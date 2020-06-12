@@ -1,3 +1,1 @@
-Original Sentence: 
-But for photofinishers developing costs for black-and-white film are higher
-Emphasize: higher
+But for photofinishers developing costs for black-and-white film are [[higher]] 

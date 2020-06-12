@@ -1,3 +1,1 @@
-Original Sentence: 
-Seats currently are quoted at 410,000 bid 425,000 asked
-Emphasize: asked
+Seats currently are quoted at 410,000 bid 425,000 [[asked]] 

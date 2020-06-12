@@ -1,3 +1,1 @@
-Original Sentence: 
-Meanwhile competition from rivals unencumbered by history is intensifying
-Emphasize: intensifying
+Meanwhile competition from rivals unencumbered by history is [[intensifying]] 

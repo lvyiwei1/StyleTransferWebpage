@@ -1,3 +1,1 @@
-Original Sentence: 
-The offering is scheduled to expire on Nov. 30
-Emphasize: scheduled
+The offering is [[scheduled]] to expire on Nov. 30 

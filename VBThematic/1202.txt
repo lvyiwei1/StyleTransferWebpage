@@ -1,3 +1,1 @@
-Original Sentence: 
-When it went down by all tradition the economy followed
-Emphasize: followed
+When it went down by all tradition the economy [[followed]] 

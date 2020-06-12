@@ -1,3 +1,1 @@
-Original Sentence: 
-Maybe they learned from experience
-Emphasize: learned
+Maybe they [[learned]] from experience 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Study halls complete with reference materials will be available
-Emphasize: available
+Study halls complete with reference materials will be [[available]] 

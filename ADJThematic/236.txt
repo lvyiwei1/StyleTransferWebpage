@@ -1,3 +1,1 @@
-Original Sentence: 
-And what they have shown is n't impressive
-Emphasize: impressive
+And what they have shown is n't [[impressive]] 

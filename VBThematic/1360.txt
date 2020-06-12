@@ -1,3 +1,1 @@
-Original Sentence: 
-A closing date has n't been set
-Emphasize: set
+A closing date has n't been [[set]] 

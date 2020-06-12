@@ -1,3 +1,1 @@
-Original Sentence: 
-The disk-drive maker disclosed a major fraud two months ago
-Emphasize: disclosed
+The disk-drive maker [[disclosed]] a major fraud two months ago 

@@ -1,3 +1,1 @@
-Original Sentence: 
-But on Oct. 6 he had reason to celebrate
-Emphasize: celebrate
+But on Oct. 6 he had reason to [[celebrate]] 

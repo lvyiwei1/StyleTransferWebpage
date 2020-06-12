@@ -1,3 +1,1 @@
-Original Sentence: 
-A Guinness spokesman declined to comment
-Emphasize: declined
+A Guinness spokesman [[declined]] to comment 

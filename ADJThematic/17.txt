@@ -1,3 +1,1 @@
-Original Sentence: 
-Several other banks have similar applications pending
-Emphasize: other
+Several [[other]] banks have similar applications pending 

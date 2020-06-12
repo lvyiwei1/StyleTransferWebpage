@@ -1,3 +1,1 @@
-Original Sentence: 
-But then it was acquired by Household International Inc
-Emphasize: acquired
+But then it was [[acquired]] by Household International Inc 

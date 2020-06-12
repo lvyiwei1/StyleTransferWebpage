@@ -1,3 +1,1 @@
-Original Sentence: 
-Three companies began trading over the counter
-Emphasize: began
+Three companies [[began]] trading over the counter 

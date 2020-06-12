@@ -1,3 +1,1 @@
-Original Sentence: 
-Shares of three brokerage firms rose after they reported earnings
-Emphasize: rose
+Shares of three brokerage firms [[rose]] after they reported earnings 

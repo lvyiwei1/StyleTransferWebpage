@@ -1,3 +1,1 @@
-Original Sentence: 
-Another challenges Merrill Lynch 's bond recommendation last year
-Emphasize: last
+Another challenges Merrill Lynch 's bond recommendation [[last]] year 

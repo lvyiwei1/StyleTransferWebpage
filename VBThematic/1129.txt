@@ -1,3 +1,1 @@
-Original Sentence: 
-He 's running for governor
-Emphasize: running
+He 's [[running]] for governor 

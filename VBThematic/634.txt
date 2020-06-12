@@ -1,3 +1,1 @@
-Original Sentence: 
-Chemical profits fell to 78 million from 98 million
-Emphasize: fell
+Chemical profits [[fell]] to 78 million from 98 million 

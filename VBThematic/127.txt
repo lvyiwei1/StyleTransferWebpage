@@ -1,3 +1,1 @@
-Original Sentence: 
-In Indianapolis Lilly declined comment
-Emphasize: declined
+In Indianapolis Lilly [[declined]] comment 

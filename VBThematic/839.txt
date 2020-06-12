@@ -1,3 +1,1 @@
-Original Sentence: 
-The two sides had n't met since Oct. 18
-Emphasize: met
+The two sides had n't [[met]] since Oct. 18 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Even so few had ever dealt with an earthquake
-Emphasize: few
+Even so [[few]] had ever dealt with an earthquake 

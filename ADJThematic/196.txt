@@ -1,3 +1,1 @@
-Original Sentence: 
-But the complex language is n't the only reason
-Emphasize: complex
+But the [[complex]] language is n't the only reason 

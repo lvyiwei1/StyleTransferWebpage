@@ -1,3 +1,1 @@
-Original Sentence: 
-So far this list does n't change our view
-Emphasize: does
+So far this list [[does]] n't change our view 

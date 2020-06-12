@@ -1,3 +1,1 @@
-Original Sentence: 
-Most bills are drafted by bureaucrats not politicians
-Emphasize: drafted
+Most bills are [[drafted]] by bureaucrats not politicians 

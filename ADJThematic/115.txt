@@ -1,3 +1,1 @@
-Original Sentence: 
-Disclosures are very poor in India
-Emphasize: poor
+Disclosures are very [[poor]] in India 

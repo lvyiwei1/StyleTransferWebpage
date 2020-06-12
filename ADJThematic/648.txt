@@ -1,3 +1,1 @@
-Original Sentence: 
-But critics consider the changes regressive
-Emphasize: regressive
+But critics consider the changes [[regressive]] 

@@ -1,3 +1,1 @@
-Original Sentence: 
-It 's that we do n't want to
-Emphasize: do
+It 's that we [[do]] n't want to 

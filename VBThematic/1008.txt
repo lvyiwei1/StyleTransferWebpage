@@ -1,3 +1,1 @@
-Original Sentence: 
-Officials there declined to comment as did Helmsley management
-Emphasize: declined
+Officials there [[declined]] to comment as did Helmsley management 

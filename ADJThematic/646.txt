@@ -1,3 +1,1 @@
-Original Sentence: 
-Trading also was heavy in the over-the-counter market
-Emphasize: over-the-counter
+Trading also was heavy in the [[over-the-counter]] market 

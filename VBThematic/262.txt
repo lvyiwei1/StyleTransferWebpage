@@ -1,3 +1,1 @@
-Original Sentence: 
-Foreign traders say the company is strapped for cash
-Emphasize: say
+Foreign traders [[say]] the company is strapped for cash 

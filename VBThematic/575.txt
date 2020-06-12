@@ -1,3 +1,1 @@
-Original Sentence: 
-But the utility may not continue next year
-Emphasize: continue
+But the utility may not [[continue]] next year 

@@ -1,3 +1,1 @@
-Original Sentence: 
-The modest sell-off which started on Tuesday continued
-Emphasize: continued
+The modest sell-off which started on Tuesday [[continued]] 

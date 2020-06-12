@@ -1,3 +1,1 @@
-Original Sentence: 
-California prices were already coming down
-Emphasize: coming
+California prices were already [[coming]] down 

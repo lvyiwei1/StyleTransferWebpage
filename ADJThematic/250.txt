@@ -1,3 +1,1 @@
-Original Sentence: 
-But in art-world parlance Mr. Paul 's holdings are burnt
-Emphasize: burnt
+But in art-world parlance Mr. Paul 's holdings are [[burnt]] 

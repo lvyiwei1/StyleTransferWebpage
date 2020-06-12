@@ -1,3 +1,1 @@
-Original Sentence: 
-The company 's president quit suddenly
-Emphasize: quit
+The company 's president [[quit]] suddenly 

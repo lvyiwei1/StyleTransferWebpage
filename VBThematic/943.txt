@@ -1,3 +1,1 @@
-Original Sentence: 
-Officials at Carnival declined to comment
-Emphasize: declined
+Officials at Carnival [[declined]] to comment 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Opinion is mixed over its three-month prospects
-Emphasize: three-month
+Opinion is mixed over its [[three-month]] prospects 

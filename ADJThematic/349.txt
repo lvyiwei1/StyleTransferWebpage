@@ -1,3 +1,1 @@
-Original Sentence: 
-It 's also a fast fix for an ailing image
-Emphasize: fast
+It 's also a [[fast]] fix for an ailing image 

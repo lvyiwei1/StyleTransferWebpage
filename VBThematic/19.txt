@@ -1,3 +1,1 @@
-Original Sentence: 
-About 130,000 vehicles cross during a 24-hour period
-Emphasize: cross
+About 130,000 vehicles [[cross]] during a 24-hour period 

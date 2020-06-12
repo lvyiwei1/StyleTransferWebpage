@@ -1,3 +1,1 @@
-Original Sentence: 
-Already the 1982 legislation has saved an estimated 800 million
-Emphasize: estimated
+Already the 1982 legislation has saved an [[estimated]] 800 million 

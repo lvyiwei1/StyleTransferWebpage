@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Edelson could n't be reached for comment
-Emphasize: reached
+Mr. Edelson could n't be [[reached]] for comment 

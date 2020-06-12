@@ -1,3 +1,1 @@
-Original Sentence: 
-A side porch was ripped away
-Emphasize: ripped
+A side porch was [[ripped]] away 

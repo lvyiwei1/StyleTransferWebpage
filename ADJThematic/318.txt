@@ -1,3 +1,1 @@
-Original Sentence: 
-Sometimes they are constructive but often not
-Emphasize: constructive
+Sometimes they are [[constructive]] but often not 

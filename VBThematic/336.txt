@@ -1,3 +1,1 @@
-Original Sentence: 
-AFTERSHOCKS RATTLED Northern California amid an earthquake cleanup
-Emphasize: RATTLED
+AFTERSHOCKS [[RATTLED]] Northern California amid an earthquake cleanup 

@@ -1,3 +1,1 @@
-Original Sentence: 
-That 's OK Mr. Sagan replies
-Emphasize: OK
+That 's [[OK]] Mr. Sagan replies 

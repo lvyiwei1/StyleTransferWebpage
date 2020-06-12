@@ -1,3 +1,1 @@
-Original Sentence: 
-Prices were lower in Frankfurt Zurich Paris and Amsterdam
-Emphasize: lower
+Prices were [[lower]] in Frankfurt Zurich Paris and Amsterdam 

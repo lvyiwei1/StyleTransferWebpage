@@ -1,3 +1,1 @@
-Original Sentence: 
-We wanted them to build a road here he says
-Emphasize: says
+We wanted them to build a road here he [[says]] 

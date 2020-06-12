@@ -1,3 +1,1 @@
-Original Sentence: 
-It implies very dramatic growth he said
-Emphasize: said
+It implies very dramatic growth he [[said]] 

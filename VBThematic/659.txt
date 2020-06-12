@@ -1,3 +1,1 @@
-Original Sentence: 
-Names are resigning at an even faster pace this year
-Emphasize: resigning
+Names are [[resigning]] at an even faster pace this year 

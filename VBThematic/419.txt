@@ -1,3 +1,1 @@
-Original Sentence: 
-If the law leaves loopholes use them
-Emphasize: leaves
+If the law [[leaves]] loopholes use them 

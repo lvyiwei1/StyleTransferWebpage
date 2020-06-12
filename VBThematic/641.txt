@@ -1,3 +1,1 @@
-Original Sentence: 
-Harsco declined to say what country placed the order
-Emphasize: declined
+Harsco [[declined]] to say what country placed the order 

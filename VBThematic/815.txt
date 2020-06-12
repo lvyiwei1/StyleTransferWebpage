@@ -1,3 +1,1 @@
-Original Sentence: 
-The earnings drop had been expected
-Emphasize: expected
+The earnings drop had been [[expected]] 

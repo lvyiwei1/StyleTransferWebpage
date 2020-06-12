@@ -1,3 +1,1 @@
-Original Sentence: 
-Since then she has become wealthy
-Emphasize: wealthy
+Since then she has become [[wealthy]] 

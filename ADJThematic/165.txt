@@ -1,3 +1,1 @@
-Original Sentence: 
-We 're very pleased with the new deal
-Emphasize: new
+We 're very pleased with the [[new]] deal 

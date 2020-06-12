@@ -1,3 +1,1 @@
-Original Sentence: 
-All estimates exclude highway repair which could exceed 1 billion
-Emphasize: exceed
+All estimates exclude highway repair which could [[exceed]] 1 billion 

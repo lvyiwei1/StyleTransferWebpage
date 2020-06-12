@@ -1,3 +1,1 @@
-Original Sentence: 
-However for many managing speed does not come naturally
-Emphasize: come
+However for many managing speed does not [[come]] naturally 

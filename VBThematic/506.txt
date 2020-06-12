@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Carpenter denies the speculation
-Emphasize: denies
+Mr. Carpenter [[denies]] the speculation 

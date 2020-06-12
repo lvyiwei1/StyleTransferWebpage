@@ -1,3 +1,1 @@
-Original Sentence: 
-Revenue rose 3 % to 9 million from 8.8 million
-Emphasize: rose
+Revenue [[rose]] 3 % to 9 million from 8.8 million 

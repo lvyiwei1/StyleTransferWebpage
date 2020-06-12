@@ -1,3 +1,1 @@
-Original Sentence: 
-The price can not be less than 7,000
-Emphasize: less
+The price can not be [[less]] than 7,000 

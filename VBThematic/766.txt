@@ -1,3 +1,1 @@
-Original Sentence: 
-American Home Products Corp. proposes to acquire the company
-Emphasize: proposes
+American Home Products Corp. [[proposes]] to acquire the company 

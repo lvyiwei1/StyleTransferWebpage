@@ -1,3 +1,1 @@
-Original Sentence: 
-The old and revised numbers both include over-allotment provisions
-Emphasize: revised
+The old and [[revised]] numbers both include over-allotment provisions 

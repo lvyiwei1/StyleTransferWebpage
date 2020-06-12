@@ -1,3 +1,1 @@
-Original Sentence: 
-Some companies including Heinz even pay part of the fee
-Emphasize: including
+Some companies [[including]] Heinz even pay part of the fee 

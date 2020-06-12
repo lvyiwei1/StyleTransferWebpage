@@ -1,3 +1,1 @@
-Original Sentence: 
-But it was the underlying situation that became intolerable
-Emphasize: intolerable
+But it was the underlying situation that became [[intolerable]] 

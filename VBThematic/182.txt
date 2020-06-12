@@ -1,3 +1,1 @@
-Original Sentence: 
-Tuesday the shares regained SKr20 closing at SKr225
-Emphasize: regained
+Tuesday the shares [[regained]] SKr20 closing at SKr225 

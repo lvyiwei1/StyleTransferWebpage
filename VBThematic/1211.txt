@@ -1,3 +1,1 @@
-Original Sentence: 
-Our view is that we may see a profit decline
-Emphasize: see
+Our view is that we may [[see]] a profit decline 

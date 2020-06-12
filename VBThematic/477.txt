@@ -1,3 +1,1 @@
-Original Sentence: 
-He added We learned a lesson in 1987 about volatility
-Emphasize: added
+He [[added]] We learned a lesson in 1987 about volatility 

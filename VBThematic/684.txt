@@ -1,3 +1,1 @@
-Original Sentence: 
-She said a more aggressive move was n't needed
-Emphasize: needed
+She said a more aggressive move was n't [[needed]] 

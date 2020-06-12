@@ -1,3 +1,1 @@
-Original Sentence: 
-What that will mean for manufacturers is anybody 's guess
-Emphasize: mean
+What that will [[mean]] for manufacturers is anybody 's guess 

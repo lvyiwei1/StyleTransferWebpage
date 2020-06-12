@@ -1,3 +1,1 @@
-Original Sentence: 
-The company plans to be fully operational today
-Emphasize: operational
+The company plans to be fully [[operational]] today 

@@ -1,3 +1,1 @@
-Original Sentence: 
-They could all fairly be described as pap courses
-Emphasize: described
+They could all fairly be [[described]] as pap courses 

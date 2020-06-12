@@ -1,3 +1,1 @@
-Original Sentence: 
-Also the Big Board met with angry stock specialists
-Emphasize: angry
+Also the Big Board met with [[angry]] stock specialists 

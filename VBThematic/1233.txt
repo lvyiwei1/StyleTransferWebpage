@@ -1,3 +1,1 @@
-Original Sentence: 
-That division 's manager has been fired
-Emphasize: fired
+That division 's manager has been [[fired]] 

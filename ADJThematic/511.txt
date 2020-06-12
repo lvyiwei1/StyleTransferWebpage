@@ -1,3 +1,1 @@
-Original Sentence: 
-Dr. Lourie says the Justice Department interviewed him last July
-Emphasize: last
+Dr. Lourie says the Justice Department interviewed him [[last]] July 

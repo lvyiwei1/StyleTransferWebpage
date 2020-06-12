@@ -1,3 +1,1 @@
-Original Sentence: 
-The reversal was even more evident among shorter-term Treasury securities
-Emphasize: evident
+The reversal was even more [[evident]] among shorter-term Treasury securities 

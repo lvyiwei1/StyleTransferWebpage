@@ -1,3 +1,1 @@
-Original Sentence: 
-THE PANHANDLER approaches makes his pitch
-Emphasize: approaches
+THE PANHANDLER [[approaches]] makes his pitch 

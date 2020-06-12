@@ -1,3 +1,1 @@
-Original Sentence: 
-Pricing terms were n't available
-Emphasize: available
+Pricing terms were n't [[available]] 

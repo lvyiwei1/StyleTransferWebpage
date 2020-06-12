@@ -1,3 +1,1 @@
-Original Sentence: 
-a Totals include only vehicle sales reported in the period
-Emphasize: reported
+a Totals include only vehicle sales [[reported]] in the period 

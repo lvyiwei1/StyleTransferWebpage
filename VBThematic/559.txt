@@ -1,3 +1,1 @@
-Original Sentence: 
-Sales declined 3 % to 524.5 million from 539.4 million
-Emphasize: declined
+Sales [[declined]] 3 % to 524.5 million from 539.4 million 

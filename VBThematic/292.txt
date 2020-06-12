@@ -1,3 +1,1 @@
-Original Sentence: 
-Manufacturers have survived the turmoil in China largely unscathed
-Emphasize: survived
+Manufacturers have [[survived]] the turmoil in China largely unscathed 

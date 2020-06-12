@@ -1,3 +1,1 @@
-Original Sentence: 
-There are few factories and no mines
-Emphasize: few
+There are [[few]] factories and no mines 

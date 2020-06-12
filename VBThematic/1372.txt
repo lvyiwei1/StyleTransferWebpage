@@ -1,3 +1,1 @@
-Original Sentence: 
-And prosecutors declined to comment
-Emphasize: declined
+And prosecutors [[declined]] to comment 

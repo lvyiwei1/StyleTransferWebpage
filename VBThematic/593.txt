@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Shilling understands Mr. Straszheim 's problems
-Emphasize: understands
+Mr. Shilling [[understands]] Mr. Straszheim 's problems 

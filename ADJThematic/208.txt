@@ -1,3 +1,1 @@
-Original Sentence: 
-Estimated volume was a heavy seven million ounces
-Emphasize: heavy
+Estimated volume was a [[heavy]] seven million ounces 

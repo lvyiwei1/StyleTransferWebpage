@@ -1,3 +1,1 @@
-Original Sentence: 
-Even Lloyd 's specialty unusually risky ventures is being challenged
-Emphasize: risky
+Even Lloyd 's specialty unusually [[risky]] ventures is being challenged 

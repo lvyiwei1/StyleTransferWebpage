@@ -1,3 +1,1 @@
-Original Sentence: 
-The current debt limit expires Oct. 31
-Emphasize: expires
+The current debt limit [[expires]] Oct. 31 

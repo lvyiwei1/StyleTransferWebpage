@@ -1,3 +1,1 @@
-Original Sentence: 
-But under Alan Greenspan that has changed
-Emphasize: changed
+But under Alan Greenspan that has [[changed]] 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Even so his bill is given little chance of passage
-Emphasize: little
+Even so his bill is given [[little]] chance of passage 

@@ -1,3 +1,1 @@
-Original Sentence: 
-But many of these stocks have now become expensive
-Emphasize: expensive
+But many of these stocks have now become [[expensive]] 

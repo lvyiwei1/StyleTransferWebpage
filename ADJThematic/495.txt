@@ -1,3 +1,1 @@
-Original Sentence: 
-Short-term rates were unchanged to slightly lower
-Emphasize: lower
+Short-term rates were unchanged to slightly [[lower]] 

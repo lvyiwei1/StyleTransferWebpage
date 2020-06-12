@@ -1,3 +1,1 @@
-Original Sentence: 
-The fundamentals are pretty strong Mr. Dreman says
-Emphasize: says
+The fundamentals are pretty strong Mr. Dreman [[says]] 

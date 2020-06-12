@@ -1,3 +1,1 @@
-Original Sentence: 
-The excess supply pushed gasoline prices down in that period
-Emphasize: pushed
+The excess supply [[pushed]] gasoline prices down in that period 

@@ -1,3 +1,1 @@
-Original Sentence: 
-That is a little disturbing Ms. Kleinman said
-Emphasize: said
+That is a little disturbing Ms. Kleinman [[said]] 

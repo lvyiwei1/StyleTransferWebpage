@@ -1,3 +1,1 @@
-Original Sentence: 
-Most other states have enacted similar bans
-Emphasize: other
+Most [[other]] states have enacted similar bans 

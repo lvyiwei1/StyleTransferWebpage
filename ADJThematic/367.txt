@@ -1,3 +1,1 @@
-Original Sentence: 
-The bank has a negative net worth they say
-Emphasize: net
+The bank has a negative [[net]] worth they say 

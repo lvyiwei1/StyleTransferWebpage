@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Stein was fined 25,000 and suspended for three years
-Emphasize: suspended
+Mr. Stein was fined 25,000 and [[suspended]] for three years 

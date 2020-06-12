@@ -1,3 +1,1 @@
-Original Sentence: 
-Indeed abortion-rights activists still face their greatest tests
-Emphasize: greatest
+Indeed abortion-rights activists still face their [[greatest]] tests 

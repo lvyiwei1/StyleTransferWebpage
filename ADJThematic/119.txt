@@ -1,3 +1,1 @@
-Original Sentence: 
-It 's a real face-to-face arm wrestling challenge to Congress
-Emphasize: real
+It 's a [[real]] face-to-face arm wrestling challenge to Congress 

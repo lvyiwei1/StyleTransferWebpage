@@ -1,3 +1,1 @@
-Original Sentence: 
-Revenues rose 8.8 % to 4.35 billion from 4.0 billion
-Emphasize: rose
+Revenues [[rose]] 8.8 % to 4.35 billion from 4.0 billion 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Eavesdropping by individuals is harder to measure
-Emphasize: harder
+Eavesdropping by individuals is [[harder]] to measure 

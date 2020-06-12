@@ -1,3 +1,1 @@
-Original Sentence: 
-Is this what the home builders want
-Emphasize: want
+Is this what the home builders [[want]] 

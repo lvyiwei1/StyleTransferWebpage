@@ -1,3 +1,1 @@
-Original Sentence: 
-Other stocks were affected by corporate earnings
-Emphasize: corporate
+Other stocks were affected by [[corporate]] earnings 

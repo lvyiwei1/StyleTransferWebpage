@@ -1,3 +1,1 @@
-Original Sentence: 
-That 's a lot of banishment as it turns out
-Emphasize: turns
+That 's a lot of banishment as it [[turns]] out 

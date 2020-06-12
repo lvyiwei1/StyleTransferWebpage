@@ -1,3 +1,1 @@
-Original Sentence: 
-Last week CBS Inc. canceled The People Next Door
-Emphasize: Last
+[[Last]] week CBS Inc. canceled The People Next Door 

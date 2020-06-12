@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Dozen knows these problems firsthand
-Emphasize: knows
+Mr. Dozen [[knows]] these problems firsthand 

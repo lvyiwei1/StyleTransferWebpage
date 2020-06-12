@@ -1,3 +1,1 @@
-Original Sentence: 
-Sales rose slightly to 2.68 billion from 2.66 billion
-Emphasize: rose
+Sales [[rose]] slightly to 2.68 billion from 2.66 billion 

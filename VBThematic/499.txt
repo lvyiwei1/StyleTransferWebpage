@@ -1,3 +1,1 @@
-Original Sentence: 
-We 're not rushing into anything
-Emphasize: rushing
+We 're not [[rushing]] into anything 

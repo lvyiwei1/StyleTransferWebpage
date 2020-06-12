@@ -1,3 +1,1 @@
-Original Sentence: 
-Once somebody eats one they get hooked
-Emphasize: eats
+Once somebody [[eats]] one they get hooked 

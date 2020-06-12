@@ -1,3 +1,1 @@
-Original Sentence: 
-Unless the questions are answered I will keep on going
-Emphasize: answered
+Unless the questions are [[answered]] I will keep on going 

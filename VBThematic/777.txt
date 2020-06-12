@@ -1,3 +1,1 @@
-Original Sentence: 
-He intends to add to the litigation staff
-Emphasize: add
+He intends to [[add]] to the litigation staff 

@@ -1,3 +1,1 @@
-Original Sentence: 
-And pregnant women are fat
-Emphasize: pregnant
+And [[pregnant]] women are fat 

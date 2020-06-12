@@ -1,3 +1,1 @@
-Original Sentence: 
-Proceeds from those sales will be used to reduce debt
-Emphasize: used
+Proceeds from those sales will be [[used]] to reduce debt 

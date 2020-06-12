@@ -1,3 +1,1 @@
-Original Sentence: 
-The computers will display stock prices selected by users
-Emphasize: selected
+The computers will display stock prices [[selected]] by users 

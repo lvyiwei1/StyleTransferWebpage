@@ -1,3 +1,1 @@
-Original Sentence: 
-Jackets may be sold next
-Emphasize: sold
+Jackets may be [[sold]] next 

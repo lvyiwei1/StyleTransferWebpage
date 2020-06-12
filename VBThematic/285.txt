@@ -1,3 +1,1 @@
-Original Sentence: 
-The moisturizer introduced in 1962 had a dowdy image
-Emphasize: introduced
+The moisturizer [[introduced]] in 1962 had a dowdy image 

@@ -1,3 +1,1 @@
-Original Sentence: 
-His Tuesday night team the Leftovers is in first place
-Emphasize: first
+His Tuesday night team the Leftovers is in [[first]] place 

@@ -1,3 +1,1 @@
-Original Sentence: 
-There 's some price at which we 'd stop bidding
-Emphasize: stop
+There 's some price at which we 'd [[stop]] bidding 

@@ -1,3 +1,1 @@
-Original Sentence: 
-The 6 3\/4 % notes yield 6.25 %
-Emphasize: yield
+The 6 3\/4 % notes [[yield]] 6.25 % 

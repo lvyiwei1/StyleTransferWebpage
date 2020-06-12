@@ -1,3 +1,1 @@
-Original Sentence: 
-The dollar rose against the Swiss and French francs
-Emphasize: Swiss
+The dollar rose against the [[Swiss]] and French francs 

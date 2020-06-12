@@ -1,3 +1,1 @@
-Original Sentence: 
-It liquefies in a patchwork quilt pattern
-Emphasize: liquefies
+It [[liquefies]] in a patchwork quilt pattern 

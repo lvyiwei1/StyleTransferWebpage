@@ -1,3 +1,1 @@
-Original Sentence: 
-Competitors are known as the enemy
-Emphasize: known
+Competitors are [[known]] as the enemy 

@@ -1,3 +1,1 @@
-Original Sentence: 
-But no one else does
-Emphasize: does
+But no one else [[does]] 

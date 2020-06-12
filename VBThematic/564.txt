@@ -1,3 +1,1 @@
-Original Sentence: 
-Supermarkets are getting into the variety act too
-Emphasize: getting
+Supermarkets are [[getting]] into the variety act too 

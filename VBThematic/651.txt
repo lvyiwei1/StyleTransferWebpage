@@ -1,3 +1,1 @@
-Original Sentence: 
-Airborne Freight climbed 1 1\/8 to 38 1\/2
-Emphasize: climbed
+Airborne Freight [[climbed]] 1 1\/8 to 38 1\/2 

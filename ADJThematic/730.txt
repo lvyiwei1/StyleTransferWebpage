@@ -1,3 +1,1 @@
-Original Sentence: 
-The offer made June 1 has been extended several times
-Emphasize: several
+The offer made June 1 has been extended [[several]] times 

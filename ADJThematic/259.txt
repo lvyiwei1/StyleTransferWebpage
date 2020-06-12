@@ -1,3 +1,1 @@
-Original Sentence: 
-Yet another political scandal is racking Japan
-Emphasize: political
+Yet another [[political]] scandal is racking Japan 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Mervin Lung remains chairman and chief executive officer
-Emphasize: chief
+Mervin Lung remains chairman and [[chief]] executive officer 

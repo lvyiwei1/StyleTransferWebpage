@@ -1,3 +1,1 @@
-Original Sentence: 
-This may sound strangely optimistic
-Emphasize: optimistic
+This may sound strangely [[optimistic]] 

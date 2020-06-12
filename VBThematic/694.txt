@@ -1,3 +1,1 @@
-Original Sentence: 
-CBS Sports earned 50 million or so last year
-Emphasize: earned
+CBS Sports [[earned]] 50 million or so last year 

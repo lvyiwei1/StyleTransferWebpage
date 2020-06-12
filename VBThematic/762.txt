@@ -1,3 +1,1 @@
-Original Sentence: 
-One big technology issue Novell rode the roller coaster
-Emphasize: rode
+One big technology issue Novell [[rode]] the roller coaster 

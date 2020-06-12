@@ -1,3 +1,1 @@
-Original Sentence: 
-The question is unanswerable at this point she says
-Emphasize: unanswerable
+The question is [[unanswerable]] at this point she says 

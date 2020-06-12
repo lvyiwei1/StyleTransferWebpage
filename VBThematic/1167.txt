@@ -1,3 +1,1 @@
-Original Sentence: 
-Parts of the Houston Ship Channel were closed
-Emphasize: closed
+Parts of the Houston Ship Channel were [[closed]] 

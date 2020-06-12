@@ -1,3 +1,1 @@
-Original Sentence: 
-Interest payments on the bonds will be payable semiannually
-Emphasize: payable
+Interest payments on the bonds will be [[payable]] semiannually 

@@ -1,3 +1,1 @@
-Original Sentence: 
-HEALTH CLUBS gear up for a graying clientele
-Emphasize: gear
+HEALTH CLUBS [[gear]] up for a graying clientele 

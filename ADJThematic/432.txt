@@ -1,3 +1,1 @@
-Original Sentence: 
-Paper work on how it was spent is incomplete
-Emphasize: incomplete
+Paper work on how it was spent is [[incomplete]] 

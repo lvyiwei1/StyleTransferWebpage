@@ -1,3 +1,1 @@
-Original Sentence: 
-Logic plays a minimal role here
-Emphasize: minimal
+Logic plays a [[minimal]] role here 

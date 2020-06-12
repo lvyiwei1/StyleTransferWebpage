@@ -1,3 +1,1 @@
-Original Sentence: 
-Poland is short on enterprises not enterprise
-Emphasize: short
+Poland is [[short]] on enterprises not enterprise 

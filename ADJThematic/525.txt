@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Locke teaches English and comparative literature at Columbia University
-Emphasize: comparative
+Mr. Locke teaches English and [[comparative]] literature at Columbia University 

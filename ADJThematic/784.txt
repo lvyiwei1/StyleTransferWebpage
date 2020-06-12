@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Friend says his side is dead serious
-Emphasize: serious
+Mr. Friend says his side is dead [[serious]] 

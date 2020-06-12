@@ -1,3 +1,1 @@
-Original Sentence: 
-Trinidad Corp. is contesting liability
-Emphasize: contesting
+Trinidad Corp. is [[contesting]] liability 

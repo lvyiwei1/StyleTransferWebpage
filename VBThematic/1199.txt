@@ -1,3 +1,1 @@
-Original Sentence: 
-For Cathay Pacific Airways the smooth ride may be ending
-Emphasize: ending
+For Cathay Pacific Airways the smooth ride may be [[ending]] 

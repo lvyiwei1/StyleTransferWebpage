@@ -1,3 +1,1 @@
-Original Sentence: 
-The current quarter he said looks fine
-Emphasize: looks
+The current quarter he said [[looks]] fine 

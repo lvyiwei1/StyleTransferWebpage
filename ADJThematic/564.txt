@@ -1,3 +1,1 @@
-Original Sentence: 
-As Wall Street strengthened the London trading room went wild
-Emphasize: wild
+As Wall Street strengthened the London trading room went [[wild]] 

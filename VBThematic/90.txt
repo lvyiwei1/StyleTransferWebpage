@@ -1,3 +1,1 @@
-Original Sentence: 
-The Paris bank does n't publish that figure
-Emphasize: does
+The Paris bank [[does]] n't publish that figure 

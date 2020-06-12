@@ -1,3 +1,1 @@
-Original Sentence: 
-Sounds great or does it
-Emphasize: does
+Sounds great or [[does]] it 

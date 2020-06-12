@@ -1,3 +1,1 @@
-Original Sentence: 
-The work force provides the third arm of the alliance
-Emphasize: provides
+The work force [[provides]] the third arm of the alliance 

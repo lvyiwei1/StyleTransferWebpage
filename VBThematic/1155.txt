@@ -1,3 +1,1 @@
-Original Sentence: 
-After that the federal share diminishes
-Emphasize: diminishes
+After that the federal share [[diminishes]] 

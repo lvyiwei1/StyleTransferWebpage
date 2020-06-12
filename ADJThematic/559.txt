@@ -1,3 +1,1 @@
-Original Sentence: 
-Of course Mr. Wolf 48 years old has some savings
-Emphasize: old
+Of course Mr. Wolf 48 years [[old]] has some savings 

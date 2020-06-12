@@ -1,3 +1,1 @@
-Original Sentence: 
-You do n't know which way to punch
-Emphasize: do
+You [[do]] n't know which way to punch 

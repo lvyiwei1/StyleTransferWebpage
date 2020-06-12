@@ -1,3 +1,1 @@
-Original Sentence: 
-Jeff Rowe contributed to this article
-Emphasize: contributed
+Jeff Rowe [[contributed]] to this article 

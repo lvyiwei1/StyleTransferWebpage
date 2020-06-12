@@ -1,3 +1,1 @@
-Original Sentence: 
-World-wide trading was generally manageable
-Emphasize: World-wide
+[[World-wide]] trading was generally manageable 

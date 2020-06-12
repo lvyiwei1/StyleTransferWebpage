@@ -1,3 +1,1 @@
-Original Sentence: 
-Everyone around me lives well
-Emphasize: lives
+Everyone around me [[lives]] well 

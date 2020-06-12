@@ -1,3 +1,1 @@
-Original Sentence: 
-Everybody was afraid of him Mr. Ingersoll says
-Emphasize: afraid
+Everybody was [[afraid]] of him Mr. Ingersoll says 

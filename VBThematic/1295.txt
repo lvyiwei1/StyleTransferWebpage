@@ -1,3 +1,1 @@
-Original Sentence: 
-CALIFORNIA A TREND-SETTER in franchising rules stirs a controversy
-Emphasize: stirs
+CALIFORNIA A TREND-SETTER in franchising rules [[stirs]] a controversy 

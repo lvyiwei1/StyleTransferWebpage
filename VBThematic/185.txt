@@ -1,3 +1,1 @@
-Original Sentence: 
-However inflation for 1990 was seen slowing to 4.5 %
-Emphasize: slowing
+However inflation for 1990 was seen [[slowing]] to 4.5 % 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Some high-priced issues made a comeback Friday
-Emphasize: made
+Some high-priced issues [[made]] a comeback Friday 

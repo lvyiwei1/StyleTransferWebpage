@@ -1,3 +1,1 @@
-Original Sentence: 
-Having only a Republican measure makes the task harder
-Emphasize: Republican
+Having only a [[Republican]] measure makes the task harder 

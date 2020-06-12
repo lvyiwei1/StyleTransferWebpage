@@ -1,3 +1,1 @@
-Original Sentence: 
-Outside investors scarce since '86 are edging back
-Emphasize: edging
+Outside investors scarce since '86 are [[edging]] back 

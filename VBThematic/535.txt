@@ -1,3 +1,1 @@
-Original Sentence: 
-MURDER THREAT charged in Haas Securities Corp stock-manipulation trial
-Emphasize: charged
+MURDER THREAT [[charged]] in Haas Securities Corp stock-manipulation trial 

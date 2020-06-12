@@ -1,3 +1,1 @@
-Original Sentence: 
-FEDERAL PROSECUTORS are concluding fewer criminal cases with trials
-Emphasize: criminal
+FEDERAL PROSECUTORS are concluding fewer [[criminal]] cases with trials 

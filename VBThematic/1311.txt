@@ -1,3 +1,1 @@
-Original Sentence: 
-Other companies figure they ca n't avoid the market
-Emphasize: avoid
+Other companies figure they ca n't [[avoid]] the market 

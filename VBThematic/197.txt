@@ -1,3 +1,1 @@
-Original Sentence: 
-The board has 10 business days to respond
-Emphasize: respond
+The board has 10 business days to [[respond]] 

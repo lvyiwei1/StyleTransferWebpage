@@ -1,3 +1,1 @@
-Original Sentence: 
-And they are a very odd team in any case
-Emphasize: odd
+And they are a very [[odd]] team in any case 

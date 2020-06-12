@@ -1,3 +1,1 @@
-Original Sentence: 
-Their verdict on real estate is almost the same
-Emphasize: same
+Their verdict on real estate is almost the [[same]] 

@@ -1,3 +1,1 @@
-Original Sentence: 
-White children empty the wastepaper baskets and squeegee the windows
-Emphasize: squeegee
+White children empty the wastepaper baskets and [[squeegee]] the windows 

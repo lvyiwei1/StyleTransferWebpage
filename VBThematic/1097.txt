@@ -1,3 +1,1 @@
-Original Sentence: 
-Some in Arizona think that may be optimistic
-Emphasize: think
+Some in Arizona [[think]] that may be optimistic 

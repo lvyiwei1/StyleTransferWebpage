@@ -1,3 +1,1 @@
-Original Sentence: 
-Kidder Peabody & Co. is trying to struggle back
-Emphasize: trying
+Kidder Peabody & Co. is [[trying]] to struggle back 

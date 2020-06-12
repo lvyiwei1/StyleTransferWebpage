@@ -1,3 +1,1 @@
-Original Sentence: 
-The second is they do n't have enough discipline
-Emphasize: do
+The second is they [[do]] n't have enough discipline 

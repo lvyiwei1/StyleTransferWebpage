@@ -1,3 +1,1 @@
-Original Sentence: 
-You have n't seen the full effect of that yet
-Emphasize: full
+You have n't seen the [[full]] effect of that yet 

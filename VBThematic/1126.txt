@@ -1,3 +1,1 @@
-Original Sentence: 
-But some analysts wonder how strong the recovery will be
-Emphasize: wonder
+But some analysts [[wonder]] how strong the recovery will be 

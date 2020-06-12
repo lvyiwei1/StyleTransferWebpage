@@ -1,3 +1,1 @@
-Original Sentence: 
-Cincinnati Microwave Inc. said it introduced two radar detectors
-Emphasize: introduced
+Cincinnati Microwave Inc. said it [[introduced]] two radar detectors 

@@ -1,3 +1,1 @@
-Original Sentence: 
-A 14 % inflation rate dropped below 5 %
-Emphasize: dropped
+A 14 % inflation rate [[dropped]] below 5 % 

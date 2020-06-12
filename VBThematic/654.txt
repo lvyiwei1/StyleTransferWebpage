@@ -1,3 +1,1 @@
-Original Sentence: 
-But it fell to 1.8470 marks from 1.8485
-Emphasize: fell
+But it [[fell]] to 1.8470 marks from 1.8485 

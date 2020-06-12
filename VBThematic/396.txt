@@ -1,3 +1,1 @@
-Original Sentence: 
-Bush administration officials say inflation is under control
-Emphasize: say
+Bush administration officials [[say]] inflation is under control 

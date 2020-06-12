@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Evans could n't be reached yesterday for comment
-Emphasize: reached
+Mr. Evans could n't be [[reached]] yesterday for comment 

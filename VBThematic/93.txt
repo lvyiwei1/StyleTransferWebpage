@@ -1,3 +1,1 @@
-Original Sentence: 
-The stock fell 75 cents
-Emphasize: fell
+The stock [[fell]] 75 cents 

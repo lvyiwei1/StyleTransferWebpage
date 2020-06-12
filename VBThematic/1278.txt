@@ -1,3 +1,1 @@
-Original Sentence: 
-The service did n't identify its Tokyu sources
-Emphasize: identify
+The service did n't [[identify]] its Tokyu sources 

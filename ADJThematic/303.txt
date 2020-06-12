@@ -1,3 +1,1 @@
-Original Sentence: 
-A private farmer never wastes anything
-Emphasize: private
+A [[private]] farmer never wastes anything 

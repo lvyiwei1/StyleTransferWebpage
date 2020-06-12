@@ -1,3 +1,1 @@
-Original Sentence: 
-The notice also grants relief for certain estate-tax returns
-Emphasize: grants
+The notice also [[grants]] relief for certain estate-tax returns 

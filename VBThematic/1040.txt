@@ -1,3 +1,1 @@
-Original Sentence: 
-Occasionally all that 's needed is a little coaxing
-Emphasize: needed
+Occasionally all that 's [[needed]] is a little coaxing 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Revenue climbed 4.3 % to 14.31 billion from 13.71 billion
-Emphasize: climbed
+Revenue [[climbed]] 4.3 % to 14.31 billion from 13.71 billion 

@@ -1,3 +1,1 @@
-Original Sentence: 
-He sits down at the piano and plays
-Emphasize: sits
+He [[sits]] down at the piano and plays 

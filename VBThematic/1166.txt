@@ -1,3 +1,1 @@
-Original Sentence: 
-The plant was evacuated and workers sent home
-Emphasize: sent
+The plant was evacuated and workers [[sent]] home 

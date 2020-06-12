@@ -1,3 +1,1 @@
-Original Sentence: 
-But investors do n't seem to think so
-Emphasize: seem
+But investors do n't [[seem]] to think so 

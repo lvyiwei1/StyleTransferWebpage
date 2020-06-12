@@ -1,3 +1,1 @@
-Original Sentence: 
-Revenue was about flat at 2.4 billion
-Emphasize: flat
+Revenue was about [[flat]] at 2.4 billion 

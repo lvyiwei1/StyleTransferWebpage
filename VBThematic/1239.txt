@@ -1,3 +1,1 @@
-Original Sentence: 
-The interview did not touch on Singapore 's domestic affairs
-Emphasize: did
+The interview [[did]] not touch on Singapore 's domestic affairs 

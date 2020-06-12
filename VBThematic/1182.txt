@@ -1,3 +1,1 @@
-Original Sentence: 
-Those enterprises however are not going to be privatized
-Emphasize: going
+Those enterprises however are not [[going]] to be privatized 

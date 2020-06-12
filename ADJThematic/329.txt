@@ -1,3 +1,1 @@
-Original Sentence: 
-But attendance is down from previous years
-Emphasize: previous
+But attendance is down from [[previous]] years 

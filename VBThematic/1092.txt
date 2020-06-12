@@ -1,3 +1,1 @@
-Original Sentence: 
-I find it very difficult to say that
-Emphasize: say
+I find it very difficult to [[say]] that 

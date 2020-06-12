@@ -1,3 +1,1 @@
-Original Sentence: 
-The shuttle is slated to return Monday to California
-Emphasize: slated
+The shuttle is [[slated]] to return Monday to California 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Corporations need liquidity in the form of borrowed funds
-Emphasize: borrowed
+Corporations need liquidity in the form of [[borrowed]] funds 

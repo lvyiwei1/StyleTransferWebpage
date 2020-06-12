@@ -1,3 +1,1 @@
-Original Sentence: 
-Both Philip Morris and Backer Spielvogel declined to comment
-Emphasize: comment
+Both Philip Morris and Backer Spielvogel declined to [[comment]] 

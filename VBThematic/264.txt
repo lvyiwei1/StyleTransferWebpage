@@ -1,3 +1,1 @@
-Original Sentence: 
-All you get is risk
-Emphasize: get
+All you [[get]] is risk 

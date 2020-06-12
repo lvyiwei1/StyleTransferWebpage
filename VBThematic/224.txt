@@ -1,3 +1,1 @@
-Original Sentence: 
-Where had all the money come from
-Emphasize: come
+Where had all the money [[come]] from 

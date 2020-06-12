@@ -1,3 +1,1 @@
-Original Sentence: 
-Some current rates exceed those on CDs
-Emphasize: exceed
+Some current rates [[exceed]] those on CDs 

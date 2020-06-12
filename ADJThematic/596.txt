@@ -1,3 +1,1 @@
-Original Sentence: 
-Limiting care wo n't be easy or popular
-Emphasize: easy
+Limiting care wo n't be [[easy]] or popular 

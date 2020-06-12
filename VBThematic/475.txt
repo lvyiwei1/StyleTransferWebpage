@@ -1,3 +1,1 @@
-Original Sentence: 
-Expect brushbacks but no beanballs says Mr. McEnaney
-Emphasize: says
+Expect brushbacks but no beanballs [[says]] Mr. McEnaney 

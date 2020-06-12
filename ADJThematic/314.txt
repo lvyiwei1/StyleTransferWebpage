@@ -1,3 +1,1 @@
-Original Sentence: 
-Daiwa is one of the world 's largest securities firms
-Emphasize: largest
+Daiwa is one of the world 's [[largest]] securities firms 

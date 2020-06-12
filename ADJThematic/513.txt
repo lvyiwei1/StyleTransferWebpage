@@ -1,3 +1,1 @@
-Original Sentence: 
-Yet his political setbacks mounted
-Emphasize: political
+Yet his [[political]] setbacks mounted 

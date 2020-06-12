@@ -1,3 +1,1 @@
-Original Sentence: 
-The theory relies on three assumptions
-Emphasize: relies
+The theory [[relies]] on three assumptions 

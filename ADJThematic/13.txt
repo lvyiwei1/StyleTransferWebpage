@@ -1,3 +1,1 @@
-Original Sentence: 
-Despite their ubiquity the consultants are n't entirely welcome
-Emphasize: welcome
+Despite their ubiquity the consultants are n't entirely [[welcome]] 

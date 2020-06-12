@@ -1,3 +1,1 @@
-Original Sentence: 
-They note that stocks experienced volatile swings long before futures
-Emphasize: experienced
+They note that stocks [[experienced]] volatile swings long before futures 

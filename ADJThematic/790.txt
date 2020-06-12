@@ -1,3 +1,1 @@
-Original Sentence: 
-Blue chips led the march up in heavy trading
-Emphasize: Blue
+[[Blue]] chips led the march up in heavy trading 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Here are four key steps
-Emphasize: key
+Here are four [[key]] steps 

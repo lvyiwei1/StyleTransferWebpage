@@ -1,3 +1,1 @@
-Original Sentence: 
-Just say the offices are tastefully appointed he says
-Emphasize: says
+Just say the offices are tastefully appointed he [[says]] 

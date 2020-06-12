@@ -1,3 +1,1 @@
-Original Sentence: 
-The results ca n't be extrapolated to all investors though
-Emphasize: extrapolated
+The results ca n't be [[extrapolated]] to all investors though 

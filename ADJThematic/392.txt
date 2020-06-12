@@ -1,3 +1,1 @@
-Original Sentence: 
-Now was that a quarter cup or a half cup
-Emphasize: half
+Now was that a quarter cup or a [[half]] cup 

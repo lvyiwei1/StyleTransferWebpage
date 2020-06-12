@@ -1,3 +1,1 @@
-Original Sentence: 
-Stock prices finished about unchanged Friday in quiet expiration trading
-Emphasize: unchanged
+Stock prices finished about [[unchanged]] Friday in quiet expiration trading 

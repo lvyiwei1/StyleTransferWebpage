@@ -1,3 +1,1 @@
-Original Sentence: 
-The Dow Jones Industrial Average fell 26.23 points to 2662.91
-Emphasize: fell
+The Dow Jones Industrial Average [[fell]] 26.23 points to 2662.91 

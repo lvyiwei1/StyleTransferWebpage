@@ -1,3 +1,1 @@
-Original Sentence: 
-Michael late yesterday announced a 3.8 million stock buy-back program
-Emphasize: announced
+Michael late yesterday [[announced]] a 3.8 million stock buy-back program 

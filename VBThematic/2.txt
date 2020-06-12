@@ -1,3 +1,1 @@
-Original Sentence: 
-Sen. Mitchell urged them to desist
-Emphasize: desist
+Sen. Mitchell urged them to [[desist]] 

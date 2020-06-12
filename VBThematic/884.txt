@@ -1,3 +1,1 @@
-Original Sentence: 
-They showed up but did n't or could n't challenge
-Emphasize: did
+They showed up but [[did]] n't or could n't challenge 

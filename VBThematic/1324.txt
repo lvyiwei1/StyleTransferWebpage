@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Baker promises to return if the haunting continues
-Emphasize: promises
+Mr. Baker [[promises]] to return if the haunting continues 

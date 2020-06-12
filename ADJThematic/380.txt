@@ -1,3 +1,1 @@
-Original Sentence: 
-LONG-TERM care insurance gains favor
-Emphasize: LONG-TERM
+[[LONG-TERM]] care insurance gains favor 

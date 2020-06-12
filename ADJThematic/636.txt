@@ -1,3 +1,1 @@
-Original Sentence: 
-More bothersome there are several apparent anachronisms
-Emphasize: apparent
+More bothersome there are several [[apparent]] anachronisms 

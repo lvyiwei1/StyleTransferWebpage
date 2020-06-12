@@ -1,3 +1,1 @@
-Original Sentence: 
-Ortega had threatened to end a 19-month-old ceasefire
-Emphasize: 19-month-old
+Ortega had threatened to end a [[19-month-old]] ceasefire 

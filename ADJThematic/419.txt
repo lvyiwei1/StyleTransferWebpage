@@ -1,3 +1,1 @@
-Original Sentence: 
-SHORT SKIRTS not welcome in Texas court
-Emphasize: welcome
+SHORT SKIRTS not [[welcome]] in Texas court 

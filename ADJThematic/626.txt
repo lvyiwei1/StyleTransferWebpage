@@ -1,3 +1,1 @@
-Original Sentence: 
-The unions and the company last week agreed to mediation
-Emphasize: last
+The unions and the company [[last]] week agreed to mediation 

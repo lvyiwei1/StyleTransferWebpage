@@ -1,3 +1,1 @@
-Original Sentence: 
-Revenue soared to 101.7 million from 39.5 million
-Emphasize: soared
+Revenue [[soared]] to 101.7 million from 39.5 million 

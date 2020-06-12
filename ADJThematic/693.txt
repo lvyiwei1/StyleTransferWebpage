@@ -1,3 +1,1 @@
-Original Sentence: 
-Other money managers also opened their wallets
-Emphasize: Other
+[[Other]] money managers also opened their wallets 

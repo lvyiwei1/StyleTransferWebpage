@@ -1,3 +1,1 @@
-Original Sentence: 
-That 'll save us time and get people involved
-Emphasize: get
+That 'll save us time and [[get]] people involved 

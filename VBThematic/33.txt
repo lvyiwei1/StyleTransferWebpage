@@ -1,3 +1,1 @@
-Original Sentence: 
-He was later shown on television fielding questions
-Emphasize: fielding
+He was later shown on television [[fielding]] questions 

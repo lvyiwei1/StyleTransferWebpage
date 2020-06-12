@@ -1,3 +1,1 @@
-Original Sentence: 
-The incident occurred Saturday night
-Emphasize: occurred
+The incident [[occurred]] Saturday night 

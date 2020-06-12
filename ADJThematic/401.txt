@@ -1,3 +1,1 @@
-Original Sentence: 
-Until 1963 it was good soil
-Emphasize: good
+Until 1963 it was [[good]] soil 

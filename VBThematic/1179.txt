@@ -1,3 +1,1 @@
-Original Sentence: 
-Chrysler Corp. also hit the rocks in mid-October
-Emphasize: hit
+Chrysler Corp. also [[hit]] the rocks in mid-October 

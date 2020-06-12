@@ -1,3 +1,1 @@
-Original Sentence: 
-Sales of parts for cars and construction vehicles rose
-Emphasize: rose
+Sales of parts for cars and construction vehicles [[rose]] 

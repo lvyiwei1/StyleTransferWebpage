@@ -1,3 +1,1 @@
-Original Sentence: 
-He also says he is losing money now
-Emphasize: losing
+He also says he is [[losing]] money now 

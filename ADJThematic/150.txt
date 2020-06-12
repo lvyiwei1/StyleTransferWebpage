@@ -1,3 +1,1 @@
-Original Sentence: 
-The numbers were adjusted for usual seasonal fluctuations
-Emphasize: seasonal
+The numbers were adjusted for usual [[seasonal]] fluctuations 

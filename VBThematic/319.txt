@@ -1,3 +1,1 @@
-Original Sentence: 
-Darman hopes to prod Congress to finish a deficit plan
-Emphasize: hopes
+Darman [[hopes]] to prod Congress to finish a deficit plan 

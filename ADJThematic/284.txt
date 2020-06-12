@@ -1,3 +1,1 @@
-Original Sentence: 
-It is a bureaucratic country
-Emphasize: bureaucratic
+It is a [[bureaucratic]] country 

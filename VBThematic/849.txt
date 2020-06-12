@@ -1,3 +1,1 @@
-Original Sentence: 
-It flopped all around real dramatic
-Emphasize: flopped
+It [[flopped]] all around real dramatic 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Her new line of work has some perils
-Emphasize: new
+Her [[new]] line of work has some perils 

@@ -1,3 +1,1 @@
-Original Sentence: 
-Chief executives and presidents had come and gone
-Emphasize: Chief
+[[Chief]] executives and presidents had come and gone 

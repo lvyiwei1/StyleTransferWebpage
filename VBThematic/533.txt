@@ -1,3 +1,1 @@
-Original Sentence: 
-And he has attached himself to the Lincoln story tenaciously
-Emphasize: attached
+And he has [[attached]] himself to the Lincoln story tenaciously 

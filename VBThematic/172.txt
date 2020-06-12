@@ -1,3 +1,1 @@
-Original Sentence: 
-It ended with a gain of 88.12 points
-Emphasize: ended
+It [[ended]] with a gain of 88.12 points 

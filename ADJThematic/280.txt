@@ -1,3 +1,1 @@
-Original Sentence: 
-Litigation consulting is n't a guarantee of a favorable outcome
-Emphasize: favorable
+Litigation consulting is n't a guarantee of a [[favorable]] outcome 

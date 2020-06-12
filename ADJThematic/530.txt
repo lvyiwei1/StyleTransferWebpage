@@ -1,3 +1,1 @@
-Original Sentence: 
-A hundred billion dollars in stock was subject to it
-Emphasize: subject
+A hundred billion dollars in stock was [[subject]] to it 

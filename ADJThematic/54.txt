@@ -1,3 +1,1 @@
-Original Sentence: 
-Prices of high-yield high-risk corporate securities ended unchanged
-Emphasize: unchanged
+Prices of high-yield high-risk corporate securities ended [[unchanged]] 

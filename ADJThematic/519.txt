@@ -1,3 +1,1 @@
-Original Sentence: 
-Mr. Noriega was growing desperate
-Emphasize: desperate
+Mr. Noriega was growing [[desperate]] 

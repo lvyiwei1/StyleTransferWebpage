@@ -1,3 +1,1 @@
-Original Sentence: 
-When industries were weak it protected them
-Emphasize: protected
+When industries were weak it [[protected]] them 

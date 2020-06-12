@@ -1,3 +1,1 @@
-Original Sentence: 
-The antibody then kills the cell
-Emphasize: kills
+The antibody then [[kills]] the cell 

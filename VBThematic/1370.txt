@@ -1,3 +1,1 @@
-Original Sentence: 
-Plant lovers who studied the maquette were alarmed
-Emphasize: studied
+Plant lovers who [[studied]] the maquette were alarmed 

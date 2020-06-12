@@ -1,3 +1,1 @@
-Original Sentence: 
-But what about all those non-duck ducks flapping over Washington
-Emphasize: non-duck
+But what about all those [[non-duck]] ducks flapping over Washington 

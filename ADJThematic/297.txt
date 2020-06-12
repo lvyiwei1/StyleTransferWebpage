@@ -1,3 +1,1 @@
-Original Sentence: 
-And of course there 's the unsteady labor situation
-Emphasize: unsteady
+And of course there 's the [[unsteady]] labor situation 

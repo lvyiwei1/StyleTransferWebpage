@@ -1,3 +1,1 @@
-Original Sentence: 
-By this month it had more than doubled
-Emphasize: doubled
+By this month it had more than [[doubled]] 

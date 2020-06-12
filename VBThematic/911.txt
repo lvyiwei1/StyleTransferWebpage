@@ -1,3 +1,1 @@
-Original Sentence: 
-But they think promotions are limited
-Emphasize: limited
+But they think promotions are [[limited]] 

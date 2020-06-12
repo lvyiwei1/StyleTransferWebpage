@@ -1,3 +1,1 @@
-Original Sentence: 
-The drug was introduced in West Germany this year
-Emphasize: introduced
+The drug was [[introduced]] in West Germany this year 
