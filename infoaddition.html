@@ -16,6 +16,9 @@ var idnumber = prompt("Please enter your assigned number", "1");
         document.getElementById("d"+i).data = "infoaddition/"+idi+".txt";
         document.write("<div>Your Answer to the sentence above:</div><crowd-text-area name="+idi+"></crowd-text-area><div  style=\"color:blue\">vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</div>");
         }
+        window.onbeforeunload = function (e) {
+            return 'Nothing will be saved if you leave';
+        }
     </script>
 
         <short-instructions>
