@@ -8,6 +8,7 @@ var idnumber = prompt("Please enter your assigned number", "1");
     <p style="color:red">Warning: Do not proceed until you have carefully read the full instructions on the left! </p>
 
     <script>
+         window.onbeforeunload = function(){return "Nothing will be saved if you leave";};
         var idint = parseInt(idnumber) * 100 + 1;
         for(i=0;i<100;i++){
         var idi = idint + i;
@@ -15,9 +16,6 @@ var idnumber = prompt("Please enter your assigned number", "1");
         document.write("<div  style=\"color:blue\">^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</div><div><object id=\"d"+i+"\" data=\"myfile.txt\"></object></div>");
         document.getElementById("d"+i).data = "VBThematic/"+idi+".txt";
         document.write("<div>Your Answer to the sentence above:</div><crowd-text-area name="+idi+"></crowd-text-area><div  style=\"color:blue\">vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</div>");
-        }
-        window.onbeforeunload = function (e) {
-            return 'Nothing will be saved if you leave';
         }
     </script>
 
